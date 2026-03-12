@@ -468,6 +468,8 @@ function buildTreemapGrid(stories) {
   grid.style.gridTemplateRows    = '1fr 1fr';
   grid.innerHTML = '';
 
+  const maxMentions = Math.max(...stories.map(s => s.mentions || 1));
+
   const top5 = stories.slice(0,5);
   const bot4 = stories.slice(5,9);
 
@@ -485,7 +487,7 @@ function buildTreemapGrid(stories) {
       span = Math.min(span, 10 - topUsed - (top5.length - 1 - i));
     }
     topUsed += span;
-    grid.appendChild(buildCard(story, i, span, topCol, 1));
+    grid.appendChild(buildCard(story, i, span, topCol, 1, maxMentions));
     topCol += span;
   });
 
@@ -502,7 +504,7 @@ function buildTreemapGrid(stories) {
       span = Math.min(span, storyBudget - botUsed - (bot4.length - 1 - i));
     }
     botUsed += span;
-    grid.appendChild(buildCard(story, i+5, span, botCol, 2));
+    grid.appendChild(buildCard(story, i+5, span, botCol, 2, maxMentions));
     botCol += span;
   });
 
@@ -511,11 +513,12 @@ function buildTreemapGrid(stories) {
   grid.appendChild(buildImageCard(remaining, botCol, 2));
 }
 
-function buildCard(story, index, colSpan, colStart, rowStart) {
+function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   const card = document.createElement('div');
   card.className = 'card';
   card.style.gridColumn = `${colStart} / span ${colSpan}`;
   card.style.gridRow    = `${rowStart} / span 1`;
+  card._maxMentions     = maxMentions || 1;
 
   const rank     = ROMAN[index] || String(index+1);
   const regions  = story.regions
@@ -545,7 +548,8 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
 
   card.addEventListener('click', () => card.classList.toggle('flipped'));
 
-  // Font size driven by rank — top stories bigger, lower stories smaller
+  // Font size fully dynamic — driven by mention count, same signal as card size
+  // We pass maxMentions so font scales relative to the top story
   requestAnimationFrame(() => {
     const front    = card.querySelector('.card-front');
     const headline = card.querySelector('.card-headline');
@@ -553,8 +557,12 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
     const foot     = card.querySelector('.card-foot');
     if (!front || !headline) return;
 
-    // Rank-based target font size: index 0 = 26px, index 9 = 12px
-    const targetSize = Math.round(26 - (index * 1.4));
+    // Scale font proportionally: top story (maxMentions) gets 28px, min is 11px
+    const mentions    = story.mentions || 1;
+    const max         = card._maxMentions || mentions;
+    const ratio       = mentions / max;
+    const targetSize  = Math.round(11 + ratio * 17); // 11–28px range
+
     headline.style.fontSize = targetSize + 'px';
 
     const availH = front.clientHeight
