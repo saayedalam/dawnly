@@ -1,0 +1,288 @@
+{
+  "published_at": "2026-03-12T02:04:47.835932+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran war live: Oil tankers hit in Iraq, Tehran sets 3 conditions for peace",
+      "summary": "Iran war live: Oil tankers hit in Iraq, Tehran sets 3 conditions for peace. IEA releases record oil reserves to counter Iran war energy shock.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/3/12/iran-war-live-oil-tankers-hit-in-iraq-tehran-sets-3-conditions-for-peace?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-others-partially-release-oil-reserves-amid-iran-war/a-76303731?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Qatar",
+        "UK"
+      ],
+      "score": 58.8,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Trump: ‘I don’t know’ about report US at fault in school strike",
+      "summary": "Trump: ‘I don’t know’ about report US at fault in school strike. How Trump has addressed the deadly Iran school bombing.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/trump-i-dont-know-about-report-us-at-fault-in-school-strike?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/11/iran-war-missile-strike-elementary-school"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-school-hegseth"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Canada",
+        "Pakistan",
+        "Qatar",
+        "UK",
+        "US"
+      ],
+      "score": 48.0,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
+      "summary": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show. New files show British PM warned of ‘reputed risks’ with Mandelson.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/11/new-files-show-british-pm-warned-of-reputational-risks-with-mandelson?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/mar/11/starmer-overruled-warning-of-reputational-risk-over-mandelson-appointment-files-show"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Qatar",
+        "UK",
+        "US"
+      ],
+      "score": 31.0,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "UN Security Council adopts Gulf countries’ draft resolution",
+      "summary": "UN Security Council adopts Gulf countries’ draft resolution. UN’s failure to stop Iranian attacks sending ‘dangerous signal’: Qatar. UN Security Council demands Iran halt attacks on Gulf states.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3346278/un-security-council-demands-iran-halt-attacks-gulf-states?utm_source=rss_feed"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1981123/unsc-adopts-resolution-against-irans-attacks-on-gulf-nations-tehran-decries-blatant-misuse-of-security-council"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Qatar"
+      ],
+      "score": 16.4,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Two killed as tornadoes sweep across US Midwest in latest extreme weather",
+      "summary": "Two killed as tornadoes sweep across US Midwest in latest extreme weather. At Least 2 Killed as Tornadoes Hit Illinois and Indiana US tornadoes leave at least two people dead.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/11/us/kankakee-illinois-indiana-tornadoes-storms.html"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/us-tornadoes-leave-at-least-two-people-dead-20260312-p5o9ol.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Canada",
+        "Qatar",
+        "US"
+      ],
+      "score": 12.4,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
+      "summary": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo. Three brothers with Iraq links arrested for ‘terrorist bombing’ of US embassy.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/11/three-brothers-arrested-in-norway-over-bomb-attack-on-us-embassy-in-oslo?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/11/three-norwegian-brothers-arrested-us-embassy-blast-oslo"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3346274/3-brothers-iraq-links-arrested-terrorist-bombing-us-embassy-norway?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "Pakistan",
+        "Qatar",
+        "UK"
+      ],
+      "score": 12.4,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Asia’s energy-reliant economies face ‘existential threat’ from prolonged Iran war",
+      "summary": "Asia’s energy-reliant economies face ‘existential threat’ from prolonged Iran war.",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/economics/article/3346262/asias-energy-reliant-economies-face-existential-threat-prolonged-iran-war?utm_source=rss_feed"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/03/asias-energy-triage-amid-the-iran-war/"
+        },
+        {
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/03/10/singapore-thailand-iran-war-natural-gas/"
+        }
+      ],
+      "regions": [
+        "Asia-Pacific",
+        "Global",
+        "Hong Kong"
+      ],
+      "score": 11.7,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Israel bombards Beirut suburbs and southern Lebanon as conflict with Hezbollah escalates",
+      "summary": "Israel bombards Beirut suburbs and southern Lebanon as conflict with Hezbollah escalates. Hezbollah claims attack on Israeli intelligence base. Hezbollah says it fired rockets at 5 Israeli bases.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/12/israel-bombards-beirut-southern-lebanon-hezbollah"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-attack-israeli-intelligence-base"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/israel-pummels-hezbollah-at-growing-cost-in-civilian-lives-20260311-p5o9ad.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Middle East",
+        "UK"
+      ],
+      "score": 8.4,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
+      "summary": "Iran escalates attacks on infrastructure and transport networks across the Gulf. US military warns civilians to avoid port facilities used by Iranian navy.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/11/iran-escalates-attacks-on-infrastructure-and-transport-networks-across-the-gulf"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3346273/us-military-warns-civilians-avoid-port-facilities-used-iranian-navy?utm_source=rss_feed"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-regional-ports-could-become-targets-if-its-facilities-are"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "UK"
+      ],
+      "score": 8.4,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Six die in Swiss bus fire after man thought to have set himself alight",
+      "summary": "Six die in Swiss bus fire after man thought to have set himself alight. Swiss police probe if deadly bus fire was 'deliberate act'",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/11/six-die-in-swiss-bus-fire-after-man-thought-to-have-set-himself-alight?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/swiss-police-probe-if-deadly-bus-fire-was-deliberate-act/a-76298422?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/11/swiss-bus-fire-police-investigating-rule-out-terrorist-motive-for-now"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Qatar",
+        "UK"
+      ],
+      "score": 8.1,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
