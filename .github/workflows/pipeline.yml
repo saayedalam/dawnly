@@ -1,0 +1,47 @@
+name: Dawnly Daily Pipeline
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 6AM EST = 11AM UTC
+  workflow_dispatch:       # allows manual trigger from GitHub UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Cache HuggingFace models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-hf-models-v1
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Dawnly pipeline
+        run: python3 publish.py
+
+      - name: Commit and push top10.json
+        run: |
+          git config user.name  "Dawnly Bot"
+          git config user.email "bot@dawnly.news"
+          git add top10.json
+          git diff --staged --quiet || git commit -m "Daily update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

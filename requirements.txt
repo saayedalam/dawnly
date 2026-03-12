@@ -1,0 +1,9 @@
+feedparser
+aiohttp
+python-dotenv
+sentence-transformers
+scikit-learn
+numpy
+transformers
+torch
+anthropic
