@@ -545,7 +545,7 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
 
   card.addEventListener('click', () => card.classList.toggle('flipped'));
 
-  // After card is in DOM, scale headline to fill available space
+  // Font size driven by rank — top stories bigger, lower stories smaller
   requestAnimationFrame(() => {
     const front    = card.querySelector('.card-front');
     const headline = card.querySelector('.card-headline');
@@ -553,28 +553,20 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
     const foot     = card.querySelector('.card-foot');
     if (!front || !headline) return;
 
+    // Rank-based target font size: index 0 = 26px, index 9 = 12px
+    const targetSize = Math.round(26 - (index * 1.4));
+    headline.style.fontSize = targetSize + 'px';
+
     const availH = front.clientHeight
                  - (num  ? num.offsetHeight  + 4 : 0)
                  - (foot ? foot.offsetHeight + 5 : 0)
-                 - 24; // padding
+                 - 24;
 
-    // Binary search for the largest font size that fits
-    let lo = 10, hi = 72, best = lo;
-    while (lo <= hi) {
-      const mid = Math.floor((lo + hi) / 2);
-      headline.style.fontSize  = mid + 'px';
-      headline.style.webkitLineClamp = '99';
-      if (headline.scrollHeight <= availH) { best = mid; lo = mid + 1; }
-      else { hi = mid - 1; }
-    }
-    headline.style.fontSize        = best + 'px';
-    headline.style.webkitLineClamp = '';
+    const lineH = targetSize * 1.35;
+    const lines = Math.max(1, Math.floor(availH / lineH));
     headline.style.overflow        = 'hidden';
     headline.style.display         = '-webkit-box';
     headline.style.webkitBoxOrient = 'vertical';
-    // clamp to how many lines fit
-    const lineH = best * 1.35;
-    const lines = Math.max(1, Math.floor(availH / lineH));
     headline.style.webkitLineClamp = String(lines);
   });
 
