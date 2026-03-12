@@ -12,488 +12,299 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --paper:     #f5f0e4;
-      --paper-alt: #ede6d4;
-      --ink:       #1a1408;
-      --ink-mid:   #2a2410;
-      --ink-light: #a89870;
-      --ink-muted: #c8bfaa;
-      --amber:     #c8820a;
-      --border:    rgba(42,36,16,0.18);
+      --ink-1:  #1a1408;
+      --ink-2:  #5a5040;
+      --ink-3:  #9a8a70;
+      --amber:  #c8820a;
+      --paper:  #f5f0e4;
+      --paper-2:#ede6d4;
+      --border: rgba(42,36,16,0.15);
     }
 
-    html { scroll-behavior: smooth; }
+    html, body { height: 100%; overflow: hidden; background: #e8e0cc; }
 
-    body {
-      background: #e8e0cc;
-      font-family: 'Cormorant Garamond', Georgia, serif;
-      color: var(--ink);
-      min-height: 100vh;
-    }
+    body { font-family: 'Cormorant Garamond', Georgia, serif; color: var(--ink-1); }
 
-    /* ── WRAPPER ── */
     .np {
-      max-width: 900px;
-      margin: 0 auto;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
       background: var(--paper);
-      border-left: 1px solid var(--ink-muted);
-      border-right: 1px solid var(--ink-muted);
-      min-height: 100vh;
+      overflow: hidden;
     }
 
-    /* ── HERO ── */
     .hero {
       position: relative;
       overflow: hidden;
       text-align: center;
+      flex-shrink: 0;
     }
 
-    .hero.morning   { background: linear-gradient(180deg, rgba(255,210,120,0.18) 0%, rgba(252,240,215,0.08) 65%, var(--paper) 100%); }
-    .hero.afternoon { background: linear-gradient(180deg, rgba(170,215,245,0.14) 0%, rgba(210,232,248,0.06) 65%, var(--paper) 100%); }
-    .hero.evening   { background: linear-gradient(180deg, rgba(225,130,50,0.18) 0%, rgba(242,190,120,0.08) 65%, var(--paper) 100%); }
-    .hero.night     { background: linear-gradient(180deg, rgba(10,15,35,0.95) 0%, rgba(18,28,58,0.65) 58%, var(--paper) 100%); }
+    .hero.morning   { background: linear-gradient(180deg,rgba(255,210,120,0.18) 0%,rgba(252,240,215,0.08) 65%,var(--paper) 100%); }
+    .hero.afternoon { background: linear-gradient(180deg,rgba(170,215,245,0.14) 0%,rgba(210,232,248,0.06) 65%,var(--paper) 100%); }
+    .hero.evening   { background: linear-gradient(180deg,rgba(225,130,50,0.18) 0%,rgba(242,190,120,0.08) 65%,var(--paper) 100%); }
+    .hero.night     { background: linear-gradient(180deg,rgba(10,15,35,0.95) 0%,rgba(18,28,58,0.65) 58%,var(--paper) 100%); }
 
     .sky { position: absolute; inset: 0; pointer-events: none; opacity: 0.5; }
 
-    /* ── META BAR ── */
     .meta-bar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 14px 28px 12px;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px 24px 8px;
       border-bottom: 1px solid var(--border);
-      position: relative;
-      z-index: 2;
+      position: relative; z-index: 2;
     }
 
     .meta-label {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 300;
-      letter-spacing: 2.5px;
-      text-transform: uppercase;
-      color: var(--ink-light);
+      font-family: 'Jost', sans-serif; font-size: 9px; font-weight: 400;
+      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
     }
 
     .meta-domain {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 300;
-      letter-spacing: 2.5px;
-      text-transform: uppercase;
-      color: var(--ink-muted);
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
+      font-family: 'Jost', sans-serif; font-size: 9px; font-weight: 400;
+      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
+      position: absolute; left: 50%; transform: translateX(-50%);
     }
 
     .hero.night .meta-label,
-    .hero.night .meta-domain { color: rgba(255,255,255,0.3); }
+    .hero.night .meta-domain { color: rgba(255,255,255,0.5); }
 
-    /* ── LOGO BLOCK ── */
     .logo-block {
-      position: relative;
-      z-index: 2;
-      padding: 20px 28px 0;
-      border-bottom: 3px double rgba(42,36,16,0.5);
+      position: relative; z-index: 2;
+      padding: 10px 24px 0;
+      border-bottom: 3px double rgba(42,36,16,0.4);
     }
 
     .hero.night .logo-block { border-bottom-color: rgba(255,255,255,0.2); }
 
-    .logo-icon {
-      width: 110px;
-      height: 90px;
-      margin: 0 auto 6px;
-      display: block;
+    .logo-icon { width: 80px; height: 66px; margin: 0 auto 4px; display: block; }
+
+    .ray {
+      animation: ray-pulse 3s ease-in-out infinite;
+    }
+
+    .ray:nth-child(1) { animation-delay: 0.0s; }
+    .ray:nth-child(2) { animation-delay: 0.3s; }
+    .ray:nth-child(3) { animation-delay: 0.6s; }
+    .ray:nth-child(4) { animation-delay: 0.9s; }
+    .ray:nth-child(5) { animation-delay: 1.2s; }
+    .ray:nth-child(6) { animation-delay: 1.5s; }
+    .ray:nth-child(7) { animation-delay: 1.8s; }
+    .ray:nth-child(8) { animation-delay: 0.15s; }
+
+    @keyframes ray-pulse {
+      0%,100% { opacity: 0.35; }
+      50%      { opacity: 1.0;  }
+    }
+
+    #sun-body { animation: sun-glow 3s ease-in-out infinite; }
+
+    @keyframes sun-glow {
+      0%,100% { opacity: 0.55; }
+      50%      { opacity: 1.0;  }
     }
 
     .logo-wordmark {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 62px;
-      font-weight: 700;
-      color: var(--ink);
-      letter-spacing: 2px;
-      line-height: 1;
-      display: block;
+      font-size: 52px; font-weight: 700; color: var(--ink-1);
+      letter-spacing: 2px; line-height: 1; display: block;
     }
 
     .hero.night .logo-wordmark { color: #f0e8d4; }
 
     .logo-tagline {
-      font-family: 'Jost', sans-serif;
-      font-size: 9.5px;
-      font-weight: 300;
-      color: var(--ink-light);
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      display: block;
-      padding: 10px 0 14px;
-      min-height: 36px;
+      font-family: 'Jost', sans-serif; font-size: 8.5px; font-weight: 400;
+      color: var(--ink-2); letter-spacing: 3px; text-transform: uppercase;
+      display: block; padding: 7px 0 10px; min-height: 28px;
     }
 
-    .hero.night .logo-tagline { color: rgba(255,255,255,0.3); }
+    .hero.night .logo-tagline { color: rgba(255,255,255,0.5); }
 
-    /* ── TICKER ── */
     .ticker-wrap {
-      overflow: hidden;
-      padding: 5px 0;
+      overflow: hidden; padding: 4px 0;
       border-bottom: 2px solid var(--border);
-      position: relative;
-      z-index: 2;
-      background: rgba(42,36,16,0.03);
+      position: relative; z-index: 2;
+      background: rgba(42,36,16,0.03); flex-shrink: 0;
     }
 
-    .hero.night .ticker-wrap {
-      background: rgba(255,255,255,0.03);
-      border-bottom-color: rgba(255,255,255,0.1);
-    }
+    .hero.night .ticker-wrap { background: rgba(255,255,255,0.03); border-bottom-color: rgba(255,255,255,0.1); }
 
     .ticker-track {
-      display: flex;
-      white-space: nowrap;
-      animation: ticker 55s linear infinite;
-      will-change: transform;
+      display: flex; white-space: nowrap;
+      animation: ticker 60s linear infinite; will-change: transform;
     }
 
     .ticker-item {
-      font-family: 'Jost', sans-serif;
-      font-size: 8.5px;
-      font-weight: 300;
-      letter-spacing: 2.5px;
-      text-transform: uppercase;
-      color: #b8a880;
-      padding: 0 22px;
-      flex-shrink: 0;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
+      padding: 0 20px; flex-shrink: 0;
     }
 
-    .hero.night .ticker-item { color: rgba(255,255,255,0.18); }
-    .ticker-dot { color: var(--ink-muted); margin: 0 2px; }
+    .hero.night .ticker-item { color: rgba(255,255,255,0.4); }
+    .ticker-dot { color: var(--ink-3); margin: 0 2px; }
 
-    @keyframes ticker {
-      0%   { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
+    @keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+
+    .content {
+      flex: 1; display: flex; flex-direction: column;
+      padding: 0 20px 10px; min-height: 0;
     }
-
-    /* ── CONTENT ── */
-    .content { padding: 0 28px 32px; }
 
     .section-rule {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      margin: 18px 0;
+      display: flex; align-items: center; gap: 12px;
+      margin: 8px 0; flex-shrink: 0;
     }
 
-    .sr-line { flex: 1; height: 1px; background: var(--ink-mid); }
+    .sr-line { flex: 1; height: 1px; background: var(--ink-1); }
 
     .sr-text {
-      font-family: 'Jost', sans-serif;
-      font-size: 8.5px;
-      font-weight: 400;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      color: var(--ink-mid);
-      white-space: nowrap;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 500;
+      letter-spacing: 3px; text-transform: uppercase; color: var(--ink-1); white-space: nowrap;
     }
 
-    /* ── GRID ── */
     .grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1px;
-      background: var(--ink-muted);
-      border: 1px solid var(--ink-muted);
-      margin-bottom: 24px;
+      flex: 1; display: grid; gap: 1px;
+      background: rgba(42,36,16,0.2);
+      border: 1px solid rgba(42,36,16,0.2);
+      min-height: 0;
     }
 
-    /* ── CARD ── */
-    .card {
-      background: var(--paper);
-      cursor: pointer;
-      height: 200px;
-    }
+    .card { background: var(--paper); cursor: pointer; overflow: hidden; position: relative; }
 
     .card-inner {
-      position: relative;
-      width: 100%;
-      height: 100%;
+      position: relative; width: 100%; height: 100%;
       transition: transform 0.5s cubic-bezier(0.4,0.2,0.2,1);
-      transform-style: preserve-3d;
-      perspective: 1000px;
+      transform-style: preserve-3d; perspective: 1000px;
     }
 
     .card.flipped .card-inner { transform: rotateY(180deg); }
 
-    .card-front,
-    .card-back {
-      position: absolute;
-      inset: 0;
-      padding: 13px 12px;
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
-      background: var(--paper);
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
+    .card-front, .card-back {
+      position: absolute; inset: 0; padding: 12px 11px;
+      backface-visibility: hidden; -webkit-backface-visibility: hidden;
+      background: var(--paper); overflow: hidden;
+      display: flex; flex-direction: column;
     }
 
-    .card-back {
-      transform: rotateY(180deg);
-      background: var(--paper-alt);
-      justify-content: space-between;
-    }
+    .card-back { transform: rotateY(180deg); background: var(--paper-2); justify-content: space-between; }
 
     .card-num {
-      font-family: 'Jost', sans-serif;
-      font-size: 8.5px;
-      font-weight: 300;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: #ccc;
-      margin-bottom: 5px;
-      flex-shrink: 0;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 500;
+      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-3);
+      margin-bottom: 4px; flex-shrink: 0;
     }
 
     .card:nth-child(1) .card-num,
-    .card:nth-child(2) .card-num { color: var(--ink-mid); }
+    .card:nth-child(2) .card-num { color: var(--ink-1); }
 
     .card-headline {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 13.5px;
-      font-weight: 600;
-      color: var(--ink);
-      line-height: 1.45;
-      flex: 1;
-      overflow: hidden;
-      display: -webkit-box;
-      -webkit-line-clamp: 5;
-      -webkit-box-orient: vertical;
+      font-weight: 700; color: var(--ink-1); line-height: 1.35;
+      flex: 1; overflow: hidden;
+      display: -webkit-box; -webkit-box-orient: vertical;
     }
 
-    .card:nth-child(1) .card-headline { font-size: 15px; }
-    .card:nth-child(2) .card-headline { font-size: 14px; }
-
     .card-foot {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 6px;
-      flex-shrink: 0;
+      display: flex; justify-content: space-between; align-items: center;
+      margin-top: 5px; flex-shrink: 0;
     }
 
     .card-regions {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: #ccc;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-3);
     }
 
     .card-hint {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-      color: #ddd;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 1px; text-transform: uppercase; color: var(--ink-3);
     }
 
     .back-summary {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 12px;
-      font-weight: 400;
-      font-style: italic;
-      color: var(--ink-mid);
-      line-height: 1.55;
-      flex: 1;
-      overflow: hidden;
-      display: -webkit-box;
-      -webkit-line-clamp: 4;
-      -webkit-box-orient: vertical;
+      font-size: 13px; font-weight: 400; font-style: italic;
+      color: var(--ink-1); line-height: 1.5; flex: 1; overflow: hidden;
+      display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical;
       margin-bottom: 8px;
     }
 
-    .back-sources {
-      display: flex;
-      flex-direction: column;
-      gap: 3px;
-      flex-shrink: 0;
-    }
+    .back-sources { display: flex; flex-direction: column; gap: 3px; flex-shrink: 0; }
 
     .back-source {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: #888;
-      text-decoration: none;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-2);
+      text-decoration: none; display: flex; align-items: center; gap: 5px;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
     }
 
-    .back-source:hover { color: var(--ink); }
-
-    .back-dot {
-      width: 2px;
-      height: 2px;
-      border-radius: 50%;
-      background: #bbb;
-      flex-shrink: 0;
-    }
+    .back-source:hover { color: var(--ink-1); }
+    .back-dot { width: 2px; height: 2px; border-radius: 50%; background: var(--ink-3); flex-shrink: 0; }
 
     .back-hint {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-      color: #ccc;
-      text-align: right;
-      margin-top: 5px;
-      flex-shrink: 0;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 1px; text-transform: uppercase; color: var(--ink-3);
+      text-align: right; margin-top: 5px; flex-shrink: 0;
     }
 
-    /* ── IMAGE CARD ── */
-    .img-card {
-      background: var(--ink-mid);
-      grid-column: span 2;
-      height: 200px;
-      overflow: hidden;
-      position: relative;
-      cursor: default;
-    }
-
-    .img-card img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      opacity: 0.78;
-    }
+    .img-card { background: #2a2410; overflow: hidden; position: relative; cursor: default; }
+    .img-card img { width: 100%; height: 100%; object-fit: cover; opacity: 0.78; }
 
     .img-caption {
-      position: absolute;
-      bottom: 0; left: 0; right: 0;
-      padding: 8px 12px;
-      background: linear-gradient(0deg, rgba(0,0,0,0.45) 0%, transparent 100%);
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.45);
+      position: absolute; bottom: 0; left: 0; right: 0; padding: 8px 12px;
+      background: linear-gradient(0deg,rgba(0,0,0,0.5) 0%,transparent 100%);
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6);
     }
 
-    /* ── LOADING STATE ── */
     .loading {
-      grid-column: span 3;
-      height: 200px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 300;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      color: var(--ink-muted);
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Jost', sans-serif; font-size: 9px; font-weight: 400;
+      letter-spacing: 3px; text-transform: uppercase; color: var(--ink-3); height: 100%;
     }
 
-    /* ── FOOTER ── */
     .footer {
-      border-top: 1px solid rgba(42,36,16,0.3);
-      padding-top: 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
+      border-top: 1px solid rgba(42,36,16,0.25);
+      padding: 6px 0 0; display: flex; justify-content: space-between;
+      align-items: center; flex-shrink: 0;
     }
 
     .footer-left {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: #b8a880;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-2);
     }
 
-    /* ── RESET BADGE ── */
-    .reset-badge {
-      width: 72px;
-      height: 26px;
-      cursor: default;
-      perspective: 500px;
-    }
+    .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
 
     .reset-inner {
-      width: 100%;
-      height: 100%;
-      position: relative;
-      transform-style: preserve-3d;
-      transition: transform 0.4s ease;
+      width: 100%; height: 100%; position: relative;
+      transform-style: preserve-3d; transition: transform 0.4s ease;
     }
 
     .reset-badge:hover .reset-inner { transform: rotateX(180deg); }
 
-    .reset-front,
-    .reset-back {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
+    .reset-front, .reset-back {
+      position: absolute; inset: 0;
+      display: flex; align-items: center; justify-content: center;
+      backface-visibility: hidden; -webkit-backface-visibility: hidden;
     }
 
     .reset-back { transform: rotateX(180deg); }
 
     .reset-front span {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 300;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: #b0a080;
-      border-bottom: 1px solid var(--ink-muted);
-      padding-bottom: 1px;
+      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
+      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
+      border-bottom: 1px solid var(--ink-3); padding-bottom: 1px;
     }
 
     .reset-back span {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--ink-mid);
-      letter-spacing: 1px;
-      white-space: nowrap;
-    }
-
-    /* ── RESPONSIVE ── */
-    @media (max-width: 640px) {
-      .grid { grid-template-columns: repeat(2, 1fr); }
-      .img-card { grid-column: span 2; }
-      .logo-wordmark { font-size: 48px; }
-      .meta-domain { display: none; }
-      .content { padding: 0 16px 24px; }
-      .meta-bar { padding: 12px 16px; }
-      .logo-block { padding: 16px 16px 0; }
-    }
-
-    @media (max-width: 420px) {
-      .grid { grid-template-columns: 1fr; }
-      .img-card { grid-column: span 1; }
+      font-size: 14px; font-weight: 600; color: var(--ink-1);
+      letter-spacing: 1px; white-space: nowrap;
     }
   </style>
 </head>
 <body>
 <div class="np">
 
-  <!-- HERO -->
   <div class="hero" id="hero">
     <canvas class="sky" id="sky"></canvas>
 
@@ -505,36 +316,29 @@
 
     <div class="logo-block">
       <svg class="logo-icon" viewBox="0 0 110 90" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <!-- Sun rays -->
-        <line x1="55" y1="2"  x2="55" y2="12" stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="78" y1="8"  x2="73" y2="16" stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="95" y1="24" x2="87" y2="28" stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="32" y1="8"  x2="37" y2="16" stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="15" y1="24" x2="23" y2="28" stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="100" y1="44" x2="91" y2="44" stroke="#c8820a" stroke-width="1.5" stroke-linecap="round" class="ray"/>
-        <line x1="10"  y1="44" x2="19" y2="44" stroke="#c8820a" stroke-width="1.5" stroke-linecap="round" class="ray"/>
-        <!-- Sun body -->
+        <line x1="55" y1="2"   x2="55" y2="14"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
+        <line x1="80" y1="7"   x2="74" y2="17"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
+        <line x1="98" y1="22"  x2="89" y2="27"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
+        <line x1="30" y1="7"   x2="36" y2="17"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
+        <line x1="12" y1="22"  x2="21" y2="27"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
+        <line x1="104" y1="44" x2="93" y2="44"  stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
+        <line x1="6"   y1="44" x2="17" y2="44"  stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
         <path d="M30 52 Q30 28 55 28 Q80 28 80 52" fill="#e8a020" opacity="0.9" id="sun-body"/>
         <path d="M30 52 Q30 28 55 28 Q80 28 80 52" fill="none" stroke="#c8820a" stroke-width="1.5" class="ray"/>
-        <!-- Open newspaper -->
         <rect x="8"  y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
         <rect x="60" y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
         <line x1="55" y1="50" x2="55" y2="80" stroke="#2a2410" stroke-width="1.5"/>
-        <!-- Left page lines -->
-        <line x1="14" y1="57" x2="44" y2="57" stroke="#c8bfaa" stroke-width="1"/>
-        <line x1="14" y1="62" x2="44" y2="62" stroke="#c8bfaa" stroke-width="1"/>
-        <line x1="14" y1="67" x2="44" y2="67" stroke="#c8bfaa" stroke-width="1"/>
-        <line x1="14" y1="72" x2="36" y2="72" stroke="#c8bfaa" stroke-width="1"/>
-        <!-- Right page lines -->
-        <line x1="66" y1="57" x2="96" y2="57" stroke="#c8bfaa" stroke-width="1"/>
-        <line x1="66" y1="62" x2="96" y2="62" stroke="#c8bfaa" stroke-width="1"/>
-        <line x1="66" y1="67" x2="96" y2="67" stroke="#c8bfaa" stroke-width="1"/>
-        <line x1="66" y1="72" x2="88" y2="72" stroke="#c8bfaa" stroke-width="1"/>
-        <!-- Book curves -->
+        <line x1="14" y1="57" x2="44" y2="57" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="14" y1="62" x2="44" y2="62" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="14" y1="67" x2="44" y2="67" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="14" y1="72" x2="36" y2="72" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="66" y1="57" x2="96" y2="57" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="66" y1="62" x2="96" y2="62" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="66" y1="67" x2="96" y2="67" stroke="#9a8a70" stroke-width="0.8"/>
+        <line x1="66" y1="72" x2="88" y2="72" stroke="#9a8a70" stroke-width="0.8"/>
         <path d="M8  80 Q55 88 102 80" stroke="#2a2410" stroke-width="1.5" fill="none"/>
         <path d="M8  50 Q55 44 102 50" stroke="#2a2410" stroke-width="1.5" fill="none"/>
       </svg>
-
       <span class="logo-wordmark">Dawnly</span>
       <span class="logo-tagline" id="tagline"></span>
     </div>
@@ -544,16 +348,15 @@
     </div>
   </div>
 
-  <!-- CONTENT -->
   <div class="content">
     <div class="section-rule">
       <div class="sr-line"></div>
-      <div class="sr-text" id="section-label">Today's Ten Stories</div>
+      <div class="sr-text">Today's Ten Stories</div>
       <div class="sr-line"></div>
     </div>
 
     <div class="grid" id="grid">
-      <div class="loading">Loading today's edition...</div>
+      <div class="loading" style="grid-column:1/-1">Loading today's edition...</div>
     </div>
 
     <div class="footer">
@@ -568,231 +371,242 @@
   </div>
 
 </div>
-
 <script>
-  const TAGLINES = [
-    "The Morning Paper, Rebuilt For Today",
-    "Once A Day. Just Like It Used To Be.",
-    "Your Daily Paper. Nothing In Between.",
-    "The News, The Way It Used To Feel.",
-    "One Edition. Every Morning.",
-    "Read It. Put It Down. Live Your Day.",
-    "The Paper Lands Once."
-  ];
+const TAGLINES = [
+  "The Morning Paper, Rebuilt For Today",
+  "Once A Day. Just Like It Used To Be.",
+  "Your Daily Paper. Nothing In Between.",
+  "The News, The Way It Used To Feel.",
+  "One Edition. Every Morning.",
+  "Read It. Put It Down. Live Your Day.",
+  "The Paper Lands Once."
+];
 
-  const ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X"];
+const ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X"];
 
-  const ATM_KEYWORDS = [
-    "dawn atmospheric",
-    "misty morning landscape",
-    "golden hour nature",
-    "calm sunrise fog",
-    "night sky stars"
-  ];
+function getDailyTagline() {
+  const now = new Date();
+  const day = Math.floor((now - new Date(now.getFullYear(),0,0)) / 86400000);
+  return TAGLINES[day % TAGLINES.length];
+}
 
-  // ── Helpers ──────────────────────────────────────────────────────────────
+function getCountdown() {
+  const now = new Date(), reset = new Date();
+  reset.setHours(11,0,0,0);
+  if (now >= reset) reset.setDate(reset.getDate()+1);
+  const diff = reset - now;
+  return `${Math.floor(diff/3600000)}h ${Math.floor((diff%3600000)/60000)}m`;
+}
 
-  function getDailyTagline() {
-    const now = new Date();
-    const day = Math.floor((now - new Date(now.getFullYear(),0,0)) / 86400000);
-    return TAGLINES[day % TAGLINES.length];
-  }
+function formatDate(iso) {
+  return new Date(iso).toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+}
 
-  function getCountdown() {
-    const now   = new Date();
-    const reset = new Date();
-    reset.setHours(11, 0, 0, 0);
-    if (now >= reset) reset.setDate(reset.getDate() + 1);
-    const diff = reset - now;
-    const h    = Math.floor(diff / 3600000);
-    const m    = Math.floor((diff % 3600000) / 60000);
-    return `${h}h ${m}m`;
-  }
+function formatDisplayDate() {
+  return new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+}
 
-  function formatDate(iso) {
-    const d = new Date(iso);
-    return d.toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
-  }
+function setTimeOfDay() {
+  const hour = new Date().getHours();
+  const hero = document.getElementById('hero');
+  const canvas = document.getElementById('sky');
+  const ctx = canvas.getContext('2d');
+  const rays = document.querySelectorAll('.ray');
+  const sunB = document.getElementById('sun-body');
 
-  function formatDisplayDate() {
-    return new Date().toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
-  }
+  hero.classList.remove('morning','afternoon','evening','night');
 
-  // ── Sky animation ────────────────────────────────────────────────────────
+  setTimeout(() => {
+    canvas.width  = canvas.offsetWidth  || 900;
+    canvas.height = canvas.offsetHeight || 200;
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    const w = canvas.width, h = canvas.height;
+    let rayColor = '#c8820a', sunFill = '#e8a020';
 
-  function setTimeOfDay() {
-    const hour   = new Date().getHours();
-    const hero   = document.getElementById('hero');
-    const canvas = document.getElementById('sky');
-    const ctx    = canvas.getContext('2d');
-    const rays   = document.querySelectorAll('.ray');
-    const sunB   = document.getElementById('sun-body');
-
-    hero.classList.remove('morning','afternoon','evening','night');
-
-    setTimeout(() => {
-      canvas.width  = canvas.offsetWidth  || 900;
-      canvas.height = canvas.offsetHeight || 260;
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      const w = canvas.width, h = canvas.height;
-      let rayColor = '#c8820a', sunFill = '#e8a020';
-
-      if (hour >= 5 && hour < 12) {
-        hero.classList.add('morning');
-        const g = ctx.createRadialGradient(w*.5,h*.25,5,w*.5,h*.25,100);
-        g.addColorStop(0,'rgba(255,195,70,0.14)');
-        g.addColorStop(1,'rgba(255,195,70,0)');
-        ctx.fillStyle = g; ctx.fillRect(0,0,w,h);
-
-      } else if (hour >= 12 && hour < 17) {
-        hero.classList.add('afternoon');
-        rayColor = '#3a7090'; sunFill = '#60a8d0';
-        for (let i=0; i<4; i++) {
-          ctx.fillStyle = `rgba(255,255,255,${0.03+Math.random()*.04})`;
-          ctx.beginPath();
-          ctx.ellipse(Math.random()*w, 15+Math.random()*35, 55+Math.random()*70, 10+Math.random()*12, 0, 0, Math.PI*2);
-          ctx.fill();
-        }
-
-      } else if (hour >= 17 && hour < 21) {
-        hero.classList.add('evening');
-        rayColor = '#903020'; sunFill = '#d06030';
-        const g = ctx.createRadialGradient(w*.6,h*.85,5,w*.6,h*.85,110);
-        g.addColorStop(0,'rgba(210,110,30,0.15)');
-        g.addColorStop(1,'rgba(210,110,30,0)');
-        ctx.fillStyle = g; ctx.fillRect(0,0,w,h);
-
-      } else {
-        hero.classList.add('night');
-        rayColor = 'rgba(190,210,255,0.45)'; sunFill = 'rgba(180,200,255,0.2)';
-        for (let i=0; i<55; i++) {
-          const x=Math.random()*w, y=Math.random()*h*.8, r=.35+Math.random()*1.1, a=.18+Math.random()*.55;
-          ctx.fillStyle = `rgba(255,255,255,${a})`;
-          ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fill();
-        }
+    if (hour >= 5 && hour < 12) {
+      hero.classList.add('morning');
+      const g = ctx.createRadialGradient(w*.5,h*.3,5,w*.5,h*.3,100);
+      g.addColorStop(0,'rgba(255,195,70,0.14)'); g.addColorStop(1,'rgba(255,195,70,0)');
+      ctx.fillStyle=g; ctx.fillRect(0,0,w,h);
+    } else if (hour >= 12 && hour < 17) {
+      hero.classList.add('afternoon'); rayColor='#3a7090'; sunFill='#60a8d0';
+      for(let i=0;i<4;i++){
+        ctx.fillStyle=`rgba(255,255,255,${0.03+Math.random()*.04})`;
+        ctx.beginPath(); ctx.ellipse(Math.random()*w,15+Math.random()*35,55+Math.random()*70,10+Math.random()*12,0,0,Math.PI*2); ctx.fill();
       }
-
-      rays.forEach(r => r.setAttribute('stroke', rayColor));
-      if (sunB) sunB.setAttribute('fill', sunFill);
-    }, 80);
-  }
-
-  // ── Ticker ───────────────────────────────────────────────────────────────
-
-  function buildTicker(stories) {
-    const track    = document.getElementById('ticker');
-    const keywords = stories.length
-      ? stories.flatMap(s => s.headline.split(' ').slice(0,3).join(' ')).slice(0,16)
-      : ["Dawnly","World News","Today's Edition","Ten Stories","At Dawn"];
-    const items = [...keywords, ...keywords];
-    track.innerHTML = items.map(w =>
-      `<span class="ticker-item">${w}<span class="ticker-dot"> · </span></span>`
-    ).join('');
-  }
-
-  // ── Card builder ─────────────────────────────────────────────────────────
-
-  function buildCard(story, index) {
-    const card = document.createElement('div');
-    card.className = 'card';
-    const rank    = ROMAN[index] || String(index + 1);
-    const regions = story.regions ? `${story.diversity || story.regions} Regions` : '';
-    const sources = (story.sources || []).slice(0,3).map(s =>
-      `<a class="back-source" href="${s.link}" target="_blank" rel="noopener">
-         <span class="back-dot"></span>${s.name}
-       </a>`
-    ).join('');
-
-    card.innerHTML = `
-      <div class="card-inner">
-        <div class="card-front">
-          <div class="card-num">${rank}</div>
-          <div class="card-headline">${story.headline}</div>
-          <div class="card-foot">
-            <div class="card-regions">${regions}</div>
-            <div class="card-hint">Tap ↻</div>
-          </div>
-        </div>
-        <div class="card-back">
-          <div class="back-summary">${story.summary || story.headline}</div>
-          <div class="back-sources">${sources}</div>
-          <div class="back-hint">Tap ↻</div>
-        </div>
-      </div>`;
-
-    card.addEventListener('click', () => card.classList.toggle('flipped'));
-    return card;
-  }
-
-  function buildImageCard() {
-    const ic  = document.createElement('div');
-    ic.className = 'img-card';
-    const kw  = ATM_KEYWORDS[new Date().getDay() % ATM_KEYWORDS.length];
-    ic.innerHTML = `
-      <img src="https://source.unsplash.com/800x400/?${encodeURIComponent(kw)}"
-           alt="Photo of the day"
-           onerror="this.parentElement.style.background='#c8bfaa'"/>
-      <div class="img-caption">Photo Of The Day</div>`;
-    return ic;
-  }
-
-  // ── Load top10.json ───────────────────────────────────────────────────────
-
-  async function loadStories() {
-    const grid = document.getElementById('grid');
-
-    try {
-      const res  = await fetch('./top10.json');
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json();
-
-      const stories   = data.stories || [];
-      const pubDate   = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
-      const count     = data.story_count  || stories.length;
-
-      // Update meta
-      document.getElementById('date-label').textContent    = pubDate;
-      document.getElementById('footer-stats').textContent  =
-        `Algorithmically Ranked · ${data.story_count || count} Stories · ${pubDate}`;
-
-      // Edition number based on days since launch
-      const launch  = new Date('2026-03-12');
-      const today   = new Date();
-      const edition = Math.max(1, Math.floor((today - launch) / 86400000) + 1);
-      document.getElementById('edition-label').textContent = `Edition No. ${edition}`;
-
-      // Build ticker from real headlines
-      buildTicker(stories);
-
-      // Build grid
-      grid.innerHTML = '';
-      stories.forEach((story, i) => {
-        grid.appendChild(buildCard(story, i));
-        if (i === 8) grid.appendChild(buildImageCard());
-      });
-
-    } catch (err) {
-      console.error('Failed to load top10.json:', err);
-      grid.innerHTML = `
-        <div class="loading" style="grid-column:span 3">
-          Next edition arrives at 6AM EST
-        </div>`;
-      buildTicker([]);
+    } else if (hour >= 17 && hour < 21) {
+      hero.classList.add('evening'); rayColor='#903020'; sunFill='#d06030';
+      const g = ctx.createRadialGradient(w*.6,h*.85,5,w*.6,h*.85,100);
+      g.addColorStop(0,'rgba(210,110,30,0.15)'); g.addColorStop(1,'rgba(210,110,30,0)');
+      ctx.fillStyle=g; ctx.fillRect(0,0,w,h);
+    } else {
+      hero.classList.add('night'); rayColor='rgba(190,210,255,0.5)'; sunFill='rgba(180,200,255,0.25)';
+      for(let i=0;i<55;i++){
+        const x=Math.random()*w,y=Math.random()*h*.8,r=.35+Math.random()*1.1,a=.2+Math.random()*.55;
+        ctx.fillStyle=`rgba(255,255,255,${a})`; ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fill();
+      }
     }
+    rays.forEach(r => r.setAttribute('stroke', rayColor));
+    if(sunB) sunB.setAttribute('fill', sunFill);
+  }, 80);
+}
+
+function buildTicker(stories) {
+  const track = document.getElementById('ticker');
+  const kw = stories.length
+    ? stories.map(s => s.headline.split(' ').slice(0,4).join(' '))
+    : ["Dawnly","World News","Today's Edition","Ten Stories","At Dawn"];
+  const items = [...kw,...kw];
+  track.innerHTML = items.map(w =>
+    `<span class="ticker-item">${w}<span class="ticker-dot"> · </span></span>`
+  ).join('');
+}
+
+function buildTreemapGrid(stories) {
+  const grid = document.getElementById('grid');
+  grid.style.gridTemplateColumns = 'repeat(10, 1fr)';
+  grid.style.gridTemplateRows    = '1fr 1fr';
+  grid.innerHTML = '';
+
+  const top5 = stories.slice(0,5);
+  const bot4 = stories.slice(5,9);
+
+  const top5Total = top5.reduce((s,x) => s+(x.mentions||1), 0);
+  const bot4Total = bot4.reduce((s,x) => s+(x.mentions||1), 0);
+
+  // Top row
+  let topCol = 1, topUsed = 0;
+  top5.forEach((story, i) => {
+    let span;
+    if (i === top5.length - 1) {
+      span = 10 - topUsed;
+    } else {
+      span = Math.max(1, Math.round((story.mentions||1) / top5Total * 10));
+      span = Math.min(span, 10 - topUsed - (top5.length - 1 - i));
+    }
+    topUsed += span;
+    grid.appendChild(buildCard(story, i, span, topCol, 1));
+    topCol += span;
+  });
+
+  // Bottom row: 4 stories + image
+  const imgSpan = 3;
+  const storyBudget = 10 - imgSpan;
+  let botCol = 1, botUsed = 0;
+  bot4.forEach((story, i) => {
+    let span;
+    if (i === bot4.length - 1) {
+      span = storyBudget - botUsed;
+    } else {
+      span = Math.max(1, Math.round((story.mentions||1) / bot4Total * storyBudget));
+      span = Math.min(span, storyBudget - botUsed - (bot4.length - 1 - i));
+    }
+    botUsed += span;
+    grid.appendChild(buildCard(story, i+5, span, botCol, 2));
+    botCol += span;
+  });
+
+  // Image card
+  const remaining = 10 - botCol + 1;
+  grid.appendChild(buildImageCard(remaining, botCol, 2));
+}
+
+function buildCard(story, index, colSpan, colStart, rowStart) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.style.gridColumn = `${colStart} / span ${colSpan}`;
+  card.style.gridRow    = `${rowStart} / span 1`;
+
+  const fontSize = colSpan >= 4 ? 19 : colSpan === 3 ? 16 : colSpan === 2 ? 14 : 12;
+  const clamp    = colSpan >= 3 ? 6  : colSpan === 2 ? 5  : 4;
+  const rank     = ROMAN[index] || String(index+1);
+  const regions  = story.regions
+    ? (typeof story.regions === 'number' ? `${story.regions} Regions` : story.regions)
+    : (story.diversity ? `${story.diversity} Regions` : '');
+
+  const sources = (story.sources||[]).slice(0,3).map(s =>
+    `<a class="back-source" href="${s.link}" target="_blank" rel="noopener"><span class="back-dot"></span>${s.name}</a>`
+  ).join('');
+
+  card.innerHTML = `
+    <div class="card-inner">
+      <div class="card-front">
+        <div class="card-num">${rank}</div>
+        <div class="card-headline" style="font-size:${fontSize}px;-webkit-line-clamp:${clamp}">${story.headline}</div>
+        <div class="card-foot">
+          <div class="card-regions">${regions}</div>
+          <div class="card-hint">Tap ↻</div>
+        </div>
+      </div>
+      <div class="card-back">
+        <div class="back-summary">${story.summary || story.headline}</div>
+        <div class="back-sources">${sources}</div>
+        <div class="back-hint">Tap ↻</div>
+      </div>
+    </div>`;
+
+  card.addEventListener('click', () => card.classList.toggle('flipped'));
+  return card;
+}
+
+function buildImageCard(colSpan, colStart, rowStart) {
+  const ic = document.createElement('div');
+  ic.className = 'img-card';
+  ic.style.gridColumn = `${colStart} / span ${Math.max(1,colSpan)}`;
+  ic.style.gridRow    = `${rowStart} / span 1`;
+
+  const images = [
+    'https://picsum.photos/seed/dawn1/600/300',
+    'https://picsum.photos/seed/morning2/600/300',
+    'https://picsum.photos/seed/nature3/600/300',
+    'https://picsum.photos/seed/sky4/600/300',
+    'https://picsum.photos/seed/landscape5/600/300',
+    'https://picsum.photos/seed/forest6/600/300',
+    'https://picsum.photos/seed/ocean7/600/300',
+  ];
+
+  ic.innerHTML = `
+    <img src="${images[new Date().getDay() % images.length]}" alt="Photo of the day"
+         onerror="this.parentElement.style.background='#c8bfaa';this.style.display='none'"/>
+    <div class="img-caption">Photo Of The Day</div>`;
+  return ic;
+}
+
+async function loadStories() {
+  const grid = document.getElementById('grid');
+  try {
+    const res  = await fetch('./top10.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const stories = data.stories || [];
+
+    const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
+    document.getElementById('date-label').textContent   = pubDate;
+    document.getElementById('footer-stats').textContent =
+      `Algorithmically Ranked · ${stories.length} Stories · ${pubDate}`;
+
+    const launch  = new Date('2026-03-12');
+    const edition = Math.max(1, Math.floor((new Date()-launch)/86400000)+1);
+    document.getElementById('edition-label').textContent = `Edition No. ${edition}`;
+
+    buildTicker(stories);
+    buildTreemapGrid(stories);
+
+  } catch(err) {
+    console.error('Failed to load top10.json:', err);
+    grid.innerHTML = `<div class="loading" style="grid-column:1/-1">Next edition arrives at 6AM EST</div>`;
+    buildTicker([]);
   }
+}
 
-  // ── Init ─────────────────────────────────────────────────────────────────
+document.getElementById('tagline').textContent    = getDailyTagline();
+document.getElementById('date-label').textContent = formatDisplayDate();
+document.getElementById('cd').textContent         = getCountdown();
 
-  document.getElementById('tagline').textContent  = getDailyTagline();
-  document.getElementById('date-label').textContent = formatDisplayDate();
-  document.getElementById('cd').textContent       = getCountdown();
+setTimeOfDay();
+loadStories();
 
-  setTimeOfDay();
-  loadStories();
-
-  setInterval(() => {
-    document.getElementById('cd').textContent = getCountdown();
-  }, 60000);
+setInterval(() => { document.getElementById('cd').textContent = getCountdown(); }, 60000);
 </script>
 </body>
 </html>
