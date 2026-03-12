@@ -517,8 +517,6 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
   card.style.gridColumn = `${colStart} / span ${colSpan}`;
   card.style.gridRow    = `${rowStart} / span 1`;
 
-  const fontSize = colSpan >= 4 ? 19 : colSpan === 3 ? 16 : colSpan === 2 ? 14 : 12;
-  const clamp    = colSpan >= 3 ? 6  : colSpan === 2 ? 5  : 4;
   const rank     = ROMAN[index] || String(index+1);
   const regions  = story.regions
     ? (typeof story.regions === 'number' ? `${story.regions} Regions` : story.regions)
@@ -532,7 +530,7 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
     <div class="card-inner">
       <div class="card-front">
         <div class="card-num">${rank}</div>
-        <div class="card-headline" style="font-size:${fontSize}px;-webkit-line-clamp:${clamp}">${story.headline}</div>
+        <div class="card-headline">${story.headline}</div>
         <div class="card-foot">
           <div class="card-regions">${regions}</div>
           <div class="card-hint">Tap ↻</div>
@@ -546,6 +544,40 @@ function buildCard(story, index, colSpan, colStart, rowStart) {
     </div>`;
 
   card.addEventListener('click', () => card.classList.toggle('flipped'));
+
+  // After card is in DOM, scale headline to fill available space
+  requestAnimationFrame(() => {
+    const front    = card.querySelector('.card-front');
+    const headline = card.querySelector('.card-headline');
+    const num      = card.querySelector('.card-num');
+    const foot     = card.querySelector('.card-foot');
+    if (!front || !headline) return;
+
+    const availH = front.clientHeight
+                 - (num  ? num.offsetHeight  + 4 : 0)
+                 - (foot ? foot.offsetHeight + 5 : 0)
+                 - 24; // padding
+
+    // Binary search for the largest font size that fits
+    let lo = 10, hi = 72, best = lo;
+    while (lo <= hi) {
+      const mid = Math.floor((lo + hi) / 2);
+      headline.style.fontSize  = mid + 'px';
+      headline.style.webkitLineClamp = '99';
+      if (headline.scrollHeight <= availH) { best = mid; lo = mid + 1; }
+      else { hi = mid - 1; }
+    }
+    headline.style.fontSize        = best + 'px';
+    headline.style.webkitLineClamp = '';
+    headline.style.overflow        = 'hidden';
+    headline.style.display         = '-webkit-box';
+    headline.style.webkitBoxOrient = 'vertical';
+    // clamp to how many lines fit
+    const lineH = best * 1.35;
+    const lines = Math.max(1, Math.floor(availH / lineH));
+    headline.style.webkitLineClamp = String(lines);
+  });
+
   return card;
 }
 
