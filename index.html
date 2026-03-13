@@ -748,36 +748,62 @@ function buildEqualGridWithImage(stories) {
   grid.innerHTML = '';
 
   const isMobile = window.innerWidth <= 768;
+  const maxStorySlots = 8;
+  const storyItems = stories.slice(0, maxStorySlots);
 
   if (isMobile) {
-  grid.style.gridTemplateColumns = '1fr';
-  grid.style.gridTemplateRows = 'none';
-  grid.style.overflowY = 'auto';
+    grid.style.gridTemplateColumns = '1fr';
+    grid.style.gridTemplateRows = 'none';
+    grid.style.overflowY = 'auto';
 
-  const topStories = stories.slice(0, 8);
+    storyItems.forEach((story, index) => {
+      const card = buildCard(story, index, 1, 1, 1, 1);
+      card.style.gridColumn = 'auto';
+      card.style.gridRow = 'auto';
+      card.style.minHeight = '220px';
+      grid.appendChild(card);
+    });
 
-  topStories.forEach((story, index) => {
-    const card = buildCard(story, index, 1, 1, 1, 1);
-    card.style.gridColumn = 'auto';
-    card.style.gridRow = 'auto';
-    card.style.minHeight = '220px';
-    grid.appendChild(card);
-  });
+    for (let i = storyItems.length; i < maxStorySlots; i++) {
+      const img = buildImageCard(1, 1, 1, i);
+      img.style.gridColumn = 'auto';
+      img.style.gridRow = 'auto';
+      img.style.minHeight = '180px';
+      grid.appendChild(img);
+    }
 
-  const img1 = buildImageCard(1, 1, 1, 100);
-  const img2 = buildImageCard(1, 1, 1, 101);
+    const img1 = buildImageCard(1, 1, 1, 100);
+    const img2 = buildImageCard(1, 1, 1, 101);
+    img1.style.gridColumn = 'auto';
+    img1.style.gridRow = 'auto';
+    img2.style.gridColumn = 'auto';
+    img2.style.gridRow = 'auto';
+    img1.style.minHeight = '180px';
+    img2.style.minHeight = '180px';
+    grid.appendChild(img1);
+    grid.appendChild(img2);
+    return;
+  }
 
-  img1.style.gridColumn = 'auto';
-  img1.style.gridRow = 'auto';
-  img2.style.gridColumn = 'auto';
-  img2.style.gridRow = 'auto';
+  grid.style.overflowY = 'hidden';
+  grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
+  grid.style.gridTemplateRows = 'repeat(2, 1fr)';
 
-  img1.style.minHeight = '180px';
-  img2.style.minHeight = '180px';
+  // Fill first 8 slots with stories, then images if missing
+  for (let index = 0; index < maxStorySlots; index++) {
+    const row = index < 4 ? 1 : 2;
+    const col = (index % 4) + 1;
 
-  grid.appendChild(img1);
-  grid.appendChild(img2);
-  return;
+    if (index < storyItems.length) {
+      grid.appendChild(buildCard(storyItems[index], index, 1, col, row, 1));
+    } else {
+      grid.appendChild(buildImageCard(1, col, row, index));
+    }
+  }
+
+  // Rightmost fixed image column
+  grid.appendChild(buildImageCard(1, 5, 1, 200));
+  grid.appendChild(buildImageCard(1, 5, 2, 201));
 }
 
   grid.style.overflowY = 'hidden';
