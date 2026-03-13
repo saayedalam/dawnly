@@ -750,26 +750,35 @@ function buildEqualGridWithImage(stories) {
   const isMobile = window.innerWidth <= 768;
 
   if (isMobile) {
-    grid.style.gridTemplateColumns = '1fr';
-    grid.style.gridTemplateRows = 'none';
-    grid.style.overflowY = 'auto';
+  grid.style.gridTemplateColumns = '1fr';
+  grid.style.gridTemplateRows = 'none';
+  grid.style.overflowY = 'auto';
 
-    const topStories = stories.slice(0, 8);
+  const topStories = stories.slice(0, 8);
 
-    topStories.forEach((story, index) => {
-      const card = buildCard(story, index, 1, 1, 'auto', 1);
-      card.style.minHeight = '220px';
-      grid.appendChild(card);
-    });
+  topStories.forEach((story, index) => {
+    const card = buildCard(story, index, 1, 1, 1, 1);
+    card.style.gridColumn = 'auto';
+    card.style.gridRow = 'auto';
+    card.style.minHeight = '220px';
+    grid.appendChild(card);
+  });
 
-    const img1 = buildImageCard(1, 1, 'auto');
-    const img2 = buildImageCard(1, 1, 'auto');
-    img1.style.minHeight = '180px';
-    img2.style.minHeight = '180px';
-    grid.appendChild(img1);
-    grid.appendChild(img2);
-    return;
-  }
+  const img1 = buildImageCard(1, 1, 1, 100);
+  const img2 = buildImageCard(1, 1, 1, 101);
+
+  img1.style.gridColumn = 'auto';
+  img1.style.gridRow = 'auto';
+  img2.style.gridColumn = 'auto';
+  img2.style.gridRow = 'auto';
+
+  img1.style.minHeight = '180px';
+  img2.style.minHeight = '180px';
+
+  grid.appendChild(img1);
+  grid.appendChild(img2);
+  return;
+}
 
   grid.style.overflowY = 'hidden';
   grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
