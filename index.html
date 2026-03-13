@@ -758,24 +758,30 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     const foot = card.querySelector('.card-foot');
     if (!front || !headline) return;
 
-    const mentions = story.mentions || 1;
-    const max = card._maxMentions || mentions;
-    const ratio = mentions / max;
-    const targetSize = Math.round(12 + ratio * 20);
-
-    headline.style.fontSize = targetSize + 'px';
-
     const availH = front.clientHeight
       - (num ? num.offsetHeight + 4 : 0)
       - (foot ? foot.offsetHeight + 5 : 0)
-      - 20;
-
-    const lineH = targetSize * 1.22;
-    const lines = Math.max(1, Math.floor(availH / lineH));
+      - 18;
+      
+    const textLength = (story.headline || '').length;
+      
+    let targetSize = 26;
+    if (textLength > 110) targetSize = 16;
+    else if (textLength > 90) targetSize = 18;
+    else if (textLength > 70) targetSize = 20;
+    else if (textLength > 50) targetSize = 22;
+    else targetSize = 26;
+      
+    headline.style.fontSize = targetSize + 'px';
+      
+    const lineH = targetSize * 1.12;
+    const lines = Math.max(2, Math.floor(availH / lineH));
+      
     headline.style.overflow = 'hidden';
     headline.style.display = '-webkit-box';
     headline.style.webkitBoxOrient = 'vertical';
     headline.style.webkitLineClamp = String(lines);
+    headline.style.lineHeight = '1.12';
   });
 
   return card;
