@@ -702,17 +702,27 @@ function buildEqualGridWithImage(stories) {
   grid.style.gridTemplateRows = 'repeat(2, 1fr)';
   grid.innerHTML = '';
 
-  const topStories = stories.slice(0, 8);
-  const maxMentions = Math.max(...topStories.map(s => s.mentions || 1), 1);
+  const maxStorySlots = 8;
+  const storyItems = stories.slice(0, maxStorySlots);
 
-  topStories.forEach((story, index) => {
+  // Render available stories into first 8 slots
+  for (let index = 0; index < storyItems.length; index++) {
+    const story = storyItems[index];
     const row = index < 4 ? 1 : 2;
     const col = (index % 4) + 1;
-    grid.appendChild(buildCard(story, index, 1, col, row, maxMentions));
-  });
+    grid.appendChild(buildCard(story, index, 1, col, row, 1));
+  }
 
-  grid.appendChild(buildImageCard(1, 5, 1));
-  grid.appendChild(buildImageCard(1, 5, 2));
+  // Fill any remaining story slots with image cards
+  for (let index = storyItems.length; index < maxStorySlots; index++) {
+    const row = index < 4 ? 1 : 2;
+    const col = (index % 4) + 1;
+    grid.appendChild(buildImageCard(1, col, row, index));
+  }
+
+  // Keep rightmost two image slots
+  grid.appendChild(buildImageCard(1, 5, 1, 8));
+  grid.appendChild(buildImageCard(1, 5, 2, 9));
 }
 
 function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
@@ -847,24 +857,17 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   return card;
 }
 
-function buildImageCard(colSpan, colStart, rowStart) {
+function buildImageCard(colSpan, colStart, rowStart, seedOffset = 0) {
   const ic = document.createElement('div');
   ic.className = 'img-card';
   ic.style.gridColumn = `${colStart} / span ${Math.max(1, colSpan)}`;
   ic.style.gridRow = `${rowStart} / span 1`;
 
-  const images = [
-    'https://picsum.photos/seed/dawn1/600/300',
-    'https://picsum.photos/seed/morning2/600/300',
-    'https://picsum.photos/seed/nature3/600/300',
-    'https://picsum.photos/seed/sky4/600/300',
-    'https://picsum.photos/seed/landscape5/600/300',
-    'https://picsum.photos/seed/forest6/600/300',
-    'https://picsum.photos/seed/ocean7/600/300',
-  ];
+  const daySeed = new Date().toISOString().slice(0, 10);
+  const seed = `${daySeed}-${seedOffset}`;
 
   ic.innerHTML = `
-    <img src="${images[new Date().getDay() % images.length]}" alt="Photo of the day"
+    <img src="https://picsum.photos/seed/${seed}/600/300" alt="Photo of the day"
          onerror="this.parentElement.style.background='#c8bfaa';this.style.display='none'"/>
     <div class="img-caption">Photo Of The Day</div>`;
   return ic;
