@@ -40,10 +40,8 @@
       flex-shrink: 0;
     }
 
-    .hero.morning   { background: linear-gradient(180deg,rgba(255,210,120,0.18) 0%,rgba(252,240,215,0.08) 65%,var(--paper) 100%); }
-    .hero.afternoon { background: linear-gradient(180deg,rgba(170,215,245,0.14) 0%,rgba(210,232,248,0.06) 65%,var(--paper) 100%); }
-    .hero.evening   { background: linear-gradient(180deg,rgba(225,130,50,0.18) 0%,rgba(242,190,120,0.08) 65%,var(--paper) 100%); }
-    .hero.night     { background: linear-gradient(180deg,rgba(10,15,35,0.95) 0%,rgba(18,28,58,0.65) 58%,var(--paper) 100%); }
+    .hero.light { background: linear-gradient(180deg,rgba(255,210,120,0.18) 0%,rgba(252,240,215,0.08) 65%,var(--paper) 100%); }
+    .hero.dark  { background: linear-gradient(180deg,rgba(10,15,35,0.95) 0%,rgba(18,28,58,0.65) 58%,var(--paper) 100%); }
 
     .sky { position: absolute; inset: 0; pointer-events: none; opacity: 0.5; }
 
@@ -70,8 +68,8 @@
       transform: translateX(-50%);
     }
 
-    .hero.night .meta-label,
-    .hero.night .meta-domain { color: rgba(255,255,255,0.5); }
+    .hero.dark .meta-label,
+    .hero.dark .meta-domain { color: rgba(255,255,255,0.5); }
 
     .logo-block {
       position: relative;
@@ -80,7 +78,7 @@
       border-bottom: 3px double rgba(42,36,16,0.4);
     }
 
-    .hero.night .logo-block { border-bottom-color: rgba(255,255,255,0.2); }
+    .hero.dark .logo-block { border-bottom-color: rgba(255,255,255,0.2); }
 
     .logo-icon { width: 80px; height: 66px; margin: 0 auto 4px; display: block; }
 
@@ -116,7 +114,7 @@
       display: block;
     }
 
-    .hero.night .logo-wordmark { color: #f0e8d4; }
+    .hero.dark .logo-wordmark { color: #f0e8d4; }
 
     .logo-tagline {
       font-family: 'Jost', sans-serif;
@@ -130,7 +128,7 @@
       min-height: 28px;
     }
 
-    .hero.night .logo-tagline { color: rgba(255,255,255,0.5); }
+    .hero.dark .logo-tagline { color: rgba(255,255,255,0.5); }
 
     .ticker-wrap {
       overflow: hidden;
@@ -142,7 +140,7 @@
       flex-shrink: 0;
     }
 
-    .hero.night .ticker-wrap {
+    .hero.dark .ticker-wrap {
       background: rgba(255,255,255,0.03);
       border-bottom-color: rgba(255,255,255,0.1);
     }
@@ -172,7 +170,7 @@
       color: var(--ink-3);
     }
 
-    .hero.night .ticker-item { color: rgba(255,255,255,0.4); }
+    .hero.dark .ticker-item { color: rgba(255,255,255,0.4); }
 
     @keyframes ticker {
       0% { transform: translateX(0); }
@@ -524,6 +522,7 @@
       .content {
         min-height: auto;
       }
+
       .grid {
         flex: unset;
         min-height: auto;
@@ -664,53 +663,40 @@ function setTimeOfDay() {
   const rays = document.querySelectorAll('.ray');
   const sunB = document.getElementById('sun-body');
 
-  hero.classList.remove('morning','afternoon','evening','night');
+  hero.classList.remove('light', 'dark');
 
   setTimeout(() => {
     canvas.width = canvas.offsetWidth || 900;
     canvas.height = canvas.offsetHeight || 200;
-    ctx.clearRect(0,0,canvas.width,canvas.height);
-    const w = canvas.width, h = canvas.height;
-    let rayColor = '#c8820a', sunFill = '#e8a020';
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-    if (hour >= 5 && hour < 12) {
-      hero.classList.add('morning');
-      const g = ctx.createRadialGradient(w*.5,h*.3,5,w*.5,h*.3,100);
-      g.addColorStop(0,'rgba(255,195,70,0.14)');
-      g.addColorStop(1,'rgba(255,195,70,0)');
+    const w = canvas.width, h = canvas.height;
+    let rayColor = '#c8820a';
+    let sunFill = '#e8a020';
+
+    const isLight = hour >= 6 && hour < 18;
+
+    if (isLight) {
+      hero.classList.add('light');
+
+      const g = ctx.createRadialGradient(w * 0.5, h * 0.3, 5, w * 0.5, h * 0.3, 100);
+      g.addColorStop(0, 'rgba(255,195,70,0.14)');
+      g.addColorStop(1, 'rgba(255,195,70,0)');
       ctx.fillStyle = g;
-      ctx.fillRect(0,0,w,h);
-    } else if (hour >= 12 && hour < 17) {
-      hero.classList.add('afternoon');
-      rayColor = '#3a7090';
-      sunFill = '#60a8d0';
-      for (let i = 0; i < 4; i++) {
-        ctx.fillStyle = `rgba(255,255,255,${0.03 + Math.random() * 0.04})`;
-        ctx.beginPath();
-        ctx.ellipse(Math.random()*w, 15+Math.random()*35, 55+Math.random()*70, 10+Math.random()*12, 0, 0, Math.PI*2);
-        ctx.fill();
-      }
-    } else if (hour >= 17 && hour < 21) {
-      hero.classList.add('evening');
-      rayColor = '#903020';
-      sunFill = '#d06030';
-      const g = ctx.createRadialGradient(w*.6,h*.85,5,w*.6,h*.85,100);
-      g.addColorStop(0,'rgba(210,110,30,0.15)');
-      g.addColorStop(1,'rgba(210,110,30,0)');
-      ctx.fillStyle = g;
-      ctx.fillRect(0,0,w,h);
+      ctx.fillRect(0, 0, w, h);
     } else {
-      hero.classList.add('night');
+      hero.classList.add('dark');
       rayColor = 'rgba(190,210,255,0.5)';
       sunFill = 'rgba(180,200,255,0.25)';
+
       for (let i = 0; i < 55; i++) {
-        const x = Math.random()*w;
-        const y = Math.random()*h*.8;
-        const r = .35 + Math.random()*1.1;
-        const a = .2 + Math.random()*.55;
+        const x = Math.random() * w;
+        const y = Math.random() * h * 0.8;
+        const r = 0.35 + Math.random() * 1.1;
+        const a = 0.2 + Math.random() * 0.55;
         ctx.fillStyle = `rgba(255,255,255,${a})`;
         ctx.beginPath();
-        ctx.arc(x,y,r,0,Math.PI*2);
+        ctx.arc(x, y, r, 0, Math.PI * 2);
         ctx.fill();
       }
     }
