@@ -616,10 +616,21 @@ async function loadStories() {
     document.getElementById('date-label').textContent   = pubDate;
     document.getElementById('footer-stats').textContent =
       `Algorithmically Ranked · ${stories.length} Stories · ${pubDate}`;
+    function getEditionNumber() {
+      const launch = new Date('2026-03-12T11:00:00Z'); // 6 AM EST = 11:00 UTC
+      const now = new Date();
 
-    const launch  = new Date('2026-03-12');
-    const edition = Math.max(1, Math.floor((new Date()-launch)/86400000)+1);
-    document.getElementById('edition-label').textContent = `Edition No. ${edition}`;
+      const currentEditionTime = new Date(now);
+      currentEditionTime.setUTCHours(11, 0, 0, 0);
+
+      if (now < currentEditionTime) {
+        currentEditionTime.setUTCDate(currentEditionTime.getUTCDate() - 1);
+    }
+
+  const diffDays = Math.floor((currentEditionTime - launch) / 86400000);
+  return Math.max(1, diffDays + 1);
+}
+    document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
 
     buildTicker(stories);
     buildTreemapGrid(stories);
