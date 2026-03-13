@@ -606,16 +606,16 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     const mentions    = story.mentions || 1;
     const max         = card._maxMentions || mentions;
     const ratio       = mentions / max;
-    const targetSize  = Math.round(11 + ratio * 17); // 11–28px range
+    const targetSize  = Math.round(12 + ratio * 20); // 12–32px range
 
     headline.style.fontSize = targetSize + 'px';
 
     const availH = front.clientHeight
-                 - (num  ? num.offsetHeight  + 4 : 0)
-                 - (foot ? foot.offsetHeight + 5 : 0)
-                 - 24;
+                - (num  ? num.offsetHeight  + 4 : 0)
+                - (foot ? foot.offsetHeight + 5 : 0)
+                - 20;
 
-    const lineH = targetSize * 1.35;
+    const lineH = targetSize * 1.22;
     const lines = Math.max(1, Math.floor(availH / lineH));
     headline.style.overflow        = 'hidden';
     headline.style.display         = '-webkit-box';
