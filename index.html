@@ -463,51 +463,51 @@
     }
 
     @media (max-width: 768px) {
-    .meta-bar {
-      display: grid;
-      grid-template-columns: 1fr auto 1fr;
-      align-items: center;
-      padding: 8px 12px 6px;
-    }
-   
-    .meta-label,
-    .meta-domain {
-      font-size: 7px;
-      letter-spacing: 1px;
-    }
-   
-    .meta-label:first-child {
-      justify-self: start;
-    }
-   
-    .meta-domain {
-      position: static;
-      transform: none;
-      justify-self: center;
-    }
-   
-    #date-label {
-      justify-self: end;
-      text-align: right;
+      .meta-bar {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        align-items: center;
+        padding: 8px 12px 6px;
+      }
+
+      .meta-label,
+      .meta-domain {
+        font-size: 7px;
+        letter-spacing: 1px;
+      }
+
+      .meta-label:first-child {
+        justify-self: start;
+      }
+
+      .meta-domain {
+        position: static;
+        transform: none;
+        justify-self: center;
+      }
+
+      #date-label {
+        justify-self: end;
+        text-align: right;
+      }
     }
 
     @media (max-width: 768px) {
-    .grid {
-      gap: 8px;
-     border: none;
-     background: transparent;
-    }
+      .grid {
+        gap: 8px;
+        border: none;
+        background: transparent;
+      }
 
-    .card,
-    .img-card {
-     border: 1px solid rgba(42,36,16,0.2);
-    }
+      .card,
+      .img-card {
+        border: 1px solid rgba(42,36,16,0.2);
+      }
 
-    .content {
-     padding: 0 12px 12px;
-    } 
-    } 
-   }
+      .content {
+        padding: 0 12px 12px;
+      }
+    }
   </style>
 </head>
 <body>
@@ -599,7 +599,6 @@ function getDailyTagline() {
   return TAGLINES[day % TAGLINES.length];
 }
 
-// currently aligned to 6 AM Toronto during DST = 10:00 UTC
 function getCountdown() {
   const now = new Date();
   const reset = new Date();
@@ -622,11 +621,11 @@ function formatDisplayDate() {
 }
 
 function getEditionNumber() {
-  const launch = new Date('2026-03-12T10:00:00Z'); // original edition 1 anchor
+  const launch = new Date('2026-03-12T10:00:00Z');
   const now = new Date();
 
   const currentEditionTime = new Date(now);
-  currentEditionTime.setUTCHours(10, 0, 0, 0); // current 6 AM Toronto during DST
+  currentEditionTime.setUTCHours(10, 0, 0, 0);
 
   if (now < currentEditionTime) {
     currentEditionTime.setUTCDate(currentEditionTime.getUTCDate() - 1);
@@ -789,7 +788,6 @@ function buildEqualGridWithImage(stories) {
   grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
   grid.style.gridTemplateRows = 'repeat(2, 1fr)';
 
-  // Fill first 8 slots with stories, then images if missing
   for (let index = 0; index < maxStorySlots; index++) {
     const row = index < 4 ? 1 : 2;
     const col = (index % 4) + 1;
@@ -801,26 +799,8 @@ function buildEqualGridWithImage(stories) {
     }
   }
 
-  // Rightmost fixed image column
   grid.appendChild(buildImageCard(1, 5, 1, 200));
   grid.appendChild(buildImageCard(1, 5, 2, 201));
-}
-
-  grid.style.overflowY = 'hidden';
-  grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
-  grid.style.gridTemplateRows = 'repeat(2, 1fr)';
-
-  const topStories = stories.slice(0, 8);
-  const maxMentions = Math.max(...topStories.map(s => s.mentions || 1), 1);
-
-  topStories.forEach((story, index) => {
-    const row = index < 4 ? 1 : 2;
-    const col = (index % 4) + 1;
-    grid.appendChild(buildCard(story, index, 1, col, row, maxMentions));
-  });
-
-  grid.appendChild(buildImageCard(1, 5, 1));
-  grid.appendChild(buildImageCard(1, 5, 2));
 }
 
 function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
@@ -859,7 +839,6 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   card.addEventListener('click', () => card.classList.toggle('flipped'));
 
   requestAnimationFrame(() => {
-    // FRONT: fit headline to card
     const front = card.querySelector('.card-front');
     const headline = card.querySelector('.card-headline');
     const num = card.querySelector('.card-num');
@@ -905,7 +884,6 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
       headline.style.webkitLineClamp = String(bestLines);
     }
 
-    // BACK: fit summary to card
     const back = card.querySelector('.card-back');
     const summary = card.querySelector('.back-summary');
     const sourcesBlock = card.querySelector('.back-sources');
