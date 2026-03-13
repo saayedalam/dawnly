@@ -22,7 +22,6 @@
     }
 
     html, body { height: 100%; overflow: hidden; background: #e8e0cc; }
-
     body { font-family: 'Cormorant Garamond', Georgia, serif; color: var(--ink-1); }
 
     .np {
@@ -55,22 +54,28 @@
       position: relative; z-index: 2;
     }
 
-    .meta-label {
-      font-family: 'Jost', sans-serif; font-size: 9px; font-weight: 400;
-      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
+    .meta-label,
+    .meta-domain {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--ink-2);
     }
 
     .meta-domain {
-      font-family: 'Jost', sans-serif; font-size: 9px; font-weight: 400;
-      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
-      position: absolute; left: 50%; transform: translateX(-50%);
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
     }
 
     .hero.night .meta-label,
     .hero.night .meta-domain { color: rgba(255,255,255,0.5); }
 
     .logo-block {
-      position: relative; z-index: 2;
+      position: relative;
+      z-index: 2;
       padding: 10px 24px 0;
       border-bottom: 3px double rgba(42,36,16,0.4);
     }
@@ -79,10 +84,7 @@
 
     .logo-icon { width: 80px; height: 66px; margin: 0 auto 4px; display: block; }
 
-    .ray {
-      animation: ray-pulse 3s ease-in-out infinite;
-    }
-
+    .ray { animation: ray-pulse 3s ease-in-out infinite; }
     .ray:nth-child(1) { animation-delay: 0.0s; }
     .ray:nth-child(2) { animation-delay: 0.3s; }
     .ray:nth-child(3) { animation-delay: 0.6s; }
@@ -94,104 +96,172 @@
 
     @keyframes ray-pulse {
       0%,100% { opacity: 0.35; }
-      50%      { opacity: 1.0;  }
+      50% { opacity: 1.0; }
     }
 
     #sun-body { animation: sun-glow 3s ease-in-out infinite; }
 
     @keyframes sun-glow {
       0%,100% { opacity: 0.55; }
-      50%      { opacity: 1.0;  }
+      50% { opacity: 1.0; }
     }
 
     .logo-wordmark {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 52px; font-weight: 700; color: var(--ink-1);
-      letter-spacing: 2px; line-height: 1; display: block;
+      font-size: 52px;
+      font-weight: 700;
+      color: var(--ink-1);
+      letter-spacing: 2px;
+      line-height: 1;
+      display: block;
     }
 
     .hero.night .logo-wordmark { color: #f0e8d4; }
 
     .logo-tagline {
-      font-family: 'Jost', sans-serif; font-size: 8.5px; font-weight: 400;
-      color: var(--ink-2); letter-spacing: 3px; text-transform: uppercase;
-      display: block; padding: 7px 0 10px; min-height: 28px;
+      font-family: 'Jost', sans-serif;
+      font-size: 8.5px;
+      font-weight: 400;
+      color: var(--ink-2);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      display: block;
+      padding: 7px 0 10px;
+      min-height: 28px;
     }
 
     .hero.night .logo-tagline { color: rgba(255,255,255,0.5); }
 
     .ticker-wrap {
-      overflow: hidden; padding: 4px 0;
+      overflow: hidden;
+      padding: 4px 0;
       border-bottom: 2px solid var(--border);
-      position: relative; z-index: 2;
-      background: rgba(42,36,16,0.03); flex-shrink: 0;
+      position: relative;
+      z-index: 2;
+      background: rgba(42,36,16,0.03);
+      flex-shrink: 0;
     }
 
-    .hero.night .ticker-wrap { background: rgba(255,255,255,0.03); border-bottom-color: rgba(255,255,255,0.1); }
+    .hero.night .ticker-wrap {
+      background: rgba(255,255,255,0.03);
+      border-bottom-color: rgba(255,255,255,0.1);
+    }
 
     .ticker-track {
-      display: flex; white-space: nowrap;
-      animation: ticker 60s linear infinite; will-change: transform;
+      display: flex;
+      white-space: nowrap;
+      animation: ticker 40s linear infinite;
+      will-change: transform;
     }
 
     .ticker-item {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-2);
-      padding: 0 20px; flex-shrink: 0;
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--ink-2);
+      padding: 0 20px;
+      flex-shrink: 0;
+      position: relative;
+    }
+
+    .ticker-item::after {
+      content: "·";
+      margin-left: 20px;
+      color: var(--ink-3);
     }
 
     .hero.night .ticker-item { color: rgba(255,255,255,0.4); }
-    .ticker-dot { color: var(--ink-3); margin: 0 2px; }
 
-    @keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+    @keyframes ticker {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
 
     .content {
-      flex: 1; display: flex; flex-direction: column;
-      padding: 0 20px 10px; min-height: 0;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 0 20px 10px;
+      min-height: 0;
     }
 
     .section-rule {
-      display: flex; align-items: center; gap: 12px;
-      margin: 8px 0; flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 8px 0;
+      flex-shrink: 0;
     }
 
     .sr-line { flex: 1; height: 1px; background: var(--ink-1); }
 
     .sr-text {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 500;
-      letter-spacing: 3px; text-transform: uppercase; color: var(--ink-1); white-space: nowrap;
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--ink-1);
+      white-space: nowrap;
     }
 
     .grid {
-      flex: 1; display: grid; gap: 1px;
+      flex: 1;
+      display: grid;
+      gap: 1px;
       background: rgba(42,36,16,0.2);
       border: 1px solid rgba(42,36,16,0.2);
       min-height: 0;
     }
 
-    .card { background: var(--paper); cursor: pointer; overflow: hidden; position: relative; }
+    .card {
+      background: var(--paper);
+      cursor: pointer;
+      overflow: hidden;
+      position: relative;
+    }
 
     .card-inner {
-      position: relative; width: 100%; height: 100%;
+      position: relative;
+      width: 100%;
+      height: 100%;
       transition: transform 0.5s cubic-bezier(0.4,0.2,0.2,1);
-      transform-style: preserve-3d; perspective: 1000px;
+      transform-style: preserve-3d;
+      perspective: 1000px;
     }
 
     .card.flipped .card-inner { transform: rotateY(180deg); }
 
-    .card-front, .card-back {
-      position: absolute; inset: 0; padding: 12px 11px;
-      backface-visibility: hidden; -webkit-backface-visibility: hidden;
-      background: var(--paper); overflow: hidden;
-      display: flex; flex-direction: column;
+    .card-front,
+    .card-back {
+      position: absolute;
+      inset: 0;
+      padding: 12px 11px;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      background: var(--paper);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
     }
 
-    .card-back { transform: rotateY(180deg); background: var(--paper-2); justify-content: space-between; }
+    .card-back {
+      transform: rotateY(180deg);
+      background: var(--paper-2);
+      justify-content: space-between;
+    }
 
     .card-num {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 500;
-      letter-spacing: 2px; text-transform: uppercase; color: var(--ink-3);
-      margin-bottom: 4px; flex-shrink: 0;
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 4px;
+      flex-shrink: 0;
     }
 
     .card:nth-child(1) .card-num,
@@ -199,24 +269,47 @@
 
     .card-headline {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-weight: 700; color: var(--ink-1); line-height: 1.35;
-      flex: 1; overflow: hidden;
-      display: -webkit-box; -webkit-box-orient: vertical;
+      font-weight: 700;
+      color: var(--ink-1);
+      line-height: 1.35;
+      flex: 1;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
     }
 
     .card-foot {
-      display: flex; justify-content: space-between; align-items: center;
-      margin-top: 5px; flex-shrink: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 5px;
+      flex-shrink: 0;
+    }
+
+    .card-regions,
+    .card-hint,
+    .back-hint,
+    .back-source,
+    .footer-left,
+    .reset-front span,
+    .reset-back span {
+      font-family: 'Jost', sans-serif;
+      text-transform: uppercase;
     }
 
     .card-regions {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-3);
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      color: var(--ink-3);
     }
 
-    .card-hint {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 1px; text-transform: uppercase; color: var(--ink-3);
+    .card-hint,
+    .back-hint {
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 1px;
+      color: var(--ink-3);
     }
 
     .back-summary {
@@ -231,92 +324,144 @@
       display: -webkit-box;
       -webkit-line-clamp: 5;
       -webkit-box-orient: vertical;
-      line-clamp: 5;  /* Standard property for compatibility */
       margin-bottom: 8px;
     }
 
-    .back-sources { display: flex; flex-direction: column; gap: 3px; flex-shrink: 0; }
+    .back-sources {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      flex-shrink: 0;
+    }
 
     .back-source {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-2);
-      text-decoration: none; display: flex; align-items: center; gap: 5px;
-      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      color: var(--ink-2);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
     .back-source:hover { color: var(--ink-1); }
-    .back-dot { width: 2px; height: 2px; border-radius: 50%; background: var(--ink-3); flex-shrink: 0; }
+
+    .back-dot {
+      width: 2px;
+      height: 2px;
+      border-radius: 50%;
+      background: var(--ink-3);
+      flex-shrink: 0;
+    }
 
     .back-hint {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 1px; text-transform: uppercase; color: var(--ink-3);
-      text-align: right; margin-top: 5px; flex-shrink: 0;
+      text-align: right;
+      margin-top: 5px;
+      flex-shrink: 0;
     }
 
-    .img-card { background: #2a2410; overflow: hidden; position: relative; cursor: default; }
-    .img-card img { width: 100%; height: 100%; object-fit: cover; opacity: 0.78; }
+    .img-card {
+      background: #2a2410;
+      overflow: hidden;
+      position: relative;
+      cursor: default;
+    }
+
+    .img-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.78;
+    }
 
     .img-caption {
-      position: absolute; bottom: 0; left: 0; right: 0; padding: 8px 12px;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 8px 12px;
       background: linear-gradient(0deg,rgba(0,0,0,0.5) 0%,transparent 100%);
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6);
-    }
-
-    .loading {
-      display: flex; align-items: center; justify-content: center;
-      font-family: 'Jost', sans-serif; font-size: 9px; font-weight: 400;
-      letter-spacing: 3px; text-transform: uppercase; color: var(--ink-3); height: 100%;
-    }
-
-    .footer {
-      border-top: 1px solid rgba(42,36,16,0.25);
-      padding: 6px 0 0; display: flex; justify-content: space-between;
-      align-items: center; flex-shrink: 0;
-    }
-
-    .footer-left {
-      font-family: 'Jost', sans-serif; font-size: 8px; font-weight: 400;
-      letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink-2);
-    }
-
-    .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
-
-    .reset-inner {
-      width: 100%; height: 100%; position: relative;
-      transform-style: preserve-3d; transition: transform 0.4s ease;
-    }
-
-    .reset-badge:hover .reset-inner { transform: rotateX(180deg); }
-
-    .reset-front, .reset-back {
-      position: absolute; inset: 0;
-      display: flex; align-items: center; justify-content: center;
-      backface-visibility: hidden; -webkit-backface-visibility: hidden;
-    }
-
-    .reset-back { transform: rotateX(180deg); }
-
-    .reset-front span {
       font-family: 'Jost', sans-serif;
       font-size: 8px;
       font-weight: 400;
       letter-spacing: 2px;
       text-transform: uppercase;
+      color: rgba(255,255,255,0.6);
+    }
+
+    .loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      height: 100%;
+    }
+
+    .footer {
+      border-top: 1px solid rgba(42,36,16,0.25);
+      padding: 6px 0 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .footer-left {
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      color: var(--ink-2);
+    }
+
+    .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
+
+    .reset-inner {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.4s ease;
+    }
+
+    .reset-badge:hover .reset-inner { transform: rotateX(180deg); }
+
+    .reset-front, .reset-back {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+    }
+
+    .reset-back { transform: rotateX(180deg); }
+
+    .reset-front span {
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2px;
       color: var(--ink-2);
       border-bottom: 1px solid var(--ink-3);
       padding-bottom: 1px;
-   }
+    }
 
     .reset-back span {
-      font-family: 'Jost', sans-serif;
       font-size: 9px;
       font-weight: 500;
       letter-spacing: 2px;
-      text-transform: uppercase;
       color: var(--ink-2);
       white-space: nowrap;
-  }
+    }
   </style>
 </head>
 <body>
@@ -333,16 +478,16 @@
 
     <div class="logo-block">
       <svg class="logo-icon" viewBox="0 0 110 90" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <line x1="55" y1="2"   x2="55" y2="14"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="80" y1="7"   x2="74" y2="17"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="98" y1="22"  x2="89" y2="27"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="30" y1="7"   x2="36" y2="17"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="12" y1="22"  x2="21" y2="27"  stroke="#c8820a" stroke-width="2"   stroke-linecap="round" class="ray"/>
-        <line x1="104" y1="44" x2="93" y2="44"  stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
-        <line x1="6"   y1="44" x2="17" y2="44"  stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
+        <line x1="55" y1="2" x2="55" y2="14" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="80" y1="7" x2="74" y2="17" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="98" y1="22" x2="89" y2="27" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="30" y1="7" x2="36" y2="17" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="12" y1="22" x2="21" y2="27" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="104" y1="44" x2="93" y2="44" stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
+        <line x1="6" y1="44" x2="17" y2="44" stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
         <path d="M30 52 Q30 28 55 28 Q80 28 80 52" fill="#e8a020" opacity="0.9" id="sun-body"/>
         <path d="M30 52 Q30 28 55 28 Q80 28 80 52" fill="none" stroke="#c8820a" stroke-width="1.5" class="ray"/>
-        <rect x="8"  y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
+        <rect x="8" y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
         <rect x="60" y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
         <line x1="55" y1="50" x2="55" y2="80" stroke="#2a2410" stroke-width="1.5"/>
         <line x1="14" y1="57" x2="44" y2="57" stroke="#9a8a70" stroke-width="0.8"/>
@@ -353,8 +498,8 @@
         <line x1="66" y1="62" x2="96" y2="62" stroke="#9a8a70" stroke-width="0.8"/>
         <line x1="66" y1="67" x2="96" y2="67" stroke="#9a8a70" stroke-width="0.8"/>
         <line x1="66" y1="72" x2="88" y2="72" stroke="#9a8a70" stroke-width="0.8"/>
-        <path d="M8  80 Q55 88 102 80" stroke="#2a2410" stroke-width="1.5" fill="none"/>
-        <path d="M8  50 Q55 44 102 50" stroke="#2a2410" stroke-width="1.5" fill="none"/>
+        <path d="M8 80 Q55 88 102 80" stroke="#2a2410" stroke-width="1.5" fill="none"/>
+        <path d="M8 50 Q55 44 102 50" stroke="#2a2410" stroke-width="1.5" fill="none"/>
       </svg>
       <span class="logo-wordmark">Dawnly</span>
       <span class="logo-tagline" id="tagline"></span>
@@ -388,6 +533,7 @@
   </div>
 
 </div>
+
 <script>
 const TAGLINES = [
   "The Morning Paper, Rebuilt For Today",
@@ -407,20 +553,41 @@ function getDailyTagline() {
   return TAGLINES[day % TAGLINES.length];
 }
 
+// currently aligned to 6 AM Toronto during DST = 10:00 UTC
 function getCountdown() {
-  const now = new Date(), reset = new Date();
-  reset.setHours(11,0,0,0);
-  if (now >= reset) reset.setDate(reset.getDate()+1);
+  const now = new Date();
+  const reset = new Date();
+  reset.setUTCHours(10, 0, 0, 0);
+  if (now >= reset) reset.setUTCDate(reset.getUTCDate() + 1);
   const diff = reset - now;
-  return `${Math.floor(diff/3600000)}h ${Math.floor((diff%3600000)/60000)}m`;
+  return `${Math.floor(diff / 3600000)}h ${Math.floor((diff % 3600000) / 60000)}m`;
 }
 
 function formatDate(iso) {
-  return new Date(iso).toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+  return new Date(iso).toLocaleDateString('en-US', {
+    weekday:'long', year:'numeric', month:'long', day:'numeric'
+  });
 }
 
 function formatDisplayDate() {
-  return new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  return new Date().toLocaleDateString('en-US', {
+    weekday:'long', month:'long', day:'numeric', year:'numeric'
+  });
+}
+
+function getEditionNumber() {
+  const launch = new Date('2026-03-12T11:00:00Z'); // original edition 1 anchor
+  const now = new Date();
+
+  const currentEditionTime = new Date(now);
+  currentEditionTime.setUTCHours(10, 0, 0, 0); // current 6 AM Toronto during DST
+
+  if (now < currentEditionTime) {
+    currentEditionTime.setUTCDate(currentEditionTime.getUTCDate() - 1);
+  }
+
+  const diffDays = Math.floor((currentEditionTime - launch) / 86400000);
+  return Math.max(1, diffDays + 1);
 }
 
 function setTimeOfDay() {
@@ -434,7 +601,7 @@ function setTimeOfDay() {
   hero.classList.remove('morning','afternoon','evening','night');
 
   setTimeout(() => {
-    canvas.width  = canvas.offsetWidth  || 900;
+    canvas.width = canvas.offsetWidth || 900;
     canvas.height = canvas.offsetHeight || 200;
     ctx.clearRect(0,0,canvas.width,canvas.height);
     const w = canvas.width, h = canvas.height;
@@ -443,28 +610,47 @@ function setTimeOfDay() {
     if (hour >= 5 && hour < 12) {
       hero.classList.add('morning');
       const g = ctx.createRadialGradient(w*.5,h*.3,5,w*.5,h*.3,100);
-      g.addColorStop(0,'rgba(255,195,70,0.14)'); g.addColorStop(1,'rgba(255,195,70,0)');
-      ctx.fillStyle=g; ctx.fillRect(0,0,w,h);
+      g.addColorStop(0,'rgba(255,195,70,0.14)');
+      g.addColorStop(1,'rgba(255,195,70,0)');
+      ctx.fillStyle = g;
+      ctx.fillRect(0,0,w,h);
     } else if (hour >= 12 && hour < 17) {
-      hero.classList.add('afternoon'); rayColor='#3a7090'; sunFill='#60a8d0';
-      for(let i=0;i<4;i++){
-        ctx.fillStyle=`rgba(255,255,255,${0.03+Math.random()*.04})`;
-        ctx.beginPath(); ctx.ellipse(Math.random()*w,15+Math.random()*35,55+Math.random()*70,10+Math.random()*12,0,0,Math.PI*2); ctx.fill();
+      hero.classList.add('afternoon');
+      rayColor = '#3a7090';
+      sunFill = '#60a8d0';
+      for (let i = 0; i < 4; i++) {
+        ctx.fillStyle = `rgba(255,255,255,${0.03 + Math.random() * 0.04})`;
+        ctx.beginPath();
+        ctx.ellipse(Math.random()*w, 15+Math.random()*35, 55+Math.random()*70, 10+Math.random()*12, 0, 0, Math.PI*2);
+        ctx.fill();
       }
     } else if (hour >= 17 && hour < 21) {
-      hero.classList.add('evening'); rayColor='#903020'; sunFill='#d06030';
+      hero.classList.add('evening');
+      rayColor = '#903020';
+      sunFill = '#d06030';
       const g = ctx.createRadialGradient(w*.6,h*.85,5,w*.6,h*.85,100);
-      g.addColorStop(0,'rgba(210,110,30,0.15)'); g.addColorStop(1,'rgba(210,110,30,0)');
-      ctx.fillStyle=g; ctx.fillRect(0,0,w,h);
+      g.addColorStop(0,'rgba(210,110,30,0.15)');
+      g.addColorStop(1,'rgba(210,110,30,0)');
+      ctx.fillStyle = g;
+      ctx.fillRect(0,0,w,h);
     } else {
-      hero.classList.add('night'); rayColor='rgba(190,210,255,0.5)'; sunFill='rgba(180,200,255,0.25)';
-      for(let i=0;i<55;i++){
-        const x=Math.random()*w,y=Math.random()*h*.8,r=.35+Math.random()*1.1,a=.2+Math.random()*.55;
-        ctx.fillStyle=`rgba(255,255,255,${a})`; ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fill();
+      hero.classList.add('night');
+      rayColor = 'rgba(190,210,255,0.5)';
+      sunFill = 'rgba(180,200,255,0.25)';
+      for (let i = 0; i < 55; i++) {
+        const x = Math.random()*w;
+        const y = Math.random()*h*.8;
+        const r = .35 + Math.random()*1.1;
+        const a = .2 + Math.random()*.55;
+        ctx.fillStyle = `rgba(255,255,255,${a})`;
+        ctx.beginPath();
+        ctx.arc(x,y,r,0,Math.PI*2);
+        ctx.fill();
       }
     }
+
     rays.forEach(r => r.setAttribute('stroke', rayColor));
-    if(sunB) sunB.setAttribute('fill', sunFill);
+    if (sunB) sunB.setAttribute('fill', sunFill);
   }, 80);
 }
 
@@ -480,22 +666,20 @@ function buildTicker(stories) {
   ]);
 
   const blacklist = new Set([
-  'Tracking','Top','Today','Yesterday','Live','News','Edition','Stories',
-  'One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten',
-  'First','Second','Third','New','Old','Day','Days'
-]);
+    'Tracking','Top','Today','Yesterday','Live','News','Edition','Stories',
+    'One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten',
+    'First','Second','Third','New','Old','Day','Days'
+  ]);
 
   const counts = new Map();
 
   stories.forEach(story => {
-    const words = (story.headline || '')
-      .match(/\b[A-Z][a-zA-Z'-]+\b/g) || [];
+    const words = (story.headline || '').match(/\b[A-Z][a-zA-Z'-]+\b/g) || [];
 
     words.forEach(word => {
       if (word.length < 3) return;
       if (stopWords.has(word.toLowerCase())) return;
       if (blacklist.has(word)) return;
-
       counts.set(word, (counts.get(word) || 0) + 1);
     });
   });
@@ -506,65 +690,12 @@ function buildTicker(stories) {
     .map(([word]) => word);
 
   if (!labels.length) {
-  labels = ["World", "Politics", "Economy", "Conflict", "Markets"];
-}
+    labels = ["World", "Politics", "Economy", "Conflict", "Markets"];
+  }
 
   const items = [...labels, ...labels, ...labels];
-
-  track.innerHTML = items.map(word =>
-    `<span class="ticker-item">${word}</span>`
-  ).join('');
+  track.innerHTML = items.map(word => `<span class="ticker-item">${word}</span>`).join('');
 }
-
-
-  const grid = document.getElementById('grid');
-  grid.style.gridTemplateColumns = 'repeat(10, 1fr)';
-  grid.style.gridTemplateRows    = '1fr 1fr';
-  grid.innerHTML = '';
-
-  const maxMentions = Math.max(...stories.map(s => s.mentions || 1));
-
-  const top5 = stories.slice(0,5);
-  const bot4 = stories.slice(5,9);
-
-  const top5Total = top5.reduce((s,x) => s+(x.mentions||1), 0);
-  const bot4Total = bot4.reduce((s,x) => s+(x.mentions||1), 0);
-
-  // Top row
-  let topCol = 1, topUsed = 0;
-  top5.forEach((story, i) => {
-    let span;
-    if (i === top5.length - 1) {
-      span = 10 - topUsed;
-    } else {
-      span = Math.max(1, Math.round((story.mentions||1) / top5Total * 10));
-      span = Math.min(span, 10 - topUsed - (top5.length - 1 - i));
-    }
-    topUsed += span;
-    grid.appendChild(buildCard(story, i, span, topCol, 1, maxMentions));
-    topCol += span;
-  });
-
-  // Bottom row: 4 stories + image
-  const imgSpan = 3;
-  const storyBudget = 10 - imgSpan;
-  let botCol = 1, botUsed = 0;
-  bot4.forEach((story, i) => {
-    let span;
-    if (i === bot4.length - 1) {
-      span = storyBudget - botUsed;
-    } else {
-      span = Math.max(1, Math.round((story.mentions||1) / bot4Total * storyBudget));
-      span = Math.min(span, storyBudget - botUsed - (bot4.length - 1 - i));
-    }
-    botUsed += span;
-    grid.appendChild(buildCard(story, i+5, span, botCol, 2, maxMentions));
-    botCol += span;
-  });
-
-  // Image card
-  const remaining = 10 - botCol + 1;
-  grid.appendChild(buildImageCard(remaining, botCol, 2));
 
 function buildEqualGridWithImage(stories) {
   const grid = document.getElementById('grid');
@@ -573,11 +704,12 @@ function buildEqualGridWithImage(stories) {
   grid.innerHTML = '';
 
   const topStories = stories.slice(0, 8);
+  const maxMentions = Math.max(...topStories.map(s => s.mentions || 1), 1);
 
   topStories.forEach((story, index) => {
     const row = index < 4 ? 1 : 2;
     const col = (index % 4) + 1;
-    grid.appendChild(buildCard(story, index, 1, col, row, 1));
+    grid.appendChild(buildCard(story, index, 1, col, row, maxMentions));
   });
 
   grid.appendChild(buildImageCard(1, 5, 1));
@@ -588,15 +720,15 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   const card = document.createElement('div');
   card.className = 'card';
   card.style.gridColumn = `${colStart} / span ${colSpan}`;
-  card.style.gridRow    = `${rowStart} / span 1`;
-  card._maxMentions     = maxMentions || 1;
+  card.style.gridRow = `${rowStart} / span 1`;
+  card._maxMentions = maxMentions || 1;
 
-  const rank     = ROMAN[index] || String(index+1);
-  const regions  = story.regions
+  const rank = ROMAN[index] || String(index + 1);
+  const regions = story.regions
     ? (typeof story.regions === 'number' ? `${story.regions} Regions` : story.regions)
     : (story.diversity ? `${story.diversity} Regions` : '');
 
-  const sources = (story.sources||[]).slice(0,3).map(s =>
+  const sources = (story.sources || []).slice(0, 3).map(s =>
     `<a class="back-source" href="${s.link}" target="_blank" rel="noopener"><span class="back-dot"></span>${s.name}</a>`
   ).join('');
 
@@ -619,32 +751,29 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
 
   card.addEventListener('click', () => card.classList.toggle('flipped'));
 
-  // Font size fully dynamic — driven by mention count, same signal as card size
-  // We pass maxMentions so font scales relative to the top story
   requestAnimationFrame(() => {
-    const front    = card.querySelector('.card-front');
+    const front = card.querySelector('.card-front');
     const headline = card.querySelector('.card-headline');
-    const num      = card.querySelector('.card-num');
-    const foot     = card.querySelector('.card-foot');
+    const num = card.querySelector('.card-num');
+    const foot = card.querySelector('.card-foot');
     if (!front || !headline) return;
 
-    // Scale font proportionally: top story (maxMentions) gets 28px, min is 11px
-    const mentions    = story.mentions || 1;
-    const max         = card._maxMentions || mentions;
-    const ratio       = mentions / max;
-    const targetSize  = Math.round(12 + ratio * 20); // 12–32px range
+    const mentions = story.mentions || 1;
+    const max = card._maxMentions || mentions;
+    const ratio = mentions / max;
+    const targetSize = Math.round(12 + ratio * 20);
 
     headline.style.fontSize = targetSize + 'px';
 
     const availH = front.clientHeight
-                - (num  ? num.offsetHeight  + 4 : 0)
-                - (foot ? foot.offsetHeight + 5 : 0)
-                - 20;
+      - (num ? num.offsetHeight + 4 : 0)
+      - (foot ? foot.offsetHeight + 5 : 0)
+      - 20;
 
     const lineH = targetSize * 1.22;
     const lines = Math.max(1, Math.floor(availH / lineH));
-    headline.style.overflow        = 'hidden';
-    headline.style.display         = '-webkit-box';
+    headline.style.overflow = 'hidden';
+    headline.style.display = '-webkit-box';
     headline.style.webkitBoxOrient = 'vertical';
     headline.style.webkitLineClamp = String(lines);
   });
@@ -655,8 +784,8 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
 function buildImageCard(colSpan, colStart, rowStart) {
   const ic = document.createElement('div');
   ic.className = 'img-card';
-  ic.style.gridColumn = `${colStart} / span ${Math.max(1,colSpan)}`;
-  ic.style.gridRow    = `${rowStart} / span 1`;
+  ic.style.gridColumn = `${colStart} / span ${Math.max(1, colSpan)}`;
+  ic.style.gridRow = `${rowStart} / span 1`;
 
   const images = [
     'https://picsum.photos/seed/dawn1/600/300',
@@ -677,49 +806,35 @@ function buildImageCard(colSpan, colStart, rowStart) {
 
 async function loadStories() {
   const grid = document.getElementById('grid');
+
   try {
-    const res  = await fetch('./top10.json');
+    const res = await fetch('./top10.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
     const data = await res.json();
     const stories = data.stories || [];
 
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
-    document.getElementById('date-label').textContent   = pubDate;
-    document.getElementById('footer-stats').textContent =
-  `Algorithmically Ranked · ${stories.length} Stories`;
-    function getEditionNumber() {
-      const launch = new Date('2026-03-12T11:00:00Z'); // 6 AM EST = 11:00 UTC
-      const now = new Date();
-
-      const currentEditionTime = new Date(now);
-      currentEditionTime.setUTCHours(11, 0, 0, 0);
-
-      if (now < currentEditionTime) {
-        currentEditionTime.setUTCDate(currentEditionTime.getUTCDate() - 1);
-    }
-
-  const diffDays = Math.floor((currentEditionTime - launch) / 86400000);
-  return Math.max(1, diffDays + 1);
-}
+    document.getElementById('date-label').textContent = pubDate;
+    document.getElementById('footer-stats').textContent = `Algorithmically Ranked · ${stories.length} Stories`;
     document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
 
     buildTicker(stories);
     buildEqualGridWithImage(stories);
 
-  } catch(err) {
+  } catch (err) {
     console.error('Failed to load top10.json:', err);
     grid.innerHTML = `<div class="loading" style="grid-column:1/-1">Next edition arrives at 6AM EST</div>`;
     buildTicker([]);
   }
 }
 
-document.getElementById('tagline').textContent    = getDailyTagline();
+document.getElementById('tagline').textContent = getDailyTagline();
 document.getElementById('date-label').textContent = formatDisplayDate();
-document.getElementById('cd').textContent         = getCountdown();
+document.getElementById('cd').textContent = getCountdown();
 
 setTimeOfDay();
 loadStories();
-
 setInterval(() => { document.getElementById('cd').textContent = getCountdown(); }, 60000);
 </script>
 </body>
