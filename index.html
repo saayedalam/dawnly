@@ -757,31 +757,43 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     const num = card.querySelector('.card-num');
     const foot = card.querySelector('.card-foot');
     if (!front || !headline) return;
-
     const availH = front.clientHeight
       - (num ? num.offsetHeight + 4 : 0)
       - (foot ? foot.offsetHeight + 5 : 0)
       - 18;
       
-    const textLength = (story.headline || '').length;
-      
-    let targetSize = 26;
-    if (textLength > 110) targetSize = 16;
-    else if (textLength > 90) targetSize = 18;
-    else if (textLength > 70) targetSize = 20;
-    else if (textLength > 50) targetSize = 22;
-    else targetSize = 26;
-      
-    headline.style.fontSize = targetSize + 'px';
-      
-    const lineH = targetSize * 1.12;
-    const lines = Math.max(2, Math.floor(availH / lineH));
-      
     headline.style.overflow = 'hidden';
     headline.style.display = '-webkit-box';
     headline.style.webkitBoxOrient = 'vertical';
-    headline.style.webkitLineClamp = String(lines);
-    headline.style.lineHeight = '1.12';
+      
+    let minSize = 14;
+    let maxSize = 34;
+    let bestSize = minSize;
+    let bestLines = 2;
+      
+    while (minSize <= maxSize) {
+      const mid = Math.floor((minSize + maxSize) / 2);
+      const lineH = mid * 1.1;
+      const lines = Math.max(2, Math.floor(availH / lineH));
+    
+      headline.style.fontSize = mid + 'px';
+      headline.style.lineHeight = '1.1';
+      headline.style.webkitLineClamp = String(lines);
+    
+      const fits = headline.scrollHeight <= headline.clientHeight + 2;
+    
+      if (fits) {
+        bestSize = mid;
+        bestLines = lines;
+        minSize = mid + 1;
+      } else {
+        maxSize = mid - 1;
+      }
+    }
+    
+    headline.style.fontSize = bestSize + 'px';
+    headline.style.lineHeight = '1.1';
+    headline.style.webkitLineClamp = String(bestLines);
   });
 
   return card;
