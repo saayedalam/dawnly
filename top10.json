@@ -1,228 +1,203 @@
 {
-  "published_at": "2026-03-13T11:38:58.343299+00:00",
-  "story_count": 8,
+  "published_at": "2026-03-13T19:26:48.590097+00:00",
+  "story_count": 7,
   "stories": [
     {
       "rank": 1,
-      "headline": "French soldier killed and others wounded in attack in Iraq",
-      "summary": "French soldier killed and others wounded in attack in Iraq. Pro-Iran group vows to target French interests.",
+      "headline": "The Week: Jeremy Bowen On The Iran War",
+      "summary": "The Week: Jeremy Bowen On The Iran War Success uncertain, but Israelis continue to back ‘heroic’ war with Iran.",
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6g293?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/french-soldier-killed-and-others-wounded-in-attack-in-iraq?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/13/success-uncertain-but-israelis-continue-to-back-heroic-war-with-iran?traffic_source=rss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260313-french-officer-killed-in-drone-attack-in-iraq"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-drone-killed-french-soldier-iraqs-kurdistan-commanding-officer"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-risks-long-term-toxic-legacy-for-people-and-nature-that-ripples-beyond-borders/a-76335587?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
+        "Australia",
         "France",
-        "Middle East",
-        "Qatar"
+        "Germany",
+        "Hong Kong",
+        "Qatar",
+        "UK",
+        "US"
       ],
-      "score": 25.2,
-      "mentions": 9,
-      "diversity": 3
+      "score": 47.6,
+      "mentions": 8,
+      "diversity": 7
     },
     {
       "rank": 2,
-      "headline": "Four crew members killed after US refuelling plane crashes in Iraq",
-      "summary": "Four crew members killed after US refuelling plane crashes in Iraq. Four crew confirmed dead after US military plane crash in Iraq, US military says.",
+      "headline": "All six crew members killed after US refuelling plane crashes in Iraq",
+      "summary": "All six crew members killed after US refuelling plane crashes in Iraq. Four killed in US military plane crash in Iraq four killed in U.S. military plane Crash in Iraq: All 6 crew members confirmed dead.",
       "sources": [
         {
           "name": "BBC News",
           "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/13/g-s1-113563/us-iran-war"
-        }
-      ],
-      "regions": [
-        "Hong Kong",
-        "Middle East",
-        "Pakistan",
-        "UK",
-        "US"
-      ],
-      "score": 22.5,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 3,
-      "headline": "Suspect dead after ramming vehicle into Michigan synagogue",
-      "summary": "Suspect dead after ramming vehicle into Michigan synagogue. Suspect killed after attack on Detroit-area synagogue.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/suspect-killed-after-attack-on-detroit-area-synagogue/a-76337922?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1981645/assailant-dead-after-ramming-vehicle-into-michigan-synagogue"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Germany",
-        "Pakistan",
-        "UK"
-      ],
-      "score": 19.2,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 4,
-      "headline": "Over two dozen killed across Lebanon as Israel targets Beirut, south, east",
-      "summary": "Over two dozen killed across Lebanon as Israel targets Beirut, south, east. Israel widens Lebanon bombing campaign to target north and central Beirut.",
-      "sources": [
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/four-killed-in-us-military-plane-crash-in-iraq?traffic_source=rss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/israel-widens-lebanon-bombing-campaign-to-target-north-and-central-beirut"
+          "link": "https://www.france24.com/en/video/20260313-six-us-service-members-killed-in-plane-crash-over-iraq"
+        }
+      ],
+      "regions": [
+        "France",
+        "Middle East",
+        "Pakistan",
+        "Qatar",
+        "UK",
+        "US"
+      ],
+      "score": 43.2,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
+      "summary": "Why has Trump eased sanctions on Russian oil - and will it help Putin? Ukraine, EU allies slam US decision to roll back Russia oil sanctions. US eases oil sanctions at an ideal time for Russia.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-killed-israeli-strike-south-lebanon-village-health-ministry-says"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-eases-oil-sanctions-at-an-ideal-time-for-russia/a-76349758?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
         "Australia",
         "France",
-        "Middle East",
-        "Qatar"
-      ],
-      "score": 19.2,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 5,
-      "headline": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
-      "summary": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-leader-calls-for-hormuz-closure-as-oil-price-spikes/live-76315551?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
-        }
-      ],
-      "regions": [
         "Germany",
-        "Global",
-        "Pakistan",
         "Qatar",
-        "US"
+        "UK"
       ],
-      "score": 19.0,
+      "score": 23.5,
       "mentions": 5,
       "diversity": 5
     },
     {
-      "rank": 6,
-      "headline": "Iran war: What is happening on day 14 of US-Israel attacks?",
-      "summary": "Iran war: What is happening on day 14 of US-Israel attacks? Iranian missile strikes residential area in northern Israel. IEA to release 400 million barrels of oil.",
+      "rank": 4,
+      "headline": "Cuban President Diaz-Canel says talks held with US amid Trump threats",
+      "summary": "Cuban President Diaz-Canel says talks held with US amid Trump threats. Cuba confirms talks with US as island gasps under Trump’s energy blockade.",
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/13/cuban-president-diaz-canel-says-talks-held-with-us-amid-trump-threats?traffic_source=rss"
         },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/middle-east/us-iran-war-live-updates-israeli-attacks-on-lebanon-spark-humanitarian-crisis-one-iranian-soccer-player-reverses-asylum-decision-and-will-return-home-20260311-p5o9mw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Qatar"
-      ],
-      "score": 11.1,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "Trump issues fresh Iran warning, calling regime ‘deranged scumbags’ – US politics live",
-      "summary": "Trump issues fresh Iran warning, calling regime ‘deranged scumbags’ – US politics live Oil Prices Rise Despite Trump’s Decision to Lift Russia Sanctions US lifts sanctions on Russian oil as Trump derides Iran's leaders as 'derangedScumbags",
-      "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates"
+          "link": "https://www.theguardian.com/world/2026/mar/13/cuba-us-talks-miguel-diaz-canel-trump"
         },
         {
           "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/middle-east/us-lifts-sanctions-on-russian-oil-as-iran-s-leader-vows-to-keep-blocking-key-shipping-strait-20260313-p5oa9a.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "link": "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html"
         }
       ],
       "regions": [
-        "Australia",
+        "Hong Kong",
+        "Qatar",
         "UK",
         "US"
       ],
-      "score": 8.4,
+      "score": 12.4,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Who wins and loses in the global energy crisis?",
+      "summary": "Asia scrambles to confront energy crisis unleashed by Iran war – with no end in sight. Wall Street warns Iran war will trigger prolonged energy crisis.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/access-asia/20260313-global-energy-crisis-asia-feels-the-squeeze"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/12/asia-energy-crisis-iran-war"
+        }
+      ],
+      "regions": [
+        "France",
+        "Qatar",
+        "UK"
+      ],
+      "score": 10.2,
       "mentions": 4,
       "diversity": 3
     },
     {
-      "rank": 8,
-      "headline": "Iran’s New Supreme Leader (Sort Of) Speaks Out",
-      "summary": "Iran’s New Supreme Leader (Sort Of) Speaks Out In first public comments, Iran’S supreme leader pledges to keep fighting. Iran's supreme leader vows to fight on",
+      "rank": 6,
+      "headline": "First image emerges of Andrew, Mandelson and Epstein together",
+      "summary": "First image emerges of Andrew, Mandelson and Epstein together. Andrew and Peter Mandelson pictured in bathrobes with Jeffrey Epstein.",
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0n6b2hm?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/clyxezdv335o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260313-in-first-public-comments-iran-s-supreme-leader-pledges-to-keep-fighting"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/13/andrew-peter-mandelson-jeffrey-epstein-bathrobes-picture"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/irans-supreme-leader-vows-to-fight-on-20260313-p5oa2y.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3346566/uks-andrew-and-peter-mandelson-pictured-bathrobes-jeffrey-epstein?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Australia",
-        "France",
+        "Hong Kong",
         "UK"
       ],
-      "score": 8.1,
+      "score": 4.8,
       "mentions": 3,
-      "diversity": 3
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Michigan synagogue attack was 'hate, plain and simple', says governor",
+      "summary": "Michigan synagogue attack was 'hate, plain and simple', says governor. US Jewish communities warn increased security is needed after Michigan attack.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/13/jewish-community-fear-michigan-synagogue-attack"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html"
+        }
+      ],
+      "regions": [
+        "UK",
+        "US"
+      ],
+      "score": 4.8,
+      "mentions": 3,
+      "diversity": 2
     }
   ]
 }
