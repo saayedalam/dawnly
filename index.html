@@ -650,7 +650,7 @@ async function loadStories() {
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
     document.getElementById('date-label').textContent   = pubDate;
     document.getElementById('footer-stats').textContent =
-      `Algorithmically Ranked · ${stories.length} Stories · ${pubDate}`;
+  `Algorithmically Ranked · ${stories.length} Stories`;
     function getEditionNumber() {
       const launch = new Date('2026-03-12T11:00:00Z'); // 6 AM EST = 11:00 UTC
       const now = new Date();
