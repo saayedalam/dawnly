@@ -490,6 +490,23 @@
       justify-self: end;
       text-align: right;
     }
+
+    @media (max-width: 768px) {
+    .grid {
+      gap: 8px;
+     border: none;
+     background: transparent;
+    }
+
+    .card,
+    .img-card {
+     border: 1px solid rgba(42,36,16,0.2);
+    }
+
+    .content {
+     padding: 0 12px 12px;
+    } 
+    } 
    }
   </style>
 </head>
@@ -728,31 +745,47 @@ function buildTicker(stories) {
 
 function buildEqualGridWithImage(stories) {
   const grid = document.getElementById('grid');
-  grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
-  grid.style.gridTemplateRows = 'repeat(2, 1fr)';
   grid.innerHTML = '';
 
-  const maxStorySlots = 8;
-  const storyItems = stories.slice(0, maxStorySlots);
+  const isMobile = window.innerWidth <= 768;
 
-  // Render available stories into first 8 slots
-  for (let index = 0; index < storyItems.length; index++) {
-    const story = storyItems[index];
-    const row = index < 4 ? 1 : 2;
-    const col = (index % 4) + 1;
-    grid.appendChild(buildCard(story, index, 1, col, row, 1));
+  if (isMobile) {
+    grid.style.gridTemplateColumns = '1fr';
+    grid.style.gridTemplateRows = 'none';
+    grid.style.overflowY = 'auto';
+
+    const topStories = stories.slice(0, 8);
+
+    topStories.forEach((story, index) => {
+      const card = buildCard(story, index, 1, 1, 'auto', 1);
+      card.style.minHeight = '220px';
+      grid.appendChild(card);
+    });
+
+    const img1 = buildImageCard(1, 1, 'auto');
+    const img2 = buildImageCard(1, 1, 'auto');
+    img1.style.minHeight = '180px';
+    img2.style.minHeight = '180px';
+    grid.appendChild(img1);
+    grid.appendChild(img2);
+    return;
   }
 
-  // Fill any remaining story slots with image cards
-  for (let index = storyItems.length; index < maxStorySlots; index++) {
+  grid.style.overflowY = 'hidden';
+  grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
+  grid.style.gridTemplateRows = 'repeat(2, 1fr)';
+
+  const topStories = stories.slice(0, 8);
+  const maxMentions = Math.max(...topStories.map(s => s.mentions || 1), 1);
+
+  topStories.forEach((story, index) => {
     const row = index < 4 ? 1 : 2;
     const col = (index % 4) + 1;
-    grid.appendChild(buildImageCard(1, col, row, index));
-  }
+    grid.appendChild(buildCard(story, index, 1, col, row, maxMentions));
+  });
 
-  // Keep rightmost two image slots
-  grid.appendChild(buildImageCard(1, 5, 1, 8));
-  grid.appendChild(buildImageCard(1, 5, 2, 9));
+  grid.appendChild(buildImageCard(1, 5, 1));
+  grid.appendChild(buildImageCard(1, 5, 2));
 }
 
 function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
