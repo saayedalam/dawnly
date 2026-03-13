@@ -508,6 +508,27 @@
         padding: 0 12px 12px;
       }
     }
+
+    @media (max-width: 768px) {
+      html, body {
+        overflow: auto;
+        height: auto;
+      }
+
+      .np {
+        height: auto;
+        min-height: 100vh;
+        overflow: visible;
+      }
+
+      .content {
+        min-height: auto;
+      }
+      .grid {
+        flex: unset;
+        min-height: auto;
+      }
+    }
   </style>
 </head>
 <body>
@@ -753,7 +774,7 @@ function buildEqualGridWithImage(stories) {
   if (isMobile) {
     grid.style.gridTemplateColumns = '1fr';
     grid.style.gridTemplateRows = 'none';
-    grid.style.overflowY = 'auto';
+    grid.style.overflowY = 'visible';
 
     storyItems.forEach((story, index) => {
       const card = buildCard(story, index, 1, 1, 1, 1);
