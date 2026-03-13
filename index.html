@@ -453,12 +453,49 @@ function setTimeOfDay() {
 
 function buildTicker(stories) {
   const track = document.getElementById('ticker');
-  const kw = stories.length
-    ? stories.map(s => s.headline.split(' ').slice(0,4).join(' '))
-    : ["Dawnly","World News","Today's Edition","Ten Stories","At Dawn"];
-  const items = [...kw,...kw];
-  track.innerHTML = items.map(w =>
-    `<span class="ticker-item">${w}<span class="ticker-dot"> · </span></span>`
+
+  const stopWords = new Set([
+    'the','a','an','and','or','but','for','to','of','in','on','at','by','from',
+    'with','over','under','after','before','into','about','against','between',
+    'through','during','without','within','is','are','was','were','be','been',
+    'being','it','its','their','his','her','they','them','this','that','these',
+    'those','as','not','will','would','could','should','has','have','had'
+  ]);
+
+  const counts = new Map();
+
+  stories.forEach(story => {
+    const words = (story.headline || '')
+      .replace(/[^\w\s-]/g, ' ')
+      .split(/\s+/)
+      .map(w => w.trim())
+      .filter(Boolean);
+
+    words.forEach(word => {
+      const clean = word.toLowerCase();
+      if (clean.length < 3) return;
+      if (stopWords.has(clean)) return;
+
+      const label =
+        word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+
+      counts.set(label, (counts.get(label) || 0) + 1);
+    });
+  });
+
+  let keywords = [...counts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 12)
+    .map(([word]) => word);
+
+  if (!keywords.length) {
+    keywords = ["World", "News", "Today", "Dawnly", "Edition"];
+  }
+
+  const items = [...keywords, ...keywords];
+
+  track.innerHTML = items.map(word =>
+    `<span class="ticker-item">${word}<span class="ticker-dot"> · </span></span>`
   ).join('');
 }
 
