@@ -516,7 +516,7 @@ function buildTicker(stories) {
   ).join('');
 }
 
-function buildTreemapGrid(stories) {
+
   const grid = document.getElementById('grid');
   grid.style.gridTemplateColumns = 'repeat(10, 1fr)';
   grid.style.gridTemplateRows    = '1fr 1fr';
@@ -565,6 +565,23 @@ function buildTreemapGrid(stories) {
   // Image card
   const remaining = 10 - botCol + 1;
   grid.appendChild(buildImageCard(remaining, botCol, 2));
+
+function buildEqualGridWithImage(stories) {
+  const grid = document.getElementById('grid');
+  grid.style.gridTemplateColumns = 'repeat(5, 1fr)';
+  grid.style.gridTemplateRows = 'repeat(2, 1fr)';
+  grid.innerHTML = '';
+
+  const topStories = stories.slice(0, 8);
+
+  topStories.forEach((story, index) => {
+    const row = index < 4 ? 1 : 2;
+    const col = (index % 4) + 1;
+    grid.appendChild(buildCard(story, index, 1, col, row, 1));
+  });
+
+  grid.appendChild(buildImageCard(1, 5, 1));
+  grid.appendChild(buildImageCard(1, 5, 2));
 }
 
 function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
@@ -687,7 +704,7 @@ async function loadStories() {
     document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
 
     buildTicker(stories);
-    buildTreemapGrid(stories);
+    buildEqualGridWithImage(stories);
 
   } catch(err) {
     console.error('Failed to load top10.json:', err);
