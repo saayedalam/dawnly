@@ -628,7 +628,37 @@ const TAGLINES = [
   "The Paper Lands Once."
 ];
 
+const TICKER_MESSAGES = [
+  "Subscribe To The Dawnly Newsletter",
+  "Get The Top 10 Stories Every Morning",
+  "One Edition A Day. Nothing In Between.",
+  "Read Dawnly At Dawnly.News"
+];
+
 const ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X"];
+
+function getTorontoNowParts() {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/Toronto',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hourCycle: 'h23'
+  }).formatToParts(new Date());
+
+  const map = Object.fromEntries(parts.map(p => [p.type, p.value]));
+  return {
+    year: Number(map.year),
+    month: Number(map.month),
+    day: Number(map.day),
+    hour: Number(map.hour),
+    minute: Number(map.minute),
+    second: Number(map.second)
+  };
+}
 
 function getDailyTagline() {
   const now = new Date();
@@ -637,43 +667,56 @@ function getDailyTagline() {
 }
 
 function getCountdown() {
-  const now = new Date();
-  const reset = new Date();
-  reset.setUTCHours(10, 0, 0, 0);
-  if (now >= reset) reset.setUTCDate(reset.getUTCDate() + 1);
-  const diff = reset - now;
-  return `${Math.floor(diff / 3600000)}h ${Math.floor((diff % 3600000) / 60000)}m`;
+  const p = getTorontoNowParts();
+  const nowMinutes = p.hour * 60 + p.minute;
+  const resetMinutes = 6 * 60;
+
+  let diffMinutes;
+  if (nowMinutes < resetMinutes) {
+    diffMinutes = resetMinutes - nowMinutes;
+  } else {
+    diffMinutes = (24 * 60 - nowMinutes) + resetMinutes;
+  }
+
+  const hours = Math.floor(diffMinutes / 60);
+  const minutes = diffMinutes % 60;
+  return `${hours}h ${minutes}m`;
 }
 
 function formatDate(iso) {
   return new Date(iso).toLocaleDateString('en-US', {
-    weekday:'long', year:'numeric', month:'long', day:'numeric'
+    timeZone: 'America/Toronto',
+    weekday:'long',
+    year:'numeric',
+    month:'long',
+    day:'numeric'
   });
 }
 
 function formatDisplayDate() {
-  return new Date().toLocaleDateString('en-US', {
-    weekday:'long', month:'long', day:'numeric', year:'numeric'
-  });
+  return new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Toronto',
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric'
+  }).format(new Date());
 }
 
 function getEditionNumber() {
-  const launch = new Date('2026-03-12T10:00:00Z');
-  const now = new Date();
+  const launchDate = new Date('2026-03-12T00:00:00');
+  const p = getTorontoNowParts();
 
-  const currentEditionTime = new Date(now);
-  currentEditionTime.setUTCHours(10, 0, 0, 0);
-
-  if (now < currentEditionTime) {
-    currentEditionTime.setUTCDate(currentEditionTime.getUTCDate() - 1);
+  const currentEditionDate = new Date(p.year, p.month - 1, p.day);
+  if (p.hour < 6) {
+    currentEditionDate.setDate(currentEditionDate.getDate() - 1);
   }
 
-  const diffDays = Math.floor((currentEditionTime - launch) / 86400000);
+  const diffDays = Math.floor((currentEditionDate - launchDate) / 86400000);
   return Math.max(1, diffDays + 1);
 }
 
 function setTimeOfDay() {
-  const hour = new Date().getHours();
   const hero = document.getElementById('hero');
   const canvas = document.getElementById('sky');
   const ctx = canvas.getContext('2d');
@@ -691,7 +734,8 @@ function setTimeOfDay() {
     let rayColor = '#c8820a';
     let sunFill = '#e8a020';
 
-    const isLight = hour >= 6 && hour < 18;
+    const torontoHour = getTorontoNowParts().hour;
+    const isLight = torontoHour >= 6 && torontoHour < 18;
 
     if (isLight) {
       hero.classList.add('light');
@@ -723,47 +767,13 @@ function setTimeOfDay() {
   }, 80);
 }
 
-function buildTicker(stories) {
+function buildTicker() {
   const track = document.getElementById('ticker');
+  const items = [...TICKER_MESSAGES, ...TICKER_MESSAGES, ...TICKER_MESSAGES];
 
-  const stopWords = new Set([
-    'the','a','an','and','or','but','for','to','of','in','on','at','by','from',
-    'with','over','under','after','before','into','about','against','between',
-    'through','during','without','within','is','are','was','were','be','been',
-    'being','it','its','their','his','her','they','them','this','that','these',
-    'those','as','not','will','would','could','should','has','have','had'
-  ]);
-
-  const blacklist = new Set([
-    'Tracking','Top','Today','Yesterday','Live','News','Edition','Stories',
-    'One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten',
-    'First','Second','Third','New','Old','Day','Days'
-  ]);
-
-  const counts = new Map();
-
-  stories.forEach(story => {
-    const words = (story.headline || '').match(/\b[A-Z][a-zA-Z'-]+\b/g) || [];
-
-    words.forEach(word => {
-      if (word.length < 3) return;
-      if (stopWords.has(word.toLowerCase())) return;
-      if (blacklist.has(word)) return;
-      counts.set(word, (counts.get(word) || 0) + 1);
-    });
-  });
-
-  let labels = [...counts.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 10)
-    .map(([word]) => word);
-
-  if (!labels.length) {
-    labels = ["World", "Politics", "Economy", "Conflict", "Markets"];
-  }
-
-  const items = [...labels, ...labels, ...labels];
-  track.innerHTML = items.map(word => `<span class="ticker-item">${word}</span>`).join('');
+  track.innerHTML = items.map(message =>
+    `<span class="ticker-item">${message}</span>`
+  ).join('');
 }
 
 function buildEqualGridWithImage(stories) {
@@ -988,13 +998,13 @@ async function loadStories() {
     document.getElementById('footer-stats').textContent = `Algorithmically Ranked · ${stories.length} Stories`;
     document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
 
-    buildTicker(stories);
+    buildTicker();
     buildEqualGridWithImage(stories);
 
   } catch (err) {
     console.error('Failed to load top10.json:', err);
     grid.innerHTML = `<div class="loading" style="grid-column:1/-1">Next edition arrives at 6AM EST</div>`;
-    buildTicker([]);
+    buildTicker();
   }
 }
 
