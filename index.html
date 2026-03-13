@@ -461,6 +461,36 @@
       color: var(--ink-2);
       white-space: nowrap;
     }
+
+    @media (max-width: 768px) {
+    .meta-bar {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      padding: 8px 12px 6px;
+    }
+   
+    .meta-label,
+    .meta-domain {
+      font-size: 7px;
+      letter-spacing: 1px;
+    }
+   
+    .meta-label:first-child {
+      justify-self: start;
+    }
+   
+    .meta-domain {
+      position: static;
+      transform: none;
+      justify-self: center;
+    }
+   
+    #date-label {
+      justify-self: end;
+      text-align: right;
+    }
+   }
   </style>
 </head>
 <body>
