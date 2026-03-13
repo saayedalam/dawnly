@@ -7,7 +7,7 @@
   <meta name="description" content="The top 10 global news stories, algorithmically ranked. Updated once a day at dawn."/>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Jost:wght@200;300;400;500&display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Jost:wght@200;300;400;500&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -313,16 +313,15 @@
     }
 
     .back-summary {
-      font-family: Georgia, 'Times New Roman', serif;
-      font-size: 17px;
+      font-family: 'Roboto', Arial, sans-serif;
+      font-size: 16px;
       font-weight: 400;
       font-style: normal;
       color: var(--ink-1);
-      line-height: 1.45;
+      line-height: 1.35;
       flex: 1;
       overflow: hidden;
       display: -webkit-box;
-      -webkit-line-clamp: 5;
       -webkit-box-orient: vertical;
       margin-bottom: 8px;
     }
@@ -752,48 +751,97 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   card.addEventListener('click', () => card.classList.toggle('flipped'));
 
   requestAnimationFrame(() => {
+    // FRONT: fit headline to card
     const front = card.querySelector('.card-front');
     const headline = card.querySelector('.card-headline');
     const num = card.querySelector('.card-num');
     const foot = card.querySelector('.card-foot');
-    if (!front || !headline) return;
-    const availH = front.clientHeight
-      - (num ? num.offsetHeight + 4 : 0)
-      - (foot ? foot.offsetHeight + 5 : 0)
-      - 18;
-      
-    headline.style.overflow = 'hidden';
-    headline.style.display = '-webkit-box';
-    headline.style.webkitBoxOrient = 'vertical';
-      
-    let minSize = 14;
-    let maxSize = 34;
-    let bestSize = minSize;
-    let bestLines = 2;
-      
-    while (minSize <= maxSize) {
-      const mid = Math.floor((minSize + maxSize) / 2);
-      const lineH = mid * 1.1;
-      const lines = Math.max(2, Math.floor(availH / lineH));
-    
-      headline.style.fontSize = mid + 'px';
-      headline.style.lineHeight = '1.1';
-      headline.style.webkitLineClamp = String(lines);
-    
-      const fits = headline.scrollHeight <= headline.clientHeight + 2;
-    
-      if (fits) {
-        bestSize = mid;
-        bestLines = lines;
-        minSize = mid + 1;
-      } else {
-        maxSize = mid - 1;
+
+    if (front && headline) {
+      const availH = front.clientHeight
+        - (num ? num.offsetHeight + 4 : 0)
+        - (foot ? foot.offsetHeight + 5 : 0)
+        - 18;
+
+      headline.style.overflow = 'hidden';
+      headline.style.display = '-webkit-box';
+      headline.style.webkitBoxOrient = 'vertical';
+
+      let minSize = 14;
+      let maxSize = 34;
+      let bestSize = minSize;
+      let bestLines = 2;
+
+      while (minSize <= maxSize) {
+        const mid = Math.floor((minSize + maxSize) / 2);
+        const lineH = mid * 1.1;
+        const lines = Math.max(2, Math.floor(availH / lineH));
+
+        headline.style.fontSize = mid + 'px';
+        headline.style.lineHeight = '1.1';
+        headline.style.webkitLineClamp = String(lines);
+
+        const fits = headline.scrollHeight <= headline.clientHeight + 2;
+
+        if (fits) {
+          bestSize = mid;
+          bestLines = lines;
+          minSize = mid + 1;
+        } else {
+          maxSize = mid - 1;
+        }
       }
+
+      headline.style.fontSize = bestSize + 'px';
+      headline.style.lineHeight = '1.1';
+      headline.style.webkitLineClamp = String(bestLines);
     }
-    
-    headline.style.fontSize = bestSize + 'px';
-    headline.style.lineHeight = '1.1';
-    headline.style.webkitLineClamp = String(bestLines);
+
+    // BACK: fit summary to card
+    const back = card.querySelector('.card-back');
+    const summary = card.querySelector('.back-summary');
+    const sourcesBlock = card.querySelector('.back-sources');
+    const backHint = card.querySelector('.back-hint');
+
+    if (back && summary) {
+      const availBackH = back.clientHeight
+        - (sourcesBlock ? sourcesBlock.offsetHeight + 8 : 0)
+        - (backHint ? backHint.offsetHeight + 5 : 0)
+        - 18;
+
+      summary.style.overflow = 'hidden';
+      summary.style.display = '-webkit-box';
+      summary.style.webkitBoxOrient = 'vertical';
+
+      let minSize = 13;
+      let maxSize = 24;
+      let bestSize = minSize;
+      let bestLines = 3;
+
+      while (minSize <= maxSize) {
+        const mid = Math.floor((minSize + maxSize) / 2);
+        const lineH = mid * 1.35;
+        const lines = Math.max(3, Math.floor(availBackH / lineH));
+
+        summary.style.fontSize = mid + 'px';
+        summary.style.lineHeight = '1.35';
+        summary.style.webkitLineClamp = String(lines);
+
+        const fits = summary.scrollHeight <= summary.clientHeight + 2;
+
+        if (fits) {
+          bestSize = mid;
+          bestLines = lines;
+          minSize = mid + 1;
+        } else {
+          maxSize = mid - 1;
+        }
+      }
+
+      summary.style.fontSize = bestSize + 'px';
+      summary.style.lineHeight = '1.35';
+      summary.style.webkitLineClamp = String(bestLines);
+    }
   });
 
   return card;
