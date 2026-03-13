@@ -1,294 +1,227 @@
 {
-  "published_at": "2026-03-12T23:05:48.967783+00:00",
-  "story_count": 10,
+  "published_at": "2026-03-13T11:38:58.343299+00:00",
+  "story_count": 8,
   "stories": [
     {
       "rank": 1,
-      "headline": "Tracking the wave of ship attacks that has choked off Strait of Hormuz",
-      "summary": "Tracking the wave of ship attacks that has choked off Strait of Hormuz. How Iran war laid bare the world's reliance on Gulf oil and gas. How will the war on Iran impact the US economy?",
+      "headline": "French soldier killed and others wounded in attack in Iraq",
+      "summary": "French soldier killed and others wounded in attack in Iraq. Pro-Iran group vows to target French interests.",
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c80j4rln8zmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/french-soldier-killed-and-others-wounded-in-attack-in-iraq?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-leader-calls-for-hormuz-closure-as-oil-price-spikes/live-76315551?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/video/20260313-french-officer-killed-in-drone-attack-in-iraq"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-drone-killed-french-soldier-iraqs-kurdistan-commanding-officer"
         }
       ],
       "regions": [
-        "Australia",
         "France",
-        "Germany",
-        "Global",
-        "Hong Kong",
-        "India",
         "Middle East",
-        "Pakistan",
-        "Qatar",
-        "UK",
-        "US"
+        "Qatar"
       ],
-      "score": 211.2,
-      "mentions": 24,
-      "diversity": 11
+      "score": 25.2,
+      "mentions": 9,
+      "diversity": 3
     },
     {
       "rank": 2,
-      "headline": "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US",
-      "summary": "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US. Suspect shot dead after crashing truck into Michigan synagogue.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/12/fbi-reports-active-shooter-situation-at-detroit-area-synagogue-in-the-us?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/suspect-killed-after-attack-on-detroit-area-synagogue/a-76337922?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260312-man-fatally-shot-after-ramming-vehicle-into-michigan-synagogue"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Germany",
-        "Hong Kong",
-        "Pakistan",
-        "Qatar",
-        "US"
-      ],
-      "score": 50.4,
-      "mentions": 9,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "Iran’s New Supreme Leader (Sort Of) Speaks Out",
-      "summary": "Iran’s New Supreme Leader (Sort Of) Speaks Out Iran’'s new supreme leader issues first statement since his appointment. Iran's supreme leader vows to fight on.",
+      "headline": "Four crew members killed after US refuelling plane crashes in Iraq",
+      "summary": "Four crew members killed after US refuelling plane crashes in Iraq. Four crew confirmed dead after US military plane crash in Iraq, US military says.",
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0n6b2hm?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/irans-new-supreme-leader-issues-first-statement?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260312-iran-s-supreme-leader-issues-first-statement-since-his-appointment"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Pakistan",
-        "Qatar",
-        "UK"
-      ],
-      "score": 22.0,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 4,
-      "headline": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon",
-      "summary": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon. Israel launches air attack on Beirut during live Al Jazeera broadcast. Israel attacks central Beirut in escalation of deadly assault on Lebanon.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israel-launches-air-attack-on-beirut-during-live-al-jazeera-broadcast?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260312-israel-strikes-central-beirut-after-threatening-to-expand-lebanon-operations"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Qatar",
-        "UK"
-      ],
-      "score": 21.6,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 5,
-      "headline": "China passes controversial 'ethnic unity' law",
-      "summary": "China’s rubber-stamp parliament set to approve ‘ethnic unity’ law. China passes controversial 'ethnic unity' law.",
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/china-passes-controversial-ethnic-unity-law/a-76331170?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/12/china-ethnic-unity-law-parliament"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/politics/article/3346348/china-codifies-ethnic-assimilation-new-unity-law-it-counters-west?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Asia-Pacific",
-        "Germany",
-        "Hong Kong",
-        "UK"
-      ],
-      "score": 15.2,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "'Not appropriate' for Iran to be at World Cup - Trump",
-      "summary": "'Not appropriate' for Iran to be at World Cup - Trump. Trump says Iran team would risk their 'life and safety' by playing in World Cup.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/sport/football/articles/c9q5rvp58yxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/12/trump-says-not-appropriate-for-iran-to-participate-in-the-world-cup-in-us?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/sport/20260312-trump-discourages-iran-from-attending-world-cup-for-own-life-and-safety"
-        }
-      ],
-      "regions": [
-        "France",
-        "Middle East",
-        "Qatar",
-        "UK"
-      ],
-      "score": 14.8,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "US military announces rescue effort after fueling aircraft crashes in Iraq",
-      "summary": "US military announces rescue effort after fueling aircraft crashes in Iraq. Rescue effort under way as US military refueling plane crashed in Iraq, rescue efforts are under way.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss"
+          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
           "link": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3346421/us-military-refuelling-plane-crashes-iraq-rescue-efforts-are-under-way?utm_source=rss_feed"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/13/g-s1-113563/us-iran-war"
         }
       ],
       "regions": [
         "Hong Kong",
         "Middle East",
-        "Qatar",
-        "UK"
-      ],
-      "score": 12.4,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Gunman, one victim dead in shooting at Old Dominion University in US",
-      "summary": "Gunman, one victim dead in shooting at Old Dominion University in US. Fatal shooting at Virginia university investigated as act of terrorism, FBI says.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/12/two-in-critical-condition-after-shooting-at-old-dominion-university-in-us?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/12/old-dominion-university-shooting-suspect"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
-        }
-      ],
-      "regions": [
-        "Hong Kong",
-        "Qatar",
+        "Pakistan",
         "UK",
         "US"
       ],
-      "score": 12.4,
-      "mentions": 4,
-      "diversity": 4
+      "score": 22.5,
+      "mentions": 6,
+      "diversity": 5
     },
     {
-      "rank": 9,
-      "headline": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
-      "summary": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war. Trump administration under attack from all sides for flip-flopping on Iran war.",
+      "rank": 3,
+      "headline": "Suspect dead after ramming vehicle into Michigan synagogue",
+      "summary": "Suspect dead after ramming vehicle into Michigan synagogue. Suspect killed after attack on Detroit-area synagogue.",
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/12/iran-vows-to-make-trump-pay-for-grave-miscalculation-if-us-escalates-war?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-administration-under-attack-all-sides-flip-flopping-iran-war"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/suspect-killed-after-attack-on-detroit-area-synagogue/a-76337922?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/middle-east/how-trump-and-his-advisers-miscalculated-iran-s-response-to-war-20260312-p5o9o9.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1981645/assailant-dead-after-ramming-vehicle-into-michigan-synagogue"
         }
       ],
       "regions": [
         "Australia",
+        "Germany",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 19.2,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Over two dozen killed across Lebanon as Israel targets Beirut, south, east",
+      "summary": "Over two dozen killed across Lebanon as Israel targets Beirut, south, east. Israel widens Lebanon bombing campaign to target north and central Beirut.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/israel-widens-lebanon-bombing-campaign-to-target-north-and-central-beirut"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-killed-israeli-strike-south-lebanon-village-health-ministry-says"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "France",
         "Middle East",
         "Qatar"
       ],
-      "score": 11.4,
-      "mentions": 5,
-      "diversity": 3
+      "score": 19.2,
+      "mentions": 6,
+      "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "Artemis II: Nasa targets early April for Moon mission",
-      "summary": "Artemis II: Nasa targets early April for Moon mission. NASA targets Artemis II crewed moon mission for April 1 launch.",
+      "rank": 5,
+      "headline": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz",
+      "summary": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz.",
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/artemis-ii-launch-on-track-for-as-soon-as-april-says-nasa/a-76339333?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/iran-leader-calls-for-hormuz-closure-as-oil-price-spikes/live-76315551?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
         }
       ],
       "regions": [
         "Germany",
+        "Global",
+        "Pakistan",
+        "Qatar",
+        "US"
+      ],
+      "score": 19.0,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Iran war: What is happening on day 14 of US-Israel attacks?",
+      "summary": "Iran war: What is happening on day 14 of US-Israel attacks? Iranian missile strikes residential area in northern Israel. IEA to release 400 million barrels of oil.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/us-iran-war-live-updates-israeli-attacks-on-lebanon-spark-humanitarian-crisis-one-iranian-soccer-player-reverses-asylum-decision-and-will-return-home-20260311-p5o9mw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "France",
+        "Qatar"
+      ],
+      "score": 11.1,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Trump issues fresh Iran warning, calling regime ‘deranged scumbags’ – US politics live",
+      "summary": "Trump issues fresh Iran warning, calling regime ‘deranged scumbags’ – US politics live Oil Prices Rise Despite Trump’s Decision to Lift Russia Sanctions US lifts sanctions on Russian oil as Trump derides Iran's leaders as 'derangedScumbags",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/us-lifts-sanctions-on-russian-oil-as-iran-s-leader-vows-to-keep-blocking-key-shipping-strait-20260313-p5oa9a.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
         "UK",
         "US"
       ],
-      "score": 10.2,
+      "score": 8.4,
       "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Iran’s New Supreme Leader (Sort Of) Speaks Out",
+      "summary": "Iran’s New Supreme Leader (Sort Of) Speaks Out In first public comments, Iran’S supreme leader pledges to keep fighting. Iran's supreme leader vows to fight on",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6b2hm?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/video/20260313-in-first-public-comments-iran-s-supreme-leader-pledges-to-keep-fighting"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/irans-supreme-leader-vows-to-fight-on-20260313-p5oa2y.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "France",
+        "UK"
+      ],
+      "score": 8.1,
+      "mentions": 3,
       "diversity": 3
     }
   ]
