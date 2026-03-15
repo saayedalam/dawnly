@@ -1,291 +1,227 @@
 {
-  "published_at": "2026-03-14T10:39:24.482316+00:00",
-  "story_count": 10,
+  "published_at": "2026-03-15T10:40:45.171317+00:00",
+  "story_count": 8,
   "stories": [
     {
       "rank": 1,
-      "headline": "The Week: Jeremy Bowen On The Iran War",
-      "summary": "The Week: Jeremy Bowen On The Iran War Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran. Iran continues intensified attacks across Gulf in US-Israel war fallout.",
+      "headline": "Iran war: What is happening on day 16 of US-Israel attacks?",
+      "summary": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz. Israel says it has launched ‘extensive strikes’ on Iran as Trump says US ‘not ready’ to make a deal to end war",
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0n6g293?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-trump-says-peace-deal-terms-not-good-enough-yet/live-76363921?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/donald-trump-says-will-open-strait-of-hormuz-one-way-or-another"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "France",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Qatar",
+        "UK"
+      ],
+      "score": 101.6,
+      "mentions": 16,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+      "summary": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’ Why did the US military bomb the strategic Iranian island of Kharg? What is its significance for Iran?",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/video/20260314-why-did-the-us-military-bomb-the-strategic-iranian-island-of-kharg"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "France",
+        "Global",
+        "Qatar",
+        "UK"
+      ],
+      "score": 31.0,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+      "summary": "BBC visits aftermath of Israeli strike on Lebanon that killed family. Israeli strike kills 12 healthcare workers in southern Lebanon. Iranian strikes, Hezbollah rockets make regular life in Israel ‘simply impossible’",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/iranian-strikes-hezbollah-rockets-make-regular-life-in-israel-simply-impossible"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers"
+        }
+      ],
+      "regions": [
+        "France",
+        "Middle East",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 30.0,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "US vs. Iran: Three generations of conflict",
+      "summary": "Iran war exposes fragility of Gulf-Asia supply chains. Iran war is recalibrating Central Asian ties. Iran’s asymmetric warfare.",
+      "sources": [
+        {
+          "name": "Deutsche Welle",
           "link": "https://www.dw.com/en/us-vs-iran-three-generations-of-conflict/a-76354324?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/economics/article/3346627/iran-war-exposes-fragility-gulf-asia-supply-chains?utm_source=rss_feed"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1982272/irans-asymmetric-warfare"
         }
       ],
       "regions": [
         "Asia-Pacific",
-        "France",
-        "Germany",
-        "Global",
-        "Middle East",
-        "Pakistan",
-        "Qatar",
-        "UK",
-        "US"
-      ],
-      "score": 142.2,
-      "mentions": 20,
-      "diversity": 9
-    },
-    {
-      "rank": 2,
-      "headline": "Watch: Why Kharg Island is a lifeline for Iran",
-      "summary": "US attacks military sites on Iran’s Kharg island, home to vast oil facility. Trump posts bombing video after saying US hit Kharg Island.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-us-strikes-key-kharg-island-oil-export-hub-trump-says/live-76356584?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Canada",
-        "France",
-        "Germany",
-        "Global",
-        "Hong Kong",
-        "Middle East",
-        "Qatar",
-        "UK",
-        "US"
-      ],
-      "score": 127.0,
-      "mentions": 16,
-      "diversity": 10
-    },
-    {
-      "rank": 3,
-      "headline": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
-      "summary": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell. Judge blocks DOJ's criminal probe of Federal Reserve, blasting it as political.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-judge-quashes-subpoenas-in-doj-s-federal-reserve-case/a-76356448?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260313-us-judge-quashes-subpoenas-in-justice-department-s-probe-of-fed-chair-powell"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "France",
         "Germany",
         "Hong Kong",
-        "Qatar",
-        "UK",
-        "US"
+        "Pakistan"
       ],
-      "score": 40.6,
-      "mentions": 7,
-      "diversity": 7
-    },
-    {
-      "rank": 4,
-      "headline": "North Korea fires ballistic missiles as US-South Korea hold military drills",
-      "summary": "North Korea fires ballistic missiles as US-South Korea hold military drills. North Korea fired 10 ballistic missiles, says Seoul.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/14/north-korea-fires-ballistic-missiles-as-us-south-korea-hold-military-drills?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/north-korea-fired-10-ballistic-missiles-says-seoul/a-76357499?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/east-asia/article/3346587/north-korea-fires-10-ballistic-missiles-during-us-south-korea-military-drills?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Pakistan",
-        "Qatar"
-      ],
-      "score": 20.5,
+      "score": 15.2,
       "mentions": 5,
-      "diversity": 5
+      "diversity": 4
     },
     {
       "rank": 5,
-      "headline": "US-Israeli strikes damage Iran's cultural heritage sites",
-      "summary": "US-Israeli strikes damage Iran's cultural heritage sites. Iran says museums and historic sites damaged in war. IRGC says strikes destroyed Israeli northern command infrastructure.",
+      "headline": "France: Far-right strength put to test in local elections",
+      "summary": "France votes in local elections seen as crucial indicator for presidential poll. 2027 presidential race looms large in France's municipal elections.",
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-israeli-strikes-damage-iran-s-cultural-heritage-sites/a-76350565?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/france-far-right-strength-put-to-test-in-local-elections/a-76364642?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strikes-damaged-36500-civilian-units-across-iran-red-crescent"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/middle-east/damage-to-historical-sites-in-iran-raises-alarm-about-wars-impact-on-protected-places-20260312-p5o9ya.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Germany",
-        "Middle East"
-      ],
-      "score": 13.5,
-      "mentions": 6,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-      "summary": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor. ‘Deliberate attack’: explosion damages Jewish school in Amsterdam.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/amsterdam-jewish-school-targeted-in-attack/a-76358579?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/french-parties-test-strategies-in-municipal-elections-ahead-of-2027-presidential-poll"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/14/deliberate-attack-explosion-damages-jewish-school-in-amsterdam"
+          "link": "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator"
         }
       ],
       "regions": [
-        "Canada",
+        "France",
         "Germany",
         "UK"
       ],
-      "score": 10.2,
+      "score": 11.1,
       "mentions": 4,
       "diversity": 3
     },
     {
-      "rank": 7,
-      "headline": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
-      "summary": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad. Middle East war live: Projectile strikes US embassy in Baghdad.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/middle-east/20260314-middle-east-war-live-iran-threatens-retaliation-as-trump-says-us-obliterated-targets-on-kharg-island"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-hits-helipad-us-embassy-compound-baghdad-officials-say"
-        }
-      ],
-      "regions": [
-        "France",
-        "Middle East",
-        "Qatar"
-      ],
-      "score": 8.1,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 8,
-      "headline": "US eases oil sanctions at an ideal time for Russia",
-      "summary": "US eases oil sanctions at an ideal time for Russia. How will Russia benefit from US decision to ease oil sanctions?",
+      "rank": 6,
+      "headline": "Cuba: Protesters attack ruling party's office amid blackouts",
+      "summary": "Five arrested in Cuba after protest at local Communist party office. Cuba: Protesters attack ruling party's office amid blackouts.",
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-eases-oil-sanctions-at-an-ideal-time-for-russia/a-76349758?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/cuba-protesters-attack-ruling-party-s-office-amid-blackouts/a-76363513?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/europe/20260313-how-will-russia-benefit-from-us-decision-to-ease-oil-sanctions"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/middle-east/us-lifts-sanctions-on-russian-oil-as-iran-s-leader-vows-to-keep-blocking-key-shipping-strait-20260313-p5oa9a.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Germany"
-      ],
-      "score": 8.1,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "As 800,000 flee, half of Lebanon lives in war zones without markets, supplies or healthcare",
-      "summary": "As 800,000 flee, half of Lebanon lives in war zones without markets, supplies or healthcare. Aid groups warn of humanitarian crisis in Lebanon as nearly 1 million displaced by war.",
-      "sources": [
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/as-800-000-flee-half-of-lebanon-lives-in-war-zones-without-markets-supplies-or-healthcare"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/14/arrests-cuba-protest-local-communist-party-office"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3346600/aid-groups-warn-humanitarian-crisis-lebanon-nearly-1-million-displaced-war?utm_source=rss_feed"
-        },
-        {
-          "name": "Toronto Star",
-          "link": "https://www.thestar.com/news/world/middle-east/war-has-already-displaced-nearly-a-million-lebanese-and-aid-groups-warn-of-a-humanitarian/article_b370d9ef-b79c-51d4-8e38-9868eed30891.html"
+          "link": "https://www.scmp.com/news/world/americas/article/3346624/protesters-cuba-attack-communist-party-office-amid-blackout-fury?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Canada",
-        "France",
-        "Hong Kong"
+        "Germany",
+        "Hong Kong",
+        "UK"
       ],
       "score": 7.2,
       "mentions": 3,
       "diversity": 3
     },
     {
-      "rank": 10,
-      "headline": "Who is Pakistan supporting in Iran war?",
-      "summary": "Who is Pakistan supporting in Iran war? Why India Is Right to Support the US and Israel in the Iran War. Iran War Puts India in Tricky Position.",
+      "rank": 7,
+      "headline": "Celebrated philosopher Jürgen Habermas dies aged 96",
+      "summary": "Jürgen Habermas, German philosopher and sociologist, dies aged 96. Celebrated philosopher Jurgen Haberma shaped Germany’s post-war conscience.",
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/who-is-pakistan-supporting-in-iran-war/a-76350034?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/celebrated-philosopher-jürgen-habermas-dies-aged-96/a-76361563?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Diplomat",
-          "link": "https://thediplomat.com/2026/03/why-india-is-right-to-support-the-us-and-israel-in-the-iran-war/"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/14/jurgen-habermas-german-philosopher-and-sociologist-dies-aged-96"
         },
         {
-          "name": "Foreign Policy",
-          "link": "https://foreignpolicy.com/2026/03/13/india-iran-war-us-trump-landau-ship-sinking/"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3346630/jurgen-habermas-philosopher-who-shaped-germanys-post-war-conscience-dies-96?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Asia-Pacific",
         "Germany",
-        "Global"
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 7.2,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "US names six crew killed in refuelling plane crash in Iraq",
+      "summary": "US names six crew killed in refuelling plane crash in Iraq. Pentagon Names 6 Military Members Killed in Iraq Tanker Crash.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
+        },
+        {
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/03/13/us-troops-killed-refueling-aircraft-crash-iraq-iran-war-oil-strait-hormuz/"
+        }
+      ],
+      "regions": [
+        "Global",
+        "UK",
+        "US"
       ],
       "score": 6.3,
       "mentions": 3,
