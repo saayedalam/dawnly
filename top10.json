@@ -1,231 +1,265 @@
 {
-  "published_at": "2026-03-15T10:40:45.171317+00:00",
-  "story_count": 8,
+  "published_at": "2026-03-16T11:03:23.828835+00:00",
+  "story_count": 9,
   "stories": [
     {
       "rank": 1,
-      "headline": "Iran war: What is happening on day 16 of US-Israel attacks?",
-      "summary": "Iran threatens to escalate war after Trump says ‘many countries’ will send warships to strait of Hormuz. Israel says it has launched ‘extensive strikes’ on Iran as Trump says US ‘not ready’ to make a deal to end war",
+      "headline": "Nobody wants to get involved’ in Strait of Hormuz military operations",
+      "summary": "Nobody wants to get involved’ in Strait of Hormuz military operations. Trump steps up pressure on European allies to help protect strait.",
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-trump-says-peace-deal-terms-not-good-enough-yet/live-76363921?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/iran-war-trump-dials-up-the-pressure-to-secure-hormuz/live-76369891?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/donald-trump-says-will-open-strait-of-hormuz-one-way-or-another"
+          "link": "https://www.france24.com/en/trump-calls-for-help-on-securing-strait-of-hormuz-as-oil-prices-surge"
         }
       ],
       "regions": [
         "Australia",
         "France",
         "Germany",
-        "Hong Kong",
         "Middle East",
         "Pakistan",
         "Qatar",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 101.6,
-      "mentions": 16,
+      "score": 74.4,
+      "mentions": 12,
       "diversity": 8
     },
     {
       "rank": 2,
-      "headline": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
-      "summary": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’ Why did the US military bomb the strategic Iranian island of Kharg? What is its significance for Iran?",
+      "headline": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
+      "summary": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars. Historic firsts, emotional speeches, and a tie.",
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/16/one-battle-after-anothers-big-night-key-takeaways-from-the-2026-oscars?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/oscars-2026-all-the-political-moments/a-76374704?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "regions": [
+        "France",
+        "Germany",
+        "Qatar",
+        "UK",
+        "US"
+      ],
+      "score": 62.5,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "What Iranians are being told about the war",
+      "summary": "What Iranians are being told about the war. Map shows how 16 days of attacks have evolved in US-Israel war.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/16/map-shows-how-16-days-of-attacks-have-evolved-in-us-israel-war-on-iran?traffic_source=rss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260314-why-did-the-us-military-bomb-the-strategic-iranian-island-of-kharg"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub"
+          "link": "https://www.france24.com/en/middle-east/20260316-middle-east-war-live-us-iran-talks-trump-says-no-deal-yet"
         }
       ],
       "regions": [
         "Australia",
         "France",
-        "Global",
+        "Middle East",
+        "Pakistan",
         "Qatar",
         "UK"
       ],
-      "score": 31.0,
-      "mentions": 8,
-      "diversity": 5
-    },
-    {
-      "rank": 3,
-      "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-      "summary": "BBC visits aftermath of Israeli strike on Lebanon that killed family. Israeli strike kills 12 healthcare workers in southern Lebanon. Iranian strikes, Hezbollah rockets make regular life in Israel ‘simply impossible’",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/iranian-strikes-hezbollah-rockets-make-regular-life-in-israel-simply-impossible"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers"
-        }
-      ],
-      "regions": [
-        "France",
-        "Middle East",
-        "Pakistan",
-        "UK"
-      ],
-      "score": 30.0,
+      "score": 45.0,
       "mentions": 9,
-      "diversity": 4
+      "diversity": 6
     },
     {
       "rank": 4,
-      "headline": "US vs. Iran: Three generations of conflict",
-      "summary": "Iran war exposes fragility of Gulf-Asia supply chains. Iran war is recalibrating Central Asian ties. Iran’s asymmetric warfare.",
+      "headline": "Israeli strike on Gaza police kills officers",
+      "summary": "Israeli strike on Gaza police kills officers. Israeli police kill two young Palestinian boys and their parents. Israeli troops kill 4 in Palestinian family in West Bank.",
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-vs-iran-three-generations-of-conflict/a-76354324?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-strike-on-gaza-police-kills-officers?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/economics/article/3346627/iran-war-exposes-fragility-gulf-asia-supply-chains?utm_source=rss_feed"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1982272/irans-asymmetric-warfare"
-        }
-      ],
-      "regions": [
-        "Asia-Pacific",
-        "Germany",
-        "Hong Kong",
-        "Pakistan"
-      ],
-      "score": 15.2,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 5,
-      "headline": "France: Far-right strength put to test in local elections",
-      "summary": "France votes in local elections seen as crucial indicator for presidential poll. 2027 presidential race looms large in France's municipal elections.",
-      "sources": [
-        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/france-far-right-strength-put-to-test-in-local-elections/a-76364642?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/israeli-troops-kill-4-in-palestinian-family-in-west-bank/a-76366659?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/french-parties-test-strategies-in-municipal-elections-ahead-of-2027-presidential-poll"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator"
+          "link": "https://www.france24.com/en/israeli-forces-kill-four-in-a-car-in-west-bank"
         }
       ],
       "regions": [
+        "Australia",
         "France",
         "Germany",
+        "Pakistan",
+        "Qatar",
         "UK"
       ],
-      "score": 11.1,
-      "mentions": 4,
-      "diversity": 3
+      "score": 36.6,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
+      "summary": "Iran captain latest footballer to drop asylum bid, Iranian state media says. Captain of Iranian women’s football team leaves Australia after initially accepting offer of asylum. 5th member of Iranian woman's soccer team gives up asylum in Australia.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-says-women-s-soccer-captain-drops-australia-asylum-bid/a-76367156?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/mar/16/fifth-iranian-football-player-leaves-australia-after-initially-accepting-offer-of-asylum"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "UK",
+        "US"
+      ],
+      "score": 33.0,
+      "mentions": 7,
+      "diversity": 6
     },
     {
       "rank": 6,
-      "headline": "Cuba: Protesters attack ruling party's office amid blackouts",
-      "summary": "Five arrested in Cuba after protest at local Communist party office. Cuba: Protesters attack ruling party's office amid blackouts.",
+      "headline": "Ten killed in fire at India hospital intensive care unit",
+      "summary": "Ten killed in fire at India hospital intensive care unit. 10 patients killed in major fire at Cuttack’s SCB Medical College Hospital.",
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cuba-protesters-attack-ruling-party-s-office-amid-blackouts/a-76363513?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c363gpe3exjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/14/arrests-cuba-protest-local-communist-party-office"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/16/fire-at-india-hospital-intensive-care-unit-kills-10-people?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3346624/protesters-cuba-attack-communist-party-office-amid-blackout-fury?utm_source=rss_feed"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/odisha/scb-hospital-cuttack-fire-deaths-march-16-2026/article70748499.ece"
         }
       ],
       "regions": [
-        "Germany",
-        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Qatar",
         "UK"
       ],
-      "score": 7.2,
-      "mentions": 3,
-      "diversity": 3
+      "score": 13.6,
+      "mentions": 4,
+      "diversity": 4
     },
     {
       "rank": 7,
-      "headline": "Celebrated philosopher Jürgen Habermas dies aged 96",
-      "summary": "Jürgen Habermas, German philosopher and sociologist, dies aged 96. Celebrated philosopher Jurgen Haberma shaped Germany’s post-war conscience.",
+      "headline": "Mexico sets world record for biggest football lesson",
+      "summary": "Mexico sets world record for biggest football lesson. Mexico City sets world Record for the largest soccer class.",
       "sources": [
         {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/mexico-sets-world-record-for-biggest-football-lesson?traffic_source=rss"
+        },
+        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/celebrated-philosopher-jürgen-habermas-dies-aged-96/a-76361563?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/mexico-city-sets-world-record-for-largest-soccer-class/a-76371614?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/14/jurgen-habermas-german-philosopher-and-sociologist-dies-aged-96"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3346630/jurgen-habermas-philosopher-who-shaped-germanys-post-war-conscience-dies-96?utm_source=rss_feed"
+          "name": "Toronto Star",
+          "link": "https://www.thestar.com/news/world/americas/mexico-city-sets-the-world-record-for-the-largest-soccer-class/article_87dbed5f-626c-5ecc-bf8d-21f3487b5f53.html"
         }
       ],
       "regions": [
+        "Canada",
         "Germany",
-        "Hong Kong",
-        "UK"
+        "Qatar"
       ],
-      "score": 7.2,
+      "score": 8.1,
       "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 8,
-      "headline": "US names six crew killed in refuelling plane crash in Iraq",
-      "summary": "US names six crew killed in refuelling plane crash in Iraq. Pentagon Names 6 Military Members Killed in Iraq Tanker Crash.",
+      "headline": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks",
+      "summary": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks. Emirates reroutes flights after drone attack on Dubai’s airport.",
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/16/drone-strike-disrupts-dubai-flights-as-iran-continues-gulf-attacks?traffic_source=rss"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57"
         },
         {
-          "name": "Foreign Policy",
-          "link": "https://foreignpolicy.com/2026/03/13/us-troops-killed-refueling-aircraft-crash-iraq-iran-war-oil-strait-hormuz/"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3346748/dubai-flights-disrupted-after-drone-attack-near-airport-missile-kills-1-abu-dhabi?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Global",
-        "UK",
-        "US"
+        "Hong Kong",
+        "Qatar",
+        "UK"
       ],
-      "score": 6.3,
+      "score": 7.2,
       "mentions": 3,
       "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados",
+      "summary": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados.",
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/16/weather/tornadoes-storms-maryland-virginia-delaware-dc-forecast.html"
+        },
+        {
+          "name": "Toronto Star",
+          "link": "https://www.thestar.com/news/world/united-states/severe-storms-pummel-parts-of-us-with-snow-and-high-winds-and-raise-tornado-threat/article_15c39377-904e-5ec9-b18f-6696c2e6b615.html"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "US"
+      ],
+      "score": 5.6,
+      "mentions": 4,
+      "diversity": 2
     }
   ]
 }
