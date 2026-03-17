@@ -1,265 +1,260 @@
 {
-  "published_at": "2026-03-16T11:03:23.828835+00:00",
+  "published_at": "2026-03-17T11:00:19.398975+00:00",
   "story_count": 9,
   "stories": [
     {
       "rank": 1,
-      "headline": "Nobody wants to get involved’ in Strait of Hormuz military operations",
-      "summary": "Nobody wants to get involved’ in Strait of Hormuz military operations. Trump steps up pressure on European allies to help protect strait.",
+      "headline": "Israel says 'limited' ground operations under way in Lebanon",
+      "summary": "Israel says 'limited' ground operations under way in Lebanon. Israel says Iran’s security chief Larijani has been killed.",
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/israel-says-irans-security-chief-larijani-has-been-killed?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-trump-dials-up-the-pressure-to-secure-hormuz/live-76369891?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/trump-calls-for-help-on-securing-strait-of-hormuz-as-oil-prices-surge"
+          "link": "https://www.dw.com/en/iran-war-israel-says-iran-security-chief-basij-head-killed/live-76387955?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
         "Australia",
         "France",
         "Germany",
+        "Hong Kong",
         "Middle East",
-        "Pakistan",
         "Qatar",
         "UK",
         "US"
       ],
-      "score": 74.4,
-      "mentions": 12,
+      "score": 144.8,
+      "mentions": 22,
       "diversity": 8
     },
     {
       "rank": 2,
-      "headline": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
-      "summary": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars. Historic firsts, emotional speeches, and a tie.",
+      "headline": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
+      "summary": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan. Afghanistan says 400 killed in strike by Pakistan on Kabul hospital.",
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/16/one-battle-after-anothers-big-night-key-takeaways-from-the-2026-oscars?traffic_source=rss"
+          "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/oscars-2026-all-the-political-moments/a-76374704?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/400-killed-in-pakistani-strike-on-kabul-hospital-taliban/a-76388222?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/asia-pacific/20260317-like-doomsday-pakistan-air-strike-kills-at-least-400-in-kabul-drug-rehab-centre-taliban-says"
         }
       ],
       "regions": [
         "France",
         "Germany",
-        "Qatar",
+        "Pakistan",
         "UK",
         "US"
       ],
-      "score": 62.5,
-      "mentions": 14,
+      "score": 37.5,
+      "mentions": 9,
       "diversity": 5
     },
     {
       "rank": 3,
-      "headline": "What Iranians are being told about the war",
-      "summary": "What Iranians are being told about the war. Map shows how 16 days of attacks have evolved in US-Israel war.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/16/map-shows-how-16-days-of-attacks-have-evolved-in-us-israel-war-on-iran?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/middle-east/20260316-middle-east-war-live-us-iran-talks-trump-says-no-deal-yet"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Middle East",
-        "Pakistan",
-        "Qatar",
-        "UK"
-      ],
-      "score": 45.0,
-      "mentions": 9,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "Israeli strike on Gaza police kills officers",
-      "summary": "Israeli strike on Gaza police kills officers. Israeli police kill two young Palestinian boys and their parents. Israeli troops kill 4 in Palestinian family in West Bank.",
+      "headline": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war",
+      "summary": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war. US embassy in Baghdad attacked as Iraq pulled deeper into Mideast war. Missiles and drone attacks across the UAE as Iran presses on with air campaign in Gulf.",
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-strike-on-gaza-police-kills-officers?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/israeli-troops-kill-4-in-palestinian-family-in-west-bank/a-76366659?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.aljazeera.com/news/2026/3/17/drone-sparks-fire-at-uae-oil-site-as-gulf-takes-more-hits-amid-iran-war?traffic_source=rss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/israeli-forces-kill-four-in-a-car-in-west-bank"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Germany",
-        "Pakistan",
-        "Qatar",
-        "UK"
-      ],
-      "score": 36.6,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
-      "summary": "Iran captain latest footballer to drop asylum bid, Iranian state media says. Captain of Iranian women’s football team leaves Australia after initially accepting offer of asylum. 5th member of Iranian woman's soccer team gives up asylum in Australia.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-says-women-s-soccer-captain-drops-australia-asylum-bid/a-76367156?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.france24.com/en/video/20260317-us-embassy-in-baghdad-attacked-as-iraq-pulled-deeper-into-mideast-war"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/australia-news/2026/mar/16/fifth-iranian-football-player-leaves-australia-after-initially-accepting-offer-of-asylum"
+          "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets"
         }
       ],
       "regions": [
         "Australia",
-        "Canada",
-        "Germany",
+        "France",
         "Hong Kong",
-        "UK",
-        "US"
-      ],
-      "score": 33.0,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 6,
-      "headline": "Ten killed in fire at India hospital intensive care unit",
-      "summary": "Ten killed in fire at India hospital intensive care unit. 10 patients killed in major fire at Cuttack’s SCB Medical College Hospital.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c363gpe3exjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/16/fire-at-india-hospital-intensive-care-unit-kills-10-people?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/odisha/scb-hospital-cuttack-fire-deaths-march-16-2026/article70748499.ece"
-        }
-      ],
-      "regions": [
-        "India",
-        "Pakistan",
         "Qatar",
         "UK"
       ],
-      "score": 13.6,
-      "mentions": 4,
-      "diversity": 4
+      "score": 25.5,
+      "mentions": 6,
+      "diversity": 5
     },
     {
-      "rank": 7,
-      "headline": "Mexico sets world record for biggest football lesson",
-      "summary": "Mexico sets world record for biggest football lesson. Mexico City sets world Record for the largest soccer class.",
+      "rank": 4,
+      "headline": "Strait talk on Hormuz: Insults, chaos, shadow of Iraq, keep Trump's allies at bay?",
+      "summary": "Will the strait of Hormuz torpedo Trump’s war? – podcast Strait talk onHormuz: Insults, chaos, shadow of Iraq, keep Trump's allies at bay?",
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/mexico-sets-world-record-for-biggest-football-lesson?traffic_source=rss"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/the-debate/20260316-strait-talk-on-hormuz-insults-chaos-shadow-of-iraq-keep-trump-s-allies-at-bay"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/mexico-city-sets-world-record-for-largest-soccer-class/a-76371614?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/mar/17/will-the-strait-of-hormuz-torpedo-trumps-war-podcast"
         },
         {
-          "name": "Toronto Star",
-          "link": "https://www.thestar.com/news/world/americas/mexico-city-sets-the-world-record-for-the-largest-soccer-class/article_87dbed5f-626c-5ecc-bf8d-21f3487b5f53.html"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3346756/south-korea-catch-22-situation-over-trumps-call-warships-secure-hormuz?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Canada",
+        "Australia",
+        "France",
+        "Hong Kong",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 19.0,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Millions without electricity as Cuba's power grid collapses",
+      "summary": "Millions without electricity as Cuba's power grid collapses. Cuba hit by island-wide blackout amid Trump oil blockade.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cuba-hit-by-island-wide-blackout-amid-trump-oil-blockade/a-76385816?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/americas/20260316-cuba-hit-by-blackout-power-grid-crisis"
+        }
+      ],
+      "regions": [
+        "France",
         "Germany",
-        "Qatar"
+        "UK"
+      ],
+      "score": 13.2,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Bereavement author found guilty of fatally poisoning her husband",
+      "summary": "Bereavement author found guilty of fatally poisoning her husband. Woman who wrote book on grief guilty of murdering husband.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/woman-who-wrote-book-on-grief-guilty-of-murdering-husband?traffic_source=rss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/a-mum-wrote-a-children-s-book-about-grief-after-her-husband-died-she-was-just-convicted-of-his-murder-20260317-p5ob7q.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Qatar",
+        "UK"
       ],
       "score": 8.1,
       "mentions": 3,
       "diversity": 3
     },
     {
-      "rank": 8,
-      "headline": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks",
-      "summary": "Drone attack disrupts Dubai flights as Iran continues Gulf attacks. Emirates reroutes flights after drone attack on Dubai’s airport.",
+      "rank": 7,
+      "headline": "Nigeria: At least 23 killed in Maiduguri 'suicide' attacks",
+      "summary": "Nigeria: At least 23 killed in Maiduguri 'suicide' attacks. Suicide attacks in Nigeria kill 23, wound more than 100.",
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/16/drone-strike-disrupts-dubai-flights-as-iran-continues-gulf-attacks?traffic_source=rss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-at-least-23-killed-in-maiduguri-suicide-attacks/a-76389982?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3346748/dubai-flights-disrupted-after-drone-attack-near-airport-missile-kills-1-abu-dhabi?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/world/africa/article/3346862/suicide-attacks-nigeria-kill-23-wound-more-100?utm_source=rss_feed"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1982999/nigeria-suicide-attacks-kill-23-wound-more-than-100"
         }
       ],
       "regions": [
+        "Germany",
         "Hong Kong",
-        "Qatar",
-        "UK"
+        "Pakistan"
       ],
       "score": 7.2,
       "mentions": 3,
       "diversity": 3
     },
     {
-      "rank": 9,
-      "headline": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados",
-      "summary": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados.",
+      "rank": 8,
+      "headline": "Oil eases amid signs Iran is allowing some tankers to pass through Strait of Hormuz",
+      "summary": "Oil eases amid signs Iran is allowing some tankers to pass through Strait of Hormuz.",
       "sources": [
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/business/20260316-oil-eases-amid-signs-iran-is-allowing-some-tankers-pass-through-strait-of-hormuz"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/16/weather/tornadoes-storms-maryland-virginia-delaware-dc-forecast.html"
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bloomberg-iran-allows-turkish-and-indian-ships-pass-through-hormuz"
         },
         {
-          "name": "Toronto Star",
-          "link": "https://www.thestar.com/news/world/united-states/severe-storms-pummel-parts-of-us-with-snow-and-high-winds-and-raise-tornado-threat/article_15c39377-904e-5ec9-b18f-6696c2e6b615.html"
+          "name": "Quartz",
+          "link": "https://qz.com/scott-bessent-iran-oil-tankers-strait-of-hormuz"
         }
       ],
       "regions": [
-        "Canada",
+        "France",
+        "Global",
+        "Middle East"
+      ],
+      "score": 6.3,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Trump’s Dangerous Lack of a Strategy in Iran",
+      "summary": "Trump’s Dangerous Lack of a Strategy in Iran. What is the Iran war entering its third week, what is Trump's exit strategy?",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/with-the-iran-war-entering-its-third-week-what-is-trump-s-exit-strategy-20260316-p5oar1.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/03/16/iran-war-trump-escalation-hormuz-gulf-states-uae-saudi-qatar-drones-missiles-israel/"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Global",
         "US"
       ],
-      "score": 5.6,
-      "mentions": 4,
-      "diversity": 2
+      "score": 5.4,
+      "mentions": 3,
+      "diversity": 3
     }
   ]
 }
