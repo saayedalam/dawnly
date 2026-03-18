@@ -682,15 +682,15 @@
 
     .footer-subscribe-btn {
       font-family: 'Jost', sans-serif;
-      font-size: 8px;
+      font-size: 9px;
       font-weight: 500;
       letter-spacing: 2.5px;
       text-transform: uppercase;
-      color: var(--amber);
+      color: #e8920c;
       background: none;
       border: none;
-      border-bottom: 1px solid rgba(200,130,10,0.4);
-      padding: 0 0 1px;
+      border-bottom: 1px solid rgba(232,146,12,0.5);
+      padding: 0 0 2px;
       cursor: pointer;
       transition: color 0.2s ease, border-color 0.2s ease;
     }
@@ -700,7 +700,6 @@
       border-bottom-color: var(--ink-1);
     }
 
-    /* Subscribe overlay */
     .subscribe-overlay {
       display: none;
       position: fixed;
@@ -977,7 +976,7 @@
     </div>
 
     <div class="footer">
-      <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe</button>
+      <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe to Dawnly.News</button>
       <div class="reset-badge">
         <div class="reset-inner">
           <div class="reset-front"><span>Resets 6AM</span></div>
@@ -1221,8 +1220,8 @@ function buildEqualGridWithImage(stories) {
     footer: top.regions ? top.regions.join(" · ") : null,
   } : null;
 
-  // The 2 permanently-image slots (random daily placement)
-  const imageSlots = getDailyImageSlots();
+  // Fixed image positions: slot 5 = top-right (row 1 col 6), slot 6 = bottom-left (row 2 col 1)
+  const imageSlots = [5, 6];
 
   // Track which of the two fixed image slots we're filling
   // so we assign stats to them in order
