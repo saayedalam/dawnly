@@ -28,6 +28,12 @@
       --paper:  #f5f0e4;
       --paper-2:#ede6d4;
       --border: rgba(42,36,16,0.15);
+
+      /* Big story treatment — warm terracotta */
+      --big-paper:   #f5e8d4;
+      --big-paper-2: #eeddc4;
+      --big-accent:  #b85c1a;
+      --big-border:  rgba(184,92,26,0.35);
     }
 
     html, body { height: 100%; overflow: hidden; background: #e8e0cc; }
@@ -386,6 +392,70 @@
       margin-top: 5px;
       flex-shrink: 0;
     }
+
+    /* -----------------------------------------------------------------------
+       Big story treatment — terracotta accent for stories dominating the day
+    ----------------------------------------------------------------------- */
+
+    .card.big-story .card-front,
+    .card.big-story .card-back {
+      background: var(--big-paper);
+    }
+
+    .card.big-story .card-back {
+      background: var(--big-paper-2);
+    }
+
+    /* Left accent bar on the front */
+    .card.big-story .card-front::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 3px;
+      height: 100%;
+      background: var(--big-accent);
+      opacity: 0.7;
+    }
+
+    /* "Big story" label in card number position */
+    .card.big-story .card-num {
+      color: var(--big-accent);
+    }
+
+    /* Related headlines section on card back */
+    .related-block {
+      flex-shrink: 0;
+      border-top: 1px solid var(--big-border);
+      padding-top: 6px;
+      margin-top: 6px;
+    }
+
+    .related-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 7px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--big-accent);
+      margin-bottom: 5px;
+    }
+
+    .related-headline {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 10px;
+      font-weight: 300;
+      font-style: italic;
+      color: var(--ink-2);
+      line-height: 1.4;
+      margin-bottom: 3px;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+    }
+
+    .related-headline:last-child { margin-bottom: 0; }
 
     .img-card {
       background: #2a2410;
@@ -1040,6 +1110,20 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     `<a class="back-source" href="${s.link}" target="_blank" rel="noopener"><span class="back-dot"></span>${s.name}</a>`
   ).join('');
 
+  // Big story treatment
+  const isBigStory = story.big_story === true;
+  if (isBigStory) card.classList.add('big-story');
+
+  // Related headlines block (only for big stories)
+  const relatedHeadlines = isBigStory && (story.related_headlines || []).length > 0
+    ? `<div class="related-block">
+        <div class="related-label">Also In This Story</div>
+        ${story.related_headlines.map(h =>
+          `<div class="related-headline">${h}</div>`
+        ).join('')}
+       </div>`
+    : '';
+
   card.innerHTML = `
     <div class="card-inner">
       <div class="card-front">
@@ -1052,6 +1136,7 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
       </div>
       <div class="card-back">
         <div class="back-summary">${story.summary || story.headline}</div>
+        ${relatedHeadlines}
         <div class="back-sources">${sources}</div>
         <div class="back-hint">Tap ↻</div>
       </div>
@@ -1109,11 +1194,13 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     const summary = card.querySelector('.back-summary');
     const sourcesBlock = card.querySelector('.back-sources');
     const backHint = card.querySelector('.back-hint');
+    const relatedBlock = card.querySelector('.related-block');
 
     if (back && summary) {
       const availBackH = back.clientHeight
         - (sourcesBlock ? sourcesBlock.offsetHeight + 8 : 0)
         - (backHint ? backHint.offsetHeight + 5 : 0)
+        - (relatedBlock ? relatedBlock.offsetHeight + 6 : 0)
         - 18;
 
       summary.style.overflow = 'hidden';
