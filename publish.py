@@ -26,24 +26,49 @@ MIN_STORIES    = 10     # minimum stories required to publish
 def build_output(stories: list[dict]) -> dict:
     '''
     Build the final top10.json structure from ranked + summarized stories.
+    Handles both grouped stories (is_grouped=True) and regular stories.
     Strips internal pipeline data — only keeps what the frontend needs.
     '''
     published_at = datetime.now(timezone.utc).isoformat()
 
     items = []
     for i, story in enumerate(stories, 1):
-        items.append({
-            "rank":              i,
-            "headline":          story["headline"],
-            "summary":           story["summary"],
-            "sources":           story["sources"],   # list of {name, link}
-            "regions":           story["regions"],
-            "score":             story["score"],
-            "mentions":          story["mention_count"],
-            "diversity":         story["diversity"],
-            "big_story":         story.get("big_story", False),
-            "related_headlines": story.get("related_headlines", []),
-        })
+        if story.get("is_grouped"):
+            items.append({
+                "rank":        i,
+                "headline":    story["headline"],
+                "summary":     story["summary"],
+                "is_grouped":  True,
+                "angle_count": story["angle_count"],
+                "angles": [
+                    {
+                        "headline": angle["headline"],
+                        "summary":  story["summaries"][j]
+                                    if j < len(story.get("summaries", []))
+                                    else angle["headline"],
+                    }
+                    for j, angle in enumerate(story["angles"])
+                ],
+                "sources":   story["sources"],
+                "regions":   story["regions"],
+                "score":     story["score"],
+                "mentions":  story["mention_count"],
+                "diversity": story["diversity"],
+            })
+        else:
+            items.append({
+                "rank":        i,
+                "headline":    story["headline"],
+                "summary":     story["summary"],
+                "is_grouped":  False,
+                "angle_count": 1,
+                "angles":      [],
+                "sources":     story["sources"],
+                "regions":     story["regions"],
+                "score":       story["score"],
+                "mentions":    story["mention_count"],
+                "diversity":   story["diversity"],
+            })
 
     return {
         "published_at":  published_at,

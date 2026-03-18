@@ -457,6 +457,86 @@
 
     .related-headline:last-child { margin-bottom: 0; }
 
+    /* -----------------------------------------------------------------------
+       Grouped card — one card representing multiple story angles
+    ----------------------------------------------------------------------- */
+
+    .card.grouped .card-front,
+    .card.grouped .card-back {
+      background: var(--big-paper);
+    }
+
+    .card.grouped .card-back {
+      background: var(--big-paper-2);
+    }
+
+    .card.grouped .card-front::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 3px;
+      height: 100%;
+      background: var(--big-accent);
+    }
+
+    .card.grouped .card-num {
+      color: var(--big-accent);
+    }
+
+    /* Angle count badge on front */
+    .angle-badge {
+      font-family: 'Jost', sans-serif;
+      font-size: 7px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--big-accent);
+      border: 1px solid var(--big-accent);
+      padding: 1px 5px;
+      display: inline-block;
+      margin-bottom: 5px;
+      opacity: 0.8;
+      flex-shrink: 0;
+    }
+
+    /* Angle list on card back */
+    .angle-list {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      overflow: hidden;
+    }
+
+    .angle-item {
+      border-left: 2px solid var(--big-border);
+      padding-left: 8px;
+      flex-shrink: 0;
+    }
+
+    .angle-headline {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--ink-1);
+      line-height: 1.2;
+      margin-bottom: 2px;
+    }
+
+    .angle-summary {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 9px;
+      font-weight: 300;
+      font-style: italic;
+      color: var(--ink-2);
+      line-height: 1.35;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+    }
+
     .img-card {
       background: #2a2410;
       overflow: hidden;
@@ -1110,37 +1190,74 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     `<a class="back-source" href="${s.link}" target="_blank" rel="noopener"><span class="back-dot"></span>${s.name}</a>`
   ).join('');
 
-  // Big story treatment
-  const isBigStory = story.big_story === true;
-  if (isBigStory) card.classList.add('big-story');
+  const isGrouped = story.is_grouped === true;
 
-  // Related headlines block (only for big stories)
-  const relatedHeadlines = isBigStory && (story.related_headlines || []).length > 0
-    ? `<div class="related-block">
-        <div class="related-label">Also In This Story</div>
-        ${story.related_headlines.map(h =>
-          `<div class="related-headline">${h}</div>`
-        ).join('')}
-       </div>`
-    : '';
+  if (isGrouped) {
+    // -----------------------------------------------------------------------
+    // Grouped card — front shows lead headline + angle badge,
+    // back shows all angles with individual headlines and summaries
+    // -----------------------------------------------------------------------
+    card.classList.add('grouped');
 
-  card.innerHTML = `
-    <div class="card-inner">
-      <div class="card-front">
-        <div class="card-num">${rank}</div>
-        <div class="card-headline">${story.headline}</div>
-        <div class="card-foot">
-          <div class="card-regions">${regions}</div>
-          <div class="card-hint">Tap ↻</div>
+    const angleCount = story.angle_count || (story.angles || []).length || 1;
+    const anglesHTML = (story.angles || []).map(a => `
+      <div class="angle-item">
+        <div class="angle-headline">${a.headline}</div>
+        ${a.summary ? `<div class="angle-summary">${a.summary}</div>` : ''}
+      </div>`).join('');
+
+    card.innerHTML = `
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="card-num">${rank}</div>
+          <div class="angle-badge">${angleCount} Angles · Tap To Explore</div>
+          <div class="card-headline">${story.headline}</div>
+          <div class="card-foot">
+            <div class="card-regions">${regions}</div>
+            <div class="card-hint">Tap ↻</div>
+          </div>
         </div>
-      </div>
-      <div class="card-back">
-        <div class="back-summary">${story.summary || story.headline}</div>
-        ${relatedHeadlines}
-        <div class="back-sources">${sources}</div>
-        <div class="back-hint">Tap ↻</div>
-      </div>
-    </div>`;
+        <div class="card-back">
+          <div class="angle-list">${anglesHTML}</div>
+          <div class="back-sources">${sources}</div>
+          <div class="back-hint">Tap ↻</div>
+        </div>
+      </div>`;
+
+  } else {
+    // -----------------------------------------------------------------------
+    // Regular card — existing behaviour
+    // -----------------------------------------------------------------------
+    const isBigStory = story.big_story === true;
+    if (isBigStory) card.classList.add('big-story');
+
+    const relatedHeadlines = isBigStory && (story.related_headlines || []).length > 0
+      ? `<div class="related-block">
+          <div class="related-label">Also In This Story</div>
+          ${story.related_headlines.map(h =>
+            `<div class="related-headline">${h}</div>`
+          ).join('')}
+         </div>`
+      : '';
+
+    card.innerHTML = `
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="card-num">${rank}</div>
+          <div class="card-headline">${story.headline}</div>
+          <div class="card-foot">
+            <div class="card-regions">${regions}</div>
+            <div class="card-hint">Tap ↻</div>
+          </div>
+        </div>
+        <div class="card-back">
+          <div class="back-summary">${story.summary || story.headline}</div>
+          ${relatedHeadlines}
+          <div class="back-sources">${sources}</div>
+          <div class="back-hint">Tap ↻</div>
+        </div>
+      </div>`;
+  }
 
   card.addEventListener('click', () => card.classList.toggle('flipped'));
 
@@ -1196,7 +1313,8 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
     const backHint = card.querySelector('.back-hint');
     const relatedBlock = card.querySelector('.related-block');
 
-    if (back && summary) {
+    // Back text fitting only applies to regular (non-grouped) cards
+    if (back && summary && !isGrouped) {
       const availBackH = back.clientHeight
         - (sourcesBlock ? sourcesBlock.offsetHeight + 8 : 0)
         - (backHint ? backHint.offsetHeight + 5 : 0)

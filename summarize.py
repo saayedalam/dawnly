@@ -102,13 +102,29 @@ def summarize_story(story: dict) -> str:
 
 def summarize_all(stories: list[dict]) -> list[dict]:
     '''
-    Add a one-sentence summary to each story dict.
-    Returns the same list with summary field added.
+    Add summaries to each story dict.
+    - Regular stories get a single "summary" field.
+    - Grouped stories get a "summary" (for the lead angle) plus
+      a "summaries" list with one summary per angle.
+    Returns the same list with summary fields added.
     '''
     logger.info(f"Summarizing {len(stories)} stories...")
 
     for story in stories:
-        story["summary"] = summarize_story(story)
+        if story.get("is_grouped"):
+            # Summarize each angle individually
+            angle_summaries = []
+            for angle in story["angles"]:
+                # Build a temporary story-like dict for summarize_story
+                angle_summaries.append(summarize_story({
+                    "headline": angle["headline"],
+                    "articles": angle["articles"],
+                }))
+            story["summaries"] = angle_summaries
+            # Lead summary = first angle's summary
+            story["summary"]   = angle_summaries[0] if angle_summaries else story["headline"]
+        else:
+            story["summary"] = summarize_story(story)
 
     logger.info("Summarization complete")
     return stories
