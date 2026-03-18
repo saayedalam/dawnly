@@ -170,23 +170,6 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
         <table width="100%" cellpadding="0" cellspacing="0"
                style="background: #f5f0e4;">
 
-          <!-- Header -->
-          <tr>
-            <td style="padding: 20px 16px 14px; text-align: center;
-                       border-bottom: 3px double rgba(42,36,16,0.4);">
-              <div style="font-family: 'Jost', sans-serif; font-size: 8px;
-                          font-weight: 400; letter-spacing: 3px; color: #9a8a70;
-                          text-transform: uppercase; margin-bottom: 6px;">
-                {tagline}
-              </div>
-              <div style="font-family: 'Cormorant Garamond', Georgia, serif;
-                          font-size: 48px; font-weight: 700; color: #1a1408;
-                          letter-spacing: 2px; line-height: 1;">
-                Dawnly
-              </div>
-            </td>
-          </tr>
-
           <!-- Section rule -->
           <tr>
             <td style="padding: 10px 0 0;">
