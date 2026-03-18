@@ -1,10 +1,14 @@
 # rank.py
 # Purpose: Rank story clusters by global significance using 3 signals:
-# 1. Mention count — how many articles cover this story
-# 2. Coverage reach weight — how globally reaching are the sources
-# 3. Geographic diversity — how many distinct regions covered it
+# 1. Mention volume    — log-scaled article count
+# 2. Source quality    — average reach of unique sources in the cluster
+# 3. Geographic spread — distinct regions covering the story
+#
+# Scoring (v2): weighted additive with per-signal min-max normalization
+# SCORE = 0.40 × norm(log_mentions) + 0.35 × norm(source_quality) + 0.25 × norm(geo_spread)
 
 import logging
+import math
 from collections import Counter
 
 import spacy
@@ -68,13 +72,13 @@ COVERAGE_REACH = {
     "NPR News":                 0.7,
 
     # Tier C — 0.4
-    "Foreign Policy":   0.4,
-    "Rest of World":    0.4,
-    "ProPublica":       0.4,
-    "The Intercept":    0.4,
-    "Politico":         0.4,
-    "Axios":            0.4,
-    "Quartz":           0.4,
+    "Foreign Policy":       0.4,
+    "Rest of World":        0.4,
+    "ProPublica":           0.4,
+    "The Intercept":        0.4,
+    "Politico":             0.4,
+    "Axios":                0.4,
+    "Quartz":               0.4,
     "Balkan Insight":       0.4,
     "Buenos Aires Times":   0.4,
     "The Africa Report":    0.4,
@@ -83,7 +87,12 @@ COVERAGE_REACH = {
 }
 
 DEFAULT_REACH = 0.4     # fallback for any source not in the list
-TOP_N        = 10       # number of stories to return
+TOP_N         = 10      # number of stories to return
+
+# V2 signal weights — must sum to 1.0
+W_MENTIONS = 0.40
+W_QUALITY  = 0.35
+W_SPREAD   = 0.25
 
 
 # -------------------------------------------------------------------------
@@ -106,29 +115,68 @@ def geographic_diversity_score(cluster: list[dict]) -> int:
 
 def average_coverage_reach(cluster: list[dict]) -> float:
     '''
-    Calculate the average coverage reach weight across all
-    articles in the cluster.
+    Calculate the average coverage reach weight across all articles
+    in the cluster. Retained for metadata display in the output.
     '''
     reaches = [get_coverage_reach(a["source_name"]) for a in cluster]
     return sum(reaches) / len(reaches)
 
 
-def score_cluster(cluster: list[dict]) -> float:
+def source_quality_score(cluster: list[dict]) -> float:
     '''
-    Calculate the final score for a story cluster using 3 signals:
+    Calculate source quality as the average coverage reach of unique
+    sources in the cluster.
 
-    SCORE = mention_count x avg_coverage_reach x geographic_diversity
-
-    - mention_count       : total articles in cluster
-    - avg_coverage_reach  : how globally reaching the sources are
-    - geographic_diversity: how many distinct regions covered it
+    Uses unique sources (not all articles) so a cluster with 10
+    articles from one outlet does not score higher than a cluster
+    with 1 article from the same outlet.
     '''
-    mention_count        = len(cluster)
-    avg_reach            = average_coverage_reach(cluster)
-    diversity            = geographic_diversity_score(cluster)
+    unique_reaches = {
+        a["source_name"]: get_coverage_reach(a["source_name"])
+        for a in cluster
+    }
+    return sum(unique_reaches.values()) / len(unique_reaches)
 
-    score = mention_count * avg_reach * diversity
-    return round(score, 4)
+
+def _minmax_normalize(values: list[float]) -> list[float]:
+    '''
+    Min-max normalize a list of floats to [0, 1].
+    If all values are identical, returns a list of 1.0s — every
+    cluster is equal on that signal so each gets full credit.
+    '''
+    lo, hi = min(values), max(values)
+    if hi == lo:
+        return [1.0] * len(values)
+    return [(v - lo) / (hi - lo) for v in values]
+
+
+def score_clusters_v2(clusters: list[list[dict]]) -> list[float]:
+    '''
+    Score all clusters using the v2 weighted additive formula.
+    Normalization is applied across the full set so each signal is
+    comparable regardless of raw scale.
+
+    Returns a list of scores in the same order as the input clusters.
+    '''
+    log_mentions = [math.log(len(c))                    for c in clusters]
+    quality      = [source_quality_score(c)              for c in clusters]
+    spread       = [float(geographic_diversity_score(c)) for c in clusters]
+
+    norm_mentions = _minmax_normalize(log_mentions)
+    norm_quality  = _minmax_normalize(quality)
+    norm_spread   = _minmax_normalize(spread)
+
+    scores = [
+        round(
+            W_MENTIONS * norm_mentions[i] +
+            W_QUALITY  * norm_quality[i]  +
+            W_SPREAD   * norm_spread[i],
+            4
+        )
+        for i in range(len(clusters))
+    ]
+
+    return scores
 
 
 # -------------------------------------------------------------------------
@@ -314,29 +362,30 @@ def group_big_stories(scored: list[dict]) -> list[dict]:
 
 def rank_clusters(clusters: list[list[dict]]) -> list[dict]:
     '''
-    Score and rank all clusters, apply topic quota and big story flagging.
-    Returns top N stories as enriched dicts ready for summarization.
+    Score and rank all clusters, apply NER entity detection and big story
+    grouping. Returns top N stories as enriched dicts ready for summarization.
 
     Pipeline:
-      1. Score every cluster
+      1. Score every cluster using v2 weighted additive formula
       2. Assign a dominant NER entity to each story
       3. Sort by score descending
-      4. Apply per-entity quota (max MAX_STORIES_PER_TOPIC per entity)
-      5. Flag stories where one entity dominates 3+ slots
+      4. Collapse same-entity clusters into grouped cards via group_big_stories()
     '''
     if not clusters:
         logger.warning("No clusters to rank")
         return []
 
+    # Score all clusters together so normalization sees the full distribution
+    scores = score_clusters_v2(clusters)
+
     scored = []
-    for cluster in clusters:
-        score   = score_cluster(cluster)
+    for i, cluster in enumerate(clusters):
         best    = max(cluster, key=lambda a: get_coverage_reach(a["source_name"]))
         regions = sorted(set(a["source_region"] for a in cluster))
 
-        # Top 3 sources by coverage reach for display
-        top_sources = []
-        seen        = set()
+        # Top 3 unique sources by coverage reach for display
+        top_sources: list[dict] = []
+        seen: set[str]          = set()
         for a in sorted(cluster, key=lambda x: get_coverage_reach(x["source_name"]), reverse=True):
             if a["source_name"] not in seen:
                 top_sources.append({
@@ -348,15 +397,16 @@ def rank_clusters(clusters: list[list[dict]]) -> list[dict]:
                 break
 
         scored.append({
-            "headline":      best["title"],
-            "entity":        get_cluster_entity(cluster),
-            "score":         score,
-            "mention_count": len(cluster),
-            "avg_reach":     round(average_coverage_reach(cluster), 4),
-            "diversity":     geographic_diversity_score(cluster),
-            "regions":       regions,
-            "sources":       top_sources,
-            "articles":      cluster,
+            "headline":       best["title"],
+            "entity":         get_cluster_entity(cluster),
+            "score":          scores[i],
+            "mention_count":  len(cluster),
+            "avg_reach":      round(average_coverage_reach(cluster), 4),
+            "source_quality": round(source_quality_score(cluster), 4),
+            "diversity":      geographic_diversity_score(cluster),
+            "regions":        regions,
+            "sources":        top_sources,
+            "articles":       cluster,
         })
 
     # Sort by score descending
@@ -376,7 +426,7 @@ def rank_clusters(clusters: list[list[dict]]) -> list[dict]:
 # -------------------------------------------------------------------------
 
 def print_ranking(stories: list[dict]) -> None:
-    '''Print a clean ranking table for inspection.'''
+    '''Print a clean ranking table with v2 signal breakdown.'''
     print(f"\n{'='*70}")
     print(f"DAWNLY TOP {len(stories)} — {__import__('datetime').date.today()}")
     print(f"{'='*70}")
@@ -388,10 +438,12 @@ def print_ranking(stories: list[dict]) -> None:
             for j, angle in enumerate(story["angles"], 1):
                 print(f"   Angle {j}: {angle['headline'][:65]}")
         else:
-            print(f"\n#{i} — Score: {story['score']} "
-                  f"({story['mention_count']} mentions × "
-                  f"{story['avg_reach']} reach × "
-                  f"{story['diversity']} regions)")
+            print(
+                f"\n#{i} — Score: {story['score']}  "
+                f"({story['mention_count']} mentions | "
+                f"quality: {story['source_quality']} | "
+                f"{story['diversity']} regions)"
+            )
             print(f"  Entity  : {story.get('entity', 'other')}")
             print(f"  {story['headline'][:75]}")
         print(f"  Regions : {', '.join(story['regions'])}")
