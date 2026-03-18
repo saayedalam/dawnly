@@ -1,5 +1,5 @@
 {
-  "published_at": "2026-03-18T01:43:45.683736+00:00",
+  "published_at": "2026-03-18T02:38:03.619610+00:00",
   "story_count": 10,
   "stories": [
     {
@@ -16,28 +16,61 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon"
         }
       ],
       "regions": [
         "Australia",
         "Canada",
+        "France",
         "Hong Kong",
         "Middle East",
         "Pakistan",
         "Qatar",
-        "UK",
-        "US"
+        "UK"
       ],
-      "score": 124.0,
-      "mentions": 20,
+      "score": 140.0,
+      "mentions": 22,
       "diversity": 8
     },
     {
       "rank": 2,
+      "headline": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
+      "summary": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal. Trump says NATO's refusal to help on Iran is \"very foolish mistake\"",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-nato-making-mistake-on-hormuz-trump-says/live-76387955?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/trump-says-nato-s-refusal-to-help-on-iran-is-very-foolish-mistake"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Canada",
+        "France",
+        "Germany",
+        "Global",
+        "Pakistan",
+        "Qatar",
+        "South America",
+        "UK"
+      ],
+      "score": 95.4,
+      "mentions": 13,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
       "headline": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course' Who is Joe Kent, and why did he resign as Trump's counterterrorism chief?",
+      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course' Joe Kent, a top counterterrorism official, resigns citing Iran war.",
       "sources": [
         {
           "name": "BBC News",
@@ -53,163 +86,111 @@
         }
       ],
       "regions": [
-        "Australia",
+        "France",
         "Germany",
         "Hong Kong",
         "Pakistan",
         "Qatar",
+        "South America",
         "UK",
         "US"
       ],
-      "score": 50.4,
+      "score": 60.0,
       "mentions": 9,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
-      "summary": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-nato-making-mistake-on-hormuz-trump-says/live-76387955?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "Global",
-        "Pakistan",
-        "Qatar",
-        "UK"
-      ],
-      "score": 48.3,
-      "mentions": 9,
-      "diversity": 7
+      "diversity": 8
     },
     {
       "rank": 4,
       "headline": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital",
-      "summary": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital Pakistan denies hospital strike in Afghanistan as death toll hits 400 Afghanistan says 400 killed in strike by Pakistan on Kabul hospital.",
+      "summary": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital. Pakistan denies hospital strike in Afghanistan as death toll hits 400. Afghanistan says 400 killed in strike by Pakistan on Kabul hospital on Saturday.",
       "sources": [
         {
           "name": "Al Jazeera English",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/pakistan-strongly-rejects-claim-it-struck-kabul-hospital?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/video/20260317-pakistan-denies-it-targeted-kabul-hospital-says-it-hit-terrorist-targets"
         },
         {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1983000/information-ministry-rubbishes-afghan-talibans-claims-of-hospital-being-hit-in-kabul"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
         }
       ],
       "regions": [
+        "France",
         "Global",
         "Pakistan",
         "Qatar",
         "UK"
       ],
-      "score": 15.2,
-      "mentions": 5,
-      "diversity": 4
+      "score": 24.0,
+      "mentions": 6,
+      "diversity": 5
     },
     {
       "rank": 5,
-      "headline": "US Attorney General Pam Bondi subpoenaed for congressional Epstein probe",
-      "summary": "US Attorney General Pam Bondi subpoenaed for congressional Epstein probe. Bondi was subpoenaed to answer questions from Congress about the Epstein files.",
+      "headline": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure",
+      "summary": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure Trump’s threats to 'take' Cuba signal rising US pressure as island grapples with power crisis.",
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/17/us-attorney-general-pam-bondi-subpoenaed-for-congressional-epstein-probe?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee"
+          "link": "https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3346938/us-house-panel-subpoenas-pam-bondi-testify-epstein-investigation?utm_source=rss_feed"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/17/us/politics/florida-cuba-trump.html"
         }
       ],
       "regions": [
-        "Canada",
-        "Hong Kong",
+        "Latin America",
         "Qatar",
-        "UK"
+        "Russia",
+        "South America",
+        "UK",
+        "US"
       ],
-      "score": 12.4,
-      "mentions": 4,
-      "diversity": 4
+      "score": 23.4,
+      "mentions": 6,
+      "diversity": 6
     },
     {
       "rank": 6,
-      "headline": "Nigeria tightens security in Maiduguri after suicide attacks",
-      "summary": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria. Nigeria tightens security in Maiduguri after suicide attacks.",
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nigeria-tightens-security-in-maiduguri-after-suicide-attacks/a-76398081?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1982999/nigeria-suicide-attacks-kill-23-wound-more-than-100"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Pakistan",
-        "UK"
-      ],
-      "score": 10.2,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-      "summary": "Iranian official says U.S. is letting Iranian oil tankers through the Strait of Hormuz. Bessent: Strait 'won’t return to its pre-war status'",
+      "headline": "Starmer Turns His Attention To Ukraine (Or Tries To)",
+      "summary": "Starmer Turns His Attention To Ukraine (Or Tries To) Starmer urges allies to keep focus on Ukraine amid Iran war. Starmer tells Zelenskyy that 'focus must remain on Ukraine'",
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6gzdj?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/news/wresting-control-strait-hormuz-iran-has-turned-tables-us"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/starmer-urges-allies-to-keep-focus-on-ukraine-amid-iran-war/a-76400266?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Quartz",
-          "link": "https://qz.com/iranian-oil-tankers-strait-of-hormuz-bessent"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran"
         }
       ],
       "regions": [
-        "Global",
-        "Middle East",
+        "France",
+        "Germany",
+        "Hong Kong",
+        "Russia",
         "UK"
       ],
-      "score": 9.6,
-      "mentions": 5,
-      "diversity": 3
+      "score": 22.5,
+      "mentions": 6,
+      "diversity": 5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "headline": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
-      "summary": "Morocco awarded Africa Cup of Nations title after Senegal win overturned. CAF strips Senegal of AFCON title, Morocco declared African champions.",
+      "summary": "Morocco awarded Africa Cup of Nations title after Senegal win overturned CAF strips Senegal of AFCON title, Morocco declared African champions.",
       "sources": [
         {
           "name": "BBC News",
@@ -225,18 +206,75 @@
         }
       ],
       "regions": [
+        "France",
         "Germany",
         "Qatar",
         "UK"
       ],
-      "score": 9.0,
-      "mentions": 3,
-      "diversity": 3
+      "score": 20.0,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Nigeria tightens security in Maiduguri after suicide attacks",
+      "summary": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria. Nigeria tightens security in Maiduguri after suicide attacks.",
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-tightens-security-in-maiduguri-after-suicide-attacks/a-76398081?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri"
+        }
+      ],
+      "regions": [
+        "France",
+        "Germany",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 17.6,
+      "mentions": 5,
+      "diversity": 4
     },
     {
       "rank": 9,
+      "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+      "summary": "Iranian official says U.S. is letting Iranian oil tankers through the Strait of Hormuz. Strait 'won't return to its pre-war status', Iranian official says.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/wresting-control-strait-hormuz-iran-has-turned-tables-us"
+        }
+      ],
+      "regions": [
+        "Global",
+        "Middle East",
+        "Qatar",
+        "UK"
+      ],
+      "score": 16.8,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
       "headline": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
-      "summary": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war Trump asks China if visit to Beijing can be delayed a month due to Iran war. Trump confirms delay of Beijing meeting with Xi amid Iran conflict.",
+      "summary": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war Trump asks China if visit to Beijing can be delayed a month due to Iran war.",
       "sources": [
         {
           "name": "The Guardian",
@@ -247,43 +285,17 @@
           "link": "https://www.scmp.com/news/us/article/3346937/trump-confirms-delay-beijing-meeting-xi-amid-iran-conflict?utm_source=rss_feed"
         },
         {
-          "name": "Hong Kong Free Press",
-          "link": "https://hongkongfp.com/2026/03/17/china-says-takes-note-of-us-clarifications-on-possible-delay-to-trump-visit/"
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/03/beijings-real-problem-with-trumps-china-summit-delay/"
         }
       ],
       "regions": [
+        "Asia-Pacific",
         "Hong Kong",
         "UK"
       ],
-      "score": 8.4,
-      "mentions": 6,
-      "diversity": 2
-    },
-    {
-      "rank": 10,
-      "headline": "Starmer Turns His Attention To Ukraine (Or Tries To)",
-      "summary": "Starmer Turns His Attention To Ukraine (Or Tries To) Starmer urges allies to keep focus on Ukraine amid Iran war.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0n6gzdj?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/starmer-urges-allies-to-keep-focus-on-ukraine-amid-iran-war/a-76400266?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3346941/zelensky-starmer-urge-continued-support-ukraine-iran-conflict-steals-focus?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "UK"
-      ],
-      "score": 8.1,
-      "mentions": 3,
+      "score": 14.7,
+      "mentions": 7,
       "diversity": 3
     }
   ]
