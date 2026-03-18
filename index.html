@@ -91,7 +91,7 @@
     .logo-block {
       position: relative;
       z-index: 2;
-      padding: 10px 24px 0;
+      padding: 10px 24px 8px;
       border-bottom: 3px double rgba(42,36,16,0.4);
     }
 
@@ -125,7 +125,7 @@
 
     .logo-wordmark {
       font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 52px;
+      font-size: 72px;
       font-weight: 700;
       color: var(--ink-1);
       letter-spacing: 2px;
@@ -137,21 +137,6 @@
       color: rgba(26, 20, 8, 0.9);
     }
 
-    .logo-tagline {
-      font-family: 'Jost', sans-serif;
-      font-size: 8.5px;
-      font-weight: 400;
-      color: var(--ink-2);
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      display: block;
-      padding: 7px 0 10px;
-      min-height: 28px;
-    }
-
-    .hero.dark .logo-tagline {
-      color: rgba(26, 20, 8, 0.72);
-    }
 
     .ticker-wrap {
       overflow: hidden;
@@ -695,24 +680,6 @@
       color: var(--ink-2);
     }
 
-    .footer-subscribe {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 500;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--amber);
-      text-decoration: none;
-      border-bottom: 1px solid rgba(200,130,10,0.35);
-      padding-bottom: 1px;
-      transition: border-color 0.2s ease, color 0.2s ease;
-    }
-
-    .footer-subscribe:hover {
-      color: var(--ink-1);
-      border-bottom-color: var(--ink-1);
-    }
-
     .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
 
     .reset-inner {
@@ -862,7 +829,6 @@
         <path d="M8 50 Q55 44 102 50" stroke="#2a2410" stroke-width="1.5" fill="none"/>
       </svg>
       <span class="logo-wordmark">Dawnly</span>
-      <span class="logo-tagline" id="tagline"></span>
     </div>
 
     <div class="ticker-wrap">
@@ -883,7 +849,6 @@
 
     <div class="footer">
       <div class="footer-left" id="footer-stats">Algorithmically Ranked · Dawnly</div>
-      <a href="https://buttondown.com/saayedalam" target="_blank" class="footer-subscribe">Subscribe</a>
       <div class="reset-badge">
         <div class="reset-inner">
           <div class="reset-front"><span>Resets 6AM</span></div>
@@ -896,7 +861,7 @@
 </div>
 
 <script>
-const TAGLINES = [
+const TICKER_MESSAGES = [
   "The Morning Paper, Rebuilt For Today",
   "Once A Day. Just Like It Used To Be.",
   "Your Daily Paper. Nothing In Between.",
@@ -904,13 +869,6 @@ const TAGLINES = [
   "One Edition. Every Morning.",
   "Read It. Put It Down. Live Your Day.",
   "The Paper Lands Once."
-];
-
-const TICKER_MESSAGES = [
-  "Subscribe To The Dawnly Newsletter",
-  "Get The Top 10 Stories Every Morning",
-  "One Edition A Day. Nothing In Between.",
-  "Read Dawnly At Dawnly.News"
 ];
 
 const ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X"];
@@ -938,11 +896,6 @@ function getTorontoNowParts() {
   };
 }
 
-function getDailyTagline() {
-  const now = new Date();
-  const day = Math.floor((now - new Date(now.getFullYear(),0,0)) / 86400000);
-  return TAGLINES[day % TAGLINES.length];
-}
 
 function getCountdown() {
   const p = getTorontoNowParts();
@@ -1457,7 +1410,6 @@ async function loadStories() {
   }
 }
 
-document.getElementById('tagline').textContent = getDailyTagline();
 document.getElementById('date-label').textContent = formatDisplayDate();
 document.getElementById('cd').textContent = getCountdown();
 
