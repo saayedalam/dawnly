@@ -1,0 +1,274 @@
+# send_newsletter.py
+# Purpose: Build and send the daily Dawnly newsletter via Buttondown API.
+# Reads top10.json, generates a minimal HTML email in Dawnly's style,
+# and posts it directly to subscribers.
+#
+# Called by the newsletter GitHub Actions workflow after the pipeline runs.
+
+import json
+import logging
+import os
+import sys
+from datetime import datetime, timezone
+
+import requests
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
+
+
+# -------------------------------------------------------------------------
+# Config
+# -------------------------------------------------------------------------
+
+BUTTONDOWN_API_URL = "https://api.buttondown.com/v1/emails"
+TOP10_FILE         = "top10.json"
+ROMAN              = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"]
+
+
+# -------------------------------------------------------------------------
+# Email builder
+# -------------------------------------------------------------------------
+
+def build_subject(stories: list[dict], edition: int) -> str:
+    '''
+    Build the email subject line.
+    Uses the top story headline for preview text in most clients.
+    '''
+    top = stories[0]["headline"] if stories else "Today's Edition"
+    return f"Dawnly · Edition {edition} — {top}"
+
+
+def build_html(stories: list[dict], edition: int, published_at: str) -> str:
+    '''
+    Build a minimal HTML email body in Dawnly's newspaper style.
+    Inline styles only — required for email client compatibility.
+    Google Fonts are loaded via a <link> tag which works in most
+    modern clients; fallback to Georgia is set for all others.
+    '''
+    # Format the date
+    try:
+        dt = datetime.fromisoformat(published_at)
+        date_str = dt.strftime("%A, %B %-d, %Y").upper()
+    except Exception:
+        date_str = datetime.now(timezone.utc).strftime("%A, %B %-d, %Y").upper()
+
+    # Build each story row
+    rows_html = ""
+    for i, story in enumerate(stories):
+        rank    = ROMAN[i] if i < len(ROMAN) else str(i + 1)
+        regions = ", ".join(story.get("regions", []))
+        sources = story.get("sources", [])
+
+        # Link the headline to the top source if available
+        top_link = sources[0]["link"] if sources else "#"
+        headline = story.get("headline", "")
+
+        # Source names for attribution
+        source_names = " · ".join(s["name"] for s in sources[:3])
+
+        rows_html += f"""
+        <tr>
+          <td style="padding: 16px 0; border-bottom: 1px solid #e8e0cc;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td style="width: 28px; vertical-align: top; padding-top: 3px;">
+                  <span style="font-family: 'Jost', sans-serif; font-size: 9px;
+                               font-weight: 500; letter-spacing: 2px; color: #9a8a70;
+                               text-transform: uppercase;">{rank}</span>
+                </td>
+                <td style="vertical-align: top;">
+                  <a href="{top_link}"
+                     style="font-family: 'Cormorant Garamond', Georgia, serif;
+                            font-size: 20px; font-weight: 700; color: #1a1408;
+                            line-height: 1.2; text-decoration: none;
+                            display: block; margin-bottom: 6px;">{headline}</a>
+                  <span style="font-family: 'Jost', sans-serif; font-size: 8px;
+                               font-weight: 400; letter-spacing: 1.5px; color: #9a8a70;
+                               text-transform: uppercase;">{source_names}</span>
+                  {f'<br><span style="font-family: Jost, sans-serif; font-size: 8px; font-weight: 400; letter-spacing: 1px; color: #b8a888; text-transform: uppercase;">{regions}</span>' if regions else ''}
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>"""
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Jost:wght@300;400;500&display=swap"
+        rel="stylesheet"/>
+</head>
+<body style="margin: 0; padding: 0; background: #e8e0cc;
+             font-family: 'Cormorant Garamond', Georgia, serif;">
+
+  <table width="100%" cellpadding="0" cellspacing="0"
+         style="background: #e8e0cc; padding: 32px 16px;">
+    <tr>
+      <td align="center">
+        <table width="600" cellpadding="0" cellspacing="0"
+               style="max-width: 600px; width: 100%; background: #f5f0e4;">
+
+          <!-- Header -->
+          <tr>
+            <td style="padding: 32px 40px 20px; text-align: center;
+                       border-bottom: 3px double rgba(42,36,16,0.4);">
+              <div style="font-family: 'Jost', sans-serif; font-size: 8px;
+                          font-weight: 400; letter-spacing: 3px; color: #9a8a70;
+                          text-transform: uppercase; margin-bottom: 8px;">
+                {date_str} &nbsp;·&nbsp; Edition No. {edition}
+              </div>
+              <div style="font-family: 'Cormorant Garamond', Georgia, serif;
+                          font-size: 52px; font-weight: 700; color: #1a1408;
+                          letter-spacing: 2px; line-height: 1;">
+                Dawnly
+              </div>
+            </td>
+          </tr>
+
+          <!-- Divider rule -->
+          <tr>
+            <td style="padding: 10px 40px 0;">
+              <table width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td style="border-top: 1px solid rgba(42,36,16,0.2);"></td>
+                  <td style="padding: 0 12px; white-space: nowrap;
+                              font-family: 'Jost', sans-serif; font-size: 8px;
+                              font-weight: 500; letter-spacing: 3px; color: #1a1408;
+                              text-transform: uppercase;">
+                    Today's Ten Stories
+                  </td>
+                  <td style="border-top: 1px solid rgba(42,36,16,0.2);"></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Stories -->
+          <tr>
+            <td style="padding: 0 40px;">
+              <table width="100%" cellpadding="0" cellspacing="0">
+                {rows_html}
+              </table>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="padding: 20px 40px 32px; border-top: 1px solid rgba(42,36,16,0.15);">
+              <table width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td>
+                    <span style="font-family: 'Jost', sans-serif; font-size: 8px;
+                                 font-weight: 400; letter-spacing: 2px; color: #9a8a70;
+                                 text-transform: uppercase;">
+                      Algorithmically Ranked · 10 Stories · Resets 6AM EST
+                    </span>
+                  </td>
+                  <td align="right">
+                    <a href="https://dawnly.news"
+                       style="font-family: 'Jost', sans-serif; font-size: 8px;
+                              font-weight: 500; letter-spacing: 2px; color: #c8820a;
+                              text-transform: uppercase; text-decoration: none;">
+                      Dawnly.News →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>"""
+
+
+# -------------------------------------------------------------------------
+# Buttondown sender
+# -------------------------------------------------------------------------
+
+def send_email(subject: str, body: str, api_key: str) -> None:
+    '''
+    POST the email to Buttondown's API with status=about_to_send.
+    Uses API version 2026-01-01 for stable send-on-POST behaviour.
+    Raises on any non-2xx response.
+    '''
+    headers = {
+        "Authorization":  f"Token {api_key}",
+        "Content-Type":   "application/json",
+        "X-API-Version":  "2026-01-01",
+    }
+    payload = {
+        "subject": subject,
+        "body":    body,
+        "status":  "about_to_send",
+    }
+
+    logger.info("Sending email via Buttondown API...")
+    response = requests.post(BUTTONDOWN_API_URL, headers=headers, json=payload, timeout=30)
+
+    if not response.ok:
+        logger.error(f"Buttondown API error {response.status_code}: {response.text}")
+        response.raise_for_status()
+
+    logger.info(f"Email queued successfully — status {response.status_code}")
+
+
+# -------------------------------------------------------------------------
+# Main
+# -------------------------------------------------------------------------
+
+def main() -> None:
+    # Get API key from environment
+    api_key = os.environ.get("BUTTONDOWN_API_KEY")
+    if not api_key:
+        logger.error("BUTTONDOWN_API_KEY environment variable not set")
+        sys.exit(1)
+
+    # Load top10.json
+    if not os.path.exists(TOP10_FILE):
+        logger.error(f"{TOP10_FILE} not found — pipeline may not have run yet")
+        sys.exit(1)
+
+    with open(TOP10_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    stories      = data.get("stories", [])
+    published_at = data.get("published_at", "")
+
+    if not stories:
+        logger.error("No stories found in top10.json — aborting newsletter send")
+        sys.exit(1)
+
+    logger.info(f"Loaded {len(stories)} stories from {TOP10_FILE}")
+
+    # Derive edition number — days since March 12 2026 launch
+    try:
+        launch    = datetime(2026, 3, 12, tzinfo=timezone.utc)
+        pub_dt    = datetime.fromisoformat(published_at)
+        edition   = max(1, (pub_dt.date() - launch.date()).days + 1)
+    except Exception:
+        edition = 1
+
+    subject = build_subject(stories, edition)
+    body    = build_html(stories, edition, published_at)
+
+    logger.info(f"Subject: {subject}")
+    send_email(subject, body, api_key)
+
+    logger.info("Newsletter send complete")
+
+
+if __name__ == "__main__":
+    main()

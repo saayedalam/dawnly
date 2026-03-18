@@ -1,0 +1,29 @@
+name: Dawnly Newsletter
+
+on:
+  schedule:
+    - cron: '15 10 * * *'  # 6:15AM EST — 15 min after pipeline to ensure top10.json is updated
+  workflow_dispatch:        # manual trigger for testing
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Send newsletter
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python3 send_newsletter.py
