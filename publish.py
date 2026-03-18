@@ -33,14 +33,16 @@ def build_output(stories: list[dict]) -> dict:
     items = []
     for i, story in enumerate(stories, 1):
         items.append({
-            "rank":        i,
-            "headline":    story["headline"],
-            "summary":     story["summary"],
-            "sources":     story["sources"],   # list of {name, link}
-            "regions":     story["regions"],
-            "score":       story["score"],
-            "mentions":    story["mention_count"],
-            "diversity":   story["diversity"],
+            "rank":              i,
+            "headline":          story["headline"],
+            "summary":           story["summary"],
+            "sources":           story["sources"],   # list of {name, link}
+            "regions":           story["regions"],
+            "score":             story["score"],
+            "mentions":          story["mention_count"],
+            "diversity":         story["diversity"],
+            "big_story":         story.get("big_story", False),
+            "related_headlines": story.get("related_headlines", []),
         })
 
     return {
