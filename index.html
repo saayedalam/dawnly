@@ -391,10 +391,34 @@
       background: #2a2410;
       overflow: hidden;
       position: relative;
-      cursor: default;
+      cursor: pointer;
     }
 
-    .img-card img {
+    /* Flip wrapper — same pattern as .card-inner */
+    .img-card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      transition: transform 0.5s cubic-bezier(0.4,0.2,0.2,1);
+      transform-style: preserve-3d;
+    }
+
+    .img-card.flipped .img-card-inner { transform: rotateY(180deg); }
+
+    .img-front,
+    .img-back {
+      position: absolute;
+      inset: 0;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      overflow: hidden;
+    }
+
+    .img-front {
+      background: #2a2410;
+    }
+
+    .img-front img {
       width: 100%;
       height: 100%;
       object-fit: cover;
@@ -414,6 +438,82 @@
       letter-spacing: 2px;
       text-transform: uppercase;
       color: rgba(255,255,255,0.6);
+    }
+
+    /* Stats back panel */
+    .img-back {
+      transform: rotateY(180deg);
+      background: var(--paper-2);
+      padding: 14px 13px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .stats-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 7.5px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 10px;
+      flex-shrink: 0;
+    }
+
+    .stats-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 9px;
+    }
+
+    .stat-row {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+
+    .stat-num {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--ink-1);
+      line-height: 1;
+      flex-shrink: 0;
+    }
+
+    .stat-desc {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--ink-2);
+      line-height: 1.3;
+    }
+
+    .stats-regions {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 10px;
+      font-weight: 300;
+      color: var(--ink-2);
+      line-height: 1.5;
+      font-style: italic;
+      flex-shrink: 0;
+    }
+
+    .img-back-hint {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      text-align: right;
+      margin-top: 6px;
+      flex-shrink: 0;
     }
 
     .loading {
@@ -825,14 +925,47 @@ function buildEqualGridWithImage(stories) {
   const STORY_SLOTS  = 10;  // max story cards
   const IMAGE_COUNT  = 2;   // always exactly 2 fixed image cards
 
+  // -----------------------------------------------------------------------
+  // Compute stats for the two fixed image card backs
+  // -----------------------------------------------------------------------
+  const totalMentions   = stories.reduce((s, x) => s + (x.mentions || 0), 0);
+  const allRegions      = [...new Set(stories.flatMap(x => x.regions || []))];
+  const allSourceNames  = [...new Set(stories.flatMap(x => (x.sources || []).map(s => s.name)))];
+  const top             = stories[0] || null;
+
+  const statsCard1 = {
+    label: "Edition At A Glance",
+    rows: [
+      { num: totalMentions,        desc: "articles\nprocessed" },
+      { num: allRegions.length,    desc: "regions\ncovered" },
+      { num: allSourceNames.length,desc: "sources\ncited" },
+      { num: stories.length,       desc: "stories\nranked" },
+    ],
+    footer: null,
+  };
+
+  const statsCard2 = top ? {
+    label: "Top Story",
+    rows: [
+      { num: top.mentions,  desc: "sources\ncovered it" },
+      { num: top.diversity, desc: "regions\nreached" },
+      { num: Math.round(top.score), desc: "relevance\nscore" },
+    ],
+    footer: top.regions ? top.regions.join(" · ") : null,
+  } : null;
+
   // The 2 permanently-image slots (random daily placement)
   const imageSlots = getDailyImageSlots();
 
-  // Build the slot plan: each slot is either 'story' or 'image'
-  // Story slots fill in order; image slots are at random positions
-  const storyItems = stories.slice(0, STORY_SLOTS);
+  // Track which of the two fixed image slots we're filling
+  // so we assign stats to them in order
+  let fixedImagesFilled = 0;
+  const fixedStats = [statsCard1, statsCard2];
+
+  // Unique seed counter for all image cards (no repeats)
+  let imgSeedBase = 50;
   let storyIndex  = 0;
-  let imgSeedBase = 50;  // unique seed offset per image card
+  const storyItems = stories.slice(0, STORY_SLOTS);
 
   const isMobile = window.innerWidth <= 768;
 
@@ -845,14 +978,13 @@ function buildEqualGridWithImage(stories) {
       const isImageSlot = imageSlots.includes(slot);
 
       if (isImageSlot) {
-        // Fixed image card
-        const img = buildImageCard(1, 1, 1, imgSeedBase++);
+        const stats = fixedStats[fixedImagesFilled++] || null;
+        const img = buildImageCard(1, 1, 1, imgSeedBase++, stats);
         img.style.gridColumn = 'auto';
         img.style.gridRow    = 'auto';
         img.style.minHeight  = '180px';
         grid.appendChild(img);
       } else if (storyIndex < storyItems.length) {
-        // Story card
         const card = buildCard(storyItems[storyIndex], storyIndex, 1, 1, 1, 1);
         card.style.gridColumn = 'auto';
         card.style.gridRow    = 'auto';
@@ -860,8 +992,7 @@ function buildEqualGridWithImage(stories) {
         grid.appendChild(card);
         storyIndex++;
       } else {
-        // No story left — fill with image
-        const img = buildImageCard(1, 1, 1, imgSeedBase++);
+        const img = buildImageCard(1, 1, 1, imgSeedBase++, null);
         img.style.gridColumn = 'auto';
         img.style.gridRow    = 'auto';
         img.style.minHeight  = '180px';
@@ -882,13 +1013,13 @@ function buildEqualGridWithImage(stories) {
     const isImageSlot = imageSlots.includes(slot);
 
     if (isImageSlot) {
-      grid.appendChild(buildImageCard(1, col, row, imgSeedBase++));
+      const stats = fixedStats[fixedImagesFilled++] || null;
+      grid.appendChild(buildImageCard(1, col, row, imgSeedBase++, stats));
     } else if (storyIndex < storyItems.length) {
       grid.appendChild(buildCard(storyItems[storyIndex], storyIndex, 1, col, row, 1));
       storyIndex++;
     } else {
-      // Fewer than 10 stories — fill remainder with images
-      grid.appendChild(buildImageCard(1, col, row, imgSeedBase++));
+      grid.appendChild(buildImageCard(1, col, row, imgSeedBase++, null));
     }
   }
 }
@@ -1023,21 +1154,57 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   return card;
 }
 
-function buildImageCard(colSpan, colStart, rowStart, seedOffset = 0) {
+/**
+ * Build an image card.
+ * @param {number}      colSpan
+ * @param {number}      colStart
+ * @param {number}      rowStart
+ * @param {number}      seedOffset  - unique per card so photos never repeat
+ * @param {object|null} statsBack   - if provided, card flips to show stats
+ *   statsBack = { label, rows: [{num, desc}], footer }
+ */
+function buildImageCard(colSpan, colStart, rowStart, seedOffset = 0, statsBack = null) {
   const ic = document.createElement('div');
   ic.className = 'img-card';
   ic.style.gridColumn = `${colStart} / span ${Math.max(1, colSpan)}`;
   ic.style.gridRow    = `${rowStart} / span 1`;
 
-  // Combine today's date with a unique offset so every image card
-  // gets a distinct photo that also stays stable across refreshes
   const daySeed = new Date().toISOString().slice(0, 10).replace(/-/g, '');
   const seed    = `dawnly-${daySeed}-${seedOffset}`;
 
+  let backHTML = '';
+  if (statsBack) {
+    const rowsHTML = statsBack.rows.map(r => `
+      <div class="stat-row">
+        <span class="stat-num">${r.num}</span>
+        <span class="stat-desc">${r.desc}</span>
+      </div>`).join('');
+
+    const footerHTML = statsBack.footer
+      ? `<div class="stats-regions">${statsBack.footer}</div>`
+      : '';
+
+    backHTML = `
+      <div class="img-back">
+        <div class="stats-label">${statsBack.label}</div>
+        <div class="stats-body">${rowsHTML}</div>
+        ${footerHTML}
+        <div class="img-back-hint">Tap ↻</div>
+      </div>`;
+
+    ic.addEventListener('click', () => ic.classList.toggle('flipped'));
+  }
+
   ic.innerHTML = `
-    <img src="https://picsum.photos/seed/${seed}/600/300" alt="Photo of the day"
-         onerror="this.parentElement.style.background='#c8bfaa';this.style.display='none'"/>
-    <div class="img-caption">Photo Of The Day</div>`;
+    <div class="img-card-inner">
+      <div class="img-front">
+        <img src="https://picsum.photos/seed/${seed}/600/300" alt="Photo of the day"
+             onerror="this.parentElement.style.background='#c8bfaa';this.style.display='none'"/>
+        <div class="img-caption">Photo Of The Day${statsBack ? ' · Tap \u21BB' : ''}</div>
+      </div>
+      ${backHTML}
+    </div>`;
+
   return ic;
 }
 
