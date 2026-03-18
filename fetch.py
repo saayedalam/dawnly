@@ -1,5 +1,5 @@
 # fetch.py
-# Purpose: Async RSS fetcher for Agora — pulls headlines from all sources
+# Purpose: Async RSS fetcher for Dawnly — pulls headlines from all sources
 # concurrently with retry logic, date filtering, and deduplication
 
 import asyncio
@@ -32,7 +32,7 @@ logger = logging.getLogger(__name__)
 # -------------------------------------------------------------------------
 
 MAX_ARTICLES_PER_SOURCE = 50        # cap per source feed
-MAX_ARTICLE_AGE_HOURS   = 48        # discard articles older than this
+MAX_ARTICLE_AGE_HOURS   = 24        # discard articles older than this (24hr lookback from run time)
 MAX_RETRIES             = 3         # retry attempts per feed
 RETRY_BACKOFF_SECONDS   = 2         # base delay — doubles each retry
 REQUEST_TIMEOUT_SECONDS = 10        # per-request timeout
@@ -64,15 +64,18 @@ def parse_date(entry: feedparser.FeedParserDict) -> datetime | None:
     return None
 
 
-def is_recent(published: datetime | None, max_age_hours: int = MAX_ARTICLE_AGE_HOURS) -> bool:
+def is_recent(published: datetime | None, max_age_hours: int = MAX_ARTICLE_AGE_HOURS) -> tuple[bool, bool]:
     '''
-    Return True if the article was published within the allowed age window.
-    Articles with no date are accepted to avoid dropping valid content.
+    Return (is_recent, is_undated).
+    - is_recent : True if the article falls within the age window.
+    - is_undated: True if the article had no parseable published date.
+    Articles with no date are accepted (is_recent=True) to avoid dropping
+    valid content, but flagged so callers can log the count.
     '''
     if published is None:
-        return True
+        return True, True
     cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
-    return published >= cutoff
+    return published >= cutoff, False
 
 
 # -------------------------------------------------------------------------
@@ -99,11 +102,12 @@ async def fetch_source(
     session: aiohttp.ClientSession,
     source: dict,
     semaphore: asyncio.Semaphore,
-) -> list[dict]:
+) -> tuple[list[dict], int]:
     '''
     Fetch and parse a single RSS source asynchronously.
     Retries up to MAX_RETRIES times with exponential backoff.
-    Returns a list of clean article dicts or empty list on failure.
+    Returns (articles, undated_count) — articles is a list of clean article
+    dicts, undated_count is how many accepted articles had no publish date.
     '''
     name   = source["name"]
     url    = source["url"]
@@ -124,8 +128,9 @@ async def fetch_source(
                         )
                     raw = await response.text()
 
-                feed     = feedparser.parse(raw)
-                articles = []
+                feed          = feedparser.parse(raw)
+                articles      = []
+                undated_count = 0
 
                 for entry in feed.entries[:MAX_ARTICLES_PER_SOURCE]:
                     title = strip_html(getattr(entry, "title", "") or "")
@@ -134,10 +139,14 @@ async def fetch_source(
                     if not title or not link:
                         continue
 
-                    published = parse_date(entry)
+                    published             = parse_date(entry)
+                    recent, is_undated    = is_recent(published)
 
-                    if not is_recent(published):
+                    if not recent:
                         continue
+
+                    if is_undated:
+                        undated_count += 1
 
                     articles.append({
                         "title":         title,
@@ -150,8 +159,9 @@ async def fetch_source(
                         "source_region": region,
                     })
 
-                logger.info(f"  ✓ {name:<35} {len(articles):>3} articles")
-                return articles
+                undated_note = f"  ({undated_count} undated)" if undated_count else ""
+                logger.info(f"  ✓ {name:<35} {len(articles):>3} articles{undated_note}")
+                return articles, undated_count
 
             except Exception as e:
                 wait = RETRY_BACKOFF_SECONDS ** attempt
@@ -163,9 +173,9 @@ async def fetch_source(
                     await asyncio.sleep(wait)
                 else:
                     logger.error(f"  ✗ {name} — all {MAX_RETRIES} attempts failed: {e}")
-                    return []
+                    return [], 0
 
-    return []
+    return [], 0
 
 
 # -------------------------------------------------------------------------
@@ -213,7 +223,7 @@ async def fetch_all_async(sources: list[dict] = SOURCES) -> list[dict]:
 
     logger.info(
         f"Fetching {len(sorted_sources)} sources "
-        f"(concurrency={CONCURRENCY_LIMIT})...\n"
+        f"(concurrency={CONCURRENCY_LIMIT}, window={MAX_ARTICLE_AGE_HOURS}h)...\n"
     )
 
     async with aiohttp.ClientSession() as session:
@@ -223,8 +233,15 @@ async def fetch_all_async(sources: list[dict] = SOURCES) -> list[dict]:
         ]
         results = await asyncio.gather(*tasks)
 
-    all_articles = [article for batch in results for article in batch]
-    all_articles = deduplicate(all_articles)
+    all_articles   = [article for batch, _ in results for article in batch]
+    total_undated  = sum(count for _, count in results)
+    all_articles   = deduplicate(all_articles)
+
+    if total_undated:
+        logger.warning(
+            f"  {total_undated} undated articles accepted "
+            f"(no publish date — cannot verify age)"
+        )
 
     logger.info(
         f"\nFetch complete — {len(all_articles)} unique articles ready for clustering"
