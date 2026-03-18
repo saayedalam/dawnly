@@ -172,7 +172,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
 
           <!-- Header -->
           <tr>
-            <td style="padding: 28px 5% 18px; text-align: center;
+            <td style="padding: 20px 16px 14px; text-align: center;
                        border-bottom: 3px double rgba(42,36,16,0.4);">
               <div style="font-family: 'Jost', sans-serif; font-size: 8px;
                           font-weight: 400; letter-spacing: 3px; color: #9a8a70;
@@ -189,7 +189,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
 
           <!-- Section rule -->
           <tr>
-            <td style="padding: 10px 5% 0;">
+            <td style="padding: 10px 0 0;">
               <table width="100%" cellpadding="0" cellspacing="0">
                 <tr>
                   <td style="border-top: 1px solid rgba(42,36,16,0.2);"></td>
@@ -207,7 +207,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
 
           <!-- Stories — fluid 5% padding scales on mobile -->
           <tr>
-            <td style="padding: 0 5%;">
+            <td>
               <table width="100%" cellpadding="0" cellspacing="0">
                 {rows_html}
               </table>
@@ -216,7 +216,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
 
           <!-- Footer -->
           <tr>
-            <td style="padding: 16px 5% 28px;
+            <td style="padding: 16px 0 24px;
                        border-top: 1px solid rgba(42,36,16,0.15);">
               <table width="100%" cellpadding="0" cellspacing="0">
                 <tr>
