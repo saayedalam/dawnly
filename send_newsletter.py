@@ -150,7 +150,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Jost:wght@300;400;500&display=swap"
         rel="stylesheet"/>
 </head>
-<body style="margin: 0; padding: 0; background: #e8e0cc;
+<body style="margin: 0; padding: 0; background: #f5f0e4;
              font-family: 'Cormorant Garamond', Georgia, serif;">
 
   <!--
@@ -164,11 +164,11 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
   </div>
 
   <table width="100%" cellpadding="0" cellspacing="0"
-         style="background: #e8e0cc; padding: 24px 0;">
+         style="background: #f5f0e4;">
     <tr>
-      <td align="center" style="padding: 0 16px;">
-        <table cellpadding="0" cellspacing="0"
-               style="max-width: 600px; width: 100%; background: #f5f0e4;">
+      <td>
+        <table width="100%" cellpadding="0" cellspacing="0"
+               style="background: #f5f0e4;">
 
           <!-- Header -->
           <tr>
