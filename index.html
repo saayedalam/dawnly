@@ -680,23 +680,134 @@
       color: var(--ink-2);
     }
 
-    .footer-subscribe {
+    .footer-subscribe-btn {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--amber);
+      background: none;
+      border: none;
+      border-bottom: 1px solid rgba(200,130,10,0.4);
+      padding: 0 0 1px;
+      cursor: pointer;
+      transition: color 0.2s ease, border-color 0.2s ease;
+    }
+
+    .footer-subscribe-btn:hover {
+      color: var(--ink-1);
+      border-bottom-color: var(--ink-1);
+    }
+
+    /* Subscribe overlay */
+    .subscribe-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      align-items: flex-end;
+      justify-content: center;
+      padding-bottom: 44px;
+    }
+
+    .subscribe-overlay.open { display: flex; }
+
+    .subscribe-box {
+      position: relative;
+      background: var(--paper);
+      border: 1px solid rgba(42,36,16,0.2);
+      border-bottom: 3px double rgba(42,36,16,0.4);
+      padding: 20px 24px 18px;
+      width: 340px;
+      box-shadow: 0 -4px 24px rgba(42,36,16,0.08);
+      animation: sub-rise 0.22s ease;
+    }
+
+    @keyframes sub-rise {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .subscribe-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 10px;
+    }
+
+    .subscribe-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .subscribe-input {
+      flex: 1;
+      font-family: 'Jost', sans-serif;
+      font-size: 11px;
+      font-weight: 300;
+      color: var(--ink-1);
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid rgba(42,36,16,0.25);
+      padding: 4px 0;
+      outline: none;
+      letter-spacing: 0.5px;
+    }
+
+    .subscribe-input::placeholder { color: var(--ink-3); }
+    .subscribe-input:focus { border-bottom-color: var(--amber); }
+
+    .subscribe-submit {
       font-family: 'Jost', sans-serif;
       font-size: 8px;
       font-weight: 500;
       letter-spacing: 2px;
       text-transform: uppercase;
-      color: var(--amber);
-      text-decoration: none;
-      border-bottom: 1px solid rgba(200,130,10,0.35);
-      padding-bottom: 1px;
-      transition: border-color 0.2s ease, color 0.2s ease;
+      color: var(--paper);
+      background: var(--ink-1);
+      border: none;
+      padding: 5px 12px 4px;
+      cursor: pointer;
+      flex-shrink: 0;
+      transition: background 0.2s ease;
     }
 
-    .footer-subscribe:hover {
-      color: var(--ink-1);
-      border-bottom-color: var(--ink-1);
+    .subscribe-submit:hover { background: var(--amber); }
+
+    .subscribe-msg {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-top: 10px;
+      min-height: 14px;
+      color: var(--ink-3);
     }
+
+    .subscribe-msg.success { color: var(--amber); }
+    .subscribe-msg.error   { color: #b85c1a; }
+
+    .subscribe-close {
+      position: absolute;
+      top: 0; right: 0;
+      width: 28px; height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      color: var(--ink-3);
+      cursor: pointer;
+      background: none;
+      border: none;
+    }
+
+    .subscribe-close:hover { color: var(--ink-1); }
 
     .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
 
@@ -866,13 +977,28 @@
     </div>
 
     <div class="footer">
-      <div class="footer-left" id="footer-stats">Algorithmically Ranked · Dawnly</div>
-      <a href="https://buttondown.com/dawnly" target="_blank" class="footer-subscribe">Subscribe</a>
+      <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe</button>
       <div class="reset-badge">
         <div class="reset-inner">
           <div class="reset-front"><span>Resets 6AM</span></div>
           <div class="reset-back"><span id="cd"></span></div>
         </div>
+      </div>
+    </div>
+
+    <!-- Subscribe overlay -->
+    <div class="subscribe-overlay" id="subscribe-overlay" onclick="handleOverlayClick(event)">
+      <div class="subscribe-box" id="subscribe-box">
+        <button class="subscribe-close" onclick="closeSubscribe()">×</button>
+        <div class="subscribe-label">Get Dawnly Every Morning</div>
+        <div class="subscribe-row">
+          <input class="subscribe-input" id="subscribe-email" type="email"
+                 placeholder="your@email.com"
+                 onkeydown="if(event.key==='Enter') submitSubscribe()"
+                 autocomplete="email"/>
+          <button class="subscribe-submit" onclick="submitSubscribe()">Subscribe</button>
+        </div>
+        <div class="subscribe-msg" id="subscribe-msg"></div>
       </div>
     </div>
   </div>
@@ -1416,7 +1542,7 @@ async function loadStories() {
 
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
     document.getElementById('date-label').textContent = pubDate;
-    document.getElementById('footer-stats').textContent = `Algorithmically Ranked · ${stories.length} Stories`;
+    // footer-stats removed
     document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
 
     buildTicker();
@@ -1435,6 +1561,59 @@ document.getElementById('cd').textContent = getCountdown();
 setTimeOfDay();
 loadStories();
 setInterval(() => { document.getElementById('cd').textContent = getCountdown(); }, 60000);
+
+function openSubscribe() {
+  document.getElementById('subscribe-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('subscribe-email').focus(), 50);
+  document.getElementById('subscribe-msg').textContent = '';
+  document.getElementById('subscribe-msg').className = 'subscribe-msg';
+  document.getElementById('subscribe-email').value = '';
+}
+
+function closeSubscribe() {
+  document.getElementById('subscribe-overlay').classList.remove('open');
+}
+
+function handleOverlayClick(e) {
+  if (e.target === document.getElementById('subscribe-overlay')) closeSubscribe();
+}
+
+async function submitSubscribe() {
+  const email = document.getElementById('subscribe-email').value.trim();
+  const msg   = document.getElementById('subscribe-msg');
+
+  if (!email || !email.includes('@')) {
+    msg.textContent = 'Please enter a valid email.';
+    msg.className = 'subscribe-msg error';
+    return;
+  }
+
+  msg.textContent = 'Subscribing...';
+  msg.className = 'subscribe-msg';
+
+  try {
+    const res = await fetch('https://api.buttondown.com/v1/subscribers', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email_address: email, referrer_url: window.location.href }),
+    });
+
+    if (res.ok || res.status === 201) {
+      msg.textContent = "You're in. See you at dawn.";
+      msg.className = 'subscribe-msg success';
+      document.getElementById('subscribe-email').value = '';
+      setTimeout(closeSubscribe, 2800);
+    } else if (res.status === 409) {
+      msg.textContent = 'Already subscribed.';
+      msg.className = 'subscribe-msg success';
+    } else {
+      throw new Error(res.status);
+    }
+  } catch {
+    msg.textContent = 'Something went wrong. Try again.';
+    msg.className = 'subscribe-msg error';
+  }
+}
 </script>
 </body>
 </html>
