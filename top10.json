@@ -1,11 +1,11 @@
 {
-  "published_at": "2026-03-18T03:04:43.048339+00:00",
+  "published_at": "2026-03-18T03:29:00.603653+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
       "headline": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
-      "summary": "Death of Ali Larijani deepens crisis at heart of Iran's leadership. Iran war live: Tehran mourns Larijini, Soleimani; 2 killed in Israel. Israel killed Larijni hoping to ‘torpedo’ chance of US-Iran talks.",
+      "summary": "Death of Ali Larijani deepens crisis at heart of Iran's leadership. Experts discuss ‘Israeli strategy’ in killing of senior Iran official.",
       "sources": [
         {
           "name": "BBC News",
@@ -13,26 +13,29 @@
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-vows-retaliation-for-death-of-security-chief-larijani/live-76402968?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
         "Australia",
-        "Canada",
         "France",
+        "Germany",
         "Hong Kong",
         "Middle East",
         "Pakistan",
         "Qatar",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 134.4,
-      "mentions": 21,
-      "diversity": 8
+      "score": 165.6,
+      "mentions": 22,
+      "diversity": 9,
+      "big_story": false,
+      "related_headlines": []
     },
     {
       "rank": 2,
@@ -54,7 +57,6 @@
       ],
       "regions": [
         "Australia",
-        "Canada",
         "France",
         "Germany",
         "Pakistan",
@@ -62,9 +64,11 @@
         "South America",
         "UK"
       ],
-      "score": 73.6,
-      "mentions": 11,
-      "diversity": 8
+      "score": 59.5,
+      "mentions": 10,
+      "diversity": 7,
+      "big_story": false,
+      "related_headlines": []
     },
     {
       "rank": 3,
@@ -95,7 +99,9 @@
       ],
       "score": 47.6,
       "mentions": 8,
-      "diversity": 7
+      "diversity": 7,
+      "big_story": false,
+      "related_headlines": []
     },
     {
       "rank": 4,
@@ -124,10 +130,43 @@
       ],
       "score": 24.0,
       "mentions": 6,
-      "diversity": 5
+      "diversity": 5,
+      "big_story": false,
+      "related_headlines": []
     },
     {
       "rank": 5,
+      "headline": "‘We’ll be doing something with Cuba very soon’, Trump says",
+      "summary": "‘We’ll be doing something with Cuba very soon’, Trump says. Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure.",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/17/us/politics/florida-cuba-trump.html"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Qatar",
+        "Russia",
+        "UK",
+        "US"
+      ],
+      "score": 22.5,
+      "mentions": 6,
+      "diversity": 5,
+      "big_story": false,
+      "related_headlines": []
+    },
+    {
+      "rank": 6,
       "headline": "Starmer Turns His Attention To Ukraine (Or Tries To)",
       "summary": "Starmer Turns His Attention To Ukraine (Or Tries To) Starmer urges allies to keep focus on Ukraine amid Iran war. Starmer tells Zelenskyy that 'focus must remain on Ukraine'",
       "sources": [
@@ -153,10 +192,12 @@
       ],
       "score": 20.5,
       "mentions": 5,
-      "diversity": 5
+      "diversity": 5,
+      "big_story": false,
+      "related_headlines": []
     },
     {
-      "rank": 6,
+      "rank": 7,
       "headline": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
       "summary": "Morocco awarded Africa Cup of Nations title after Senegal win overturned CAF strips Senegal of AFCON title, Morocco declared African champions.",
       "sources": [
@@ -181,10 +222,43 @@
       ],
       "score": 20.0,
       "mentions": 5,
-      "diversity": 4
+      "diversity": 4,
+      "big_story": false,
+      "related_headlines": []
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+      "summary": "U.S. is letting Iranian oil tankers through the Strait of Hormuz, Bessent says. Trackers show Iran vets friendly ships for Hormuez passage.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wresting-control-strait-hormuz-iran-has-turned-tables-us"
+        }
+      ],
+      "regions": [
+        "Global",
+        "Middle East",
+        "Qatar",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 19.0,
+      "mentions": 5,
+      "diversity": 5,
+      "big_story": false,
+      "related_headlines": []
+    },
+    {
+      "rank": 9,
       "headline": "Nigeria tightens security in Maiduguri after suicide attacks",
       "summary": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria. Nigeria tightens security in Maiduguri after suicide attacks.",
       "sources": [
@@ -209,38 +283,12 @@
       ],
       "score": 17.6,
       "mentions": 5,
-      "diversity": 4
+      "diversity": 4,
+      "big_story": false,
+      "related_headlines": []
     },
     {
-      "rank": 8,
-      "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-      "summary": "U.S. is letting Iranian oil tankers through the Strait of Hormuz, Bessent says.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wresting-control-strait-hormuz-iran-has-turned-tables-us"
-        }
-      ],
-      "regions": [
-        "Global",
-        "Middle East",
-        "Qatar",
-        "UK"
-      ],
-      "score": 12.4,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "headline": "Total repression and air strikes bring unrelenting dread for Iranians",
       "summary": "Total repression and air strikes bring unrelenting dread for Iranians. War on Iran: As top leaders and commanders are killed, 'regime will harden and close ranks'",
       "sources": [
@@ -264,34 +312,9 @@
       ],
       "score": 8.1,
       "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure",
-      "summary": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure.",
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/north-america/unfinished-business-why-trump-floated-a-friendly-takeover-of-cuba-20260226-p5o5sx.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Qatar",
-        "UK"
-      ],
-      "score": 7.2,
-      "mentions": 3,
-      "diversity": 3
+      "diversity": 3,
+      "big_story": false,
+      "related_headlines": []
     }
   ]
 }
