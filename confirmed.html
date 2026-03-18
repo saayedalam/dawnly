@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>You're in — Dawnly</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg viewBox='0 0 110 90' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='55' y1='2' x2='55' y2='14' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='80' y1='7' x2='74' y2='17' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='98' y1='22' x2='89' y2='27' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='30' y1='7' x2='36' y2='17' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='12' y1='22' x2='21' y2='27' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='104' y1='44' x2='93' y2='44' stroke='%23c8820a' stroke-width='1.8' stroke-linecap='round'/%3E%3Cline x1='6' y1='44' x2='17' y2='44' stroke='%23c8820a' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M30 52 Q30 28 55 28 Q80 28 80 52' fill='%23e8a020' opacity='0.9'/%3E%3Cpath d='M30 52 Q30 28 55 28 Q80 28 80 52' fill='none' stroke='%23c8820a' stroke-width='1.5'/%3E%3Crect x='8' y='50' width='42' height='30' rx='1' fill='%23f0ead8' stroke='%232a2410' stroke-width='1.5'/%3E%3Crect x='60' y='50' width='42' height='30' rx='1' fill='%23f0ead8' stroke='%232a2410' stroke-width='1.5'/%3E%3Cline x1='55' y1='50' x2='55' y2='80' stroke='%232a2410' stroke-width='1.5'/%3E%3Cpath d='M8 80 Q55 88 102 80' stroke='%232a2410' stroke-width='1.5' fill='none'/%3E%3Cpath d='M8 50 Q55 44 102 50' stroke='%232a2410' stroke-width='1.5' fill='none'/%3E%3C/svg%3E"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink-1:  #1a1408;
+      --ink-2:  #5a5040;
+      --ink-3:  #9a8a70;
+      --amber:  #c8820a;
+      --paper:  #f5f0e4;
+      --paper-2:#ede6d4;
+      --border: rgba(42,36,16,0.15);
+    }
+
+    html, body {
+      height: 100%;
+      background: #e8e0cc;
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      color: var(--ink-1);
+    }
+
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 32px 16px;
+    }
+
+    .card {
+      background: var(--paper);
+      max-width: 480px;
+      width: 100%;
+      text-align: center;
+      border-bottom: 3px double rgba(42,36,16,0.4);
+    }
+
+    .card-header {
+      padding: 36px 40px 24px;
+      border-bottom: 3px double rgba(42,36,16,0.4);
+    }
+
+    .meta {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 10px;
+    }
+
+    .logo-icon {
+      width: 60px;
+      height: 50px;
+      display: block;
+      margin: 0 auto 8px;
+    }
+
+    .wordmark {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 48px;
+      font-weight: 700;
+      color: var(--ink-1);
+      letter-spacing: 2px;
+      line-height: 1;
+    }
+
+    .card-body {
+      padding: 32px 40px 28px;
+    }
+
+    .confirmed-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 500;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 14px;
+    }
+
+    .headline {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--ink-1);
+      line-height: 1.2;
+      margin-bottom: 16px;
+    }
+
+    .body-text {
+      font-family: 'Jost', sans-serif;
+      font-size: 11px;
+      font-weight: 300;
+      color: var(--ink-2);
+      line-height: 1.8;
+      letter-spacing: 0.5px;
+      margin-bottom: 28px;
+    }
+
+    .cta {
+      display: inline-block;
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--paper);
+      background: var(--ink-1);
+      text-decoration: none;
+      padding: 9px 20px 8px;
+      transition: background 0.2s ease;
+    }
+
+    .cta:hover { background: var(--amber); }
+
+    .card-footer {
+      padding: 14px 40px 20px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-left {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+    }
+
+    .footer-right {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+    }
+
+    /* Rays animation */
+    .ray { animation: ray-pulse 3s ease-in-out infinite; }
+    .ray:nth-child(1) { animation-delay: 0.0s; }
+    .ray:nth-child(2) { animation-delay: 0.3s; }
+    .ray:nth-child(3) { animation-delay: 0.6s; }
+    .ray:nth-child(4) { animation-delay: 0.9s; }
+    .ray:nth-child(5) { animation-delay: 1.2s; }
+    .ray:nth-child(6) { animation-delay: 1.5s; }
+    .ray:nth-child(7) { animation-delay: 1.8s; }
+    @keyframes ray-pulse {
+      0%,100% { opacity: 0.35; }
+      50% { opacity: 1.0; }
+    }
+
+    @media (max-width: 480px) {
+      .card-header, .card-body { padding-left: 24px; padding-right: 24px; }
+      .card-footer { padding-left: 24px; padding-right: 24px; }
+      .wordmark { font-size: 40px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+
+    <div class="card-header">
+      <div class="meta">Subscription Confirmed</div>
+      <svg class="logo-icon" viewBox="0 0 110 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="55" y1="2" x2="55" y2="14" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="80" y1="7" x2="74" y2="17" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="98" y1="22" x2="89" y2="27" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="30" y1="7" x2="36" y2="17" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="12" y1="22" x2="21" y2="27" stroke="#c8820a" stroke-width="2" stroke-linecap="round" class="ray"/>
+        <line x1="104" y1="44" x2="93" y2="44" stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
+        <line x1="6" y1="44" x2="17" y2="44" stroke="#c8820a" stroke-width="1.8" stroke-linecap="round" class="ray"/>
+        <path d="M30 52 Q30 28 55 28 Q80 28 80 52" fill="#e8a020" opacity="0.9"/>
+        <path d="M30 52 Q30 28 55 28 Q80 28 80 52" fill="none" stroke="#c8820a" stroke-width="1.5"/>
+        <rect x="8" y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
+        <rect x="60" y="50" width="42" height="30" rx="1" fill="#f0ead8" stroke="#2a2410" stroke-width="1.5"/>
+        <line x1="55" y1="50" x2="55" y2="80" stroke="#2a2410" stroke-width="1.5"/>
+        <path d="M8 80 Q55 88 102 80" stroke="#2a2410" stroke-width="1.5" fill="none"/>
+        <path d="M8 50 Q55 44 102 50" stroke="#2a2410" stroke-width="1.5" fill="none"/>
+      </svg>
+      <div class="wordmark">Dawnly</div>
+    </div>
+
+    <div class="card-body">
+      <div class="confirmed-label">You're confirmed</div>
+      <div class="headline">Your first edition<br>arrives at dawn.</div>
+      <p class="body-text">
+        Every morning at 6AM EST, Dawnly delivers the top 10 global stories —
+        algorithmically ranked, locked for 24 hours. Read it once. Put it down.
+        Live your day.
+      </p>
+      <a href="https://saayedalam.me/dawnly" class="cta">Read Today's Edition →</a>
+    </div>
+
+    <div class="card-footer">
+      <span class="footer-left">One Edition · Every Morning</span>
+      <span class="footer-right">Resets 6AM EST</span>
+    </div>
+
+  </div>
+</body>
+</html>
