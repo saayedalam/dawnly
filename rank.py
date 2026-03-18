@@ -132,35 +132,63 @@ def score_cluster(cluster: list[dict]) -> float:
 
 
 # -------------------------------------------------------------------------
-# NER — entity extraction
+# NER — cluster-level entity extraction
 # -------------------------------------------------------------------------
 
-# Entity label types we care about for topic grouping
-_ENTITY_LABELS = {"GPE", "ORG", "NORP", "PERSON"}
+# Entity label types we care about for topic grouping.
+# GPE  = countries, cities, regions (Iran, Gaza, Ukraine)
+# NORP = nationalities, religions, groups (Iranians, Hamas, NATO)
+# ORG  = organisations (Taliban, EU, Fed)
+# PERSON is intentionally excluded — person names are too volatile
+# and often refer to actors rather than the subject of the story
+# (e.g. "Trump says..." makes the story about Iran, not Trump)
+_ENTITY_LABELS = {"GPE", "NORP", "ORG"}
 
-# Entities to ignore — too generic to be meaningful topic identifiers
+# Entities to ignore — too generic to be meaningful event identifiers.
+# These appear in almost every international story and carry no signal.
 _IGNORED_ENTITIES = {
-    "us", "u.s.", "united states", "un", "united nations",
-    "eu", "european union", "nato", "white house",
+    "us", "u.s.", "united states", "america",
+    "un", "united nations",
+    "eu", "european union",
+    "nato",
+    "white house", "pentagon", "congress", "senate",
+    "government", "parliament", "ministry",
 }
 
-def get_story_entity(headline: str) -> str:
+
+def get_cluster_entity(cluster: list[dict]) -> str:
     '''
-    Extract the dominant named entity from a headline using spaCy NER.
-    Returns the first GPE/ORG/NORP/PERSON entity found (lowercased),
-    skipping generic geopolitical terms that aren't useful topic identifiers.
-    Falls back to "other" if no meaningful entity is found.
+    Identify the dominant named entity for a story cluster by running NER
+    across ALL article titles in the cluster, not just the best headline.
+
+    This is the core of the event-detection approach: two clusters about
+    the same underlying crisis (e.g. "Iran supreme leader" and "Hormuz
+    blockade") will both have "iran" as their most frequent entity across
+    their combined article titles, and will therefore be grouped together
+    for quota and big-story purposes.
+
+    Returns the most frequently mentioned qualifying entity (lowercased),
+    or "other" if no meaningful entity is found.
     '''
     nlp = get_nlp()
-    doc = nlp(headline)
+    entity_counts: Counter = Counter()
 
-    for ent in doc.ents:
-        if ent.label_ in _ENTITY_LABELS:
-            text = ent.text.lower().strip()
-            if text not in _IGNORED_ENTITIES and len(text) > 1:
-                return text
+    for article in cluster:
+        title = article.get("title", "")
+        if not title:
+            continue
+        doc = nlp(title)
+        for ent in doc.ents:
+            if ent.label_ in _ENTITY_LABELS:
+                text = ent.text.lower().strip()
+                if text not in _IGNORED_ENTITIES and len(text) > 1:
+                    entity_counts[text] += 1
 
-    return "other"
+    if not entity_counts:
+        return "other"
+
+    # Return the single most common entity across all cluster titles
+    return entity_counts.most_common(1)[0][0]
 
 
 # -------------------------------------------------------------------------
@@ -290,7 +318,7 @@ def rank_clusters(clusters: list[list[dict]]) -> list[dict]:
 
         scored.append({
             "headline":      best["title"],
-            "entity":        get_story_entity(best["title"]),
+            "entity":        get_cluster_entity(cluster),
             "score":         score,
             "mention_count": len(cluster),
             "avg_reach":     round(average_coverage_reach(cluster), 4),
