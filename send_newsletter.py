@@ -29,18 +29,38 @@ BUTTONDOWN_API_URL = "https://api.buttondown.com/v1/emails"
 TOP10_FILE         = "top10.json"
 ROMAN              = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"]
 
+TAGLINES = [
+    "The Morning Paper, Rebuilt For Today",
+    "Once A Day. Just Like It Used To Be.",
+    "Your Daily Paper. Nothing In Between.",
+    "The News, The Way It Used To Feel.",
+    "One Edition. Every Morning.",
+    "Read It. Put It Down. Live Your Day.",
+    "The Paper Lands Once.",
+]
+
 
 # -------------------------------------------------------------------------
 # Email builder
 # -------------------------------------------------------------------------
 
-def build_subject(stories: list[dict], edition: int) -> str:
+def build_subject(edition: int, published_at: str) -> str:
     '''
     Build the email subject line.
-    Uses the top story headline for preview text in most clients.
+    Format: Dawnly · Edition N · Month D · Tagline
+    Tagline rotates daily by day-of-year — never repeats two days in a row.
     '''
-    top = stories[0]["headline"] if stories else "Today's Edition"
-    return f"Dawnly · Edition {edition} — {top}"
+    try:
+        dt          = datetime.fromisoformat(published_at)
+        date_str    = dt.strftime("%B %-d")
+        day_of_year = dt.timetuple().tm_yday
+    except Exception:
+        dt          = datetime.now(timezone.utc)
+        date_str    = dt.strftime("%B %-d")
+        day_of_year = dt.timetuple().tm_yday
+
+    tagline = TAGLINES[day_of_year % len(TAGLINES)]
+    return f"Dawnly · Edition {edition} · {date_str} · {tagline}"
 
 
 def build_html(stories: list[dict], edition: int, published_at: str) -> str:
@@ -50,7 +70,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
     Google Fonts are loaded via a <link> tag which works in most
     modern clients; fallback to Georgia is set for all others.
     '''
-    # Format the date
+    # Format the date for the email header
     try:
         dt = datetime.fromisoformat(published_at)
         date_str = dt.strftime("%A, %B %-d, %Y").upper()
@@ -64,11 +84,8 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
         regions = ", ".join(story.get("regions", []))
         sources = story.get("sources", [])
 
-        # Link the headline to the top source if available
-        top_link = sources[0]["link"] if sources else "#"
-        headline = story.get("headline", "")
-
-        # Source names for attribution
+        top_link     = sources[0]["link"] if sources else "#"
+        headline     = story.get("headline", "")
         source_names = " · ".join(s["name"] for s in sources[:3])
 
         rows_html += f"""
@@ -230,13 +247,11 @@ def send_email(subject: str, body: str, api_key: str) -> None:
 # -------------------------------------------------------------------------
 
 def main() -> None:
-    # Get API key from environment
     api_key = os.environ.get("BUTTONDOWN_API_KEY")
     if not api_key:
         logger.error("BUTTONDOWN_API_KEY environment variable not set")
         sys.exit(1)
 
-    # Load top10.json
     if not os.path.exists(TOP10_FILE):
         logger.error(f"{TOP10_FILE} not found — pipeline may not have run yet")
         sys.exit(1)
@@ -253,7 +268,6 @@ def main() -> None:
 
     logger.info(f"Loaded {len(stories)} stories from {TOP10_FILE}")
 
-    # Derive edition number — days since March 12 2026 launch
     try:
         launch    = datetime(2026, 3, 12, tzinfo=timezone.utc)
         pub_dt    = datetime.fromisoformat(published_at)
@@ -261,7 +275,7 @@ def main() -> None:
     except Exception:
         edition = 1
 
-    subject = build_subject(stories, edition)
+    subject = build_subject(edition, published_at)
     body    = build_html(stories, edition, published_at)
 
     logger.info(f"Subject: {subject}")
