@@ -89,4 +89,4 @@ dawnly/
 
 ---
 
-*Built by [Saayed Alam](https://github.com/saayedalam)*
+*Built by [Saayed Alam](https://saayedalam.me)*
