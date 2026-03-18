@@ -1,5 +1,5 @@
 # sources.py
-# Purpose: Master source list for Agora — all RSS feeds, tiers, and weights
+# Purpose: Master source list for Dawnly — all RSS feeds, tiers, and weights
 # Tier weights: Global (1.0) > Regional (0.6) > Niche (0.3)
 
 SOURCES = [
@@ -15,13 +15,7 @@ SOURCES = [
         "weight": 1.0,
         "region": "UK",
     },
-    {
-        "name": "Associated Press",
-        "url": "https://apnews.com/apf-topnews",
-        "tier": "global",
-        "weight": 1.0,
-        "region": "US",
-    },
+
     {
         "name": "Al Jazeera English",
         "url": "https://www.aljazeera.com/xml/rss/all.xml",
@@ -52,7 +46,7 @@ SOURCES = [
     },
     {
         "name": "France 24",
-        "url": "https://www.france24.com/en/rss",
+        "url": "https://www.france24.com/en/world/rss",
         "tier": "global",
         "weight": 1.0,
         "region": "France",
@@ -83,13 +77,7 @@ SOURCES = [
         "weight": 0.6,
         "region": "UK",
     },
-    {
-        "name": "Wall Street Journal",
-        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "tier": "regional",
-        "weight": 0.6,
-        "region": "US",
-    },
+
     {
         "name": "South China Morning Post",
         "url": "https://www.scmp.com/rss/91/feed",
@@ -146,13 +134,7 @@ SOURCES = [
         "weight": 0.6,
         "region": "Canada",
     },
-    {
-        "name": "Southeast Asia Globe",
-        "url": "https://southeastasiaglobe.com/feed",
-        "tier": "regional",
-        "weight": 0.6,
-        "region": "Southeast Asia",
-    },
+
     {
         "name": "African Arguments",
         "url": "https://africanarguments.org/feed",
@@ -160,6 +142,36 @@ SOURCES = [
         "weight": 0.6,
         "region": "Africa",
     },
+
+    {
+        "name": "Channel NewsAsia",
+        "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "tier": "regional",
+        "weight": 0.6,
+        "region": "Southeast Asia",
+    },
+    {
+        "name": "Guardian Africa",
+        "url": "https://www.theguardian.com/world/africa/rss",
+        "tier": "regional",
+        "weight": 0.6,
+        "region": "Africa",
+    },
+    {
+        "name": "Guardian Americas",
+        "url": "https://www.theguardian.com/world/americas/rss",
+        "tier": "regional",
+        "weight": 0.6,
+        "region": "Latin America",
+    },
+    {
+        "name": "MercoPress",
+        "url": "https://en.mercopress.com/rss",
+        "tier": "regional",
+        "weight": 0.6,
+        "region": "South America",
+    },
+
 
     # -------------------------------------------------------------------------
     # NICHE TIER — weight: 0.3
@@ -187,13 +199,6 @@ SOURCES = [
         "region": "Global",
     },
     {
-        "name": "CBC News",
-        "url": "https://www.cbc.ca/cmlink/rss-topstories",
-        "tier": "regional",
-        "weight": 0.6,
-        "region": "Canada",
-    },
-    {
         "name": "Rest of World",
         "url": "https://restofworld.org/feed",
         "tier": "niche",
@@ -213,6 +218,41 @@ SOURCES = [
         "tier": "niche",
         "weight": 0.3,
         "region": "Global",
+    },
+    {
+        "name": "Balkan Insight",
+        "url": "https://balkaninsight.com/feed",
+        "tier": "niche",
+        "weight": 0.3,
+        "region": "Eastern Europe",
+    },
+    {
+        "name": "Buenos Aires Times",
+        "url": "https://www.batimes.com.ar/feed",
+        "tier": "niche",
+        "weight": 0.3,
+        "region": "South America",
+    },
+    {
+        "name": "The Africa Report",
+        "url": "https://www.theafricareport.com/feed",
+        "tier": "niche",
+        "weight": 0.3,
+        "region": "Africa",
+    },
+    {
+        "name": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/rss/news",
+        "tier": "niche",
+        "weight": 0.3,
+        "region": "Russia",
+    },
+    {
+        "name": "Guardian Russia",
+        "url": "https://www.theguardian.com/world/russia/rss",
+        "tier": "niche",
+        "weight": 0.3,
+        "region": "Russia",
     },
 
 ]

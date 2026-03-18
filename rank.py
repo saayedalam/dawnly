@@ -33,7 +33,6 @@ COVERAGE_REACH = {
     "The New York Times":       0.7,
     "The Washington Post":      0.7,
     "The Guardian":             0.7,
-    "Wall Street Journal":      0.7,
     "Financial Times":          0.7,
     "South China Morning Post": 0.7,
     "The Hindu":                0.7,
@@ -41,12 +40,13 @@ COVERAGE_REACH = {
     "Middle East Eye":          0.7,
     "Sydney Morning Herald":    0.7,
     "Toronto Star":             0.7,
-    "CBC News":                 0.7,
-    "Globe and Mail":           0.7,
     "The Diplomat":             0.7,
     "Hong Kong Free Press":     0.7,
     "African Arguments":        0.7,
-    "Southeast Asia Globe":     0.7,
+    "Channel NewsAsia":         0.7,
+    "Guardian Africa":          0.7,
+    "Guardian Americas":        0.7,
+    "MercoPress":               0.7,
     "NPR News":                 0.7,
 
     # Tier C — 0.4
@@ -57,6 +57,11 @@ COVERAGE_REACH = {
     "Politico":         0.4,
     "Axios":            0.4,
     "Quartz":           0.4,
+    "Balkan Insight":       0.4,
+    "Buenos Aires Times":   0.4,
+    "The Africa Report":    0.4,
+    "The Moscow Times":     0.4,
+    "Guardian Russia":      0.4,
 }
 
 DEFAULT_REACH = 0.4     # fallback for any source not in the list

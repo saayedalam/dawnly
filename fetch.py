@@ -39,7 +39,11 @@ REQUEST_TIMEOUT_SECONDS = 10        # per-request timeout
 CONCURRENCY_LIMIT       = 10        # max simultaneous feed requests
 
 HEADERS = {
-    "User-Agent": "Agora-NewsPipeline/1.0 (headlines only; contact: your@email.com)"
+    "User-Agent": (
+        "Mozilla/5.0 (compatible; DawnlyPipeline/1.0; "
+        "+https://dawnly.news)"
+    ),
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
 
 

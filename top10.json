@@ -1,192 +1,169 @@
 {
-  "published_at": "2026-03-17T11:00:19.398975+00:00",
-  "story_count": 9,
+  "published_at": "2026-03-18T01:43:45.683736+00:00",
+  "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Israel says 'limited' ground operations under way in Lebanon",
-      "summary": "Israel says 'limited' ground operations under way in Lebanon. Israel says Iran’s security chief Larijani has been killed.",
+      "headline": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+      "summary": "Death of Ali Larijani deepens crisis at heart of Iran's leadership. Iran war live: Tehran mourns Larijini, Soleimani; 2 killed in Israel. Israel killed Larijni hoping to ‘torpedo’ chance of US-Iran talks.",
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/israel-says-irans-security-chief-larijani-has-been-killed?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-israel-says-iran-security-chief-basij-head-killed/live-76387955?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
         }
       ],
       "regions": [
         "Australia",
-        "France",
-        "Germany",
+        "Canada",
         "Hong Kong",
         "Middle East",
+        "Pakistan",
         "Qatar",
         "UK",
         "US"
       ],
-      "score": 144.8,
-      "mentions": 22,
+      "score": 124.0,
+      "mentions": 20,
       "diversity": 8
     },
     {
       "rank": 2,
-      "headline": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
-      "summary": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan. Afghanistan says 400 killed in strike by Pakistan on Kabul hospital.",
+      "headline": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course' Who is Joe Kent, and why did he resign as Trump's counterterrorism chief?",
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/400-killed-in-pakistani-strike-on-kabul-hospital-taliban/a-76388222?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/asia-pacific/20260317-like-doomsday-pakistan-air-strike-kills-at-least-400-in-kabul-drug-rehab-centre-taliban-says"
+          "link": "https://www.dw.com/en/us-counterterrorism-chief-joe-kent-resigns-over-iran-war/a-76402450?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "France",
+        "Australia",
         "Germany",
+        "Hong Kong",
         "Pakistan",
+        "Qatar",
         "UK",
         "US"
       ],
-      "score": 37.5,
+      "score": 50.4,
       "mentions": 9,
-      "diversity": 5
+      "diversity": 7
     },
     {
       "rank": 3,
-      "headline": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war",
-      "summary": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war. US embassy in Baghdad attacked as Iraq pulled deeper into Mideast war. Missiles and drone attacks across the UAE as Iran presses on with air campaign in Gulf.",
+      "headline": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
+      "summary": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal.",
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/17/drone-sparks-fire-at-uae-oil-site-as-gulf-takes-more-hits-amid-iran-war?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260317-us-embassy-in-baghdad-attacked-as-iraq-pulled-deeper-into-mideast-war"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-nato-making-mistake-on-hormuz-trump-says/live-76387955?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets"
+          "link": "https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east"
         }
       ],
       "regions": [
         "Australia",
-        "France",
-        "Hong Kong",
+        "Canada",
+        "Germany",
+        "Global",
+        "Pakistan",
         "Qatar",
         "UK"
       ],
-      "score": 25.5,
-      "mentions": 6,
-      "diversity": 5
+      "score": 48.3,
+      "mentions": 9,
+      "diversity": 7
     },
     {
       "rank": 4,
-      "headline": "Strait talk on Hormuz: Insults, chaos, shadow of Iraq, keep Trump's allies at bay?",
-      "summary": "Will the strait of Hormuz torpedo Trump’s war? – podcast Strait talk onHormuz: Insults, chaos, shadow of Iraq, keep Trump's allies at bay?",
+      "headline": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital",
+      "summary": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital Pakistan denies hospital strike in Afghanistan as death toll hits 400 Afghanistan says 400 killed in strike by Pakistan on Kabul hospital.",
       "sources": [
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/tv-shows/the-debate/20260316-strait-talk-on-hormuz-insults-chaos-shadow-of-iraq-keep-trump-s-allies-at-bay"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/pakistan-strongly-rejects-claim-it-struck-kabul-hospital?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/news/audio/2026/mar/17/will-the-strait-of-hormuz-torpedo-trumps-war-podcast"
+          "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/politics/article/3346756/south-korea-catch-22-situation-over-trumps-call-warships-secure-hormuz?utm_source=rss_feed"
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1983000/information-ministry-rubbishes-afghan-talibans-claims-of-hospital-being-hit-in-kabul"
         }
       ],
       "regions": [
-        "Australia",
-        "France",
-        "Hong Kong",
+        "Global",
         "Pakistan",
-        "UK"
-      ],
-      "score": 19.0,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 5,
-      "headline": "Millions without electricity as Cuba's power grid collapses",
-      "summary": "Millions without electricity as Cuba's power grid collapses. Cuba hit by island-wide blackout amid Trump oil blockade.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cuba-hit-by-island-wide-blackout-amid-trump-oil-blockade/a-76385816?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260316-cuba-hit-by-blackout-power-grid-crisis"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "UK"
-      ],
-      "score": 13.2,
-      "mentions": 5,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "Bereavement author found guilty of fatally poisoning her husband",
-      "summary": "Bereavement author found guilty of fatally poisoning her husband. Woman who wrote book on grief guilty of murdering husband.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/woman-who-wrote-book-on-grief-guilty-of-murdering-husband?traffic_source=rss"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/north-america/a-mum-wrote-a-children-s-book-about-grief-after-her-husband-died-she-was-just-convicted-of-his-murder-20260317-p5ob7q.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "regions": [
-        "Australia",
         "Qatar",
         "UK"
       ],
-      "score": 8.1,
-      "mentions": 3,
-      "diversity": 3
+      "score": 15.2,
+      "mentions": 5,
+      "diversity": 4
     },
     {
-      "rank": 7,
-      "headline": "Nigeria: At least 23 killed in Maiduguri 'suicide' attacks",
-      "summary": "Nigeria: At least 23 killed in Maiduguri 'suicide' attacks. Suicide attacks in Nigeria kill 23, wound more than 100.",
+      "rank": 5,
+      "headline": "US Attorney General Pam Bondi subpoenaed for congressional Epstein probe",
+      "summary": "US Attorney General Pam Bondi subpoenaed for congressional Epstein probe. Bondi was subpoenaed to answer questions from Congress about the Epstein files.",
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nigeria-at-least-23-killed-in-maiduguri-suicide-attacks/a-76389982?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/17/us-attorney-general-pam-bondi-subpoenaed-for-congressional-epstein-probe?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/africa/article/3346862/suicide-attacks-nigeria-kill-23-wound-more-100?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3346938/us-house-panel-subpoenas-pam-bondi-testify-epstein-investigation?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Qatar",
+        "UK"
+      ],
+      "score": 12.4,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Nigeria tightens security in Maiduguri after suicide attacks",
+      "summary": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria. Nigeria tightens security in Maiduguri after suicide attacks.",
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-tightens-security-in-maiduguri-after-suicide-attacks/a-76398081?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri"
         },
         {
           "name": "Dawn Pakistan",
@@ -195,64 +172,117 @@
       ],
       "regions": [
         "Germany",
-        "Hong Kong",
-        "Pakistan"
+        "Pakistan",
+        "UK"
       ],
-      "score": 7.2,
-      "mentions": 3,
+      "score": 10.2,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+      "summary": "Iranian official says U.S. is letting Iranian oil tankers through the Strait of Hormuz. Bessent: Strait 'won’t return to its pre-war status'",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/wresting-control-strait-hormuz-iran-has-turned-tables-us"
+        },
+        {
+          "name": "Quartz",
+          "link": "https://qz.com/iranian-oil-tankers-strait-of-hormuz-bessent"
+        }
+      ],
+      "regions": [
+        "Global",
+        "Middle East",
+        "UK"
+      ],
+      "score": 9.6,
+      "mentions": 5,
       "diversity": 3
     },
     {
       "rank": 8,
-      "headline": "Oil eases amid signs Iran is allowing some tankers to pass through Strait of Hormuz",
-      "summary": "Oil eases amid signs Iran is allowing some tankers to pass through Strait of Hormuz.",
+      "headline": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
+      "summary": "Morocco awarded Africa Cup of Nations title after Senegal win overturned. CAF strips Senegal of AFCON title, Morocco declared African champions.",
       "sources": [
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/tv-shows/business/20260316-oil-eases-amid-signs-iran-is-allowing-some-tankers-pass-through-strait-of-hormuz"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bloomberg-iran-allows-turkish-and-indian-ships-pass-through-hormuz"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss"
         },
         {
-          "name": "Quartz",
-          "link": "https://qz.com/scott-bessent-iran-oil-tankers-strait-of-hormuz"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/afcon-senegal-stripped-of-title-morocco-crowned-champions/a-76402922?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "France",
-        "Global",
-        "Middle East"
+        "Germany",
+        "Qatar",
+        "UK"
       ],
-      "score": 6.3,
+      "score": 9.0,
       "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 9,
-      "headline": "Trump’s Dangerous Lack of a Strategy in Iran",
-      "summary": "Trump’s Dangerous Lack of a Strategy in Iran. What is the Iran war entering its third week, what is Trump's exit strategy?",
+      "headline": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
+      "summary": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war Trump asks China if visit to Beijing can be delayed a month due to Iran war. Trump confirms delay of Beijing meeting with Xi amid Iran conflict.",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/north-america/with-the-iran-war-entering-its-third-week-what-is-trump-s-exit-strategy-20260316-p5oar1.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/article/3346937/trump-confirms-delay-beijing-meeting-xi-amid-iran-conflict?utm_source=rss_feed"
         },
         {
-          "name": "Foreign Policy",
-          "link": "https://foreignpolicy.com/2026/03/16/iran-war-trump-escalation-hormuz-gulf-states-uae-saudi-qatar-drones-missiles-israel/"
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/03/17/china-says-takes-note-of-us-clarifications-on-possible-delay-to-trump-visit/"
         }
       ],
       "regions": [
-        "Australia",
-        "Global",
-        "US"
+        "Hong Kong",
+        "UK"
       ],
-      "score": 5.4,
+      "score": 8.4,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Starmer Turns His Attention To Ukraine (Or Tries To)",
+      "summary": "Starmer Turns His Attention To Ukraine (Or Tries To) Starmer urges allies to keep focus on Ukraine amid Iran war.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6gzdj?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/starmer-urges-allies-to-keep-focus-on-ukraine-amid-iran-war/a-76400266?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3346941/zelensky-starmer-urge-continued-support-ukraine-iran-conflict-steals-focus?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 8.1,
       "mentions": 3,
       "diversity": 3
     }
