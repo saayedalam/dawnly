@@ -680,6 +680,24 @@
       color: var(--ink-2);
     }
 
+    .footer-subscribe {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--amber);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(200,130,10,0.35);
+      padding-bottom: 1px;
+      transition: border-color 0.2s ease, color 0.2s ease;
+    }
+
+    .footer-subscribe:hover {
+      color: var(--ink-1);
+      border-bottom-color: var(--ink-1);
+    }
+
     .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
 
     .reset-inner {
@@ -849,6 +867,7 @@
 
     <div class="footer">
       <div class="footer-left" id="footer-stats">Algorithmically Ranked · Dawnly</div>
+      <a href="https://buttondown.com/saayedalam" target="_blank" class="footer-subscribe">Subscribe</a>
       <div class="reset-badge">
         <div class="reset-inner">
           <div class="reset-front"><span>Resets 6AM</span></div>
