@@ -1591,20 +1591,19 @@ async function submitSubscribe() {
   msg.className = 'subscribe-msg';
 
   try {
-    const res = await fetch('https://api.buttondown.com/v1/subscribers', {
+    const form = new FormData();
+    form.append('email', email);
+
+    const res = await fetch('https://buttondown.com/api/emails/embed-subscribe/dawnly', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email_address: email, referrer_url: window.location.href }),
+      body: form,
     });
 
-    if (res.ok || res.status === 201) {
+    if (res.ok || res.redirected) {
       msg.textContent = "You're in. See you at dawn.";
       msg.className = 'subscribe-msg success';
       document.getElementById('subscribe-email').value = '';
       setTimeout(closeSubscribe, 2800);
-    } else if (res.status === 409) {
-      msg.textContent = 'Already subscribed.';
-      msg.className = 'subscribe-msg success';
     } else {
       throw new Error(res.status);
     }
