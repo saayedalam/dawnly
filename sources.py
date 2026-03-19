@@ -149,6 +149,13 @@ SOURCES = [
         "region": "Africa",
     },
     {
+        "name": "Africanews",
+        "url": "https://www.africanews.com/feed/rss",
+        "tier": "regional",
+        "weight": 0.7,
+        "region": "Africa",
+    },
+    {
         "name": "Channel NewsAsia",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
         "tier": "regional",
@@ -236,6 +243,27 @@ SOURCES = [
         "tier": "niche",
         "weight": 0.4,
         "region": "Russia",
+    },
+    {
+        "name": "Mail & Guardian",
+        "url": "https://mg.co.za/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "South Africa",
+    },
+    {
+        "name": "Premium Times Nigeria",
+        "url": "https://www.premiumtimesng.com/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "West Africa",
+    },
+    {
+        "name": "Rio Times",
+        "url": "https://riotimesonline.com/feed/",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "Brazil",
     },
 
 ]
