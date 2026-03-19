@@ -83,6 +83,58 @@
       transform: translateX(-50%);
     }
 
+    .meta-domain-flip {
+      display: inline-block;
+      text-decoration: none;
+      perspective: 400px;
+      cursor: pointer;
+    }
+
+    .meta-domain-flip::before,
+    .meta-domain-flip::after {
+      display: block;
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      transition: transform 0.35s cubic-bezier(0.4, 0.2, 0.2, 1),
+                  opacity 0.35s ease;
+      backface-visibility: hidden;
+      white-space: nowrap;
+    }
+
+    .meta-domain-flip::before {
+      content: 'Dawnly.News';
+      color: var(--ink-2);
+      transform: rotateX(0deg);
+      opacity: 1;
+    }
+
+    .meta-domain-flip::after {
+      content: 'About Dawnly';
+      color: var(--amber);
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%) rotateX(90deg);
+      opacity: 0;
+    }
+
+    .meta-domain-flip:hover::before {
+      transform: rotateX(-90deg);
+      opacity: 0;
+    }
+
+    .meta-domain-flip:hover::after {
+      transform: translateX(-50%) rotateX(0deg);
+      opacity: 1;
+    }
+
+    .hero.dark .meta-domain-flip::before {
+      color: rgba(245, 238, 220, 0.82);
+    }
+
     .hero.dark .meta-label,
     .hero.dark .meta-domain {
       color: rgba(245, 238, 220, 0.82);
@@ -680,134 +732,6 @@
       color: var(--ink-2);
     }
 
-    .footer-subscribe-btn {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 500;
-      letter-spacing: 2.5px;
-      text-transform: uppercase;
-      color: #e8920c;
-      background: none;
-      border: none;
-      border-bottom: 1px solid rgba(232,146,12,0.5);
-      padding: 0 0 2px;
-      cursor: pointer;
-      transition: color 0.2s ease, border-color 0.2s ease;
-    }
-
-    .footer-subscribe-btn:hover {
-      color: var(--ink-1);
-      border-bottom-color: var(--ink-1);
-    }
-
-    .subscribe-overlay {
-      display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 100;
-      align-items: flex-end;
-      justify-content: center;
-      padding-bottom: 44px;
-    }
-
-    .subscribe-overlay.open { display: flex; }
-
-    .subscribe-box {
-      position: relative;
-      background: var(--paper);
-      border: 1px solid rgba(42,36,16,0.2);
-      border-bottom: 3px double rgba(42,36,16,0.4);
-      padding: 20px 24px 18px;
-      width: 340px;
-      box-shadow: 0 -4px 24px rgba(42,36,16,0.08);
-      animation: sub-rise 0.22s ease;
-    }
-
-    @keyframes sub-rise {
-      from { opacity: 0; transform: translateY(10px); }
-      to   { opacity: 1; transform: translateY(0); }
-    }
-
-    .subscribe-label {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 500;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      color: var(--ink-3);
-      margin-bottom: 10px;
-    }
-
-    .subscribe-row {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .subscribe-input {
-      flex: 1;
-      font-family: 'Jost', sans-serif;
-      font-size: 11px;
-      font-weight: 300;
-      color: var(--ink-1);
-      background: transparent;
-      border: none;
-      border-bottom: 1px solid rgba(42,36,16,0.25);
-      padding: 4px 0;
-      outline: none;
-      letter-spacing: 0.5px;
-    }
-
-    .subscribe-input::placeholder { color: var(--ink-3); }
-    .subscribe-input:focus { border-bottom-color: var(--amber); }
-
-    .subscribe-submit {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 500;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--paper);
-      background: var(--ink-1);
-      border: none;
-      padding: 5px 12px 4px;
-      cursor: pointer;
-      flex-shrink: 0;
-      transition: background 0.2s ease;
-    }
-
-    .subscribe-submit:hover { background: var(--amber); }
-
-    .subscribe-msg {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      margin-top: 10px;
-      min-height: 14px;
-      color: var(--ink-3);
-    }
-
-    .subscribe-msg.success { color: var(--amber); }
-    .subscribe-msg.error   { color: #b85c1a; }
-
-    .subscribe-close {
-      position: absolute;
-      top: 0; right: 0;
-      width: 28px; height: 28px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 14px;
-      color: var(--ink-3);
-      cursor: pointer;
-      background: none;
-      border: none;
-    }
-
-    .subscribe-close:hover { color: var(--ink-1); }
-
     .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
 
     .reset-inner {
@@ -927,7 +851,7 @@
 
     <div class="meta-bar">
       <span class="meta-label" id="edition-label">Edition No. 1</span>
-      <span class="meta-domain">Dawnly.News</span>
+      <a href="./about.html" class="meta-domain meta-domain-flip" id="meta-domain-link">Dawnly.News</a>
       <span class="meta-label" id="date-label"></span>
     </div>
 
@@ -976,28 +900,12 @@
     </div>
 
     <div class="footer">
-      <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe to Dawnly.News</button>
+      <div class="footer-left" id="footer-stats">Algorithmically Ranked · Dawnly</div>
       <div class="reset-badge">
         <div class="reset-inner">
           <div class="reset-front"><span>Resets 6AM</span></div>
           <div class="reset-back"><span id="cd"></span></div>
         </div>
-      </div>
-    </div>
-
-    <!-- Subscribe overlay -->
-    <div class="subscribe-overlay" id="subscribe-overlay" onclick="handleOverlayClick(event)">
-      <div class="subscribe-box" id="subscribe-box">
-        <button class="subscribe-close" onclick="closeSubscribe()">×</button>
-        <div class="subscribe-label">Get Dawnly Every Morning</div>
-        <div class="subscribe-row">
-          <input class="subscribe-input" id="subscribe-email" type="email"
-                 placeholder="your@email.com"
-                 onkeydown="if(event.key==='Enter') submitSubscribe()"
-                 autocomplete="email"/>
-          <button class="subscribe-submit" onclick="submitSubscribe()">Subscribe</button>
-        </div>
-        <div class="subscribe-msg" id="subscribe-msg"></div>
       </div>
     </div>
   </div>
@@ -1220,8 +1128,8 @@ function buildEqualGridWithImage(stories) {
     footer: top.regions ? top.regions.join(" · ") : null,
   } : null;
 
-  // Fixed image positions: slot 5 = top-right (row 1 col 6), slot 6 = bottom-left (row 2 col 1)
-  const imageSlots = [5, 6];
+  // The 2 permanently-image slots (random daily placement)
+  const imageSlots = getDailyImageSlots();
 
   // Track which of the two fixed image slots we're filling
   // so we assign stats to them in order
@@ -1541,7 +1449,7 @@ async function loadStories() {
 
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
     document.getElementById('date-label').textContent = pubDate;
-    // footer-stats removed
+    document.getElementById('footer-stats').textContent = `Algorithmically Ranked · ${stories.length} Stories`;
     document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
 
     buildTicker();
@@ -1560,58 +1468,6 @@ document.getElementById('cd').textContent = getCountdown();
 setTimeOfDay();
 loadStories();
 setInterval(() => { document.getElementById('cd').textContent = getCountdown(); }, 60000);
-
-function openSubscribe() {
-  document.getElementById('subscribe-overlay').classList.add('open');
-  setTimeout(() => document.getElementById('subscribe-email').focus(), 50);
-  document.getElementById('subscribe-msg').textContent = '';
-  document.getElementById('subscribe-msg').className = 'subscribe-msg';
-  document.getElementById('subscribe-email').value = '';
-}
-
-function closeSubscribe() {
-  document.getElementById('subscribe-overlay').classList.remove('open');
-}
-
-function handleOverlayClick(e) {
-  if (e.target === document.getElementById('subscribe-overlay')) closeSubscribe();
-}
-
-async function submitSubscribe() {
-  const email = document.getElementById('subscribe-email').value.trim();
-  const msg   = document.getElementById('subscribe-msg');
-
-  if (!email || !email.includes('@')) {
-    msg.textContent = 'Please enter a valid email.';
-    msg.className = 'subscribe-msg error';
-    return;
-  }
-
-  msg.textContent = 'Subscribing...';
-  msg.className = 'subscribe-msg';
-
-  try {
-    const form = new FormData();
-    form.append('email', email);
-
-    const res = await fetch('https://buttondown.com/api/emails/embed-subscribe/dawnly', {
-      method: 'POST',
-      body: form,
-    });
-
-    if (res.ok || res.redirected) {
-      msg.textContent = "You're in. See you at dawn.";
-      msg.className = 'subscribe-msg success';
-      document.getElementById('subscribe-email').value = '';
-      setTimeout(closeSubscribe, 2800);
-    } else {
-      throw new Error(res.status);
-    }
-  } catch {
-    msg.textContent = 'Something went wrong. Try again.';
-    msg.className = 'subscribe-msg error';
-  }
-}
 </script>
 </body>
 </html>
