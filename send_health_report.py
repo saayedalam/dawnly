@@ -42,14 +42,27 @@ SPARKLINE_DAYS  = 7               # characters per sparkline
 # Data fetching
 # -------------------------------------------------------------------------
 
-def fetch_health_data() -> dict:
+def fetch_health_data() -> dict | None:
     """
     Fetch source_health.json from the public GitHub Pages URL.
-    Raises on HTTP error or JSON decode failure.
+    Returns None if the file doesn't exist yet (404) — this is expected
+    on first run before the pipeline has produced any health data.
+    Raises on other HTTP errors or JSON decode failures.
     """
     logger.info(f"Fetching health data from {HEALTH_JSON_URL}")
-    with urllib.request.urlopen(HEALTH_JSON_URL, timeout=15) as response:
-        raw = response.read().decode("utf-8")
+    try:
+        with urllib.request.urlopen(HEALTH_JSON_URL, timeout=15) as response:
+            raw = response.read().decode("utf-8")
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            logger.warning(
+                "source_health.json not found (HTTP 404). "
+                "The pipeline must run at least once before health data is available. "
+                "No email will be sent."
+            )
+            return None
+        raise
+
     data = json.loads(raw)
     logger.info(
         f"Loaded health data — {data.get('source_count', '?')} sources, "
@@ -464,6 +477,10 @@ def main() -> None:
     logger.info("=" * 55)
 
     data = fetch_health_data()
+    if data is None:
+        logger.info("No health data available yet — skipping email. Run the pipeline first.")
+        return
+
     html = build_html(data)
     send_email(html, subject)
 
