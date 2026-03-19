@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About — Dawnly</title>
+  <meta name="description" content="The morning paper, rebuilt for today. Ten stories. One edition. Nothing in between."/>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg viewBox='0 0 110 90' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='55' y1='2' x2='55' y2='14' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='80' y1='7' x2='74' y2='17' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='98' y1='22' x2='89' y2='27' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='30' y1='7' x2='36' y2='17' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='12' y1='22' x2='21' y2='27' stroke='%23c8820a' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='104' y1='44' x2='93' y2='44' stroke='%23c8820a' stroke-width='1.8' stroke-linecap='round'/%3E%3Cline x1='6' y1='44' x2='17' y2='44' stroke='%23c8820a' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M30 52 Q30 28 55 28 Q80 28 80 52' fill='%23e8a020' opacity='0.9'/%3E%3Cpath d='M30 52 Q30 28 55 28 Q80 28 80 52' fill='none' stroke='%23c8820a' stroke-width='1.5'/%3E%3Crect x='8' y='50' width='42' height='30' rx='1' fill='%23f0ead8' stroke='%232a2410' stroke-width='1.5'/%3E%3Crect x='60' y='50' width='42' height='30' rx='1' fill='%23f0ead8' stroke='%232a2410' stroke-width='1.5'/%3E%3Cline x1='55' y1='50' x2='55' y2='80' stroke='%232a2410' stroke-width='1.5'/%3E%3Cpath d='M8 80 Q55 88 102 80' stroke='%232a2410' stroke-width='1.5' fill='none'/%3E%3Cpath d='M8 50 Q55 44 102 50' stroke='%232a2410' stroke-width='1.5' fill='none'/%3E%3C/svg%3E"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Jost:wght@200;300;400;500&display=swap" rel="stylesheet"/>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink-1:  #1a1408;
+      --ink-2:  #5a5040;
+      --ink-3:  #9a8a70;
+      --amber:  #c8820a;
+      --amber-bright: #e8920c;
+      --paper:  #f5f0e4;
+      --paper-2:#ede6d4;
+      --paper-3:#e4dcc8;
+      --border: rgba(42,36,16,0.15);
+      --border-strong: rgba(42,36,16,0.3);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      background: var(--paper);
+      color: var(--ink-1);
+      overflow-x: hidden;
+    }
+
+    /* ── Nav ────────────────────────────── */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 40px;
+      background: rgba(245,240,228,0.92);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-brand {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--ink-1);
+      text-decoration: none;
+      letter-spacing: 1px;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 32px;
+      align-items: center;
+    }
+
+    .nav-links a {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover { color: var(--ink-1); }
+
+    .nav-links .nav-cta {
+      color: var(--amber-bright);
+      border-bottom: 1px solid rgba(232,146,12,0.4);
+      padding-bottom: 1px;
+    }
+
+    /* ── Hero ───────────────────────────── */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 120px 40px 80px;
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(180deg,
+        rgba(10,15,35,0.96) 0%,
+        rgba(18,28,58,0.7) 50%,
+        var(--paper) 100%);
+    }
+
+    /* Star field */
+    .stars {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+
+    .hero-meta {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: rgba(245,240,228,0.5);
+      margin-bottom: 20px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-wordmark {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(72px, 12vw, 140px);
+      font-weight: 700;
+      color: rgba(245,240,228,0.95);
+      letter-spacing: 4px;
+      line-height: 1;
+      position: relative;
+      z-index: 2;
+      margin-bottom: 28px;
+    }
+
+    .hero-line {
+      width: 60px;
+      height: 1px;
+      background: rgba(200,130,10,0.6);
+      margin: 0 auto 28px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-tagline {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(20px, 3vw, 32px);
+      font-weight: 300;
+      font-style: italic;
+      color: rgba(245,240,228,0.75);
+      line-height: 1.4;
+      max-width: 560px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-scroll {
+      position: absolute;
+      bottom: 40px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Jost', sans-serif;
+      font-size: 7px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: rgba(245,240,228,0.35);
+      z-index: 2;
+      animation: bounce 2s ease-in-out infinite;
+    }
+
+    @keyframes bounce {
+      0%, 100% { transform: translateX(-50%) translateY(0); }
+      50%       { transform: translateX(-50%) translateY(6px); }
+    }
+
+    /* ── Sections ───────────────────────── */
+    .section {
+      padding: 100px 40px;
+      max-width: 900px;
+      margin: 0 auto;
+      opacity: 0;
+      transform: translateY(30px);
+      transition: opacity 0.7s ease, transform 0.7s ease;
+    }
+
+    .section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .section-rule {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 48px;
+    }
+
+    .sr-line { flex: 1; height: 1px; background: var(--border); }
+
+    .sr-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      white-space: nowrap;
+    }
+
+    /* ── Problem section ────────────────── */
+    .problem-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border);
+      margin-bottom: 64px;
+    }
+
+    .problem-card {
+      background: var(--paper);
+      padding: 32px 28px;
+      position: relative;
+    }
+
+    .problem-number {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 48px;
+      font-weight: 300;
+      color: rgba(200,130,10,0.2);
+      line-height: 1;
+      margin-bottom: 12px;
+    }
+
+    .problem-title {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--ink-2);
+      margin-bottom: 10px;
+    }
+
+    .problem-text {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 16px;
+      font-weight: 400;
+      color: var(--ink-2);
+      line-height: 1.6;
+    }
+
+    /* ── Pull quote ─────────────────────── */
+    .pull-quote {
+      border-left: 3px solid var(--amber);
+      padding: 8px 0 8px 32px;
+      margin: 64px 0;
+    }
+
+    .pull-quote-text {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(24px, 4vw, 42px);
+      font-weight: 300;
+      font-style: italic;
+      color: var(--ink-1);
+      line-height: 1.3;
+    }
+
+    .pull-quote-attr {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-top: 16px;
+    }
+
+    /* ── Body prose ─────────────────────── */
+    .prose {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 20px;
+      font-weight: 400;
+      color: var(--ink-2);
+      line-height: 1.8;
+      max-width: 640px;
+    }
+
+    .prose + .prose { margin-top: 20px; }
+
+    .prose strong {
+      color: var(--ink-1);
+      font-weight: 600;
+    }
+
+    /* ── How it works ───────────────────── */
+    .how-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px 64px;
+      margin-top: 48px;
+    }
+
+    .how-item {}
+
+    .how-step {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 10px;
+    }
+
+    .how-title {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--ink-1);
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+
+    .how-text {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 16px;
+      font-weight: 400;
+      color: var(--ink-2);
+      line-height: 1.7;
+    }
+
+    /* ── Numbers bar ────────────────────── */
+    .numbers-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      background: var(--border-strong);
+      border: 1px solid var(--border-strong);
+      margin: 64px 0;
+    }
+
+    .number-item {
+      background: var(--paper-2);
+      padding: 32px 24px;
+      text-align: center;
+    }
+
+    .number-big {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 52px;
+      font-weight: 700;
+      color: var(--ink-1);
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+
+    .number-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--ink-3);
+    }
+
+    /* ── Principles ─────────────────────── */
+    .principles {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      border: 1px solid var(--border);
+      margin-top: 48px;
+    }
+
+    .principle {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+      padding: 28px 32px;
+      align-items: start;
+      transition: background 0.2s ease;
+    }
+
+    .principle:last-child { border-bottom: none; }
+    .principle:hover { background: var(--paper-2); }
+
+    .principle-num {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 13px;
+      font-style: italic;
+      color: var(--amber);
+      padding-top: 4px;
+    }
+
+    .principle-content {}
+
+    .principle-title {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--ink-1);
+      margin-bottom: 6px;
+    }
+
+    .principle-text {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 17px;
+      font-weight: 400;
+      color: var(--ink-2);
+      line-height: 1.6;
+    }
+
+    /* ── Final CTA ──────────────────────── */
+    .cta-section {
+      background: var(--ink-1);
+      padding: 100px 40px;
+      text-align: center;
+    }
+
+    .cta-section .section {
+      opacity: 1;
+      transform: none;
+      max-width: 600px;
+    }
+
+    .cta-eyebrow {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: rgba(200,130,10,0.7);
+      margin-bottom: 20px;
+    }
+
+    .cta-headline {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(36px, 5vw, 64px);
+      font-weight: 700;
+      color: rgba(245,240,228,0.95);
+      line-height: 1.1;
+      margin-bottom: 24px;
+      letter-spacing: 1px;
+    }
+
+    .cta-sub {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 18px;
+      font-weight: 300;
+      font-style: italic;
+      color: rgba(245,240,228,0.5);
+      margin-bottom: 40px;
+      line-height: 1.5;
+    }
+
+    .cta-buttons {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 500;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--ink-1);
+      background: var(--amber-bright);
+      text-decoration: none;
+      padding: 14px 28px;
+      transition: background 0.2s;
+      display: inline-block;
+    }
+
+    .btn-primary:hover { background: #f0a020; }
+
+    .btn-secondary {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: rgba(245,240,228,0.6);
+      background: transparent;
+      text-decoration: none;
+      padding: 14px 28px;
+      border: 1px solid rgba(245,240,228,0.15);
+      transition: border-color 0.2s, color 0.2s;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      color: rgba(245,240,228,0.9);
+      border-color: rgba(245,240,228,0.35);
+    }
+
+    /* ── Page footer ────────────────────── */
+    .page-footer {
+      background: var(--ink-1);
+      border-top: 1px solid rgba(245,240,228,0.06);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .page-footer span {
+      font-family: 'Jost', sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: rgba(245,240,228,0.25);
+    }
+
+    /* ── Divider full-bleed ─────────────── */
+    .full-bleed-rule {
+      width: 100%;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ── Responsive ─────────────────────── */
+    @media (max-width: 768px) {
+      nav { padding: 12px 20px; }
+      .nav-links { gap: 20px; }
+      .section { padding: 64px 24px; }
+      .problem-grid { grid-template-columns: 1fr; }
+      .how-grid { grid-template-columns: 1fr; gap: 32px; }
+      .numbers-bar { grid-template-columns: 1fr 1fr; }
+      .pull-quote { padding-left: 20px; }
+      .cta-section { padding: 80px 24px; }
+      .page-footer { padding: 20px 24px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Nav -->
+  <nav>
+    <a href="./index.html" class="nav-brand">Dawnly</a>
+    <div class="nav-links">
+      <a href="./index.html">Today's Edition</a>
+      <a href="#how">How It Works</a>
+      <a href="#" class="nav-cta" onclick="openSubscribe?.(); return false;">Subscribe</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <canvas class="stars" id="stars"></canvas>
+    <div class="hero-meta">The Morning Paper, Rebuilt For Today</div>
+    <div class="hero-wordmark">Dawnly</div>
+    <div class="hero-line"></div>
+    <p class="hero-tagline">
+      Ten stories. One edition. Every morning at dawn.<br>
+      Read it. Put it down. Live your day.
+    </p>
+    <div class="hero-scroll">↓ &nbsp; Scroll</div>
+  </section>
+
+  <!-- Section 1: The Problem -->
+  <div class="section" id="problem">
+    <div class="section-rule">
+      <div class="sr-line"></div>
+      <div class="sr-label">The Problem</div>
+      <div class="sr-line"></div>
+    </div>
+
+    <p class="prose">
+      The news used to be something you picked up in the morning and put down before lunch.
+      It had edges. It ended. You were done with it.
+    </p>
+    <p class="prose" style="margin-top: 20px;">
+      Somewhere along the way, it became something that never stops. Something that demands
+      your attention at 2AM. Something designed to keep you anxious enough to keep scrolling.
+    </p>
+
+    <div class="pull-quote">
+      <div class="pull-quote-text">
+        "The problem isn't that there's too much news.<br>
+        It's that there's no longer any off switch."
+      </div>
+    </div>
+
+    <div class="problem-grid">
+      <div class="problem-card">
+        <div class="problem-number">01</div>
+        <div class="problem-title">Infinite scroll</div>
+        <div class="problem-text">There is no bottom. Every refresh surfaces new anxiety. The feed is designed to never end.</div>
+      </div>
+      <div class="problem-card">
+        <div class="problem-number">02</div>
+        <div class="problem-title">Breaking news</div>
+        <div class="problem-text">Half-formed stories pushed as alerts. Corrections buried. The urgency is manufactured.</div>
+      </div>
+      <div class="problem-card">
+        <div class="problem-number">03</div>
+        <div class="problem-title">Personalisation</div>
+        <div class="problem-text">Algorithms feed you more of what enrages you. You end up knowing a lot about very little.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="full-bleed-rule"></div>
+
+  <!-- Section 2: The Idea -->
+  <div class="section" id="idea">
+    <div class="section-rule">
+      <div class="sr-line"></div>
+      <div class="sr-label">The Idea</div>
+      <div class="sr-line"></div>
+    </div>
+
+    <p class="prose">
+      <strong>What if the news still had edges?</strong>
+    </p>
+    <p class="prose">
+      What if there were exactly ten stories — not nine, not eleven — chosen by an algorithm
+      that doesn't know who you are, doesn't care what keeps you clicking, and resets
+      completely every single morning at 6AM?
+    </p>
+    <p class="prose">
+      What if you could read the most globally significant news of the day in under ten
+      minutes, and then just — be done with it?
+    </p>
+
+    <div class="pull-quote">
+      <div class="pull-quote-text">
+        That's Dawnly. The newspaper, rebuilt<br>for the way we actually live now.
+      </div>
+      <div class="pull-quote-attr">One edition · Every morning · Nothing in between</div>
+    </div>
+  </div>
+
+  <div class="full-bleed-rule"></div>
+
+  <!-- Section 3: How It Works -->
+  <div class="section" id="how">
+    <div class="section-rule">
+      <div class="sr-line"></div>
+      <div class="sr-label">How It Works</div>
+      <div class="sr-line"></div>
+    </div>
+
+    <p class="prose">
+      Every morning at 6AM EST, a pipeline runs. It pulls from <strong>33 carefully chosen
+      sources</strong> across every region of the world — wire services, broadcasters,
+      regional papers, specialist outlets. No single country, no single perspective dominates.
+    </p>
+
+    <div class="how-grid">
+      <div class="how-item">
+        <div class="how-step">Step 01</div>
+        <div class="how-title">Gather</div>
+        <div class="how-text">Hundreds of headlines pulled from 33 global sources spanning every continent. BBC, Al Jazeera, NHK, The Hindu, Dawn Pakistan, African Arguments — and more.</div>
+      </div>
+      <div class="how-item">
+        <div class="how-step">Step 02</div>
+        <div class="how-title">Cluster</div>
+        <div class="how-text">An AI model reads every headline and groups articles covering the same story together — even if they're phrased completely differently.</div>
+      </div>
+      <div class="how-item">
+        <div class="how-step">Step 03</div>
+        <div class="how-title">Rank</div>
+        <div class="how-text">Stories are scored by how many sources covered them, how globally reaching those sources are, and how many regions of the world took notice.</div>
+      </div>
+      <div class="how-item">
+        <div class="how-step">Step 04</div>
+        <div class="how-title">Publish</div>
+        <div class="how-text">The top 10 are published. The edition locks. No updates, no breaking news, no refreshing. Come back tomorrow.</div>
+      </div>
+    </div>
+
+    <div class="numbers-bar">
+      <div class="number-item">
+        <div class="number-big">33</div>
+        <div class="number-label">Global sources</div>
+      </div>
+      <div class="number-item">
+        <div class="number-big">10</div>
+        <div class="number-label">Stories per day</div>
+      </div>
+      <div class="number-item">
+        <div class="number-big">24h</div>
+        <div class="number-label">Edition window</div>
+      </div>
+      <div class="number-item">
+        <div class="number-big">6AM</div>
+        <div class="number-label">Daily reset</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="full-bleed-rule"></div>
+
+  <!-- Section 4: Principles -->
+  <div class="section" id="principles">
+    <div class="section-rule">
+      <div class="sr-line"></div>
+      <div class="sr-label">What We Believe</div>
+      <div class="sr-line"></div>
+    </div>
+
+    <p class="prose">
+      Dawnly isn't just a product decision. It's a point of view about what news can be
+      when it stops trying to own your attention.
+    </p>
+
+    <div class="principles">
+      <div class="principle">
+        <div class="principle-num">i</div>
+        <div class="principle-content">
+          <div class="principle-title">The algorithm is the editor</div>
+          <div class="principle-text">No human decides what makes the front page. The ranking is driven entirely by cross-source coverage, source quality, and geographic reach. No agenda. No editorial bias. Just signal.</div>
+        </div>
+      </div>
+      <div class="principle">
+        <div class="principle-num">ii</div>
+        <div class="principle-content">
+          <div class="principle-title">Calm is a feature</div>
+          <div class="principle-text">No breaking news. No alerts. No infinite scroll. The design is deliberately unhurried. You're supposed to read it once and leave.</div>
+        </div>
+      </div>
+      <div class="principle">
+        <div class="principle-num">iii</div>
+        <div class="principle-content">
+          <div class="principle-title">Everyone reads the same paper</div>
+          <div class="principle-text">No personalisation. The same ten stories reach every reader. There's something valuable about a shared reality — about knowing that everyone woke up to the same front page.</div>
+        </div>
+      </div>
+      <div class="principle">
+        <div class="principle-num">iv</div>
+        <div class="principle-content">
+          <div class="principle-title">Global by design</div>
+          <div class="principle-text">A story that 20 US outlets covered but nobody else noticed ranks lower than a story that broke through from Lagos to London to Tokyo. Geographic reach is a measure of real significance.</div>
+        </div>
+      </div>
+      <div class="principle">
+        <div class="principle-num">v</div>
+        <div class="principle-content">
+          <div class="principle-title">The edition has edges</div>
+          <div class="principle-text">It locks at 6AM and resets at 6AM. That's it. The news doesn't chase you. You read it when you're ready. Then you're done.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta-section">
+    <div class="section" style="margin: 0 auto;">
+      <div class="cta-eyebrow">Start your morning differently</div>
+      <div class="cta-headline">Ten stories.<br>Every dawn.</div>
+      <p class="cta-sub">Free. No algorithm designed to keep you anxious.<br>Just the news, once a day.</p>
+      <div class="cta-buttons">
+        <a href="https://buttondown.com/dawnly" class="btn-primary">Subscribe Free →</a>
+        <a href="./index.html" class="btn-secondary">Read Today's Edition</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="page-footer">
+    <span>© Dawnly · Resets 6AM EST</span>
+    <span>Algorithmically Ranked · No Personalisation · No Infinite Scroll</span>
+  </footer>
+
+  <script>
+    // ── Star field ──────────────────────────────────────────────
+    (function() {
+      const canvas = document.getElementById('stars');
+      const ctx    = canvas.getContext('2d');
+
+      function resize() {
+        canvas.width  = canvas.offsetWidth;
+        canvas.height = canvas.offsetHeight;
+        drawStars();
+      }
+
+      function drawStars() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        const count = Math.floor((canvas.width * canvas.height) / 4000);
+        for (let i = 0; i < count; i++) {
+          const x = Math.random() * canvas.width;
+          const y = Math.random() * canvas.height * 0.65;
+          const r = 0.3 + Math.random() * 1.2;
+          const a = 0.15 + Math.random() * 0.6;
+          ctx.fillStyle = `rgba(255,255,255,${a})`;
+          ctx.beginPath();
+          ctx.arc(x, y, r, 0, Math.PI * 2);
+          ctx.fill();
+        }
+      }
+
+      resize();
+      window.addEventListener('resize', resize);
+    })();
+
+    // ── Scroll reveal ───────────────────────────────────────────
+    const sections = document.querySelectorAll('.section');
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, { threshold: 0.1 });
+
+    sections.forEach(s => observer.observe(s));
+  </script>
+</body>
+</html>
