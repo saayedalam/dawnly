@@ -56,7 +56,7 @@
     }
 
     .hero.light { background: linear-gradient(180deg,rgba(255,210,120,0.18) 0%,rgba(252,240,215,0.08) 65%,var(--paper) 100%); }
-    .hero.dark  { background: linear-gradient(180deg,rgba(10,15,35,0.95) 0%,rgba(18,28,58,0.65) 58%,var(--paper) 100%); }
+    .hero.dark  { background: linear-gradient(180deg,rgba(10,15,35,0.95) 0%,rgba(18,28,58,0.65) 52%,rgba(32,24,10,0.22) 74%,var(--paper) 100%); }
 
     .sky { position: absolute; inset: 0; pointer-events: none; opacity: 0.5; }
 
@@ -132,12 +132,14 @@
       opacity: 0;
     }
 
-    .meta-domain-flip:hover::before {
+    .meta-domain-flip:hover::before,
+    .meta-domain-flip.active::before {
       transform: translateX(-50%) rotateX(90deg);
       opacity: 0;
     }
 
-    .meta-domain-flip:hover::after {
+    .meta-domain-flip:hover::after,
+    .meta-domain-flip.active::after {
       transform: translateX(-50%) rotateX(0deg);
       opacity: 1;
     }
@@ -1618,6 +1620,27 @@ document.getElementById('cd').textContent = getCountdown();
 setTimeOfDay();
 loadStories();
 setInterval(() => { document.getElementById('cd').textContent = getCountdown(); }, 60000);
+
+// Mobile tap support for the About Dawnly flip link
+// On touch devices :hover doesn't fire reliably — we toggle .active instead
+(function() {
+  const flip = document.querySelector('.meta-domain-flip');
+  if (!flip) return;
+
+  flip.addEventListener('touchstart', function(e) {
+    e.preventDefault();           // prevent the 300ms click delay
+    const isActive = flip.classList.contains('active');
+    if (isActive) {
+      // Second tap — navigate to about.html
+      window.location.href = flip.getAttribute('href');
+    } else {
+      // First tap — reveal "About Dawnly", second tap will navigate
+      flip.classList.add('active');
+      // Auto-dismiss after 2.5s if user doesn't tap again
+      setTimeout(() => flip.classList.remove('active'), 2500);
+    }
+  }, { passive: false });
+})();
 
 function openSubscribe() {
   document.getElementById('subscribe-overlay').classList.add('open');

@@ -13,16 +13,18 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --ink-1:  #1a1408;
-      --ink-2:  #5a5040;
-      --ink-3:  #9a8a70;
-      --amber:  #c8820a;
-      --amber-bright: #e8920c;
-      --paper:  #f5f0e4;
-      --paper-2:#ede6d4;
-      --paper-3:#e4dcc8;
-      --border: rgba(42,36,16,0.15);
-      --border-strong: rgba(42,36,16,0.3);
+      --ink-1:         #1a1408;
+      --ink-2:         #5a5040;
+      --ink-3:         #9a8a70;
+      --amber:         #c8820a;
+      --amber-bright:  #e8920c;
+      --paper:         #f5f0e4;
+      --paper-2:       #ede6d4;
+      --paper-3:       #e4dcc8;
+      --border:        rgba(42,36,16,0.15);
+      --border-strong: rgba(42,36,16,0.28);
+      /* Shared with index.html grouped card accent */
+      --big-accent:    #b85c1a;
     }
 
     html { scroll-behavior: smooth; }
@@ -65,7 +67,7 @@
 
     .nav-links a {
       font-family: 'Jost', sans-serif;
-      font-size: 8px;
+      font-size: 9px;
       font-weight: 500;
       letter-spacing: 2.5px;
       text-transform: uppercase;
@@ -93,9 +95,11 @@
       padding: 120px 40px 80px;
       position: relative;
       overflow: hidden;
+      /* Matches index.html .hero.dark gradient — same palette, same world */
       background: linear-gradient(180deg,
-        rgba(10,15,35,0.96) 0%,
-        rgba(18,28,58,0.7) 50%,
+        rgba(10,15,35,0.95) 0%,
+        rgba(18,28,58,0.65) 55%,
+        rgba(30,22,10,0.25) 78%,
         var(--paper) 100%);
     }
 
@@ -381,7 +385,7 @@
     }
 
     .principle:last-child { border-bottom: none; }
-    .principle:hover { background: var(--paper-2); }
+    .principle:hover { background: var(--paper-3); }
 
     .principle-num {
       font-family: 'Cormorant Garamond', Georgia, serif;
@@ -525,15 +529,113 @@
 
     /* ── Responsive ─────────────────────── */
     @media (max-width: 768px) {
-      nav { padding: 12px 20px; }
-      .nav-links { gap: 20px; }
-      .section { padding: 64px 24px; }
-      .problem-grid { grid-template-columns: 1fr; }
-      .how-grid { grid-template-columns: 1fr; gap: 32px; }
-      .numbers-bar { grid-template-columns: 1fr 1fr; }
-      .pull-quote { padding-left: 20px; }
-      .cta-section { padding: 80px 24px; }
-      .page-footer { padding: 20px 24px; }
+      /* Nav */
+      nav {
+        padding: 12px 20px;
+      }
+      .nav-links {
+        gap: 18px;
+      }
+      .nav-links a {
+        font-size: 7.5px;
+        letter-spacing: 2px;
+      }
+
+      /* Hero */
+      .hero {
+        padding: 100px 24px 64px;
+        min-height: 80vh;
+      }
+      .hero-tagline {
+        font-size: clamp(17px, 5vw, 24px);
+      }
+
+      /* Sections */
+      .section {
+        padding: 56px 20px;
+      }
+
+      /* Problem grid — stack vertically */
+      .problem-grid {
+        grid-template-columns: 1fr;
+      }
+      .problem-card {
+        padding: 24px 20px;
+      }
+
+      /* Pull quote */
+      .pull-quote {
+        padding-left: 18px;
+        margin: 40px 0;
+      }
+      .pull-quote-text {
+        font-size: clamp(20px, 5.5vw, 28px);
+      }
+
+      /* How-it-works grid — stack vertically */
+      .how-grid {
+        grid-template-columns: 1fr;
+        gap: 28px;
+        margin-top: 32px;
+      }
+
+      /* Numbers bar — 2×2 on mobile */
+      .numbers-bar {
+        grid-template-columns: 1fr 1fr;
+        margin: 40px 0;
+      }
+      .number-item {
+        padding: 24px 16px;
+      }
+      .number-big {
+        font-size: 40px;
+      }
+
+      /* Principles */
+      .principles {
+        margin-top: 32px;
+      }
+      .principle {
+        padding: 20px 16px;
+        grid-template-columns: 36px 1fr;
+      }
+
+      /* CTA */
+      .cta-section {
+        padding: 72px 20px;
+      }
+      .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+      }
+      .btn-primary,
+      .btn-secondary {
+        width: 100%;
+        text-align: center;
+        padding: 16px 20px;
+      }
+
+      /* Footer */
+      .page-footer {
+        padding: 20px 20px;
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+      }
+    }
+
+    /* Very small screens */
+    @media (max-width: 400px) {
+      .nav-links {
+        gap: 12px;
+      }
+      .nav-links a {
+        font-size: 7px;
+        letter-spacing: 1.5px;
+      }
+      .numbers-bar {
+        grid-template-columns: 1fr 1fr;
+      }
     }
   </style>
 </head>
