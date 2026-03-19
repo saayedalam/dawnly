@@ -1,329 +1,301 @@
 {
-  "published_at": "2026-03-18T03:47:52.475730+00:00",
-  "story_count": 10,
+  "published_at": "2026-03-19T10:53:19.368672+00:00",
+  "story_count": 9,
   "stories": [
     {
       "rank": 1,
-      "headline": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
-      "summary": "Death of Ali Larijani deepens crisis at heart of Iran's leadership. Experts discuss ‘Israeli strategy’ in killing of senior Iran official.",
+      "headline": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
+      "summary": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
+          "summary": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again."
+        },
+        {
+          "headline": "Interest rates expected to be held due to Iran war",
+          "summary": "Interest rates expected to be held due to Iran war. Central banks confront spectre of inflation as Iran war escalates."
+        },
+        {
+          "headline": "The war on Iran cost the US $12.7bn by day six. Here’s how it’s been spent – in charts",
+          "summary": "The war on Iran cost the US $12.7bn by day six. Here's how it’s been spent – in charts."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-vows-retaliation-for-death-of-security-chief-larijani/live-76402968?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news"
         }
       ],
       "regions": [
         "Australia",
-        "Canada",
         "France",
         "Germany",
-        "Hong Kong",
+        "Global",
+        "India",
         "Middle East",
-        "Pakistan",
         "Qatar",
-        "UK"
+        "South America",
+        "UK",
+        "US",
+        "West Africa"
       ],
-      "score": 165.6,
-      "mentions": 22,
-      "diversity": 9,
-      "big_story": true,
-      "related_headlines": [
-        "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-        "What have US allies and China said about sending ships to the Strait of Hormuz?"
-      ]
+      "score": 0.7936,
+      "mentions": 40,
+      "diversity": 11
     },
     {
       "rank": 2,
-      "headline": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
-      "summary": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal. Trump says NATO's refusal to help on Iran is \"very foolish mistake\"",
+      "headline": "Hungary’s Orbán says he won’t back down and allow EU’s €90bn loan to Ukraine – Europe live",
+      "summary": "Hungary’s Orbán says he won’t back down and allow EU's €90bn loan to Ukraine. EU leaders pile pressure on Hungary's Orban to lift block on Ukraine loan.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-nato-making-mistake-on-hormuz-trump-says/live-76387955?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/trump-says-nato-s-refusal-to-help-on-iran-is-very-foolish-mistake"
+          "link": "https://www.france24.com/en/video/20260319-eu-leaders-pile-pressure-on-hungary-s-orban-to-lift-block-on-ukraine-loan"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html"
         }
       ],
       "regions": [
-        "Australia",
-        "Canada",
         "France",
-        "Germany",
-        "Pakistan",
-        "Qatar",
-        "South America",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 73.6,
-      "mentions": 11,
-      "diversity": 8,
-      "big_story": false,
-      "related_headlines": []
+      "score": 0.4641,
+      "mentions": 5,
+      "diversity": 3
     },
     {
       "rank": 3,
-      "headline": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course' Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?",
+      "headline": "Social media making young people less happy, report finds",
+      "summary": "Social media making young people less happy, report finds. Social media makes people unhappy, World Happiness Report finds.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/3/19/social-media-making-young-people-less-happy-report-finds?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-counterterrorism-chief-joe-kent-resigns-over-iran-war/a-76402450?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/social-media-makes-people-unhappy-world-happiness-report/a-76422753?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/article/3347092/worlds-happiest-places-revealed-social-media-weighs-us?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "France",
         "Germany",
         "Hong Kong",
-        "Pakistan",
-        "Qatar",
-        "South America",
-        "UK"
+        "India",
+        "Qatar"
       ],
-      "score": 47.6,
-      "mentions": 8,
-      "diversity": 7,
-      "big_story": true,
-      "related_headlines": [
-        "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
-        "What have US allies and China said about sending ships to the Strait of Hormuz?"
-      ]
+      "score": 0.3958,
+      "mentions": 4,
+      "diversity": 4
     },
     {
       "rank": 4,
-      "headline": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital",
-      "summary": "Pakistan ‘strongly’ rejects claim it struck Kabul hospital. Pakistan denies hospital strike in Afghanistan as death toll hits 400. Afghanistan says 400 killed in strike by Pakistan on Kabul hospital on Saturday.",
+      "headline": "Pakistan to pause Afghan strikes for Eid, two days after deadly Kabul attack",
+      "summary": "Pakistan to pause Afghan strikes for Eid, two days after deadly Kabul attack. Pakistan, Taliban agree on strike pause for end of Ramadan.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/pakistan-strongly-rejects-claim-it-struck-kabul-hospital?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260317-pakistan-denies-it-targeted-kabul-hospital-says-it-hit-terrorist-targets"
-        },
-        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
+          "link": "https://www.theguardian.com/world/2026/mar/18/afghans-search-for-loved-ones-kabul-rehab-centre-pakistan-airstrike"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pakistan-taliban-agree-on-strike-pause-for-end-of-ramadan/a-76418410?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pakistan-and-afghanistan-announce-eid-pause-in-hostilities/article70759365.ece"
         }
       ],
       "regions": [
-        "France",
-        "Global",
+        "Germany",
+        "India",
         "Pakistan",
-        "Qatar",
         "UK"
       ],
-      "score": 24.0,
-      "mentions": 6,
-      "diversity": 5,
-      "big_story": false,
-      "related_headlines": []
+      "score": 0.3958,
+      "mentions": 4,
+      "diversity": 4
     },
     {
       "rank": 5,
-      "headline": "‘We’ll be doing something with Cuba very soon’, Trump says",
-      "summary": "‘We’ll be doing something with Cuba very soon’, Trump says. Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure.",
+      "headline": "We must denounce 'abject' Afcon decision - senior Caf member",
+      "summary": "We must denounce 'abject' Afcon decision - senior Caf member Senegal stripped of AFCON title. CAF ruling sets a 'very dangerous' precedent, says Senegalese Football Federation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/football/articles/ckg1gg5pgl7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/spotlight/20260319-senegal-stripped-of-afcon-title-caf-ruling-sets-a-very-dangerous-precedent"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/17/us/politics/florida-cuba-trump.html"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/03/19/african-football-body-president-defends-decision-to-strip-senegal-of-afcon-title/"
         }
       ],
       "regions": [
-        "Australia",
-        "Qatar",
-        "Russia",
+        "Africa",
+        "France",
         "UK",
-        "US"
+        "West Africa"
       ],
-      "score": 22.5,
+      "score": 0.3769,
       "mentions": 6,
-      "diversity": 5,
-      "big_story": false,
-      "related_headlines": []
+      "diversity": 4
     },
     {
       "rank": 6,
-      "headline": "Starmer Turns His Attention To Ukraine (Or Tries To)",
-      "summary": "Starmer Turns His Attention To Ukraine (Or Tries To) Starmer urges allies to keep focus on Ukraine amid Iran war. Starmer tells Zelenskyy that 'focus must remain on Ukraine'",
+      "headline": "Thailand elects Anutin Charnvirakul as new prime minister",
+      "summary": "Thailand elects Anutin Charnvirakul as new prime minister. Thailand Prime Minister Anut in Charnvirakul to remain in power following Parliament vote.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0n6gzdj?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/starmer-urges-allies-to-keep-focus-on-ukraine-amid-iran-war/a-76400266?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/thailand-elects-anutin-charnvirakul-as-new-prime-minister/a-76425154?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/thailand-prime-minister-anutin-charnvirakul-to-remain-in-power-following-parliament-vote/article70760942.ece"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/03/thai-parliament-reconfirms-anutin-charnvirakul-as-prime-minister/"
         }
       ],
       "regions": [
-        "France",
+        "Asia-Pacific",
         "Germany",
-        "Hong Kong",
-        "Russia",
-        "UK"
+        "India"
       ],
-      "score": 20.5,
-      "mentions": 5,
-      "diversity": 5,
-      "big_story": false,
-      "related_headlines": []
+      "score": 0.2611,
+      "mentions": 3,
+      "diversity": 3
     },
     {
       "rank": 7,
-      "headline": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
-      "summary": "Morocco awarded Africa Cup of Nations title after Senegal win overturned CAF strips Senegal of AFCON title, Morocco declared African champions.",
+      "headline": "China calls killing of Iran’s Larijani, leaders ‘unacceptable’",
+      "summary": "China calls killing of Iran’s Larijani, leaders ‘unacceptable’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/afcon-senegal-stripped-of-title-morocco-crowned-champions/a-76402922?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "Qatar",
-        "UK"
-      ],
-      "score": 20.0,
-      "mentions": 5,
-      "diversity": 4,
-      "big_story": false,
-      "related_headlines": []
-    },
-    {
-      "rank": 8,
-      "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-      "summary": "U.S. is letting Iranian oil tankers through the Strait of Hormuz, Bessent says. Trackers show Iran vets friendly ships for Hormuez passage.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/china-calls-killing-of-irans-larijani-leaders-unacceptable/article70761376.ece"
         },
         {
           "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wresting-control-strait-hormuz-iran-has-turned-tables-us"
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-killing-irans-larijani-leaders-unacceptable"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/china-iran-ali-larijani-killing-leaders-unacceptable-6003941"
         }
       ],
       "regions": [
-        "Global",
+        "India",
         "Middle East",
-        "Qatar",
-        "Southeast Asia",
-        "UK"
+        "Southeast Asia"
       ],
-      "score": 19.0,
-      "mentions": 5,
-      "diversity": 5,
-      "big_story": true,
-      "related_headlines": [
-        "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
-        "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'"
-      ]
+      "score": 0.1444,
+      "mentions": 3,
+      "diversity": 3
     },
     {
-      "rank": 9,
-      "headline": "Nigeria tightens security in Maiduguri after suicide attacks",
-      "summary": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria. Nigeria tightens security in Maiduguri after suicide attacks.",
+      "rank": 8,
+      "headline": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
+      "summary": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nigeria-tightens-security-in-maiduguri-after-suicide-attacks/a-76398081?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/uk-s-king-charles-praises-uk‑nigeria-partnership-of-equals-on-tinubu-state-visit/a-76422435?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/03/18/nigerias-president-tinubu-welcomed-by-britains-king-charles-at-start-of-state-visit/"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri"
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/03/18/tinubu-historic-visit-uk-nigeria-bilateral-relations/"
         }
       ],
       "regions": [
-        "France",
+        "Africa",
         "Germany",
-        "UK"
+        "Global",
+        "West Africa"
       ],
-      "score": 11.1,
+      "score": 0.1333,
       "mentions": 4,
-      "diversity": 3,
-      "big_story": false,
-      "related_headlines": []
+      "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "Total repression and air strikes bring unrelenting dread for Iranians",
-      "summary": "Total repression and air strikes bring unrelenting dread for Iranians. War  on Iran: As top leaders and commanders are killed, 'regime will harden and close ranks'",
+      "rank": 9,
+      "headline": "Mass funeral held in Kabul for victims of strike on hospital that Afghanistan blames on Pakistan",
+      "summary": "Mass funeral held in Kabul for victims of strike on hospital that Afghanistan blames on Pakistan. The Kabul Hospital Strike and the Escalation Logic Driving Afghanistan-Pakistan Conflict Can Pakistan and Afghanistan De-Escalate?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/mass-funeral-held-in-kabul-for-victims-of-strike-on-hospital-that-afghanistan-blames-on-pakistan/article70759206.ece"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/war-on-iran-as-top-leaders-and-commanders-are-killed-regime-will-harden-and-close-ranks"
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/03/the-kabul-hospital-strike-and-the-escalation-logic-driving-afghanistan-pakistan-conflict/"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/17/briefing/irans-leadership-suffers-a-double-blow.html"
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/03/18/pakistan-afghanistan-conflict-kabul-hospital-strike/"
         }
       ],
       "regions": [
-        "France",
-        "UK",
-        "US"
+        "Asia-Pacific",
+        "Global",
+        "India"
       ],
-      "score": 8.1,
+      "score": 0.0278,
       "mentions": 3,
-      "diversity": 3,
-      "big_story": false,
-      "related_headlines": []
+      "diversity": 3
     }
   ]
 }

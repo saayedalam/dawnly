@@ -1,0 +1,653 @@
+{
+  "last_updated": "2026-03-19T10:53:19.370272+00:00",
+  "retention_days": 60,
+  "source_count": 34,
+  "sources": {
+    "BBC News": {
+      "tier": "global",
+      "region": "UK",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        37
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Al Jazeera English": {
+      "tier": "global",
+      "region": "Qatar",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        25
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The Guardian": {
+      "tier": "global",
+      "region": "UK",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        35
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "NPR News": {
+      "tier": "global",
+      "region": "US",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        10
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Deutsche Welle": {
+      "tier": "global",
+      "region": "Germany",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        23
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "France 24": {
+      "tier": "global",
+      "region": "France",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        24
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "NHK World Japan": {
+      "tier": "global",
+      "region": "Japan",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        7
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The New York Times": {
+      "tier": "regional",
+      "region": "US",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        28
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Financial Times": {
+      "tier": "regional",
+      "region": "UK",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        11
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "South China Morning Post": {
+      "tier": "regional",
+      "region": "Hong Kong",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        50
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The Hindu": {
+      "tier": "regional",
+      "region": "India",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        50
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Dawn Pakistan": {
+      "tier": "regional",
+      "region": "Pakistan",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        25
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The Diplomat": {
+      "tier": "regional",
+      "region": "Asia-Pacific",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        16
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Hong Kong Free Press": {
+      "tier": "regional",
+      "region": "Hong Kong",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        4
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Middle East Eye": {
+      "tier": "regional",
+      "region": "Middle East",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        20
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Sydney Morning Herald": {
+      "tier": "regional",
+      "region": "Australia",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        10
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Toronto Star": {
+      "tier": "regional",
+      "region": "Canada",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        0
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "error"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "African Arguments": {
+      "tier": "regional",
+      "region": "Africa",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        0
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "error"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Africanews": {
+      "tier": "regional",
+      "region": "Africa",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        24
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Channel NewsAsia": {
+      "tier": "regional",
+      "region": "Southeast Asia",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        20
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "MercoPress": {
+      "tier": "regional",
+      "region": "South America",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        10
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "ProPublica": {
+      "tier": "niche",
+      "region": "US",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        2
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Politico": {
+      "tier": "niche",
+      "region": "US",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        2
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Foreign Policy": {
+      "tier": "niche",
+      "region": "Global",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        14
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Rest of World": {
+      "tier": "niche",
+      "region": "Global",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        1
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The Intercept": {
+      "tier": "niche",
+      "region": "US",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        1
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Quartz": {
+      "tier": "niche",
+      "region": "Global",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        33
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Balkan Insight": {
+      "tier": "niche",
+      "region": "Eastern Europe",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        8
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Buenos Aires Times": {
+      "tier": "niche",
+      "region": "South America",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        4
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The Africa Report": {
+      "tier": "niche",
+      "region": "Africa",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        0
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "error"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "The Moscow Times": {
+      "tier": "niche",
+      "region": "Russia",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        9
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Mail & Guardian": {
+      "tier": "niche",
+      "region": "South Africa",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        10
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Premium Times Nigeria": {
+      "tier": "niche",
+      "region": "West Africa",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        15
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    },
+    "Rio Times": {
+      "tier": "niche",
+      "region": "Brazil",
+      "dates": [
+        "2026-03-19"
+      ],
+      "articles": [
+        10
+      ],
+      "undated": [
+        0
+      ],
+      "status": [
+        "ok"
+      ],
+      "errors": [
+        null
+      ]
+    }
+  }
+}
