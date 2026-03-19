@@ -123,13 +123,14 @@ def load_backup() -> dict | None:
 def run_pipeline() -> None:
     '''
     Run the full Dawnly pipeline:
-    fetch → cluster → rank → summarize → publish
+    fetch → cluster → rank → summarize → publish → health log
     Falls back to previous output if pipeline produces insufficient stories.
     '''
     from fetch import fetch_all
     from cluster import cluster_articles
     from rank import rank_clusters
     from summarize import summarize_all
+    from source_health import update_health_log
 
     logger.info("=" * 60)
     logger.info("DAWNLY PIPELINE STARTING")
@@ -137,22 +138,22 @@ def run_pipeline() -> None:
     logger.info("=" * 60)
 
     # Step 1 — Fetch
-    logger.info("\n[1/4] Fetching articles...")
-    articles = fetch_all()
+    logger.info("\n[1/5] Fetching articles...")
+    articles, source_health = fetch_all()
     logger.info(f"Fetched {len(articles)} articles")
 
     # Step 2 — Cluster
-    logger.info("\n[2/4] Clustering articles...")
+    logger.info("\n[2/5] Clustering articles...")
     clusters = cluster_articles(articles)
     logger.info(f"Found {len(clusters)} qualified clusters")
 
     # Step 3 — Rank
-    logger.info("\n[3/4] Ranking clusters...")
+    logger.info("\n[3/5] Ranking clusters...")
     stories = rank_clusters(clusters)
     logger.info(f"Ranked top {len(stories)} stories")
 
     # Step 4 — Summarize
-    logger.info("\n[4/4] Summarizing stories...")
+    logger.info("\n[4/5] Summarizing stories...")
     stories = summarize_all(stories)
 
     # Safety check — fallback if not enough stories
@@ -164,14 +165,16 @@ def run_pipeline() -> None:
         backup = load_backup()
         if backup:
             logger.warning("Using previous top10.json as fallback")
-            logger.info("Pipeline complete (fallback used)")
-            return
         else:
             logger.warning("No backup available — publishing with fewer stories")
 
     # Build and write output
     output = build_output(stories)
     write_output(output)
+
+    # Step 5 — Source health log
+    logger.info("\n[5/5] Updating source health log...")
+    update_health_log(source_health)
 
     logger.info("\n" + "=" * 60)
     logger.info("DAWNLY PIPELINE COMPLETE")

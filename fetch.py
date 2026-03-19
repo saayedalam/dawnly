@@ -211,10 +211,22 @@ def deduplicate(articles: list[dict]) -> list[dict]:
 # Main fetch orchestrator
 # -------------------------------------------------------------------------
 
-async def fetch_all_async(sources: list[dict] = SOURCES) -> list[dict]:
+async def fetch_all_async(
+    sources: list[dict] = SOURCES,
+) -> tuple[list[dict], list[dict]]:
     '''
-    Fetch all RSS sources concurrently and return a deduplicated
-    flat list of article dicts, sorted by source weight descending.
+    Fetch all RSS sources concurrently and return:
+      - A deduplicated flat list of article dicts (sorted by source weight).
+      - A per-source health list: one dict per source with fetch results.
+
+    Health dict fields per source:
+      name          : source name
+      tier          : source tier
+      region        : source region
+      articles_fetched : count of articles within the 24h window
+      undated_count : articles accepted with no publish date
+      status        : "ok" | "empty" | "error"
+      error         : error message string or None
     '''
     semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
@@ -233,9 +245,34 @@ async def fetch_all_async(sources: list[dict] = SOURCES) -> list[dict]:
         ]
         results = await asyncio.gather(*tasks)
 
-    all_articles   = [article for batch, _ in results for article in batch]
-    total_undated  = sum(count for _, count in results)
-    all_articles   = deduplicate(all_articles)
+    # Build per-source health records
+    source_health: list[dict] = []
+    for source, (articles, undated_count) in zip(sorted_sources, results):
+        fetched = len(articles)
+        # fetch_source returns [] on error; distinguish empty feed from fetch error
+        # by checking whether logger recorded an error — we use fetched count only
+        if fetched == 0 and undated_count == 0:
+            # Could be a real empty feed or a fetch error; treat as error
+            # (fetch_source already logged the error message)
+            status = "error"
+        elif fetched == 0:
+            status = "empty"
+        else:
+            status = "ok"
+
+        source_health.append({
+            "name":             source["name"],
+            "tier":             source["tier"],
+            "region":           source["region"],
+            "articles_fetched": fetched,
+            "undated_count":    undated_count,
+            "status":           status,
+            "error":            None,  # detailed error captured in logs
+        })
+
+    all_articles  = [article for batch, _ in results for article in batch]
+    total_undated = sum(count for _, count in results)
+    all_articles  = deduplicate(all_articles)
 
     if total_undated:
         logger.warning(
@@ -246,12 +283,13 @@ async def fetch_all_async(sources: list[dict] = SOURCES) -> list[dict]:
     logger.info(
         f"\nFetch complete — {len(all_articles)} unique articles ready for clustering"
     )
-    return all_articles
+    return all_articles, source_health
 
 
-def fetch_all(sources: list[dict] = SOURCES) -> list[dict]:
+def fetch_all(sources: list[dict] = SOURCES) -> tuple[list[dict], list[dict]]:
     '''
     Synchronous wrapper around fetch_all_async.
+    Returns (articles, source_health) — same as fetch_all_async.
     Call this from other pipeline modules.
     '''
     return asyncio.run(fetch_all_async(sources))
@@ -287,5 +325,5 @@ def print_summary(articles: list[dict]) -> None:
 # -------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    articles = fetch_all()
+    articles, health = fetch_all()
     print_summary(articles)
