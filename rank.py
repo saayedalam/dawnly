@@ -36,57 +36,14 @@ def get_nlp():
 # Config
 # -------------------------------------------------------------------------
 
-# Coverage reach weights per source tier
-# These are separate from the source tier weights in sources.py
-# Tier A = truly global outlets covering all regions equally
-# Tier B = strong international but regionally anchored
-# Tier C = specialist/niche with global focus
+# Coverage reach weights are defined in sources.py and read here at import
+# time. This is the single source of truth — do not add a separate weight
+# lookup in this file. Any source not in sources.py falls back to DEFAULT_REACH.
 
-COVERAGE_REACH = {
-    # Tier A — 1.0
-    "BBC News":             1.0,
-    "Associated Press":     1.0,
-    "Al Jazeera English":   1.0,
-    "Deutsche Welle":       1.0,
-    "France 24":            1.0,
-    "NHK World Japan":      1.0,
+from sources import SOURCES as _SOURCES
+_REACH_BY_NAME: dict[str, float] = {s["name"]: s["weight"] for s in _SOURCES}
 
-    # Tier B — 0.7
-    "The New York Times":       0.7,
-    "The Washington Post":      0.7,
-    "The Guardian":             0.7,
-    "Financial Times":          0.7,
-    "South China Morning Post": 0.7,
-    "The Hindu":                0.7,
-    "Dawn Pakistan":            0.7,
-    "Middle East Eye":          0.7,
-    "Sydney Morning Herald":    0.7,
-    "Toronto Star":             0.7,
-    "The Diplomat":             0.7,
-    "Hong Kong Free Press":     0.7,
-    "African Arguments":        0.7,
-    "Channel NewsAsia":         0.7,
-    "Guardian Africa":          0.7,
-    "Guardian Americas":        0.7,
-    "MercoPress":               0.7,
-    "NPR News":                 0.7,
-
-    # Tier C — 0.4
-    "Foreign Policy":       0.4,
-    "Rest of World":        0.4,
-    "ProPublica":           0.4,
-    "The Intercept":        0.4,
-    "Politico":             0.4,
-    "Axios":                0.4,
-    "Quartz":               0.4,
-    "Balkan Insight":       0.4,
-    "Buenos Aires Times":   0.4,
-    "The Africa Report":    0.4,
-    "The Moscow Times":     0.4,
-    "Guardian Russia":      0.4,
-}
-
-DEFAULT_REACH = 0.4     # fallback for any source not in the list
+DEFAULT_REACH = 0.4     # fallback for any source not in sources.py
 TOP_N         = 10      # number of stories to return
 
 # V2 signal weights — must sum to 1.0
@@ -100,8 +57,11 @@ W_SPREAD   = 0.25
 # -------------------------------------------------------------------------
 
 def get_coverage_reach(source_name: str) -> float:
-    '''Return the coverage reach weight for a given source name.'''
-    return COVERAGE_REACH.get(source_name, DEFAULT_REACH)
+    '''
+    Return the coverage reach weight for a given source name.
+    Reads from sources.py — the single source of truth for these values.
+    '''
+    return _REACH_BY_NAME.get(source_name, DEFAULT_REACH)
 
 
 def geographic_diversity_score(cluster: list[dict]) -> int:

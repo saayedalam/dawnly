@@ -1,6 +1,14 @@
 # sources.py
-# Purpose: Master source list for Dawnly — all RSS feeds, tiers, and weights
-# Tier weights: Global (1.0) > Regional (0.6) > Niche (0.3)
+# Purpose: Master source list for Dawnly — all RSS feeds, tiers, and weights.
+#
+# The `weight` field is the coverage reach score used by rank.py to signal
+# how globally reaching a source is. It is the single source of truth for
+# this value — rank.py reads directly from here, not from its own lookup.
+#
+# Tier weights:
+#   Global   (1.0) — major international wire services and broadcasters
+#   Regional (0.7) — strong national outlets with international coverage
+#   Niche    (0.4) — specialist, investigative, and regional-focus outlets
 
 SOURCES = [
 
@@ -60,198 +68,173 @@ SOURCES = [
     },
 
     # -------------------------------------------------------------------------
-    # REGIONAL TIER — weight: 0.6
+    # REGIONAL TIER — weight: 0.7
     # Major national outlets with strong international coverage
     # -------------------------------------------------------------------------
     {
         "name": "The New York Times",
         "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "US",
     },
     {
         "name": "Financial Times",
         "url": "https://www.ft.com/rss/home",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "UK",
     },
-
     {
         "name": "South China Morning Post",
         "url": "https://www.scmp.com/rss/91/feed",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Hong Kong",
     },
     {
         "name": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/?service=rss",
+        "url": "https://www.thehindu.com/news/international/?service=rss",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "India",
     },
     {
         "name": "Dawn Pakistan",
         "url": "https://www.dawn.com/feed",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Pakistan",
     },
     {
         "name": "The Diplomat",
         "url": "https://thediplomat.com/feed",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Asia-Pacific",
     },
     {
         "name": "Hong Kong Free Press",
         "url": "https://hongkongfp.com/feed",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Hong Kong",
     },
     {
         "name": "Middle East Eye",
         "url": "https://www.middleeasteye.net/rss",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Middle East",
     },
     {
         "name": "Sydney Morning Herald",
         "url": "https://www.smh.com.au/rss/world.xml",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Australia",
     },
     {
         "name": "Toronto Star",
         "url": "https://www.thestar.com/search/?f=rss&t=article&c=News*&l=50&s=start_time&sd=desc",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Canada",
     },
-
     {
         "name": "African Arguments",
         "url": "https://africanarguments.org/feed",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Africa",
     },
-
     {
         "name": "Channel NewsAsia",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "Southeast Asia",
-    },
-    {
-        "name": "Guardian Africa",
-        "url": "https://www.theguardian.com/world/africa/rss",
-        "tier": "regional",
-        "weight": 0.6,
-        "region": "Africa",
-    },
-    {
-        "name": "Guardian Americas",
-        "url": "https://www.theguardian.com/world/americas/rss",
-        "tier": "regional",
-        "weight": 0.6,
-        "region": "Latin America",
     },
     {
         "name": "MercoPress",
         "url": "https://en.mercopress.com/rss",
         "tier": "regional",
-        "weight": 0.6,
+        "weight": 0.7,
         "region": "South America",
     },
 
-
     # -------------------------------------------------------------------------
-    # NICHE TIER — weight: 0.3
+    # NICHE TIER — weight: 0.4
     # Analysis, investigative, and specialist outlets
     # -------------------------------------------------------------------------
     {
         "name": "ProPublica",
         "url": "https://feeds.propublica.org/propublica/main",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "US",
     },
     {
         "name": "Politico",
         "url": "https://rss.politico.com/politics-news.xml",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "US",
     },
     {
         "name": "Foreign Policy",
         "url": "https://foreignpolicy.com/feed",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "Global",
     },
     {
         "name": "Rest of World",
         "url": "https://restofworld.org/feed",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "Global",
     },
     {
         "name": "The Intercept",
         "url": "https://theintercept.com/feed/?rss",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "US",
     },
     {
         "name": "Quartz",
         "url": "https://qz.com/feed",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "Global",
     },
     {
         "name": "Balkan Insight",
         "url": "https://balkaninsight.com/feed",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "Eastern Europe",
     },
     {
         "name": "Buenos Aires Times",
         "url": "https://www.batimes.com.ar/feed",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "South America",
     },
     {
         "name": "The Africa Report",
         "url": "https://www.theafricareport.com/feed",
         "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "Africa",
     },
     {
         "name": "The Moscow Times",
         "url": "https://www.themoscowtimes.com/rss/news",
         "tier": "niche",
-        "weight": 0.3,
-        "region": "Russia",
-    },
-    {
-        "name": "Guardian Russia",
-        "url": "https://www.theguardian.com/world/russia/rss",
-        "tier": "niche",
-        "weight": 0.3,
+        "weight": 0.4,
         "region": "Russia",
     },
 
