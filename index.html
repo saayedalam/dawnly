@@ -82,9 +82,67 @@
       left: 50%;
       transform: translateX(-50%);
     }
+    /* Note: .meta-domain-flip overrides positioning for the link variant */
 
     .hero.dark .meta-label,
     .hero.dark .meta-domain {
+      color: rgba(245, 238, 220, 0.82);
+    }
+
+    /* Flip link — shows "Dawnly.News" by default, "About Dawnly" on hover */
+    .meta-domain-flip {
+      text-decoration: none;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      perspective: 400px;
+      cursor: pointer;
+      display: inline-block;
+      height: 14px;
+      overflow: visible;
+    }
+
+    .meta-domain-flip::before,
+    .meta-domain-flip::after {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      display: block;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      white-space: nowrap;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      backface-visibility: hidden;
+    }
+
+    .meta-domain-flip::before {
+      content: 'Dawnly.News';
+      color: var(--ink-2);
+      transform: translateX(-50%) rotateX(0deg);
+      opacity: 1;
+    }
+
+    .meta-domain-flip::after {
+      content: 'About Dawnly';
+      color: var(--amber);
+      transform: translateX(-50%) rotateX(-90deg);
+      opacity: 0;
+    }
+
+    .meta-domain-flip:hover::before {
+      transform: translateX(-50%) rotateX(90deg);
+      opacity: 0;
+    }
+
+    .meta-domain-flip:hover::after {
+      transform: translateX(-50%) rotateX(0deg);
+      opacity: 1;
+    }
+
+    .hero.dark .meta-domain-flip::before {
       color: rgba(245, 238, 220, 0.82);
     }
 
@@ -927,7 +985,7 @@
 
     <div class="meta-bar">
       <span class="meta-label" id="edition-label">Edition No. 1</span>
-      <span class="meta-domain">Dawnly.News</span>
+      <a href="./about.html" class="meta-domain meta-domain-flip"></a>
       <span class="meta-label" id="date-label"></span>
     </div>
 
