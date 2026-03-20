@@ -27,6 +27,7 @@ logger = logging.getLogger(__name__)
 MODEL          = "claude-haiku-4-5-20251001"
 MAX_HEADLINES  = 5       # headlines fed as context per story
 MAX_TOKENS     = 120     # output cap — 2 sentences fits comfortably in ~80 tokens
+MAX_HEADLINE_TOKENS = 18 # grouped headline — short, punchy, one clause
 
 # System prompt — defines Dawnly's summary voice.
 # Cached after the first API call each pipeline run.
@@ -42,6 +43,19 @@ Rules:
 - Do not use the word "meanwhile".
 - Write as if informing a thoughtful adult who wants to understand what happened and why it matters.
 - Each sentence should be complete and stand on its own.
+"""
+
+# System prompt for grouped card headlines — cached separately.
+HEADLINE_SYSTEM_PROMPT = """\
+You write short, precise headlines for Dawnly, a calm global news digest.
+
+Rules:
+- Maximum 10 words.
+- Present tense, active voice.
+- Neutral — no alarm language, no superlatives, no opinion.
+- Capture the overarching story, not just one angle.
+- No punctuation at the end.
+- Do not start with a proper noun if avoidable — lead with the action or situation.
 """
 
 
@@ -141,9 +155,61 @@ def summarize_story(story: dict) -> str:
         return best["title"]
 
 
-# -------------------------------------------------------------------------
-# Main function
-# -------------------------------------------------------------------------
+def generate_grouped_headline(story: dict) -> str:
+    """
+    Generate a single clean headline for a grouped card using Claude Haiku.
+
+    The grouped card currently inherits the headline of its highest-scoring
+    angle — a single article's phrasing that often doesn't represent the
+    full scope of the story. This replaces it with a headline that captures
+    the overarching event across all angles.
+
+    Falls back to the existing headline if the API call fails.
+    """
+    angles = story.get("angles", [])
+    if not angles:
+        return story["headline"]
+
+    angle_headlines = "\n".join(
+        f"- {a['headline']}" for a in angles
+    )
+    entity = story.get("entity", "")
+    entity_note = f"\nDominant topic: {entity}" if entity and entity != "other" else ""
+
+    user_message = (
+        f"These headlines are different angles on the same story:{entity_note}\n\n"
+        f"{angle_headlines}\n\n"
+        f"Write a single headline (max 10 words) that captures the overarching story."
+    )
+
+    try:
+        client = get_client()
+
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=MAX_HEADLINE_TOKENS,
+            system=[
+                {
+                    "type": "text",
+                    "text": HEADLINE_SYSTEM_PROMPT,
+                    "cache_control": {"type": "ephemeral"},
+                }
+            ],
+            messages=[
+                {"role": "user", "content": user_message}
+            ],
+        )
+
+        headline = response.content[0].text.strip().strip('"').strip("'")
+        logger.info(f"  ✓ Grouped headline: {headline}")
+        return headline
+
+    except Exception as e:
+        logger.error(f"  ✗ Grouped headline failed: {e}")
+        return story["headline"]
+
+
+
 
 def summarize_all(stories: list[dict]) -> list[dict]:
     """
@@ -159,6 +225,10 @@ def summarize_all(stories: list[dict]) -> list[dict]:
 
     for story in stories:
         if story.get("is_grouped"):
+            # Generate a clean overarching headline for the grouped card
+            story["headline"] = generate_grouped_headline(story)
+
+            # Summarize each angle individually
             angle_summaries = []
             for angle in story["angles"]:
                 angle_summaries.append(summarize_story({
