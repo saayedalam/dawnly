@@ -136,7 +136,7 @@ SOURCES = [
     },
     {
         "name": "Toronto Star",
-        "url": "https://www.thestar.com/search/?f=rss&t=article&c=News*&l=50&s=start_time&sd=desc",
+        "url": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss",
         "tier": "regional",
         "weight": 0.7,
         "region": "Canada",
@@ -231,11 +231,11 @@ SOURCES = [
         "region": "South America",
     },
     {
-        "name": "The Africa Report",
-        "url": "https://www.theafricareport.com/feed",
+        "name": "Global Voices",
+        "url": "https://globalvoices.org/feed/",
         "tier": "niche",
         "weight": 0.4,
-        "region": "Africa",
+        "region": "Global",
     },
     {
         "name": "The Moscow Times",
