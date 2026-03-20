@@ -1,25 +1,25 @@
 {
-  "published_at": "2026-03-20T03:16:23.954244+00:00",
+  "published_at": "2026-03-20T03:36:15.263632+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "summary": "Israel conducted strikes on Iranian gas field infrastructure without coordinating with the United States, marking a significant divergence in how the two allies approach escalation with Iran. U.S. and Israeli officials hold different strategic objectives regarding Iran, creating uncertainty about whether the countries will maintain coordinated responses to future Iranian actions.",
+      "headline": "Tensions escalate as US and Israel confront Iran nuclear program",
+      "summary": "Israel struck Iranian gas infrastructure without coordinating with the United States beforehand, creating uncertainty about how the U.S. will respond to the escalating cycle of Iranian and Israeli attacks. Trump's recent statements have left ambiguous whether the U.S. intends to support further Israeli operations or pursue a different course, making the extent of American-Israeli coordination on Iran strategy unclear.",
       "is_grouped": true,
-      "angle_count": 5,
+      "angle_count": 4,
       "angles": [
         {
           "headline": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-          "summary": "Israel conducted strikes on Iranian gas field infrastructure without coordinating with the United States, marking a significant divergence in how the two allies approach escalation with Iran. U.S. and Israeli officials hold different strategic objectives regarding Iran, creating uncertainty about whether the countries will maintain coordinated responses to future Iranian actions."
-        },
-        {
-          "headline": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
-          "summary": "Nearly 100 vessels transit the Strait of Hormuz daily, though Iran selectively restricts passage for certain ships while allowing preferred traffic through the critical waterway. Six nations have coordinated to strengthen maritime security measures in the strait, which channels roughly one-third of global seaborne oil trade."
+          "summary": "Israel struck Iranian gas infrastructure without coordinating with the United States beforehand, creating uncertainty about how the U.S. will respond to the escalating cycle of Iranian and Israeli attacks. Trump's recent statements have left ambiguous whether the U.S. intends to support further Israeli operations or pursue a different course, making the extent of American-Israeli coordination on Iran strategy unclear."
         },
         {
           "headline": "Netanyahu says Iran’s uranium enrichment abilities destroyed",
-          "summary": "Israeli Prime Minister Netanyahu claims that recent strikes have eliminated Iran's capacity to enrich uranium, a key step in nuclear weapons production. The statement comes amid escalating military exchanges between Israel and Iran, though independent verification of the damage remains limited."
+          "summary": "Israeli Prime Minister Netanyahu claims that recent strikes have eliminated Iran's uranium enrichment capabilities, a critical component of its nuclear program. The assertion follows military operations reportedly conducted with U.S. involvement and carries significant implications for regional security and ongoing nuclear negotiations."
+        },
+        {
+          "headline": "US approves $16.5bn arms deal to Gulf states amid rising Iran tensions",
+          "summary": "The United States approves $16.5 billion in weapons sales to Gulf states as tensions with Iran escalate following recent regional attacks. The deal strengthens military capabilities in one of the world's most volatile regions while signaling American commitment to its Gulf partners' defense."
         }
       ],
       "sources": [
@@ -54,17 +54,21 @@
         "West Africa"
       ],
       "score": 0.8133,
-      "mentions": 57,
+      "mentions": 55,
       "diversity": 15
     },
     {
       "rank": 2,
-      "headline": "Trump compares Iran strikes to Pearl Harbor as he meets Japan’s PM",
-      "summary": "During a meeting with Japan's prime minister, Trump invoked the Pearl Harbor attack while discussing potential military action against Iran, drawing a historical comparison that carried particular significance given his audience. Japan's leader indicated her country would not participate in any Iran conflict, while Trump praised Japan's existing support for his administration's Iran policies.",
+      "headline": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+      "summary": "Nearly 100 ships transit the Hormuz Strait daily, demonstrating that despite regional tensions, commercial shipping continues to move through this critical chokepoint that handles roughly one-third of global maritime oil trade. Six nations have committed to coordinating efforts to maintain safe passage, signaling an attempt to preserve stability in the waterway while the U.S. pursues a more confrontational approach toward Iran.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Al Jazeera English",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-compares-iran-strikes-to-pearl-harbor-as-he-meets-japans-pm?traffic_source=rss"
@@ -72,14 +76,11 @@
         {
           "name": "The Guardian",
           "link": "https://www.theguardian.com/world/2026/mar/19/trump-mocks-japan-pearl-harbor-iran-war"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
         }
       ],
       "regions": [
         "Australia",
+        "France",
         "Global",
         "Hong Kong",
         "India",
@@ -89,14 +90,14 @@
         "UK",
         "US"
       ],
-      "score": 0.5586,
-      "mentions": 16,
-      "diversity": 9
+      "score": 0.6685,
+      "mentions": 21,
+      "diversity": 10
     },
     {
       "rank": 3,
       "headline": "Trump 24-karat gold coin approved by hand-picked federal panel",
-      "summary": "A federal arts commission appointed during Trump's administration has approved a 24-karat gold coin bearing his image. The approval moves forward a commemorative coin project that requires panel authorization before production can begin.",
+      "summary": "A federal arts commission appointed by Trump has approved a 24-karat gold coin bearing his image for production and sale. The decision follows a review process where the panel evaluated the coin's design and specifications for official minting.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -120,14 +121,14 @@
         "UK",
         "US"
       ],
-      "score": 0.448,
+      "score": 0.4465,
       "mentions": 5,
       "diversity": 4
     },
     {
       "rank": 4,
       "headline": "US F-35 aircraft makes emergency landing after a combat mission over Iran",
-      "summary": "A U.S. F-35 fighter jet made an emergency landing after being struck by suspected Iranian fire during a combat mission over central Iran. The incident marks an escalation in direct military engagement between the two countries, with Iranian forces claiming responsibility for the strike.",
+      "summary": "A U.S. F-35 fighter jet landed in emergency conditions after being struck by suspected Iranian fire during a combat operation over Iranian airspace. The incident marks a rare engagement involving the advanced stealth aircraft, though reports differ on the extent of damage and the aircraft's current operational status.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -153,14 +154,14 @@
         "Pakistan",
         "Qatar"
       ],
-      "score": 0.4248,
+      "score": 0.4227,
       "mentions": 6,
       "diversity": 6
     },
     {
       "rank": 5,
       "headline": "Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal",
-      "summary": "Hungary's prime minister Viktor Orbán has blocked a planned €90 billion EU loan to Ukraine, preventing the bloc from reaching consensus on the financial package that was intended to support Ukraine's energy infrastructure and economic stability. EU leaders have expressed frustration with his refusal to endorse the measure, which requires unanimous approval from all member states.",
+      "summary": "Hungary's Prime Minister Viktor Orbán blocked unanimous EU approval of a €90 billion loan package designed to stabilize Ukraine's economy and energy infrastructure, prompting other European leaders to condemn his decision as a betrayal of collective support. The veto prevents the funds from being disbursed and highlights deepening tensions between Orbán and EU member states over their approach to supporting Ukraine amid the ongoing conflict.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -183,14 +184,14 @@
         "Hong Kong",
         "UK"
       ],
-      "score": 0.4157,
+      "score": 0.4148,
       "mentions": 4,
       "diversity": 3
     },
     {
       "rank": 6,
       "headline": "US may remove sanctions on Iranian oil stranded in tankers, treasury secretary says",
-      "summary": "The US Treasury Secretary indicates the administration may lift sanctions that currently prevent the sale of Iranian oil stored in tankers at sea. Such a move would allow Iran to access funds from these petroleum reserves, potentially easing tensions or serving as part of broader diplomatic negotiations.",
+      "summary": "The U.S. Treasury Secretary indicates the administration is considering lifting sanctions that currently prevent the sale of Iranian oil stored in tankers at sea. Such a move would allow Iran to access revenue from these petroleum reserves, marking a potential shift in the government's approach to oil-related economic pressure on Iran.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -220,7 +221,7 @@
     {
       "rank": 7,
       "headline": "Thailand elects Anutin Charnvirakul as new prime minister",
-      "summary": "Parliament reelects Anutin Charnvirakul as Thailand's prime minister, continuing his leadership following a parliamentary vote. The move maintains the coalition government structure that has governed Thailand since the previous election cycle.",
+      "summary": "Thai lawmakers vote to retain Anutin Charnvirakul as prime minister, continuing his leadership of the coalition government. The reelection reflects the stability of the current parliamentary alliance that has governed Thailand since 2023.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -250,7 +251,7 @@
     {
       "rank": 8,
       "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-      "summary": "Denmark developed contingency plans during the Cold War to destroy Greenland's runways if the United States attempted to invade the strategic Arctic territory. The plan reflected tensions between NATO allies over control of the geopolitically important island, which sits at a crossroads of Arctic shipping and military positioning.",
+      "summary": "Denmark maintained contingency plans to destroy Greenland's runways in the event of a US military invasion, according to declassified documents and reports. The strategy reflected Cold War-era concerns about protecting the Danish territory and preventing it from falling under American control during a potential conflict.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -279,7 +280,7 @@
     {
       "rank": 9,
       "headline": "Hezbollah says battling Israeli troops' advance in south Lebanon",
-      "summary": "Hezbollah is engaging Israeli troops that have advanced into southern Lebanon, with the militant group firing missiles at military positions in the region. The intensity of the fighting has created dangerous conditions for civilians and journalists, with attacks striking close to populated areas and press operations.",
+      "summary": "Hezbollah claims to be actively engaging Israeli military forces that are advancing into southern Lebanon, marking an escalation in the ongoing conflict between the two sides. The intensity of the fighting has created dangerous conditions for civilians and journalists in the region, with weapons landing in proximity to populated areas.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -302,14 +303,14 @@
         "India",
         "Middle East"
       ],
-      "score": 0.1824,
+      "score": 0.1815,
       "mentions": 4,
       "diversity": 3
     },
     {
       "rank": 10,
       "headline": "Belarus releases 250 political prisoners as part of US deal",
-      "summary": "Belarus releases 250 political prisoners held since the 2020 disputed presidential election, fulfilling commitments made in negotiations with the United States. The U.S. responds by removing additional sanctions, marking a significant shift in relations between the two countries after years of tension.",
+      "summary": "Belarus releases 250 political prisoners held for opposition activities and protest participation, marking a significant reduction in detention following months of diplomatic negotiations. The United States responds by lifting additional economic sanctions, signaling a broader shift toward normalized relations after years of tension over the country's political repression.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
