@@ -24,6 +24,7 @@ jobs:
 
       - name: Send health report
         env:
-          RESEND_API_KEY:  ${{ secrets.RESEND_API_KEY }}
-          OPERATOR_EMAIL:  ${{ secrets.OPERATOR_EMAIL }}
+          GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          OPERATOR_EMAIL:     ${{ secrets.OPERATOR_EMAIL }}
         run: python3 send_health_report.py

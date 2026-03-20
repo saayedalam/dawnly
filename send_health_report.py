@@ -11,8 +11,11 @@
 import json
 import logging
 import os
+import smtplib
 import urllib.request
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 logging.basicConfig(
     level=logging.INFO,
@@ -26,16 +29,14 @@ logger = logging.getLogger(__name__)
 # Config
 # -------------------------------------------------------------------------
 
-HEALTH_JSON_URL = (
-    "https://saayedalam.github.io/dawnly/source_health.json"
-)
+HEALTH_JSON_URL  = "https://saayedalam.github.io/dawnly/source_health.json"
 
-RESEND_API_URL  = "https://api.resend.com/emails"
-FROM_ADDRESS    = "onboarding@resend.dev"
+SMTP_HOST        = "smtp.gmail.com"
+SMTP_PORT        = 587
 SUBJECT_TEMPLATE = "Dawnly Source Health · Week of {date}"
 
-SPARKLINE_CHARS = " ▁▂▃▄▅▆▇█"   # index 0 = empty, 8 = full
-SPARKLINE_DAYS  = 7               # characters per sparkline
+SPARKLINE_CHARS  = " ▁▂▃▄▅▆▇█"
+SPARKLINE_DAYS   = 7
 
 
 # -------------------------------------------------------------------------
@@ -429,37 +430,36 @@ def build_html(data: dict) -> str:
 
 def send_email(html: str, subject: str) -> None:
     """
-    Send the health report email via the Resend API.
-    Reads RESEND_API_KEY and OPERATOR_EMAIL from environment variables.
+    Send the health report email via Gmail SMTP using an App Password.
+    Reads GMAIL_ADDRESS and GMAIL_APP_PASSWORD from environment variables.
+    Sends from and to the same Gmail address (operator's own inbox).
+
+    To set up a Gmail App Password:
+      Google Account → Security → 2-Step Verification → App Passwords
     """
-    api_key = os.environ.get("RESEND_API_KEY", "").strip()
-    to_email = os.environ.get("OPERATOR_EMAIL", "").strip()
+    gmail_address  = os.environ.get("GMAIL_ADDRESS", "").strip()
+    app_password   = os.environ.get("GMAIL_APP_PASSWORD", "").strip()
+    operator_email = os.environ.get("OPERATOR_EMAIL", gmail_address).strip()
 
-    if not api_key:
-        raise ValueError("RESEND_API_KEY environment variable is not set")
-    if not to_email:
-        raise ValueError("OPERATOR_EMAIL environment variable is not set")
+    if not gmail_address:
+        raise ValueError("GMAIL_ADDRESS environment variable is not set")
+    if not app_password:
+        raise ValueError("GMAIL_APP_PASSWORD environment variable is not set")
 
-    payload = json.dumps({
-        "from":    FROM_ADDRESS,
-        "to":      [to_email],
-        "subject": subject,
-        "html":    html,
-    }).encode("utf-8")
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"]    = f"Dawnly Pipeline <{gmail_address}>"
+    msg["To"]      = operator_email
 
-    req = urllib.request.Request(
-        RESEND_API_URL,
-        data=payload,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type":  "application/json",
-        },
-        method="POST",
-    )
+    msg.attach(MIMEText(html, "html"))
 
-    with urllib.request.urlopen(req, timeout=15) as response:
-        body = response.read().decode("utf-8")
-        logger.info(f"Email sent successfully — response: {body}")
+    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
+        server.ehlo()
+        server.starttls()
+        server.login(gmail_address, app_password)
+        server.sendmail(gmail_address, operator_email, msg.as_string())
+
+    logger.info(f"Email sent to {operator_email} via Gmail SMTP")
 
 
 # -------------------------------------------------------------------------
