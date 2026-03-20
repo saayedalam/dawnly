@@ -453,14 +453,12 @@
 
     /* Left accent bar on the front */
     .card.big-story .card-front::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 3px;
-      height: 100%;
-      background: var(--big-accent);
-      opacity: 0.7;
+      content: none;
+    }
+
+    .card.big-story .card-front,
+    .card.big-story .card-back {
+      box-shadow: inset 0 0 0 2px var(--big-accent);
     }
 
     /* "Big story" label in card number position */
@@ -516,13 +514,12 @@
     }
 
     .card.grouped .card-front::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 3px;
-      height: 100%;
-      background: var(--big-accent);
+      content: none;
+    }
+
+    .card.grouped .card-front,
+    .card.grouped .card-back {
+      box-shadow: inset 0 0 0 2px var(--big-accent);
     }
 
     .card.grouped .card-num {
@@ -1262,7 +1259,7 @@ function buildEqualGridWithImage(stories) {
   const statsCard1 = {
     label: "Edition At A Glance",
     rows: [
-      { num: totalMentions,        desc: "articles\nprocessed" },
+      { num: totalMentions,        desc: "articles\nin top stories" },
       { num: allRegions.length,    desc: "regions\ncovered" },
       { num: allSourceNames.length,desc: "sources\ncited" },
       { num: stories.length,       desc: "stories\nranked" },
