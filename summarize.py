@@ -1,9 +1,21 @@
 # summarize.py
-# Purpose: Generate one calm, neutral sentence summary per story
-# using facebook/bart-large-cnn — free, local, no API required
+# Purpose: Generate a clean 2-sentence summary per story using Claude Haiku.
+#
+# Replaces the previous BART-based approach. BART was receiving only headlines
+# as input — not enough signal to summarize from. Claude can infer context
+# from headlines and produce consistent, well-formed prose.
+#
+# Best practices applied:
+#   - Prompt caching: system prompt is cached after the first call,
+#     reducing input token cost by ~90% for calls 2-10 each run.
+#   - Single model load: API client initialized once, reused for all stories.
+#   - Graceful fallback: if the API call fails, the best headline is used.
+#   - Consistent voice: system prompt enforces Dawnly's tone contract.
 
 import logging
-from transformers import BartForConditionalGeneration, BartTokenizer
+import os
+
+import anthropic
 
 logger = logging.getLogger(__name__)
 
@@ -12,86 +24,119 @@ logger = logging.getLogger(__name__)
 # Config
 # -------------------------------------------------------------------------
 
-MODEL         = "facebook/bart-large-cnn"
-MAX_HEADLINES = 5       # max headlines to use as input per story
-MIN_LENGTH    = 20      # minimum summary length in tokens
-MAX_LENGTH    = 60      # maximum summary length in tokens
+MODEL          = "claude-haiku-4-5-20251001"
+MAX_HEADLINES  = 5       # headlines fed as context per story
+MAX_TOKENS     = 120     # output cap — 2 sentences fits comfortably in ~80 tokens
+
+# System prompt — defines Dawnly's summary voice.
+# Cached after the first API call each pipeline run.
+SYSTEM_PROMPT = """\
+You write two-sentence summaries for Dawnly, a calm global news digest.
+
+Rules:
+- Exactly two sentences. No more, no less.
+- Present tense, active voice.
+- Neutral and factual — no alarm language, no superlatives, no opinion.
+- Do not repeat the headline. Add context or detail the headline omits.
+- Do not begin with "According to", "Reports say", or similar attribution phrases.
+- Do not use the word "meanwhile".
+- Write as if informing a thoughtful adult who wants to understand what happened and why it matters.
+- Each sentence should be complete and stand on its own.
+"""
 
 
 # -------------------------------------------------------------------------
-# Model loader — loads once, reused for all stories
+# API client — initialized once per pipeline run
 # -------------------------------------------------------------------------
 
-_model     = None
-_tokenizer = None
+_client = None
 
 
-def get_summarizer():
-    '''
-    Load the BART model and tokenizer once and cache them.
-    First run downloads ~1.6GB — cached locally after that.
-    '''
-    global _model, _tokenizer
-    if _model is None:
-        logger.info(f"Loading summarization model: {MODEL}")
-        logger.info("First run will download ~1.6GB — cached after that...")
-        _tokenizer = BartTokenizer.from_pretrained(MODEL)
-        _model     = BartForConditionalGeneration.from_pretrained(MODEL)
-        logger.info("Model loaded")
-    return _model, _tokenizer
+def get_client() -> anthropic.Anthropic:
+    """
+    Initialize the Anthropic client once and cache it.
+    Reads ANTHROPIC_API_KEY from environment.
+    """
+    global _client
+    if _client is None:
+        api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+        if not api_key:
+            raise ValueError(
+                "ANTHROPIC_API_KEY environment variable is not set. "
+                "Add it to your GitHub Actions secrets."
+            )
+        _client = anthropic.Anthropic(api_key=api_key)
+        logger.info("Anthropic client initialized")
+    return _client
 
 
 # -------------------------------------------------------------------------
-# Core function
+# Core summarization function
 # -------------------------------------------------------------------------
 
 def summarize_story(story: dict) -> str:
-    '''
-    Generate a one-sentence summary for a ranked story.
-    Concatenates top headlines as input to BART.
-    Returns a clean, neutral summary string.
-    Falls back to best headline if summarization fails.
-    '''
-    # Pull top headlines by source weight for context
+    """
+    Generate a 2-sentence summary for a ranked story using Claude Haiku.
+
+    Uses prompt caching on the system prompt — the first call in a pipeline
+    run pays full input token cost for the system prompt; all subsequent
+    calls read it from cache at ~10% of the standard price.
+
+    Falls back to the best headline if the API call fails.
+    """
+    # Build input from top headlines sorted by source weight
     articles = sorted(
         story["articles"],
         key=lambda a: a["source_weight"],
-        reverse=True
+        reverse=True,
     )[:MAX_HEADLINES]
 
-    # Concatenate headlines into a single input string
-    input_text = " ".join(a["title"] for a in articles)
+    headlines = "\n".join(
+        f"- {a['title']}" for a in articles
+    )
+
+    user_message = (
+        f"Story headline: {story['headline']}\n\n"
+        f"Related headlines from other sources:\n{headlines}\n\n"
+        f"Write a two-sentence summary."
+    )
 
     try:
-        model, tokenizer = get_summarizer()
+        client = get_client()
 
-        inputs = tokenizer(
-            input_text,
-            return_tensors="pt",
-            max_length=512,
-            truncation=True,
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=MAX_TOKENS,
+            system=[
+                {
+                    "type": "text",
+                    "text": SYSTEM_PROMPT,
+                    "cache_control": {"type": "ephemeral"},
+                }
+            ],
+            messages=[
+                {"role": "user", "content": user_message}
+            ],
         )
 
-        summary_ids = model.generate(
-            inputs["input_ids"],
-            min_length=MIN_LENGTH,
-            max_length=MAX_LENGTH,
-            length_penalty=2.0,
-            num_beams=4,
-            early_stopping=True,
-        )
+        summary = response.content[0].text.strip()
 
-        summary = tokenizer.decode(
-            summary_ids[0],
-            skip_special_tokens=True,
-        ).strip()
+        # Log cache status for cost monitoring
+        usage = response.usage
+        cache_read  = getattr(usage, "cache_read_input_tokens", 0) or 0
+        cache_write = getattr(usage, "cache_creation_input_tokens", 0) or 0
+        cache_note  = ""
+        if cache_write:
+            cache_note = " [cache write]"
+        elif cache_read:
+            cache_note = " [cache hit]"
 
-        logger.info(f"  ✓ {story['headline'][:50]}...")
+        logger.info(f"  ✓ {story['headline'][:50]}...{cache_note}")
         return summary
 
     except Exception as e:
-        logger.error(f"  ✗ Summary failed: {e}")
-        # Fallback — use the best headline as summary
+        logger.error(f"  ✗ Summary failed for '{story['headline'][:50]}': {e}")
+        # Fallback — return best headline rather than crashing the pipeline
         best = max(story["articles"], key=lambda a: a["source_weight"])
         return best["title"]
 
@@ -101,27 +146,26 @@ def summarize_story(story: dict) -> str:
 # -------------------------------------------------------------------------
 
 def summarize_all(stories: list[dict]) -> list[dict]:
-    '''
-    Add summaries to each story dict.
-    - Regular stories get a single "summary" field.
-    - Grouped stories get a "summary" (for the lead angle) plus
-      a "summaries" list with one summary per angle.
+    """
+    Add summaries to each story dict in place.
+
+    Regular stories get a single "summary" field.
+    Grouped stories get a "summary" (lead angle) plus a "summaries" list
+    with one summary per angle — each angle summarized separately.
+
     Returns the same list with summary fields added.
-    '''
-    logger.info(f"Summarizing {len(stories)} stories...")
+    """
+    logger.info(f"Summarizing {len(stories)} stories via Claude Haiku...")
 
     for story in stories:
         if story.get("is_grouped"):
-            # Summarize each angle individually
             angle_summaries = []
             for angle in story["angles"]:
-                # Build a temporary story-like dict for summarize_story
                 angle_summaries.append(summarize_story({
                     "headline": angle["headline"],
                     "articles": angle["articles"],
                 }))
             story["summaries"] = angle_summaries
-            # Lead summary = first angle's summary
             story["summary"]   = angle_summaries[0] if angle_summaries else story["headline"]
         else:
             story["summary"] = summarize_story(story)
@@ -131,7 +175,7 @@ def summarize_all(stories: list[dict]) -> list[dict]:
 
 
 # -------------------------------------------------------------------------
-# Entry point — run directly to test
+# Entry point — run directly to test summarization
 # -------------------------------------------------------------------------
 
 if __name__ == "__main__":
@@ -145,7 +189,7 @@ if __name__ == "__main__":
     from cluster import cluster_articles
     from rank import rank_clusters
 
-    articles = fetch_all()
+    articles, health = fetch_all()
     clusters = cluster_articles(articles)
     stories  = rank_clusters(clusters)
     stories  = summarize_all(stories)
