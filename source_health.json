@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T10:47:56.703546+00:00",
+  "last_updated": "2026-03-21T10:36:36.396524+00:00",
   "retention_days": 60,
   "source_count": 35,
   "sources": {
@@ -8,21 +8,26 @@
       "region": "UK",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         37,
+        33,
         33
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -32,21 +37,26 @@
       "region": "Qatar",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        25,
         25,
         25
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -56,21 +66,26 @@
       "region": "UK",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         35,
-        35
+        35,
+        31
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -80,21 +95,26 @@
       "region": "US",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        10,
         10,
         10
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -104,21 +124,26 @@
       "region": "Germany",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         23,
+        22,
         22
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -128,21 +153,26 @@
       "region": "France",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         24,
-        23
+        23,
+        24
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -152,21 +182,26 @@
       "region": "Japan",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        7,
         7,
         7
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -176,21 +211,26 @@
       "region": "US",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         28,
-        31
+        31,
+        21
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -200,21 +240,26 @@
       "region": "UK",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         11,
-        12
+        12,
+        11
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -224,21 +269,26 @@
       "region": "Hong Kong",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        50,
         50,
         50
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -248,21 +298,26 @@
       "region": "India",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         50,
-        50
+        50,
+        40
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -272,21 +327,26 @@
       "region": "Pakistan",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         25,
-        24
+        24,
+        0
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
-        "ok"
+        "ok",
+        "error"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -296,21 +356,26 @@
       "region": "Asia-Pacific",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         16,
-        16
+        16,
+        8
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -320,21 +385,26 @@
       "region": "Hong Kong",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         4,
-        10
+        10,
+        6
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -344,21 +414,26 @@
       "region": "Middle East",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        20,
         20,
         20
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -368,21 +443,26 @@
       "region": "Australia",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         10,
-        17
+        17,
+        10
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -392,21 +472,26 @@
       "region": "Canada",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        0,
         0,
         0
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "error",
+        "error",
         "error"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -416,21 +501,26 @@
       "region": "Africa",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        0,
         0,
         0
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "error",
+        "error",
         "error"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -440,21 +530,26 @@
       "region": "Africa",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         24,
-        29
+        29,
+        22
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -464,21 +559,26 @@
       "region": "Southeast Asia",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        20,
         20,
         20
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -488,21 +588,26 @@
       "region": "South America",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         10,
-        6
+        6,
+        5
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -512,21 +617,26 @@
       "region": "US",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         2,
-        3
+        3,
+        1
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -536,21 +646,26 @@
       "region": "US",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         2,
-        3
+        3,
+        0
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
-        "ok"
+        "ok",
+        "error"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -560,21 +675,26 @@
       "region": "Global",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         14,
-        9
+        9,
+        11
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -584,21 +704,26 @@
       "region": "Global",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        1,
         1,
         1
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -608,21 +733,26 @@
       "region": "US",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         1,
-        5
+        5,
+        3
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -632,21 +762,26 @@
       "region": "Global",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         33,
-        30
+        30,
+        29
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -656,21 +791,26 @@
       "region": "Eastern Europe",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         8,
-        7
+        7,
+        3
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -680,21 +820,26 @@
       "region": "South America",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         4,
-        4
+        4,
+        12
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -723,21 +868,26 @@
       "region": "Russia",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         9,
-        11
+        11,
+        9
       ],
       "undated": [
+        0,
         0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -747,21 +897,26 @@
       "region": "South Africa",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        10,
         10,
         10
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -771,21 +926,26 @@
       "region": "West Africa",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
+        15,
         15,
         15
       ],
       "undated": [
         0,
+        0,
         0
       ],
       "status": [
         "ok",
+        "ok",
         "ok"
       ],
       "errors": [
+        null,
         null,
         null
       ]
@@ -795,11 +955,40 @@
       "region": "Brazil",
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-21"
       ],
       "articles": [
         10,
+        10,
         10
+      ],
+      "undated": [
+        0,
+        0,
+        0
+      ],
+      "status": [
+        "ok",
+        "ok",
+        "ok"
+      ],
+      "errors": [
+        null,
+        null,
+        null
+      ]
+    },
+    "Global Voices": {
+      "tier": "niche",
+      "region": "Global",
+      "dates": [
+        "2026-03-20",
+        "2026-03-21"
+      ],
+      "articles": [
+        1,
+        1
       ],
       "undated": [
         0,
@@ -811,25 +1000,6 @@
       ],
       "errors": [
         null,
-        null
-      ]
-    },
-    "Global Voices": {
-      "tier": "niche",
-      "region": "Global",
-      "dates": [
-        "2026-03-20"
-      ],
-      "articles": [
-        1
-      ],
-      "undated": [
-        0
-      ],
-      "status": [
-        "ok"
-      ],
-      "errors": [
         null
       ]
     }

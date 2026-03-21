@@ -1,331 +1,336 @@
 {
-  "published_at": "2026-03-20T10:47:56.701703+00:00",
+  "published_at": "2026-03-21T10:36:36.394681+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
-      "summary": "Israeli Prime Minister Netanyahu confirms that Israel carried out an attack on Iranian energy infrastructure without coordination from the United States, underscoring a potential divergence in their approaches to regional escalation. The strike occurs amid broader regional tensions, with Iran responding to earlier attacks and questions persisting about the extent of US-Israel alignment on military action against Iran.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Tensions escalate around Strait of Hormuz shipping routes",
+      "summary": "The United Kingdom has authorized the United States to conduct strikes against targets in the Strait of Hormuz region from British military bases, expanding operational scope in an ongoing conflict. The escalation includes recent US-Israel attacks on Iranian nuclear facilities and comes as the Trump administration signals potential de-escalation while simultaneously deploying additional troops to the region.",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "UK allows US to use bases to strike Strait of Hormuz targets",
+          "summary": "The United Kingdom has authorized the United States to conduct strikes against targets in the Strait of Hormuz region from British military bases, expanding operational scope in an ongoing conflict. The escalation includes recent US-Israel attacks on Iranian nuclear facilities and comes as the Trump administration signals potential de-escalation while simultaneously deploying additional troops to the region."
+        },
+        {
+          "headline": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
+          "summary": "Iran's Supreme Leader Khamenei used his Nowruz (Persian New Year) address to declare that enemies have been \"defeated,\" likely referencing recent regional tensions and Israeli airstrikes in April. The statement appears designed to project strength domestically during the traditional holiday message, when Iranian leaders typically address broad themes of national resilience."
+        },
+        {
+          "headline": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+          "summary": "Iran's government announces it will permit Japanese vessels to pass through the Strait of Hormuz, a critical chokepoint for global oil trade that Iran controls. The assurance likely aims to maintain diplomatic relations with Japan while signaling Iran's willingness to allow commerce through the waterway despite regional tensions."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Germany",
-        "Global",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Qatar",
-        "South America",
-        "UK",
-        "US"
-      ],
-      "score": 0.8062,
-      "mentions": 38,
-      "diversity": 12
-    },
-    {
-      "rank": 2,
-      "headline": "Trump's Pearl Harbor remark overshadows Japan PM visit",
-      "summary": "During a visit by Japan's prime minister to discuss security concerns, Trump made a historical reference to Pearl Harbor in response to questions about potential Japanese involvement in military action against Iran. The remark drew criticism for its insensitivity and complicated what was meant to be a diplomatic engagement between the two allied nations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/19/trump-mocks-japan-pearl-harbor-iran-war"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/20/world/asia/japan-trump-pearl-harbor.html"
+          "link": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
         }
       ],
       "regions": [
         "Africa",
         "Australia",
-        "Global",
+        "France",
+        "Germany",
         "Hong Kong",
         "India",
         "Middle East",
-        "Pakistan",
-        "South America",
+        "Qatar",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.5824,
-      "mentions": 23,
+      "score": 0.895,
+      "mentions": 49,
       "diversity": 11
     },
     {
-      "rank": 3,
-      "headline": "BTS return from military service - but does their album live up to the hype?",
-      "summary": "BTS releases a new album titled Arirang as the South Korean group returns from mandatory military service obligations. The release precedes a major comeback concert, marking a significant moment for the group's career after their members completed their required military commitments.",
+      "rank": 2,
+      "headline": "Elon Musk misled Twitter investors, jury finds",
+      "summary": "A US jury determined that Elon Musk made misleading statements to Twitter investors during his 2022 acquisition of the company. The finding establishes legal responsibility for Musk in a securities case brought by shareholders who claimed they suffered financial losses when the stock price fell following the purchase announcement.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/music/2026/mar/20/bts-arirang-new-album-comeback-concert-kpop"
+          "link": "https://www.theguardian.com/technology/2026/mar/20/elon-musk-twitter-investors-lawsuit"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/bts-everything-you-need-to-know-about-the-k-pop-comeback-of-the-year/a-76439504?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase"
         }
       ],
       "regions": [
         "France",
         "Germany",
+        "Hong Kong",
         "UK",
         "US"
       ],
-      "score": 0.5335,
-      "mentions": 7,
-      "diversity": 4
+      "score": 0.5744,
+      "mentions": 8,
+      "diversity": 5
     },
     {
-      "rank": 4,
-      "headline": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
-      "summary": "Muslims worldwide observe Eid al-Fitr, the festival marking the end of Ramadan, with many communities gathering for prayers and family celebrations despite ongoing conflicts in the Middle East. In Jerusalem, heightened security restrictions limit access to the al-Aqsa mosque during the holiday, reflecting the tension affecting religious observances in the region.",
+      "rank": 3,
+      "headline": "Colombia’s President Gustavo Petro under investigation in US for drug ties",
+      "summary": "US federal prosecutors are investigating Colombian President Gustavo Petro for potential connections to drug traffickers, with the DEA designating him as a priority target. The inquiry examines whether Petro maintained ties to narcotics operations, though no charges have been filed and details about the investigation remain limited.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/20/the-saddest-day-for-muslim-worshippers-in-jerusalem-al-aqsa-mosque-closed-at-eid"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-prosecutors-investigate-whether-colombian-president-petro-had-ties-to-drug-traffickers-reports/a-76461891?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/culture/20260320-in-pictures-muslims-celebrate-eid-al-fitr-across-the-world-in-shadow-of-middle-east-war"
+          "link": "https://www.france24.com/en/americas/20260320-colombia-president-gustavo-petro-under-investigation-us-prosecutors-drug-trafficking"
         }
       ],
       "regions": [
-        "Africa",
         "France",
+        "Germany",
+        "India",
         "Qatar",
-        "UK"
+        "South America"
       ],
-      "score": 0.4586,
+      "score": 0.4451,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Action movie star Chuck Norris has died aged 86",
+      "summary": "Chuck Norris, the martial artist and action film star who became a cultural icon through roles in films like \"Missing in Action\" and the television series \"Walker, Texas Ranger,\" has died at age 86. His career spanned decades of entertainment and helped define the action genre during its peak popularity in the 1980s and 1990s.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/action-movie-star-chuck-norris-has-died-aged-86/a-76455118?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/chuck-norris-roundhouse-kicking-action-star-has-died-at-age-86"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347388/action-movie-star-chuck-norris-dies-86?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "France",
+        "Germany",
+        "Hong Kong"
+      ],
+      "score": 0.3604,
       "mentions": 5,
       "diversity": 4
     },
     {
       "rank": 5,
-      "headline": "The Papers: Iran unleashes 'world energy shock' and 'King of the coast'",
-      "summary": "Iran's military strikes on energy infrastructure in the Gulf region are disrupting global oil and gas supplies, with particular concern focused on the strategically vital South Pars gas field and broader Middle Eastern production capacity. Energy markets are experiencing price volatility as countries like Vietnam reassess fuel strategies, reflecting how regional conflict directly affects energy costs and supply chains worldwide.",
+      "headline": "US judge sides with New York Times against Pentagon journalism policies",
+      "summary": "A federal judge has determined that Pentagon restrictions limiting press access to military operations violate constitutional protections for journalism. The ruling supports the New York Times' legal challenge and affects how the Defense Department can control media coverage of its activities going forward.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c80me79xlvjo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/20/us-judge-sides-with-new-york-times-against-pentagon-journalism-policies?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iran-war-why-is-the-south-pars-gas-field-so-important/a-76432233?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/there-s-a-lot-of-ways-that-this-could-escalate-and-get-worse-iran-war-rattles-energy-markets"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/20/us/federal-judge-constitution-press-freedom.html"
         }
       ],
       "regions": [
-        "Australia",
-        "France",
-        "Germany",
-        "Global",
+        "Hong Kong",
         "India",
-        "Southeast Asia",
-        "UK"
+        "Qatar",
+        "US"
       ],
-      "score": 0.4231,
-      "mentions": 9,
-      "diversity": 7
+      "score": 0.3398,
+      "mentions": 6,
+      "diversity": 4
     },
     {
       "rank": 6,
-      "headline": "Trio charged over alleged plot to smuggle Nvidia chips from US to China",
-      "summary": "Three individuals face federal charges for allegedly attempting to export advanced Nvidia chips to China in violation of U.S. export controls designed to restrict sensitive semiconductor technology. The case reflects growing enforcement efforts against unauthorized transfers of artificial intelligence hardware, which the government classifies as critical to national security.",
+      "headline": "More than 230 people rescued as flash flooding hits Hawaii and fears dam could fail",
+      "summary": "Heavy rain triggers flash flooding across Hawaii, prompting rescue teams to pull more than 230 people from affected areas. Officials issue evacuation orders for over 5,500 residents due to concerns that a 120-year-old dam could fail under the strain of the deluge.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cy41ly2d9wko?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/20/hawaii-oahu-flash-floods"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china?traffic_source=rss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/20/nx-s1-5755105/hawaii-evacuations-flooding-dam-failure"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/three-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/article70764084.ece"
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/haiwaii-flood-evacuate-dam-oahu-6007606"
         }
       ],
       "regions": [
-        "India",
-        "Qatar",
-        "UK"
+        "Southeast Asia",
+        "UK",
+        "US"
       ],
-      "score": 0.3167,
+      "score": 0.3267,
       "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 7,
-      "headline": "Delcy Rodríguez replaces Venezuela’s top military commanders",
-      "summary": "Venezuela's vice president Delcy Rodríguez has removed the country's top military commanders, restructuring the armed forces' leadership in a significant personnel shift. The move follows recent political turbulence and represents an effort to consolidate control over the military establishment.",
+      "headline": "At least 11 people killed in fire at South Korean car parts factory",
+      "summary": "A fire at a South Korean car parts factory has killed at least 11 people, with dozens injured and several others unaccounted for. The incident disrupts production at a facility that supplies components to the country's automotive industry, a sector critical to South Korea's economy.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260320-venezuela-interim-president-military-commanders-reforms"
-        },
-        {
-          "name": "MercoPress",
-          "link": "https://en.mercopress.com/2026/03/20/delcy-rodriguez-renews-venezuela-s-military-high-command-following-padrino-s-ouster?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        }
-      ],
-      "regions": [
-        "France",
-        "South America",
-        "UK"
-      ],
-      "score": 0.3167,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 8,
-      "headline": "U.S. Mint can begin to produce Trump commemorative gold coin",
-      "summary": "The U.S. Mint has received approval to produce a commemorative gold coin bearing Donald Trump's image. The authorization comes from a Trump-appointed advisory panel that evaluates designs for official U.S. commemorative coins.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/20/g-s1-114533/us-mint-can-begin-to-produce-trump-commemorative-gold-coin"
+          "link": "https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-trump-image-approved-for-commemorative-gold-coin/a-76443197?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/south-korea-blaze-at-auto-parts-factory-kills-11/a-76448240?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347225/trump-picked-panel-approves-gold-coin-his-image-larger-better?utm_source=rss_feed"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/south-korea-car-plant-fire-many-killed-march-21-2026/article70767397.ece"
         }
       ],
       "regions": [
         "Germany",
-        "Hong Kong",
-        "Pakistan",
-        "US"
+        "India",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.3141,
+      "score": 0.3256,
       "mentions": 4,
       "diversity": 4
     },
     {
-      "rank": 9,
-      "headline": "Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal",
-      "summary": "Hungary's Prime Minister Viktor Orbán blocks a €90 billion European Union loan designed to support Ukraine's recovery and stability. EU leaders express anger at the move, viewing it as a departure from their consensus and a significant obstacle to coordinated support for Ukraine.",
+      "rank": 8,
+      "headline": "US lifts sanctions on some Iranian oil as energy prices soar",
+      "summary": "The U.S. grants a 30-day waiver allowing Iranian oil stored on ships to be sold and delivered, responding to tight global energy supplies and elevated crude prices. The temporary authorization addresses immediate supply pressures in oil markets without formally reversing the broader sanctions regime on Iran.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260320-outrage-among-eu-leaders-as-hungary-s-orban-u-turns-on-ukraine-loan"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/20/us-sanctions-iranian-oil"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3347233/eu-leaders-clash-hungarys-orban-blocking-ukraine-loan?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/us/economy-trade-business/article/3347401/us-approves-sale-iranian-oil-sea-move-ease-crude-supply-crisis?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Eastern Europe",
-        "France",
         "Hong Kong",
+        "India",
+        "Middle East",
         "UK"
       ],
-      "score": 0.2399,
+      "score": 0.3114,
       "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "Iran women’s football team feted in Tehran after asylum battle at Asian Cup",
-      "summary": "Iran's women's football team receives a public celebration in Tehran following their return from the Asian Cup, where several players faced deportation threats and sought asylum abroad. The welcome ceremony marks a complex moment for the team, reflecting both national pride in their athletic participation and the risks Iranian female athletes encounter when competing internationally.",
+      "rank": 9,
+      "headline": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
+      "summary": "Nicholas Brendon, who played Xander Harris on the popular television series Buffy the Vampire Slayer, has died at age 54. The actor's role as the witty, human member of the show's monster-fighting team made him a recognizable figure in 1990s and 2000s pop culture.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/3/20/iran-womens-football-team-feted-in-tehran-after-asylum-battle-at-asian-cup?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/iran-womens-soccer-team-greeted-with-a-welcome-ceremony-in-tehran/article70764120.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/mar/20/nicholas-brendon-buffy-the-vampire-slayer-actor-dies"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/iran-womens-football-team-greeted-in-tehran-20260320-p5qx1r.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html"
         }
       ],
       "regions": [
-        "Australia",
-        "India",
-        "Qatar"
+        "Southeast Asia",
+        "UK",
+        "US"
       ],
-      "score": 0.2162,
+      "score": 0.2899,
       "mentions": 4,
       "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "BTS comeback concert: Seoul gets ready to host 260,000 fans",
+      "summary": "The K-pop group BTS prepares for its first concert in years, drawing an expected 260,000 fans to central Seoul. South Korean police have implemented security measures and lockdowns across the concert area to manage the massive attendance and ensure public safety.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3347405/ahead-bts-first-show-years-south-korean-police-lock-down-central-seoul?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/bts-are-back-central-seoul-locks-down-for-k-pop-supergroups-first-show-in-years/article70768287.ece"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.2031,
+      "mentions": 4,
+      "diversity": 4
     }
   ]
 }
