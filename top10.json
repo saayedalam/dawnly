@@ -1,30 +1,29 @@
 {
-  "published_at": "2026-03-22T10:36:39.059914+00:00",
-  "story_count": 10,
+  "published_at": "2026-03-23T11:00:23.804491+00:00",
+  "story_count": 8,
   "stories": [
     {
       "rank": 1,
-      "headline": "Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia",
-      "summary": "Iran has launched missiles toward Diego Garcia, a US military base in the Indian Ocean, prompting the UK foreign secretary to criticize Iran's actions as reckless escalation. The strike follows weeks of military exchanges between Iran and the US-Israel alliance, with regional tensions intensifying over control of shipping routes and Iran's nuclear facilities.",
+      "headline": "Why did US and Israel attack Iran and how long could the war last?",
+      "summary": "The US and Israel conducted extensive strikes across Iran in response to Iranian missile attacks, with officials stating the strikes targeted military infrastructure while avoiding nuclear facilities and oil assets. Analysts assess that the conflict could escalate further, as Iran retains options for retaliation and regional tensions remain elevated across multiple fronts including Lebanon.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/aftermath-of-israeli-attack-in-southern-lebanon?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation"
+          "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
         }
       ],
       "regions": [
-        "Africa",
         "Australia",
         "France",
         "Germany",
@@ -34,295 +33,235 @@
         "Pakistan",
         "Qatar",
         "South America",
-        "Southeast Asia",
-        "UK"
+        "UK",
+        "US",
+        "West Africa"
       ],
-      "score": 0.8167,
-      "mentions": 61,
+      "score": 0.7,
+      "mentions": 48,
       "diversity": 12
     },
     {
       "rank": 2,
-      "headline": "WHO says attack on Sudan hospital killed 64, including 13 children",
-      "summary": "A strike on a hospital in Sudan killed at least 64 people, including 13 children, with 89 others wounded in the attack. The World Health Organization documented the incident, adding to the mounting toll of civilian casualties from the ongoing conflict in the country.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Qatar",
-        "UK",
-        "US"
-      ],
-      "score": 0.557,
-      "mentions": 7,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-      "summary": "Robert Mueller, who served as FBI director for twelve years and later led a nearly two-year investigation into Russian interference in the 2016 election and potential coordination with the Trump campaign, has died at eighty-one. His investigation resulted in multiple indictments and convictions, though its core question of criminal conspiracy between the campaign and Russia remained unresolved in his final report.",
+      "headline": "France's Socialists hold on to power in major cities in election boost for mainstream",
+      "summary": "Socialist Emmanuel Grégoire wins Paris's mayoral race, consolidating his party's control over France's major urban centers in recent municipal elections. The result signals a setback for the far-right National Rally, which failed to capture the key cities it had targeted ahead of the 2027 presidential contest.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/21/nx-s1-5755800/robert-s-mueller-iii-ex-fbi-director-who-led-2016-russia-inquiry-dead-at-81"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ex-fbi-chief-and-trump-investigator-robert-mueller-dies-at-81/a-76470745?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "France",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "UK",
-        "US"
-      ],
-      "score": 0.4903,
-      "mentions": 7,
-      "diversity": 7
-    },
-    {
-      "rank": 4,
-      "headline": "‘Can’t live like this’: Cuba hit by second nationwide blackout in a week",
-      "summary": "Cuba's electrical infrastructure has collapsed for a second time in a week, leaving the island without power as aging generators and fuel shortages strain an already fragile system. The repeated blackouts disrupt daily life across the country and underscore deepening challenges in maintaining basic services amid economic constraints.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/22/cant-live-like-this-cuba-hit-by-second-nationwide-blackout-in-a-week?traffic_source=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/22/nx-s1-5756288/cubas-power-grid-collapses"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cuba-hit-by-second-island-wide-blackout-in-a-week/a-76471197?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "India",
-        "Qatar",
-        "Southeast Asia",
-        "US"
-      ],
-      "score": 0.4034,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 5,
-      "headline": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
-      "summary": "Italian voters are deciding whether to approve constitutional changes that would give Prime Minister Meloni's government greater control over judicial appointments and reduce the independence of the courts. The outcome will test Meloni's political strength and signal whether Italians support her vision for restructuring the judiciary, which she frames as necessary reform but critics view as a threat to the separation of powers.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/22/italians-vote-in-high-stakes-justice-referendum-in-key-test-for-meloni?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/22/italy-referendum-judiciary-overhaul-giorgia-meloni"
-        }
-      ],
-      "regions": [
-        "Qatar",
-        "UK",
-        "US"
-      ],
-      "score": 0.3882,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "Mayoral races in balance as voting opens in last round of French local elections",
-      "summary": "French voters today cast ballots in runoff elections to determine mayors across thousands of municipalities, with control of major cities like Paris and Marseille hanging in the balance. These local races carry national significance as they shape the political landscape ahead of France's next presidential elections.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/22/france-second-round-local-elections-voting-mayoral-races-paris-marseille"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/french-head-to-the-polls-in-second-round-of-local-elections"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html"
+          "link": "https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win"
         }
       ],
       "regions": [
         "France",
-        "Southeast Asia",
-        "UK",
-        "US"
+        "Germany",
+        "Qatar",
+        "UK"
       ],
-      "score": 0.3289,
-      "mentions": 5,
+      "score": 0.5305,
+      "mentions": 9,
       "diversity": 4
     },
     {
-      "rank": 7,
-      "headline": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
-      "summary": "BTS performs a major comeback concert in Seoul's historic centre, drawing over 100,000 fans to the event. The performance marks a significant return for the K-pop group, which had paused group activities in 2022 to focus on solo projects.",
+      "rank": 3,
+      "headline": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "summary": "Israeli settlers have carried out attacks against Palestinian villages in the occupied West Bank, damaging properties and injuring residents over multiple nights. The incidents occur amid broader tensions between Israeli security operations in Gaza and escalating settler violence in the West Bank.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/k-pop-giants-bts-celebrate-return-with-seoul-concert/a-76469022?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/23/israeli-settlers-rampage-through-west-bank-towns-for-second-night-in-a-row?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/entertainment/music/bts-draws-over-100000-fans-to-seoul-comeback-concert-label/article70771418.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/22/israeli-settlers-carry-out-series-of-west-bank-attacks-as-security-forces-stand-by"
         }
       ],
       "regions": [
+        "France",
         "Germany",
         "India",
+        "Middle East",
+        "Qatar",
         "UK"
       ],
-      "score": 0.3111,
-      "mentions": 3,
-      "diversity": 3
+      "score": 0.4067,
+      "mentions": 7,
+      "diversity": 6
     },
     {
-      "rank": 8,
-      "headline": "Hawaii urges residents to ‘leave now’ amid worst flooding in over 20 years",
-      "summary": "Heavy rainfall across Hawaii triggers the most severe flooding the islands have experienced since the early 2000s, prompting authorities to issue evacuation orders for affected communities. Additional rain remains in the forecast, raising concerns about further damage to infrastructure and homes across the state.",
+      "rank": 4,
+      "headline": "Two killed after Canada Air jet hits fire truck at NYC’s LaGuardia airport",
+      "summary": "An Air Canada jet collided with a fire truck at New York's LaGuardia Airport, killing the pilot and co-pilot who were in the aircraft. The incident has forced a temporary closure of the airport and disrupted flight operations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/21/hawaii-flooding-warnings"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-jet-collides-with-ground-vehicle-at-new-york-airport?traffic_source=rss"
         },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-hawaii-hit-by-historic-flooding-more-rain-coming/a-76466168?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347445/hawaii-suffers-worst-flooding-20-years-more-rain-expected?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "UK"
-      ],
-      "score": 0.3111,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "Trump threatens to send ICE to airports on Monday amid DHS funding standoff",
-      "summary": "Trump has threatened to deploy ICE agents to airports on Monday in response to an ongoing dispute over Department of Homeland Security funding. The move would represent an escalation in negotiations over how to finance federal security operations, including the TSA.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached"
+          "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260321-trump-threatens-to-send-ice-agents-to-airports-amid-tsa-funding-impasse"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347448/trump-threatens-put-ice-agents-airports-amid-tsa-funding-clash?utm_source=rss_feed"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/23/g-s1-114773/new-york-laguardia-jet-collides-with-vehicle"
         }
       ],
       "regions": [
         "Australia",
-        "France",
+        "Germany",
         "Hong Kong",
-        "Southeast Asia",
-        "UK"
+        "India",
+        "Pakistan",
+        "Qatar",
+        "UK",
+        "US"
       ],
-      "score": 0.3101,
-      "mentions": 5,
-      "diversity": 5
+      "score": 0.3713,
+      "mentions": 9,
+      "diversity": 8
     },
     {
-      "rank": 10,
-      "headline": "US jury finds tech tycoon Elon Musk misled Twitter shareholders",
-      "summary": "A US jury has determined that Elon Musk made false statements to Twitter shareholders during his 2022 acquisition of the company for $44 billion. The verdict holds Musk liable for fraud related to his efforts to lower the stock price before completing the takeover.",
+      "rank": 5,
+      "headline": "Ambulance arson attack in London being treated as antisemitic hate crime",
+      "summary": "British police are investigating the deliberate burning of ambulances operated by a Jewish charity in London as a hate crime motivated by antisemitism. The incident marks a concerning escalation in antisemitic incidents in the UK and has drawn attention from senior government officials including the Prime Minister.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
           "name": "France 24",
-          "link": "https://www.france24.com/en/us-jury-finds-tech-tycoon-elon-musk-misled-twitter-shareholders"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1984219/elon-musk-found-liable-to-twitter-shareholders-in-fraud-lawsuit-over-44-billion-takeover"
-        },
-        {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/03/21/elon-musk-misled-shareholders-in-effort-to-drive-down-twitter-stock-price-jury-finds/"
+          "link": "https://www.france24.com/en/europe/20260323-london-police-probe-anti-semitic-arson-attack-after-jewish-charity-ambulances-set-ablaze"
         }
       ],
       "regions": [
-        "Africa",
         "France",
-        "Pakistan"
+        "Germany",
+        "India",
+        "Pakistan",
+        "UK"
       ],
-      "score": 0.1556,
-      "mentions": 3,
-      "diversity": 3
+      "score": 0.2743,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Stocks slide and oil rises as US and Iran threaten to escalate war",
+      "summary": "Equity markets decline globally while crude oil prices climb as military tensions between the US and Iran intensify through competing threats. Investors respond to heightened geopolitical risk by shifting away from stocks toward energy commodities and defensive assets.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/mar/23/stock-markets-donald-trump-iran-gold-oil-prices"
+        }
+      ],
+      "regions": [
+        "Qatar",
+        "UK"
+      ],
+      "score": 0.2333,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Hong Kong police can now demand phone passwords under new national security rules",
+      "summary": "Hong Kong's police gain authority to compel citizens to disclose phone passwords during national security investigations, with refusal to comply now subject to legal penalties. The rule expands law enforcement capabilities in cases classified as threats to national security, raising questions about privacy protections in the territory.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hong-kong-new-rule-forces-people-to-surrender-passwords/a-76482612?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/politics/article/3347556/withholding-device-passwords-punishable-under-tightened-national-security-rules?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.1667,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Slovenia’s liberals and conservatives neck and neck in parliamentary vote",
+      "summary": "Slovenia's governing liberals and right-wing conservatives received nearly equal support in parliamentary elections, with preliminary results showing an extremely close contest. The outcome will likely determine whether Prime Minister Robert Golob's centrist coalition can maintain control or whether conservative parties will gain legislative ground.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/europe/20260323-slovenia-election-too-close-to-call-liberals-conservatives-neck-and-neck"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/slovenia-parliament-election-result-liberals-and-populists-updates/article70774262.ece"
+        }
+      ],
+      "regions": [
+        "Eastern Europe",
+        "France",
+        "India",
+        "Qatar"
+      ],
+      "score": 0.0859,
+      "mentions": 5,
+      "diversity": 4
     }
   ]
 }
