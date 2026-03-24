@@ -1,164 +1,100 @@
 {
-  "published_at": "2026-03-23T11:00:23.804491+00:00",
-  "story_count": 8,
+  "published_at": "2026-03-24T10:59:05.783676+00:00",
+  "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Why did US and Israel attack Iran and how long could the war last?",
-      "summary": "The US and Israel conducted extensive strikes across Iran in response to Iranian missile attacks, with officials stating the strikes targeted military infrastructure while avoiding nuclear facilities and oil assets. Analysts assess that the conflict could escalate further, as Iran retains options for retaliation and regional tensions remain elevated across multiple fronts including Lebanon.",
+      "headline": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+      "summary": "Trump administration officials pursue diplomatic channels toward a potential Iran agreement while maintaining public pressure through statements about deal-making and references to economic leverage. The negotiation efforts occur as regional tensions remain elevated, with both sides exploring whether narrowing terms of engagement could lead to a settlement.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/aftermath-of-israeli-attack-in-southern-lebanon?traffic_source=rss"
+          "link": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
+          "link": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
         }
       ],
       "regions": [
+        "Africa",
+        "Asia-Pacific",
         "Australia",
         "France",
         "Germany",
+        "Global",
         "Hong Kong",
         "India",
         "Middle East",
-        "Pakistan",
         "Qatar",
         "South America",
+        "Southeast Asia",
         "UK",
-        "US",
-        "West Africa"
+        "US"
       ],
-      "score": 0.7,
-      "mentions": 48,
-      "diversity": 12
+      "score": 0.7118,
+      "mentions": 49,
+      "diversity": 14
     },
     {
       "rank": 2,
-      "headline": "France's Socialists hold on to power in major cities in election boost for mainstream",
-      "summary": "Socialist Emmanuel Grégoire wins Paris's mayoral race, consolidating his party's control over France's major urban centers in recent municipal elections. The result signals a setback for the far-right National Rally, which failed to capture the key cities it had targeted ahead of the 2027 presidential contest.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "Qatar",
-        "UK"
-      ],
-      "score": 0.5305,
-      "mentions": 9,
-      "diversity": 4
-    },
-    {
-      "rank": 3,
-      "headline": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-      "summary": "Israeli settlers have carried out attacks against Palestinian villages in the occupied West Bank, damaging properties and injuring residents over multiple nights. The incidents occur amid broader tensions between Israeli security operations in Gaza and escalating settler violence in the West Bank.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/23/israeli-settlers-rampage-through-west-bank-towns-for-second-night-in-a-row?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/22/israeli-settlers-carry-out-series-of-west-bank-attacks-as-security-forces-stand-by"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "India",
-        "Middle East",
-        "Qatar",
-        "UK"
-      ],
-      "score": 0.4067,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "Two killed after Canada Air jet hits fire truck at NYC’s LaGuardia airport",
-      "summary": "An Air Canada jet collided with a fire truck at New York's LaGuardia Airport, killing the pilot and co-pilot who were in the aircraft. The incident has forced a temporary closure of the airport and disrupted flight operations.",
+      "headline": "Polls open in key Denmark elections clouded by Trump’s Greenland threat",
+      "summary": "Voters in Denmark are casting ballots today in an early election partly triggered by Donald Trump's stated interest in acquiring Greenland, a Danish territory. The election underscores how foreign policy pressure is reshaping Denmark's domestic political landscape at a critical moment.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-jet-collides-with-ground-vehicle-at-new-york-airport?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights"
+          "link": "https://www.theguardian.com/world/live/2026/mar/24/denmark-election-mette-frederiksen-europe-latest-news-updates"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/23/g-s1-114773/new-york-laguardia-jet-collides-with-vehicle"
+          "link": "https://www.npr.org/2026/03/24/nx-s1-5757935/denmark-elections-trump-greenland"
         }
       ],
       "regions": [
-        "Australia",
+        "France",
         "Germany",
         "Hong Kong",
-        "India",
-        "Pakistan",
         "Qatar",
         "UK",
         "US"
       ],
-      "score": 0.3713,
-      "mentions": 9,
-      "diversity": 8
+      "score": 0.4812,
+      "mentions": 7,
+      "diversity": 6
     },
     {
-      "rank": 5,
-      "headline": "Ambulance arson attack in London being treated as antisemitic hate crime",
-      "summary": "British police are investigating the deliberate burning of ambulances operated by a Jewish charity in London as a hate crime motivated by antisemitism. The incident marks a concerning escalation in antisemitic incidents in the UK and has drawn attention from senior government officials including the Prime Minister.",
+      "rank": 3,
+      "headline": "At least 66 killed after Colombian military plane crashes in southern Amazon",
+      "summary": "A Colombian military transport plane carrying 121 people crashed in the southern Amazon region, killing at least 66 on board. The aircraft was transporting troops when the incident occurred, making it one of the deadliest aviation disasters in the country's recent history.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb"
+          "link": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/europe/20260323-london-police-probe-anti-semitic-arson-attack-after-jewish-charity-ambulances-set-ablaze"
+          "link": "https://www.dw.com/en/colombia-military-plane-crashes-while-transporting-troops/a-76494785?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
@@ -166,102 +102,230 @@
         "Germany",
         "India",
         "Pakistan",
-        "UK"
+        "South America",
+        "UK",
+        "US"
       ],
-      "score": 0.2743,
-      "mentions": 5,
-      "diversity": 5
+      "score": 0.4232,
+      "mentions": 9,
+      "diversity": 7
     },
     {
-      "rank": 6,
-      "headline": "Stocks slide and oil rises as US and Iran threaten to escalate war",
-      "summary": "Equity markets decline globally while crude oil prices climb as military tensions between the US and Iran intensify through competing threats. Investors respond to heightened geopolitical risk by shifting away from stocks toward energy commodities and defensive assets.",
+      "rank": 4,
+      "headline": "ICE agents deployed to US airports: Which airports are affected?",
+      "summary": "Immigration and Customs Enforcement agents are being stationed at major U.S. airports as part of a deployment by the Trump administration. The increased presence appears to be a preliminary step, with officials suggesting it may expand to other locations during future electoral periods.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/24/ice-agents-deployed-to-us-airports-which-airports-are-affected?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/ice-agents-start-appearing-in-us-airports-amid-shutdown-chaos"
+        }
+      ],
+      "regions": [
+        "France",
+        "Qatar",
+        "UK"
+      ],
+      "score": 0.3912,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 5,
+      "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+      "summary": "Australia and the European Union have finalized a comprehensive trade agreement that eliminates tariffs on most goods and services after eight years of negotiation. The deal expands both regions' economic options at a time when global trade relationships are shifting, and includes provisions strengthening defence cooperation between the two partners.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/australia-and-eu-strike-free-trade-deal/a-76496671?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/mar/23/stock-markets-donald-trump-iran-gold-oil-prices"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/tv-shows/business/20260324-eu-australia-seal-free-trade-deal-eight-years-in-the-making"
         }
       ],
       "regions": [
+        "France",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3836,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Police investigating possible Iran link to attack on Jewish charity ambulances",
+      "summary": "UK police are investigating a possible connection to Iran after ambulances operated by a Jewish charity were set on fire, with an Iranian terror group claiming responsibility for the arson. Investigators are treating the incident as antisemitic motivated while examining the alleged foreign involvement in the attack.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ckg9l87e4wyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Germany",
+        "UK",
+        "US"
+      ],
+      "score": 0.3264,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "North Korea's Kim doubles down on nuclear program, ramps up hostility toward South",
+      "summary": "North Korea's Kim Jong-un has declared the country's nuclear-armed status irreversible and intensified rhetoric against South Korea, describing it as the \"most hostile\" threat while notably avoiding direct criticism of the United States. His statements reflect a strategic consolidation of nuclear capabilities and a willingness to escalate tensions on the Korean peninsula despite international diplomatic efforts.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-s-kim-doubles-down-on-nuclear-program-ramps-up-hostility-toward-south/a-76496706?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/asia-pacific/20260323-north-korea-kim-jong-un-nuclear-armed-status-irreversible"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3347683/north-koreas-kim-slams-us-state-terror-spares-trump-third-term-address?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Asia-Pacific",
+        "France",
+        "Germany",
+        "Hong Kong",
+        "India"
+      ],
+      "score": 0.2847,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Hong Kong grants police power to demand phone and computer passwords",
+      "summary": "Hong Kong's amended national security law now permits police to demand passwords and access codes from suspects' phones and computers without requiring a court warrant. The change expands investigative powers for officers handling cases classified as threats to national security.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/24/hong-kong-grants-police-power-to-demand-phone-and-computer-passwords?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law"
+        },
+        {
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/03/23/hong-kong-introduces-offence-requiring-national-security-suspects-to-hand-over-passwords/"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
         "Qatar",
         "UK"
       ],
       "score": 0.2333,
-      "mentions": 4,
-      "diversity": 2
+      "mentions": 3,
+      "diversity": 3
     },
     {
-      "rank": 7,
-      "headline": "Hong Kong police can now demand phone passwords under new national security rules",
-      "summary": "Hong Kong's police gain authority to compel citizens to disclose phone passwords during national security investigations, with refusal to comply now subject to legal penalties. The rule expands law enforcement capabilities in cases classified as threats to national security, raising questions about privacy protections in the territory.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/hong-kong-new-rule-forces-people-to-surrender-passwords/a-76482612?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/hong-kong/politics/article/3347556/withholding-device-passwords-punishable-under-tightened-national-security-rules?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.1667,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Slovenia’s liberals and conservatives neck and neck in parliamentary vote",
-      "summary": "Slovenia's governing liberals and right-wing conservatives received nearly equal support in parliamentary elections, with preliminary results showing an extremely close contest. The outcome will likely determine whether Prime Minister Robert Golob's centrist coalition can maintain control or whether conservative parties will gain legislative ground.",
+      "rank": 9,
+      "headline": "Israel kills two in Beirut as it intensifies attacks across Lebanon",
+      "summary": "Israeli forces conduct airstrikes across Lebanon, including in southern Beirut and the port city of Tyre, resulting in at least two deaths in the capital. The military operations come as Israel reports capturing Hezbollah fighters and escalates its campaign targeting areas where the militant group maintains a presence.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/24/israel-kills-two-in-beirut-as-it-intensifies-attacks-across-lebanon?traffic_source=rss"
         },
         {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/europe/20260323-slovenia-election-too-close-to-call-liberals-conservatives-neck-and-neck"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3347646/israel-strikes-south-beirut-claims-it-captured-hezbollah-members?utm_source=rss_feed"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/slovenia-parliament-election-result-liberals-and-populists-updates/article70774262.ece"
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-tyre-southern-lebanon"
         }
       ],
       "regions": [
-        "Eastern Europe",
-        "France",
-        "India",
-        "Qatar"
+        "Hong Kong",
+        "Middle East",
+        "Qatar",
+        "Southeast Asia"
       ],
-      "score": 0.0859,
-      "mentions": 5,
+      "score": 0.1514,
+      "mentions": 4,
       "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+      "summary": "A Canadian flight attendant survives after being ejected from an Air Canada jet during an accident near New York, remaining attached to her seat throughout the ordeal. The unusual circumstances of her survival—being thrown from the aircraft yet remaining secured—contributed to her escape from what could have been fatal injuries.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347657/flight-attendants-survival-miracle-after-ejection-air-canada-jet?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/a-total-miracle-flight-attendant-thrown-from-air-canada-plane-survives-strapped-to-seat-20260324-p5tx30.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 0.1167,
+      "mentions": 3,
+      "diversity": 3
     }
   ]
 }
