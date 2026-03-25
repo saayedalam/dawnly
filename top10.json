@@ -1,31 +1,30 @@
 {
-  "published_at": "2026-03-24T10:59:05.783676+00:00",
+  "published_at": "2026-03-25T10:57:06.602208+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-      "summary": "Trump administration officials pursue diplomatic channels toward a potential Iran agreement while maintaining public pressure through statements about deal-making and references to economic leverage. The negotiation efforts occur as regional tensions remain elevated, with both sides exploring whether narrowing terms of engagement could lead to a settlement.",
+      "headline": "Everyday life in Asia being upended by effective closure of the Strait of Hormuz",
+      "summary": "Shipping disruptions through the Strait of Hormuz, a critical passage for global oil and trade, are causing widespread economic strain across Asian markets and supply chains. Tensions between the US and Iran remain unresolved despite diplomatic signals, leaving the shipping corridor's status uncertain and creating ripple effects for businesses and consumers dependent on goods moving through the region.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel?traffic_source=rss"
+          "link": "https://www.aljazeera.com/opinions/2026/3/25/irans-closure-of-the-strait-of-hormuz-is-an-international-crisis?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
+          "link": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
         }
       ],
       "regions": [
         "Africa",
-        "Asia-Pacific",
         "Australia",
         "France",
         "Germany",
@@ -33,297 +32,291 @@
         "Hong Kong",
         "India",
         "Middle East",
+        "Pakistan",
         "Qatar",
         "South America",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.7118,
-      "mentions": 49,
+      "score": 0.6792,
+      "mentions": 45,
       "diversity": 14
     },
     {
       "rank": 2,
-      "headline": "Polls open in key Denmark elections clouded by Trump’s Greenland threat",
-      "summary": "Voters in Denmark are casting ballots today in an early election partly triggered by Donald Trump's stated interest in acquiring Greenland, a Danish territory. The election underscores how foreign policy pressure is reshaping Denmark's domestic political landscape at a critical moment.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/24/denmark-election-mette-frederiksen-europe-latest-news-updates"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/24/nx-s1-5757935/denmark-elections-trump-greenland"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "Hong Kong",
-        "Qatar",
-        "UK",
-        "US"
-      ],
-      "score": 0.4812,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 3,
-      "headline": "At least 66 killed after Colombian military plane crashes in southern Amazon",
-      "summary": "A Colombian military transport plane carrying 121 people crashed in the southern Amazon region, killing at least 66 on board. The aircraft was transporting troops when the incident occurred, making it one of the deadliest aviation disasters in the country's recent history.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/colombia-military-plane-crashes-while-transporting-troops/a-76494785?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "India",
-        "Pakistan",
-        "South America",
-        "UK",
-        "US"
-      ],
-      "score": 0.4232,
-      "mentions": 9,
-      "diversity": 7
-    },
-    {
-      "rank": 4,
-      "headline": "ICE agents deployed to US airports: Which airports are affected?",
-      "summary": "Immigration and Customs Enforcement agents are being stationed at major U.S. airports as part of a deployment by the Trump administration. The increased presence appears to be a preliminary step, with officials suggesting it may expand to other locations during future electoral periods.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/24/ice-agents-deployed-to-us-airports-which-airports-are-affected?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/ice-agents-start-appearing-in-us-airports-amid-shutdown-chaos"
-        }
-      ],
-      "regions": [
-        "France",
-        "Qatar",
-        "UK"
-      ],
-      "score": 0.3912,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 5,
-      "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
-      "summary": "Australia and the European Union have finalized a comprehensive trade agreement that eliminates tariffs on most goods and services after eight years of negotiation. The deal expands both regions' economic options at a time when global trade relationships are shifting, and includes provisions strengthening defence cooperation between the two partners.",
+      "headline": "OpenAI ends Disney partnership as it closes Sora video-making app",
+      "summary": "OpenAI is shutting down Sora, its AI video generation tool, and ending its partnership with Disney as concerns about deepfake misuse intensify across the industry. The closure reflects broader challenges facing generative video platforms in managing risks around synthetic media while maintaining user trust.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/australia-and-eu-strike-free-trade-deal/a-76496671?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/tv-shows/business/20260324-eu-australia-seal-free-trade-deal-eight-years-in-the-making"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "India",
-        "Pakistan",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3836,
-      "mentions": 8,
-      "diversity": 6
-    },
-    {
-      "rank": 6,
-      "headline": "Police investigating possible Iran link to attack on Jewish charity ambulances",
-      "summary": "UK police are investigating a possible connection to Iran after ambulances operated by a Jewish charity were set on fire, with an Iranian terror group claiming responsibility for the arson. Investigators are treating the incident as antisemitic motivated while examining the alleged foreign involvement in the attack.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/ckg9l87e4wyo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns"
         }
       ],
       "regions": [
-        "Australia",
-        "Germany",
+        "Qatar",
         "UK",
         "US"
       ],
-      "score": 0.3264,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "North Korea's Kim doubles down on nuclear program, ramps up hostility toward South",
-      "summary": "North Korea's Kim Jong-un has declared the country's nuclear-armed status irreversible and intensified rhetoric against South Korea, describing it as the \"most hostile\" threat while notably avoiding direct criticism of the United States. His statements reflect a strategic consolidation of nuclear capabilities and a willingness to escalate tensions on the Korean peninsula despite international diplomatic efforts.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/north-korea-s-kim-doubles-down-on-nuclear-program-ramps-up-hostility-toward-south/a-76496706?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/asia-pacific/20260323-north-korea-kim-jong-un-nuclear-armed-status-irreversible"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/politics/article/3347683/north-koreas-kim-slams-us-state-terror-spares-trump-third-term-address?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Asia-Pacific",
-        "France",
-        "Germany",
-        "Hong Kong",
-        "India"
-      ],
-      "score": 0.2847,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 8,
-      "headline": "Hong Kong grants police power to demand phone and computer passwords",
-      "summary": "Hong Kong's amended national security law now permits police to demand passwords and access codes from suspects' phones and computers without requiring a court warrant. The change expands investigative powers for officers handling cases classified as threats to national security.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/24/hong-kong-grants-police-power-to-demand-phone-and-computer-passwords?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law"
-        },
-        {
-          "name": "Hong Kong Free Press",
-          "link": "https://hongkongfp.com/2026/03/23/hong-kong-introduces-offence-requiring-national-security-suspects-to-hand-over-passwords/"
-        }
-      ],
-      "regions": [
-        "Hong Kong",
-        "Qatar",
-        "UK"
-      ],
-      "score": 0.2333,
+      "score": 0.35,
       "mentions": 3,
       "diversity": 3
     },
     {
-      "rank": 9,
-      "headline": "Israel kills two in Beirut as it intensifies attacks across Lebanon",
-      "summary": "Israeli forces conduct airstrikes across Lebanon, including in southern Beirut and the port city of Tyre, resulting in at least two deaths in the capital. The military operations come as Israel reports capturing Hezbollah fighters and escalates its campaign targeting areas where the militant group maintains a presence.",
+      "rank": 3,
+      "headline": "US jury orders Meta to pay $375m for endangering children",
+      "summary": "A US jury has ordered Meta to pay $375 million after finding the company's platforms enabled child exploitation and endangerment. The verdict reflects growing legal accountability for social media companies' role in protecting minors from predatory behavior and harmful content.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/24/israel-kills-two-in-beirut-as-it-intensifies-attacks-across-lebanon?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3347646/israel-strikes-south-beirut-claims-it-captured-hezbollah-members?utm_source=rss_feed"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/meta-hit-with-375-million-fine-in-child-exploitation-case/a-76515470?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-tyre-southern-lebanon"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/americas/20260324-meta-ordered-to-pay-375-million-over-child-exploitation-in-landmark-verdict"
         }
       ],
       "regions": [
-        "Hong Kong",
-        "Middle East",
-        "Qatar",
-        "Southeast Asia"
+        "France",
+        "Germany",
+        "Qatar"
       ],
-      "score": 0.1514,
-      "mentions": 4,
-      "diversity": 4
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 3
     },
     {
-      "rank": 10,
-      "headline": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
-      "summary": "A Canadian flight attendant survives after being ejected from an Air Canada jet during an accident near New York, remaining attached to her seat throughout the ordeal. The unusual circumstances of her survival—being thrown from the aircraft yet remaining secured—contributed to her escape from what could have been fatal injuries.",
+      "rank": 4,
+      "headline": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+      "summary": "Denmark's left-wing bloc, led by Prime Minister Mette Frederiksen, wins the most votes in the election but falls short of a parliamentary majority, marking the party's weakest performance since 1903. Frederiksen must now negotiate with other parties to form a governing coalition, a process that determines whether she retains the premiership.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia"
+          "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/danish-pm-s-left-wing-bloc-wins-vote-but-with-no-majority/a-76498223?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "regions": [
+        "France",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "UK"
+      ],
+      "score": 0.3313,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Lebanon's humanitarian crisis worsens as fighting continues",
+      "summary": "Intensifying Israeli military operations in southern Lebanon are displacing civilians and destroying infrastructure, compounding existing shortages of food, medicine, and shelter across the country. Israel's stated plan to occupy portions of southern Lebanon signals an expansion of the conflict that is expected to deepen humanitarian needs in the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/lebanon-s-humanitarian-crisis-worsens-as-fighting-continues/a-76512884?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/the-humanitarian-crisis-here-is-worsening-by-the-minute-israel-continues-to-bomb-lebanon"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3347657/flight-attendants-survival-miracle-after-ejection-air-canada-jet?utm_source=rss_feed"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/north-america/a-total-miracle-flight-attendant-thrown-from-air-canada-plane-survives-strapped-to-seat-20260324-p5tx30.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3347801/israels-military-occupy-swathe-southern-lebanon-amid-widening-war?utm_source=rss_feed"
         }
       ],
       "regions": [
         "Australia",
+        "France",
+        "Germany",
         "Hong Kong",
-        "UK"
+        "India",
+        "Middle East",
+        "Southeast Asia"
       ],
-      "score": 0.1167,
+      "score": 0.2698,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+      "summary": "Democrat Emily Gregory won a special election for a Florida state house seat representing the district that includes Donald Trump's Mar-a-Lago residence in Palm Beach. The victory flips the seat back to Democratic control and reflects shifting political dynamics in a traditionally Republican area of South Florida.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/24/democrats-flip-florida-seat-emily-gregory-mar-a-lago"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/americas/20260325-democrats-projected-to-win-back-florida-district-home-to-trump-mar-a-lago"
+        }
+      ],
+      "regions": [
+        "France",
+        "UK",
+        "US"
+      ],
+      "score": 0.2388,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "First female Archbishop of Canterbury to be enthroned",
+      "summary": "Sarah Mullally, a former cancer nurse, becomes the first woman to lead the Church of England as Archbishop of Canterbury following her enthronement. Her appointment marks a significant shift in the Anglican Church's leadership structure and reflects evolving attitudes toward women in senior religious roles.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c20356v74k7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "France 24",
+          "link": "https://www.france24.com/en/europe/20260325-former-cancer-nurse-sarah-mullally-to-be-enthroned-as-first-woman-to-lead-church-of-england"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html"
+        }
+      ],
+      "regions": [
+        "France",
+        "UK",
+        "US"
+      ],
+      "score": 0.1944,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Two men arrested over Jewish charity ambulance arson attacks",
+      "summary": "Two men face arrest following arson attacks on ambulances operated by a Jewish charity, an incident that targets essential emergency medical services. The attacks raise concerns about threats to community institutions and the safety of assets serving vulnerable populations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/mar/25/two-arrested-in-connection-with-london-ambulance-arson-police-say"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "UK",
+        "US"
+      ],
+      "score": 0.1592,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Japan says Chinese Embassy break-in 'regrettable'",
+      "summary": "A Japanese military officer was arrested after entering the Chinese Embassy in Tokyo without authorization. Japanese officials have characterized the incident as regrettable while the diplomatic situation between the two countries remains tense over the unauthorized access.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/japan-says-chinese-embassy-break-in-regrettable/a-76516918?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3347833/senior-japanese-minister-expresses-regret-over-army-officers-arrest-chinese-embassy?utm_source=rss_feed"
+        },
+        {
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/03/25/japan-calls-chinese-embassy-break-in-regrettable/"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia"
+      ],
+      "score": 0.0425,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Trump says Iran gave the US a 'very big present' but gives no detail",
+      "summary": "Trump claims Iran provided an unspecified benefit to the United States but declines to explain what he means. The vague statement leaves unclear whether he refers to a diplomatic development, intelligence gain, or another matter entirely.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/videos/cm29l8y8n44o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/donald-trump-says-iran-gave-the-us-a-gift-20260325-p5xdko.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "UK",
+        "US"
+      ],
+      "score": 0.0389,
       "mentions": 3,
       "diversity": 3
     }
