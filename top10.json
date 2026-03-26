@@ -1,30 +1,29 @@
 {
-  "published_at": "2026-03-25T10:57:06.602208+00:00",
+  "published_at": "2026-03-26T11:00:53.012644+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Everyday life in Asia being upended by effective closure of the Strait of Hormuz",
-      "summary": "Shipping disruptions through the Strait of Hormuz, a critical passage for global oil and trade, are causing widespread economic strain across Asian markets and supply chains. Tensions between the US and Iran remain unresolved despite diplomatic signals, leaving the shipping corridor's status uncertain and creating ripple effects for businesses and consumers dependent on goods moving through the region.",
+      "headline": "The US-Iran Briefing Wars",
+      "summary": "The US, Israel, and Iran are engaged in competing military strikes and diplomatic messaging, with each side framing events differently to justify its actions and shape international perception. Domestic support in Israel remains strong despite declining global backing, while Iran conditions any ceasefire on its own terms rather than accepting external proposals.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6h180?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/opinions/2026/3/25/irans-closure-of-the-strait-of-hormuz-is-an-international-crisis?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
+          "link": "https://www.theguardian.com/world/2026/mar/26/thursday-briefing-why-most-israelis-back-the-conflict-with-iran-even-as-international-support-wanes"
         }
       ],
       "regions": [
-        "Africa",
         "Australia",
         "France",
         "Germany",
@@ -35,288 +34,288 @@
         "Pakistan",
         "Qatar",
         "South America",
-        "Southeast Asia",
         "UK",
-        "US"
+        "US",
+        "West Africa"
       ],
-      "score": 0.6792,
-      "mentions": 45,
-      "diversity": 14
+      "score": 0.8323,
+      "mentions": 31,
+      "diversity": 13
     },
     {
       "rank": 2,
-      "headline": "OpenAI ends Disney partnership as it closes Sora video-making app",
-      "summary": "OpenAI is shutting down Sora, its AI video generation tool, and ending its partnership with Disney as concerns about deepfake misuse intensify across the industry. The closure reflects broader challenges facing generative video platforms in managing risks around synthetic media while maintaining user trust.",
+      "headline": "UN votes to describe slave trade as ‘gravest crime against humanity’",
+      "summary": "The United Nations has formally classified the Atlantic slave trade as the gravest crime against humanity, establishing an official international designation for centuries of forced labor that displaced millions of Africans. The resolution signals momentum toward broader discussions about reparations and acknowledgment of the trade's enduring economic and social consequences.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns"
+          "link": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "Qatar",
+        "Africa",
+        "France",
+        "Germany",
+        "Hong Kong",
         "UK",
         "US"
       ],
-      "score": 0.35,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 3,
-      "headline": "US jury orders Meta to pay $375m for endangering children",
-      "summary": "A US jury has ordered Meta to pay $375 million after finding the company's platforms enabled child exploitation and endangerment. The verdict reflects growing legal accountability for social media companies' role in protecting minors from predatory behavior and harmful content.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/meta-hit-with-375-million-fine-in-child-exploitation-case/a-76515470?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260324-meta-ordered-to-pay-375-million-over-child-exploitation-in-landmark-verdict"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "Qatar"
-      ],
-      "score": 0.35,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 4,
-      "headline": "Danish PM fails to secure majority in party's weakest election showing since 1903",
-      "summary": "Denmark's left-wing bloc, led by Prime Minister Mette Frederiksen, wins the most votes in the election but falls short of a parliamentary majority, marking the party's weakest performance since 1903. Frederiksen must now negotiate with other parties to form a governing coalition, a process that determines whether she retains the premiership.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/danish-pm-s-left-wing-bloc-wins-vote-but-with-no-majority/a-76498223?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "France",
-        "Germany",
-        "Global",
-        "Hong Kong",
-        "India",
-        "UK"
-      ],
-      "score": 0.3313,
-      "mentions": 12,
+      "score": 0.5596,
+      "mentions": 6,
       "diversity": 6
     },
     {
-      "rank": 5,
-      "headline": "Lebanon's humanitarian crisis worsens as fighting continues",
-      "summary": "Intensifying Israeli military operations in southern Lebanon are displacing civilians and destroying infrastructure, compounding existing shortages of food, medicine, and shelter across the country. Israel's stated plan to occupy portions of southern Lebanon signals an expansion of the conflict that is expected to deepen humanitarian needs in the region.",
+      "rank": 3,
+      "headline": "Meta, YouTube found liable in US social media addiction case",
+      "summary": "A US jury has determined that Meta and YouTube engaged in practices that addict young users to their platforms, marking a significant legal finding in cases addressing social media's effects on children. The ruling establishes corporate liability for designing features intended to maximize user engagement, potentially opening the door to further legal action against tech companies.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/lebanon-s-humanitarian-crisis-worsens-as-fighting-continues/a-76512884?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/meta-youtube-found-liable-in-us-social-media-addiction-case/a-76532878?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "France 24",
-          "link": "https://www.france24.com/en/the-humanitarian-crisis-here-is-worsening-by-the-minute-israel-continues-to-bomb-lebanon"
+          "link": "https://www.france24.com/en/video/20260326-meta-google-lose-us-case-over-social-media-harm-to-kids"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3347801/israels-military-occupy-swathe-southern-lebanon-amid-widening-war?utm_source=rss_feed"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/technology/jury-finds-meta-and-google-liable-in-social-media-addiction-trial/article70785464.ece"
         }
       ],
       "regions": [
         "Australia",
         "France",
         "Germany",
-        "Hong Kong",
+        "Global",
         "India",
-        "Middle East",
         "Southeast Asia"
       ],
-      "score": 0.2698,
-      "mentions": 9,
-      "diversity": 7
+      "score": 0.4339,
+      "mentions": 8,
+      "diversity": 6
     },
     {
-      "rank": 6,
-      "headline": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
-      "summary": "Democrat Emily Gregory won a special election for a Florida state house seat representing the district that includes Donald Trump's Mar-a-Lago residence in Palm Beach. The victory flips the seat back to Democratic control and reflects shifting political dynamics in a traditionally Republican area of South Florida.",
+      "rank": 4,
+      "headline": "Dozens dead in Bangladesh as passenger bus plunges into Padma River",
+      "summary": "A passenger bus carrying dozens of people plunged into the Padma River in Bangladesh, killing at least 24 people with search efforts continuing for additional victims. The incident highlights ongoing safety concerns around transportation infrastructure and vehicle operation in the region, where such accidents occur with some regularity.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/26/dozens-dead-in-bangladesh-as-passenger-bus-plunges-into-padma-river?traffic_source=rss"
         },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bangladesh-several-killed-after-bus-plunges-into-river/a-76536152?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3348011/bangladesh-recovers-24-bodies-after-bus-plunges-river?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Qatar"
+      ],
+      "score": 0.3864,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war",
+      "summary": "Trump has postponed his visit to China to meet with Xi Jinping, now scheduling it for May as regional tensions from the Iran conflict create immediate diplomatic uncertainties. The delay reflects concerns that economic disruption from the escalating situation could complicate high-stakes trade and geopolitical discussions between the two leaders.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/24/democrats-flip-florida-seat-emily-gregory-mar-a-lago"
+          "link": "https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may"
         },
         {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3347988/trump-sets-new-china-visit-date-iran-war-stokes-economic-risks?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-to-visit-china-in-may-after-rescheduling-trip-due-to-iran-war/article70786791.ece"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 0.3196,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Middle East war live: Israel killed IRGC naval commander in strike, defence minister says",
+      "summary": "Israel's defence minister states that an Israeli strike has killed a commander of Iran's Islamic Revolutionary Guard Corps Navy. The claim remains unconfirmed by independent sources, though Israeli media outlets have reported the allegation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
           "name": "France 24",
-          "link": "https://www.france24.com/en/americas/20260325-democrats-projected-to-win-back-florida-district-home-to-trump-mar-a-lago"
+          "link": "https://www.france24.com/en/middle-east/20260326-live-israel-carries-out-fresh-wave-of-strikes-across-iran"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israel-defence-minister-says-iran-guards-navy-commander-killed-in-strike/article70787839.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-claim-irgc-naval-commander-killed"
         }
       ],
       "regions": [
         "France",
-        "UK",
-        "US"
+        "India",
+        "Middle East"
       ],
-      "score": 0.2388,
-      "mentions": 5,
+      "score": 0.2561,
+      "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 7,
-      "headline": "First female Archbishop of Canterbury to be enthroned",
-      "summary": "Sarah Mullally, a former cancer nurse, becomes the first woman to lead the Church of England as Archbishop of Canterbury following her enthronement. Her appointment marks a significant shift in the Anglican Church's leadership structure and reflects evolving attitudes toward women in senior religious roles.",
+      "headline": "Belarus's Lukashenko greeted by Kim Jong Un on first visit to North Korea",
+      "summary": "Belarusian President Alexander Lukashenko arrives in North Korea for his first visit, where Kim Jong Un personally receives him as a diplomatic gesture. The two nations sign a friendship treaty during the visit, marking a formal deepening of ties between the isolated regimes.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c20356v74k7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "France 24",
-          "link": "https://www.france24.com/en/europe/20260325-former-cancer-nurse-sarah-mullally-to-be-enthroned-as-first-woman-to-lead-church-of-england"
+          "link": "https://www.france24.com/en/asia-pacific/20260325-lukashenko-greeted-by-kim-jong-un-on-first-visit-to-north-korea"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3347922/lukashenko-greeted-kim-jong-un-belarus-leaders-first-visit-north-korea?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit/article70787249.ece"
         }
       ],
       "regions": [
         "France",
-        "UK",
-        "US"
+        "Hong Kong",
+        "India"
       ],
-      "score": 0.1944,
+      "score": 0.2561,
       "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 8,
-      "headline": "Two men arrested over Jewish charity ambulance arson attacks",
-      "summary": "Two men face arrest following arson attacks on ambulances operated by a Jewish charity, an incident that targets essential emergency medical services. The attacks raise concerns about threats to community institutions and the safety of assets serving vulnerable populations.",
+      "headline": "Turkey-operated tanker carrying Russian oil struck by naval drone in Black Sea",
+      "summary": "A drone strike has damaged a Turkish-operated tanker transporting Russian oil in the Black Sea, marking another attack on energy infrastructure in the region. The incident reflects the broader pattern of maritime disruptions related to Russia's invasion of Ukraine, which has increasingly targeted vessels involved in Russian oil exports.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&at_campaign=rss"
+          "name": "France 24",
+          "link": "https://www.france24.com/en/europe/20260326-turkey-operated-tanker-carrying-russian-oil-struck-by-naval-drone-in-black-sea"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/mar/25/two-arrested-in-connection-with-london-ambulance-arson-police-say"
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-targets-turkish-owned-crude-oil-tanker-black-sea"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html"
+          "name": "The Moscow Times",
+          "link": "https://www.themoscowtimes.com/2026/03/26/drone-hits-turkish-tanker-carrying-russian-oil-in-black-sea-a92343"
         }
       ],
       "regions": [
-        "Hong Kong",
-        "UK",
-        "US"
+        "France",
+        "Middle East",
+        "Russia"
       ],
-      "score": 0.1592,
-      "mentions": 4,
+      "score": 0.1394,
+      "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 9,
-      "headline": "Japan says Chinese Embassy break-in 'regrettable'",
-      "summary": "A Japanese military officer was arrested after entering the Chinese Embassy in Tokyo without authorization. Japanese officials have characterized the incident as regrettable while the diplomatic situation between the two countries remains tense over the unauthorized access.",
+      "headline": "Taiwanese court jails former Taipei mayor Ko Wen-je for 17 years for corruption",
+      "summary": "Ko Wen-je, a prominent former Taipei mayor and presidential candidate, receives a 17-year prison sentence for corruption related to illegal campaign financing and abuse of power during his mayoral tenure. The conviction marks a significant moment in Taiwan's governance, as Ko had positioned himself as an anti-corruption reformer before his political rise.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/japan-says-chinese-embassy-break-in-regrettable/a-76516918?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3347833/senior-japanese-minister-expresses-regret-over-army-officers-arrest-chinese-embassy?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/china/politics/article/3348010/taiwanese-court-jails-former-taipei-mayor-ko-wen-je-17-years-corruption?utm_source=rss_feed"
         },
         {
           "name": "Hong Kong Free Press",
-          "link": "https://hongkongfp.com/2026/03/25/japan-calls-chinese-embassy-break-in-regrettable/"
+          "link": "https://hongkongfp.com/2026/03/26/ex-taipei-mayor-jailed-17-years-for-graft/"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/east-asia/ex-taipei-mayor-corruption-jail-17-years-ko-wen-je-tpp-6018496"
         }
       ],
       "regions": [
-        "Germany",
         "Hong Kong",
         "Southeast Asia"
       ],
-      "score": 0.0425,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.1167,
+      "mentions": 3,
+      "diversity": 2
     },
     {
       "rank": 10,
-      "headline": "Trump says Iran gave the US a 'very big present' but gives no detail",
-      "summary": "Trump claims Iran provided an unspecified benefit to the United States but declines to explain what he means. The vague statement leaves unclear whether he refers to a diplomatic development, intelligence gain, or another matter entirely.",
+      "headline": "Pakistan steps in as Iran mediator while India watches from the wings",
+      "summary": "Pakistan leverages its diplomatic relationships with both the United States and Iran to mediate tensions between the two countries as regional conflict escalates. India maintains a cautious distance from these negotiations while the outcome could reshape geopolitical dynamics across South Asia and the Middle East.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/cm29l8y8n44o?at_medium=RSS&at_campaign=rss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3347999/pakistan-steps-iran-mediator-while-india-watches-wings?utm_source=rss_feed"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html"
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1985481/pakistan-navigates-shifting-us-iran-dynamics-amid-ongoing-war"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/donald-trump-says-iran-gave-the-us-a-gift-20260325-p5xdko.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/03/25/pakistan-iran-war-peace-broker-mediator-trump/"
         }
       ],
       "regions": [
-        "Australia",
-        "UK",
-        "US"
+        "Global",
+        "Hong Kong",
+        "Pakistan"
       ],
-      "score": 0.0389,
+      "score": 0.0227,
       "mentions": 3,
       "diversity": 3
     }
