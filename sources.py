@@ -23,7 +23,6 @@ SOURCES = [
         "weight": 1.0,
         "region": "UK",
     },
-
     {
         "name": "Al Jazeera English",
         "url": "https://www.aljazeera.com/xml/rss/all.xml",
@@ -135,18 +134,11 @@ SOURCES = [
         "region": "Australia",
     },
     {
-        "name": "Toronto Star",
-        "url": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss",
+        "name": "CBC News",
+        "url": "https://www.cbc.ca/cmlink/rss-topstories",
         "tier": "regional",
         "weight": 0.7,
         "region": "Canada",
-    },
-    {
-        "name": "African Arguments",
-        "url": "https://africanarguments.org/feed",
-        "tier": "regional",
-        "weight": 0.7,
-        "region": "Africa",
     },
     {
         "name": "Africanews",
@@ -154,6 +146,13 @@ SOURCES = [
         "tier": "regional",
         "weight": 0.7,
         "region": "Africa",
+    },
+    {
+        "name": "Nation Africa",
+        "url": "https://nation.africa/kenya/rss.xml",
+        "tier": "regional",
+        "weight": 0.7,
+        "region": "East Africa",
     },
     {
         "name": "Channel NewsAsia",
@@ -169,6 +168,13 @@ SOURCES = [
         "weight": 0.7,
         "region": "South America",
     },
+    {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/news-archive/feed/",
+        "tier": "regional",
+        "weight": 0.7,
+        "region": "Ukraine",
+    },
 
     # -------------------------------------------------------------------------
     # NICHE TIER — weight: 0.4
@@ -177,13 +183,6 @@ SOURCES = [
     {
         "name": "ProPublica",
         "url": "https://feeds.propublica.org/propublica/main",
-        "tier": "niche",
-        "weight": 0.4,
-        "region": "US",
-    },
-    {
-        "name": "Politico",
-        "url": "https://rss.politico.com/politics-news.xml",
         "tier": "niche",
         "weight": 0.4,
         "region": "US",
@@ -264,6 +263,48 @@ SOURCES = [
         "tier": "niche",
         "weight": 0.4,
         "region": "Brazil",
+    },
+    {
+        "name": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/dmrss/",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "South Africa",
+    },
+    {
+        "name": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "North Africa",
+    },
+    {
+        "name": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "Mexico",
+    },
+    {
+        "name": "Eurasianet",
+        "url": "https://eurasianet.org/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "Central Asia",
+    },
+    {
+        "name": "Emerging Europe",
+        "url": "https://emerging-europe.com/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "Eastern Europe",
+    },
+    {
+        "name": "Coconuts Media",
+        "url": "https://coconuts.co/feed",
+        "tier": "niche",
+        "weight": 0.4,
+        "region": "Southeast Asia",
     },
 
 ]
