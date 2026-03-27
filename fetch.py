@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 # Config
 # -------------------------------------------------------------------------
 
-MAX_ARTICLES_PER_SOURCE = 50        # cap per source feed
+MAX_ARTICLES_PER_SOURCE = 50        # default cap per source — overridable via source["max_articles"]
 MAX_ARTICLE_AGE_HOURS   = 24        # discard articles older than this (24hr lookback from run time)
 MAX_RETRIES             = 3         # retry attempts per feed
 RETRY_BACKOFF_SECONDS   = 2         # base delay — doubles each retry
@@ -106,20 +106,39 @@ async def fetch_source(
     '''
     Fetch and parse a single RSS source asynchronously.
     Retries up to MAX_RETRIES times with exponential backoff.
+
+    Respects three optional per-source overrides from sources.py:
+      max_articles        : fetch cap for this source (default: MAX_ARTICLES_PER_SOURCE)
+      user_agent_override : custom User-Agent header (default: pipeline UA)
+      fallback_url        : secondary URL tried once if all primary attempts fail
+
     Returns (articles, undated_count) — articles is a list of clean article
     dicts, undated_count is how many accepted articles had no publish date.
     '''
-    name   = source["name"]
-    url    = source["url"]
-    weight = source["weight"]
-    tier   = source["tier"]
-    region = source["region"]
+    name         = source["name"]
+    url          = source["url"]
+    weight       = source["weight"]
+    tier         = source["tier"]
+    region       = source["region"]
 
-    async with semaphore:
+    # --- Change 1: per-source article cap ---
+    article_cap  = source.get("max_articles", MAX_ARTICLES_PER_SOURCE)
+
+    # --- Change 2: per-source User-Agent override ---
+    ua_override  = source.get("user_agent_override")
+    headers      = {**HEADERS, "User-Agent": ua_override} if ua_override else HEADERS
+
+    fallback_url = source.get("fallback_url")
+
+    async def _attempt_fetch(fetch_url: str) -> tuple[list[dict], int] | None:
+        '''
+        Try fetching fetch_url up to MAX_RETRIES times.
+        Returns (articles, undated_count) on success, None on total failure.
+        '''
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 timeout = aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_SECONDS)
-                async with session.get(url, headers=HEADERS, timeout=timeout) as response:
+                async with session.get(fetch_url, headers=headers, timeout=timeout) as response:
                     if response.status != 200:
                         raise aiohttp.ClientResponseError(
                             response.request_info,
@@ -132,15 +151,15 @@ async def fetch_source(
                 articles      = []
                 undated_count = 0
 
-                for entry in feed.entries[:MAX_ARTICLES_PER_SOURCE]:
+                for entry in feed.entries[:article_cap]:
                     title = strip_html(getattr(entry, "title", "") or "")
                     link  = (getattr(entry, "link",  "") or "").strip()
 
                     if not title or not link:
                         continue
 
-                    published             = parse_date(entry)
-                    recent, is_undated    = is_recent(published)
+                    published          = parse_date(entry)
+                    recent, is_undated = is_recent(published)
 
                     if not recent:
                         continue
@@ -159,8 +178,6 @@ async def fetch_source(
                         "source_region": region,
                     })
 
-                undated_note = f"  ({undated_count} undated)" if undated_count else ""
-                logger.info(f"  ✓ {name:<35} {len(articles):>3} articles{undated_note}")
                 return articles, undated_count
 
             except Exception as e:
@@ -172,10 +189,28 @@ async def fetch_source(
                     )
                     await asyncio.sleep(wait)
                 else:
-                    logger.error(f"  ✗ {name} — all {MAX_RETRIES} attempts failed: {e}")
-                    return [], 0
+                    logger.warning(
+                        f"  ✗ {name} — all {MAX_RETRIES} attempts failed on "
+                        f"{fetch_url}: {e}"
+                    )
+                    return None
 
-    return [], 0
+    async with semaphore:
+        result = await _attempt_fetch(url)
+
+        # --- Change 3: fallback URL on primary failure ---
+        if result is None and fallback_url:
+            logger.info(f"  ↷ {name} — trying fallback URL")
+            result = await _attempt_fetch(fallback_url)
+
+        if result is None:
+            logger.error(f"  ✗ {name} — all attempts failed (primary + fallback)")
+            return [], 0
+
+        articles, undated_count = result
+        undated_note = f"  ({undated_count} undated)" if undated_count else ""
+        logger.info(f"  ✓ {name:<35} {len(articles):>3} articles{undated_note}")
+        return articles, undated_count
 
 
 # -------------------------------------------------------------------------
@@ -220,13 +255,13 @@ async def fetch_all_async(
       - A per-source health list: one dict per source with fetch results.
 
     Health dict fields per source:
-      name          : source name
-      tier          : source tier
-      region        : source region
+      name             : source name
+      tier             : source tier
+      region           : source region
       articles_fetched : count of articles within the 24h window
-      undated_count : articles accepted with no publish date
-      status        : "ok" | "empty" | "error"
-      error         : error message string or None
+      undated_count    : articles accepted with no publish date
+      status           : "ok" | "empty" | "error"
+      error            : error message string or None
     '''
     semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
@@ -249,11 +284,7 @@ async def fetch_all_async(
     source_health: list[dict] = []
     for source, (articles, undated_count) in zip(sorted_sources, results):
         fetched = len(articles)
-        # fetch_source returns [] on error; distinguish empty feed from fetch error
-        # by checking whether logger recorded an error — we use fetched count only
         if fetched == 0 and undated_count == 0:
-            # Could be a real empty feed or a fetch error; treat as error
-            # (fetch_source already logged the error message)
             status = "error"
         elif fetched == 0:
             status = "empty"
