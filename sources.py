@@ -64,7 +64,7 @@ SOURCES = [
     },
     {
         "name":      "France 24",
-        "url":       "https://www.france24.com/en/world/rss",
+        "url":       "https://www.france24.com/en/rss",
         "tier":      "global",
         "weight":    1.0,
         "region":    "France",
@@ -159,13 +159,13 @@ SOURCES = [
         "continent": "Oceania",
     },
     {
-        "name":         "CBC News",
-        "url":          "https://www.cbc.ca/cmlink/rss-topstories",
+        "name":         "The Globe and Mail",
+        "url":          "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/",
         "tier":         "regional",
         "weight":       0.7,
         "region":       "Canada",
         "continent":    "North America",
-        "fallback_url": "https://www.cbc.ca/cmlink/rss-world",
+        "fallback_url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/",
     },
     {
         "name":      "Africanews",
@@ -200,13 +200,13 @@ SOURCES = [
         "continent": "South America",
     },
     {
-        "name":         "Kyiv Independent",
-        "url":          "https://kyivindependent.com/news-archive/feed/",
+        "name":         "Kyiv Post",
+        "url":          "https://www.kyivpost.com/feed",
         "tier":         "regional",
         "weight":       0.7,
         "region":       "Ukraine",
         "continent":    "Europe",
-        "fallback_url": "https://kyivindependent.com/feed/",
+        "fallback_url": "https://www.kyivpost.com/ukraine/feed",
     },
 
     # -------------------------------------------------------------------------
@@ -334,12 +334,12 @@ SOURCES = [
         "continent": "North America",
     },
     {
-        "name":      "Eurasianet",
-        "url":       "https://eurasianet.org/feed",
+        "name":      "Radio Free Europe",
+        "url":       "https://www.rferl.org/api/epiqq",
         "tier":      "niche",
         "weight":    0.4,
-        "region":    "Central Asia",
-        "continent": "South Asia",
+        "region":    "Central Asia & Eastern Europe",
+        "continent": "Europe",
     },
     {
         "name":      "Emerging Europe",
