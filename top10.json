@@ -1,322 +1,319 @@
 {
-  "published_at": "2026-03-26T11:00:53.012644+00:00",
-  "story_count": 10,
+  "published_at": "2026-03-27T10:56:57.196018+00:00",
+  "story_count": 9,
   "stories": [
     {
       "rank": 1,
-      "headline": "The US-Iran Briefing Wars",
-      "summary": "The US, Israel, and Iran are engaged in competing military strikes and diplomatic messaging, with each side framing events differently to justify its actions and shape international perception. Domestic support in Israel remains strong despite declining global backing, while Iran conditions any ceasefire on its own terms rather than accepting external proposals.",
+      "headline": "Tensions with Iran create global economic and diplomatic ripples",
+      "summary": "The Strait of Hormuz serves as a critical chokepoint through which roughly one-fifth of global oil passes, making control or disruption of this waterway a central leverage point in regional tensions. Uncertainty over access to the strait has already affected energy markets and prompted diplomatic negotiations, including recent deadline extensions as various parties seek to influence Iran's behavior toward opening or securing the passage.",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Why the Strait of Hormuz matters so much in the Iran war",
+          "summary": "The Strait of Hormuz serves as a critical chokepoint through which roughly one-fifth of global oil passes, making control or disruption of this waterway a central leverage point in regional tensions. Uncertainty over access to the strait has already affected energy markets and prompted diplomatic negotiations, including recent deadline extensions as various parties seek to influence Iran's behavior toward opening or securing the passage."
+        },
+        {
+          "headline": "War on Iran price crisis not just about energy, says analyst",
+          "summary": "Trump has extended a pause on strikes targeting Iran's energy infrastructure, signaling a potential diplomatic opening as U.S.-Iran talks are set to occur soon. Analysts suggest the broader economic impact extends beyond energy markets to include currency fluctuations, supply chain disruptions, and regional financial stability concerns."
+        },
+        {
+          "headline": "Rubio heads to Europe to try garner support for Iran war",
+          "summary": "Secretary of State Rubio is traveling to Europe to discuss potential military action against Iran with Group of Seven allies, particularly focusing on security concerns in the Strait of Hormuz. The diplomatic visit follows recent U.S. criticism of NATO members and occurs as European partners express skepticism about broader regional escalation."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/26/donald-trump-urges-iran-end-war-or-face-assassinations"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Qatar",
+        "South Africa",
+        "South America",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7455,
+      "mentions": 46,
+      "diversity": 17
+    },
+    {
+      "rank": 2,
+      "headline": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "summary": "Two vessels carrying humanitarian supplies departed Mexico for Cuba but lost contact with authorities, prompting Mexico's navy to initiate search operations. The disappearance raises questions about maritime safety in the region and the delivery of aid to the island nation.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0n6h180?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/mexico-launches-search-for-two-missing-aid-boats-bound-for-cuba?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/26/thursday-briefing-why-most-israelis-back-the-conflict-with-iran-even-as-international-support-wanes"
+          "link": "https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing"
         }
       ],
       "regions": [
-        "Australia",
-        "France",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
-        "Middle East",
-        "Pakistan",
         "Qatar",
-        "South America",
-        "UK",
-        "US",
-        "West Africa"
+        "UK"
       ],
-      "score": 0.8323,
-      "mentions": 31,
-      "diversity": 13
-    },
-    {
-      "rank": 2,
-      "headline": "UN votes to describe slave trade as ‘gravest crime against humanity’",
-      "summary": "The United Nations has formally classified the Atlantic slave trade as the gravest crime against humanity, establishing an official international designation for centuries of forced labor that displaced millions of Africans. The resolution signals momentum toward broader discussions about reparations and acknowledgment of the trade's enduring economic and social consequences.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Africa",
-        "France",
-        "Germany",
-        "Hong Kong",
-        "UK",
-        "US"
-      ],
-      "score": 0.5596,
+      "score": 0.4941,
       "mentions": 6,
-      "diversity": 6
+      "diversity": 5
     },
     {
       "rank": 3,
-      "headline": "Meta, YouTube found liable in US social media addiction case",
-      "summary": "A US jury has determined that Meta and YouTube engaged in practices that addict young users to their platforms, marking a significant legal finding in cases addressing social media's effects on children. The ruling establishes corporate liability for designing features intended to maximize user engagement, potentially opening the door to further legal action against tech companies.",
+      "headline": "Trump's signature to appear on US dollars in first for sitting president",
+      "summary": "The U.S. Treasury will add President Trump's signature to all newly printed dollar bills, marking the first time a sitting president has appeared on currency in this manner. Treasury secretaries have historically signed bills as part of their official duties, and this change reflects the current administration's decision to implement the practice during Trump's presidency.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/3/27/trumps-signature-to-appear-on-us-currency-in-first-for-sitting-president?traffic_source=rss"
+        },
+        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/meta-youtube-found-liable-in-us-social-media-addiction-case/a-76532878?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/video/20260326-meta-google-lose-us-case-over-social-media-harm-to-kids"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/technology/jury-finds-meta-and-google-liable-in-social-media-addiction-trial/article70785464.ece"
+          "link": "https://www.dw.com/en/in-a-first-trump-signature-to-appear-on-all-us-dollar-bills/a-76555406?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "Australia",
-        "France",
+        "Canada",
         "Germany",
-        "Global",
+        "Hong Kong",
         "India",
-        "Southeast Asia"
+        "Qatar",
+        "South Africa",
+        "UK",
+        "US"
       ],
-      "score": 0.4339,
+      "score": 0.4811,
       "mentions": 8,
-      "diversity": 6
+      "diversity": 8
     },
     {
       "rank": 4,
-      "headline": "Dozens dead in Bangladesh as passenger bus plunges into Padma River",
-      "summary": "A passenger bus carrying dozens of people plunged into the Padma River in Bangladesh, killing at least 24 people with search efforts continuing for additional victims. The incident highlights ongoing safety concerns around transportation infrastructure and vehicle operation in the region, where such accidents occur with some regularity.",
+      "headline": "Now in power, Nepal’s rapper-politician Balen Shah faces new challenge",
+      "summary": "Balendra Shah, a musician-turned-politician, has been sworn in as Nepal's prime minister after his party secured enough support to form a government. His transition from the entertainment world to leading the nation now requires him to address pressing governance issues while maintaining the political coalition that brought him to power.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/26/dozens-dead-in-bangladesh-as-passenger-bus-plunges-into-padma-river?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/3/27/now-in-power-nepals-rapper-politician-balen-shah-faces-new-challenge?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/bangladesh-several-killed-after-bus-plunges-into-river/a-76536152?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/nepal-ex-rapper-balendra-shah-sworn-in-as-prime-minister/a-76556989?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/south-asia/article/3348011/bangladesh-recovers-24-bodies-after-bus-plunges-river?utm_source=rss_feed"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html"
         }
       ],
       "regions": [
         "Germany",
         "Hong Kong",
         "India",
-        "Qatar"
+        "Qatar",
+        "South Africa",
+        "Southeast Asia",
+        "US"
       ],
-      "score": 0.3864,
+      "score": 0.3833,
+      "mentions": 7,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "‘Emergency situation’: Trump says he will order payments to TSA agents amid turmoil at US airports – as it happened",
+      "summary": "President Trump announces he will issue an executive order to compensate TSA agents during the federal government shutdown, after hundreds of security screeners have stopped working at airports. The measure aims to restore normal operations at major transportation hubs where staffing shortages have created significant delays and disruptions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-trump-orders-payment-to-tsa-agents-after-hundreds-quit/a-76552493?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3348061/trump-says-hell-sign-order-pay-tsa-during-shutdown?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 0.3141,
       "mentions": 4,
       "diversity": 4
     },
     {
-      "rank": 5,
-      "headline": "Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war",
-      "summary": "Trump has postponed his visit to China to meet with Xi Jinping, now scheduling it for May as regional tensions from the Iran conflict create immediate diplomatic uncertainties. The delay reflects concerns that economic disruption from the escalating situation could complicate high-stakes trade and geopolitical discussions between the two leaders.",
+      "rank": 6,
+      "headline": "Ukraine signs deal with Saudi Arabia offering drone expertise",
+      "summary": "Ukraine and Saudi Arabia have established a defense cooperation agreement focused on drone technology and air defense capabilities during an unannounced visit by President Zelenskyy. The deal represents Ukraine's effort to diversify its international security partnerships while leveraging expertise gained from its ongoing conflict.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3347988/trump-sets-new-china-visit-date-iran-war-stokes-economic-risks?utm_source=rss_feed"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/trump-to-visit-china-in-may-after-rescheduling-trip-due-to-iran-war/article70786791.ece"
+          "link": "https://www.thehindu.com/news/international/ukraine-saudi-arabia-defence-cooperation-talks-updates/article70792161.ece"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1985880/ukraine-saudi-arabia-sign-air-defence-deal-senior-officials"
+        }
+      ],
+      "regions": [
+        "India",
+        "Pakistan",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3072,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "US court suspends Pentagon sanctions against Anthropic",
+      "summary": "A U.S. court has temporarily halted the Pentagon's ability to designate Anthropic as a supply chain risk, preventing the enforcement of sanctions against the AI company. The suspension allows Anthropic to operate pending resolution of the underlying legal dispute over the Pentagon's authority to impose such restrictions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-court-suspends-pentagon-sanctions-against-anthropic/a-76556322?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/db1392dc-5042-4ed4-873e-f826429b5f0e"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "UK",
+        "US"
+      ],
+      "score": 0.2761,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "North Korea and Belarus sign friendship treaty on Lukashenko’s first visit",
+      "summary": "Belarusian President Alexander Lukashenko visits North Korea for the first time and the two countries formalize their relationship through a friendship treaty. The agreement signals closer ties between two nations that both face international isolation and sanctions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/diplomacy/article/3348067/north-korea-and-belarus-sign-friendship-treaty-lukashenkos-first-visit?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit/article70787249.ece"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "link": "https://www.dawn.com/news/1985838/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit"
         }
       ],
       "regions": [
         "Hong Kong",
         "India",
         "Pakistan",
-        "UK"
+        "South Africa",
+        "Ukraine"
       ],
-      "score": 0.3196,
+      "score": 0.1234,
       "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "Middle East war live: Israel killed IRGC naval commander in strike, defence minister says",
-      "summary": "Israel's defence minister states that an Israeli strike has killed a commander of Iran's Islamic Revolutionary Guard Corps Navy. The claim remains unconfirmed by independent sources, though Israeli media outlets have reported the allegation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/middle-east/20260326-live-israel-carries-out-fresh-wave-of-strikes-across-iran"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/israel-defence-minister-says-iran-guards-navy-commander-killed-in-strike/article70787839.ece"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-claim-irgc-naval-commander-killed"
-        }
-      ],
-      "regions": [
-        "France",
-        "India",
-        "Middle East"
-      ],
-      "score": 0.2561,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "Belarus's Lukashenko greeted by Kim Jong Un on first visit to North Korea",
-      "summary": "Belarusian President Alexander Lukashenko arrives in North Korea for his first visit, where Kim Jong Un personally receives him as a diplomatic gesture. The two nations sign a friendship treaty during the visit, marking a formal deepening of ties between the isolated regimes.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/asia-pacific/20260325-lukashenko-greeted-by-kim-jong-un-on-first-visit-to-north-korea"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/east-asia/article/3347922/lukashenko-greeted-kim-jong-un-belarus-leaders-first-visit-north-korea?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit/article70787249.ece"
-        }
-      ],
-      "regions": [
-        "France",
-        "Hong Kong",
-        "India"
-      ],
-      "score": 0.2561,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 8,
-      "headline": "Turkey-operated tanker carrying Russian oil struck by naval drone in Black Sea",
-      "summary": "A drone strike has damaged a Turkish-operated tanker transporting Russian oil in the Black Sea, marking another attack on energy infrastructure in the region. The incident reflects the broader pattern of maritime disruptions related to Russia's invasion of Ukraine, which has increasingly targeted vessels involved in Russian oil exports.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "France 24",
-          "link": "https://www.france24.com/en/europe/20260326-turkey-operated-tanker-carrying-russian-oil-struck-by-naval-drone-in-black-sea"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-targets-turkish-owned-crude-oil-tanker-black-sea"
-        },
-        {
-          "name": "The Moscow Times",
-          "link": "https://www.themoscowtimes.com/2026/03/26/drone-hits-turkish-tanker-carrying-russian-oil-in-black-sea-a92343"
-        }
-      ],
-      "regions": [
-        "France",
-        "Middle East",
-        "Russia"
-      ],
-      "score": 0.1394,
-      "mentions": 3,
-      "diversity": 3
+      "diversity": 5
     },
     {
       "rank": 9,
-      "headline": "Taiwanese court jails former Taipei mayor Ko Wen-je for 17 years for corruption",
-      "summary": "Ko Wen-je, a prominent former Taipei mayor and presidential candidate, receives a 17-year prison sentence for corruption related to illegal campaign financing and abuse of power during his mayoral tenure. The conviction marks a significant moment in Taiwan's governance, as Ko had positioned himself as an anti-corruption reformer before his political rise.",
+      "headline": "Olympic Committee bans transgender women from female events",
+      "summary": "The International Olympic Committee has established new eligibility requirements that prevent transgender women from competing in female events unless they meet specific testosterone level thresholds established before transitioning. The policy aims to address ongoing debate about fairness in women's sports while transgender athletes and rights advocates say it creates barriers to participation.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/politics/article/3348010/taiwanese-court-jails-former-taipei-mayor-ko-wen-je-17-years-corruption?utm_source=rss_feed"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/olympic-committee-bans-transgender-women-from-female-events/a-76546859?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Hong Kong Free Press",
-          "link": "https://hongkongfp.com/2026/03/26/ex-taipei-mayor-jailed-17-years-for-graft/"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-ioc-effectively-bans-transgender-athletes-from-womens-category/"
         },
         {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/east-asia/ex-taipei-mayor-corruption-jail-17-years-ko-wen-je-tpp-6018496"
+          "name": "Daily Maverick",
+          "link": "https://www.dailymaverick.co.za/article/2026-03-26-ioc-bars-transgender-athletes-from-womens-events-at-olympics/"
         }
       ],
       "regions": [
-        "Hong Kong",
-        "Southeast Asia"
+        "Canada",
+        "Germany",
+        "South Africa"
       ],
-      "score": 0.1167,
-      "mentions": 3,
-      "diversity": 2
-    },
-    {
-      "rank": 10,
-      "headline": "Pakistan steps in as Iran mediator while India watches from the wings",
-      "summary": "Pakistan leverages its diplomatic relationships with both the United States and Iran to mediate tensions between the two countries as regional conflict escalates. India maintains a cautious distance from these negotiations while the outcome could reshape geopolitical dynamics across South Asia and the Middle East.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/politics/article/3347999/pakistan-steps-iran-mediator-while-india-watches-wings?utm_source=rss_feed"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1985481/pakistan-navigates-shifting-us-iran-dynamics-amid-ongoing-war"
-        },
-        {
-          "name": "Foreign Policy",
-          "link": "https://foreignpolicy.com/2026/03/25/pakistan-iran-war-peace-broker-mediator-trump/"
-        }
-      ],
-      "regions": [
-        "Global",
-        "Hong Kong",
-        "Pakistan"
-      ],
-      "score": 0.0227,
-      "mentions": 3,
+      "score": 0.0955,
+      "mentions": 4,
       "diversity": 3
     }
   ]
