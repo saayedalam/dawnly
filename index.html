@@ -203,6 +203,61 @@
       color: rgba(245, 238, 220, 0.82);
     }
 
+    /* Flip label — shows date by default, countdown on hover/tap */
+    .meta-date-flip {
+      position: relative;
+      perspective: 400px;
+      cursor: default;
+      display: inline-block;
+      height: 14px;
+      overflow: visible;
+    }
+
+    .meta-date-flip::before,
+    .meta-date-flip::after {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      display: block;
+      position: absolute;
+      right: 0;
+      white-space: nowrap;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      backface-visibility: hidden;
+    }
+
+    .meta-date-flip::before {
+      content: attr(data-date);
+      color: var(--ink-2);
+      transform: rotateX(0deg);
+      opacity: 1;
+    }
+
+    .meta-date-flip::after {
+      content: attr(data-cd);
+      color: var(--amber);
+      transform: rotateX(-90deg);
+      opacity: 0;
+    }
+
+    .meta-date-flip:hover::before,
+    .meta-date-flip.active::before {
+      transform: rotateX(90deg);
+      opacity: 0;
+    }
+
+    .meta-date-flip:hover::after,
+    .meta-date-flip.active::after {
+      transform: rotateX(0deg);
+      opacity: 1;
+    }
+
+    .hero.dark .meta-date-flip::before {
+      color: rgba(245, 238, 220, 0.82);
+    }
+
     .logo-block {
       position: relative;
       z-index: 2;
@@ -420,9 +475,7 @@
     .card-hint,
     .back-hint,
     .back-source,
-    .footer-left,
-    .reset-front span,
-    .reset-back span {
+    .footer-left {
       font-family: 'Jost', sans-serif;
       text-transform: uppercase;
     }
@@ -920,47 +973,6 @@
 
     .subscribe-close:hover { color: var(--ink-1); }
 
-    .reset-badge { width: 80px; height: 24px; cursor: default; perspective: 500px; }
-
-    .reset-inner {
-      width: 100%;
-      height: 100%;
-      position: relative;
-      transform-style: preserve-3d;
-      transition: transform 0.4s ease;
-    }
-
-    .reset-badge:hover .reset-inner { transform: rotateX(180deg); }
-
-    .reset-front, .reset-back {
-      position: absolute;
-      inset: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
-    }
-
-    .reset-back { transform: rotateX(180deg); }
-
-    .reset-front span {
-      font-size: 8px;
-      font-weight: 400;
-      letter-spacing: 2px;
-      color: var(--ink-2);
-      border-bottom: 1px solid var(--ink-3);
-      padding-bottom: 1px;
-    }
-
-    .reset-back span {
-      font-size: 9px;
-      font-weight: 500;
-      letter-spacing: 2px;
-      color: var(--ink-2);
-      white-space: nowrap;
-    }
-
     @media (max-width: 768px) {
       .meta-bar {
         display: grid;
@@ -1040,7 +1052,7 @@
     <div class="meta-bar">
       <span class="meta-label meta-edition-flip" id="edition-label" data-edition="1"></span>
       <a href="./about.html" class="meta-domain meta-domain-flip"></a>
-      <span class="meta-label" id="date-label"></span>
+      <span class="meta-label meta-date-flip" id="date-label" data-date="" data-cd=""></span>
     </div>
 
     <div class="logo-block">
@@ -1089,12 +1101,6 @@
 
     <div class="footer">
       <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe to Dawnly.News</button>
-      <div class="reset-badge">
-        <div class="reset-inner">
-          <div class="reset-front"><span>Resets 6AM</span></div>
-          <div class="reset-back"><span id="cd"></span></div>
-        </div>
-      </div>
     </div>
 
     <!-- Subscribe overlay -->
@@ -1167,7 +1173,7 @@ function getCountdown() {
 
   const hours = Math.floor(diffMinutes / 60);
   const minutes = diffMinutes % 60;
-  return `${hours}h ${minutes}m`;
+  return `Resets in ${hours}h ${minutes}m`;
 }
 
 function formatDate(iso) {
@@ -1662,7 +1668,7 @@ async function loadStories() {
     const stories = data.stories || [];
 
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
-    document.getElementById('date-label').textContent = pubDate;
+    document.getElementById('date-label').setAttribute('data-date', pubDate);
     // footer-stats removed
     const editionEl = document.getElementById('edition-label');
     const editionNum = getEditionNumber();
@@ -1680,12 +1686,15 @@ async function loadStories() {
   }
 }
 
-document.getElementById('date-label').textContent = formatDisplayDate();
-document.getElementById('cd').textContent = getCountdown();
+const dateEl = document.getElementById('date-label');
+dateEl.setAttribute('data-date', formatDisplayDate());
+dateEl.setAttribute('data-cd', getCountdown());
 
 setTimeOfDay();
 loadStories();
-setInterval(() => { document.getElementById('cd').textContent = getCountdown(); }, 60000);
+setInterval(() => {
+  document.getElementById('date-label').setAttribute('data-cd', getCountdown());
+}, 60000);
 
 // Mobile tap support for the About Dawnly flip link
 // On touch devices :hover doesn't fire reliably — we toggle .active instead
@@ -1708,7 +1717,7 @@ setInterval(() => { document.getElementById('cd').textContent = getCountdown(); 
   }, { passive: false });
 })();
 
-// Mobile tap support for the Edition flip label
+// Mobile tap support for the Edition flip label — tap toggles between faces
 (function() {
   const el = document.getElementById('edition-label');
   if (!el) return;
@@ -1716,9 +1725,17 @@ setInterval(() => { document.getElementById('cd').textContent = getCountdown(); 
   el.addEventListener('touchstart', function(e) {
     e.preventDefault();
     el.classList.toggle('active');
-    if (el.classList.contains('active')) {
-      setTimeout(() => el.classList.remove('active'), 2500);
-    }
+  }, { passive: false });
+})();
+
+// Mobile tap support for the Date flip label — tap toggles between date and countdown
+(function() {
+  const el = document.getElementById('date-label');
+  if (!el) return;
+
+  el.addEventListener('touchstart', function(e) {
+    e.preventDefault();
+    el.classList.toggle('active');
   }, { passive: false });
 })();
 
