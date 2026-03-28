@@ -973,7 +973,7 @@
         display: grid;
         grid-template-columns: 1fr auto 1fr;
         align-items: center;
-        padding: 8px 12px 6px;
+        padding: 10px 16px;
         perspective: 600px;
       }
 
@@ -983,30 +983,23 @@
         letter-spacing: 1px;
       }
 
-      .meta-label:first-child {
+      /* Strip desktop padding — meta-bar padding provides the touch area */
+      .meta-edition-flip {
+        padding: 0;
         justify-self: start;
       }
 
-      .meta-domain {
-        position: static;
-        transform: none;
-        justify-self: center;
-      }
-
-      /* Override absolute positioning for the flip link on mobile */
+      /* Centre element: override absolute positioning back into grid flow */
       .meta-domain-flip {
         position: static;
         transform: none;
         justify-self: center;
-        padding: 8px 6px;
-      }
-
-      .meta-edition-flip {
-        padding: 8px 4px 8px 0;
+        padding: 0;
       }
 
       .meta-date-flip {
-        padding: 8px 0 8px 4px;
+        padding: 0;
+        justify-self: end;
       }
 
       #date-label {
@@ -1015,28 +1008,21 @@
       }
     }
 
-    /* On touch devices, disable :hover so only .active controls the flip */
+    /* On touch devices, disable :hover — only .active controls the flip */
     @media (hover: none) {
-      .meta-domain-flip:hover::before,
-      .meta-edition-flip:hover::before,
-      .meta-date-flip:hover::before {
+      .meta-domain-flip:hover::before {
         transform: translateX(-50%) rotateX(0deg);
         opacity: 1;
       }
-
+      .meta-domain-flip:hover::after {
+        transform: translateX(-50%) rotateX(-90deg);
+        opacity: 0;
+      }
       .meta-edition-flip:hover::before,
       .meta-date-flip:hover::before {
         transform: rotateX(0deg);
         opacity: 1;
       }
-
-      .meta-domain-flip:hover::after,
-      .meta-edition-flip:hover::after,
-      .meta-date-flip:hover::after {
-        transform: translateX(-50%) rotateX(-90deg);
-        opacity: 0;
-      }
-
       .meta-edition-flip:hover::after,
       .meta-date-flip:hover::after {
         transform: rotateX(-90deg);
@@ -1738,44 +1724,43 @@ setInterval(() => {
 }, 60000);
 
 // Mobile tap support for the About Dawnly flip link
-// On touch devices :hover doesn't fire reliably — we toggle .active instead
 (function() {
   const flip = document.querySelector('.meta-domain-flip');
   if (!flip) return;
 
-  flip.addEventListener('touchstart', function(e) {
-    e.preventDefault();           // prevent the 300ms click delay
+  flip.addEventListener('touchend', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
     const isActive = flip.classList.contains('active');
     if (isActive) {
-      // Second tap — navigate to about.html
       window.location.href = flip.getAttribute('href');
     } else {
-      // First tap — reveal "About Dawnly", second tap will navigate
       flip.classList.add('active');
-      // Auto-dismiss after 2.5s if user doesn't tap again
       setTimeout(() => flip.classList.remove('active'), 2500);
     }
   }, { passive: false });
 })();
 
-// Mobile tap support for the Edition flip label — tap toggles between faces
+// Mobile tap support for the Edition flip label
 (function() {
   const el = document.getElementById('edition-label');
   if (!el) return;
 
-  el.addEventListener('touchstart', function(e) {
+  el.addEventListener('touchend', function(e) {
     e.preventDefault();
+    e.stopPropagation();
     el.classList.toggle('active');
   }, { passive: false });
 })();
 
-// Mobile tap support for the Date flip label — tap toggles between date and countdown
+// Mobile tap support for the Date flip label
 (function() {
   const el = document.getElementById('date-label');
   if (!el) return;
 
-  el.addEventListener('touchstart', function(e) {
+  el.addEventListener('touchend', function(e) {
     e.preventDefault();
+    e.stopPropagation();
     el.classList.toggle('active');
   }, { passive: false });
 })();
