@@ -220,27 +220,85 @@ def summarize_all(stories: list[dict]) -> list[dict]:
     with one summary per angle — each angle summarized separately.
 
     Returns the same list with summary fields added.
+    Logs total token usage and estimated cost at the end of each run.
     """
     logger.info(f"Summarizing {len(stories)} stories via Claude Haiku...")
 
+    total_input        = 0
+    total_cached       = 0
+    total_output       = 0
+
+    def _summarize_and_track(story_dict: dict) -> str:
+        '''Wrapper that calls summarize_story and accumulates token usage.'''
+        nonlocal total_input, total_cached, total_output
+        try:
+            client = get_client()
+            articles = sorted(
+                story_dict["articles"],
+                key=lambda a: a["source_weight"],
+                reverse=True,
+            )[:MAX_HEADLINES]
+            headlines = "\n".join(f"- {a['title']}" for a in articles)
+            user_message = (
+                f"Story headline: {story_dict['headline']}\n\n"
+                f"Related headlines from other sources:\n{headlines}\n\n"
+                f"Write a two-sentence summary."
+            )
+            response = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS,
+                system=[{"type": "text", "text": SYSTEM_PROMPT,
+                         "cache_control": {"type": "ephemeral"}}],
+                messages=[{"role": "user", "content": user_message}],
+            )
+            usage       = response.usage
+            cache_read  = getattr(usage, "cache_read_input_tokens",    0) or 0
+            cache_write = getattr(usage, "cache_creation_input_tokens",0) or 0
+            input_toks  = getattr(usage, "input_tokens",               0) or 0
+            output_toks = getattr(usage, "output_tokens",              0) or 0
+
+            total_input  += input_toks
+            total_cached += cache_read
+            total_output += output_toks
+
+            cache_note = ""
+            if cache_write: cache_note = " [cache write]"
+            elif cache_read: cache_note = " [cache hit]"
+            logger.info(f"  ✓ {story_dict['headline'][:50]}...{cache_note}")
+            return response.content[0].text.strip()
+
+        except Exception as e:
+            logger.error(f"  ✗ Summary failed for '{story_dict['headline'][:50]}': {e}")
+            best = max(story_dict["articles"], key=lambda a: a["source_weight"])
+            return best["title"]
+
     for story in stories:
         if story.get("is_grouped"):
-            # Generate a clean overarching headline for the grouped card
             story["headline"] = generate_grouped_headline(story)
-
-            # Summarize each angle individually
             angle_summaries = []
             for angle in story["angles"]:
-                angle_summaries.append(summarize_story({
+                angle_summaries.append(_summarize_and_track({
                     "headline": angle["headline"],
                     "articles": angle["articles"],
                 }))
             story["summaries"] = angle_summaries
             story["summary"]   = angle_summaries[0] if angle_summaries else story["headline"]
         else:
-            story["summary"] = summarize_story(story)
+            story["summary"] = _summarize_and_track(story)
 
-    logger.info("Summarization complete")
+    # Log token usage and estimated cost
+    # Haiku pricing: $0.80/M input (cached: $0.08/M), $4.00/M output
+    cost_input  = (total_input  * 0.80  / 1_000_000)
+    cost_cached = (total_cached * 0.08  / 1_000_000)
+    cost_output = (total_output * 4.00  / 1_000_000)
+    cost_total  = cost_input + cost_cached + cost_output
+
+    logger.info(
+        f"Summarization complete — "
+        f"{total_input} input tokens ({total_cached} cached), "
+        f"{total_output} output tokens — "
+        f"est. ${cost_total:.4f}"
+    )
     return stories
 
 
