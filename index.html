@@ -1492,7 +1492,7 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
         - (sourcesBlock ? sourcesBlock.offsetHeight + 8 : 0)
         - (backHint ? backHint.offsetHeight + 5 : 0)
         - (relatedBlock ? relatedBlock.offsetHeight + 6 : 0)
-        - 18;
+        - 32;
 
       summary.style.overflow = 'hidden';
       summary.style.display = '-webkit-box';
@@ -1512,7 +1512,7 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
         summary.style.lineHeight = '1.35';
         summary.style.webkitLineClamp = String(lines);
 
-        const fits = summary.scrollHeight <= summary.clientHeight + 2;
+        const fits = summary.scrollHeight <= summary.clientHeight + 1;
 
         if (fits) {
           bestSize = mid;
