@@ -167,8 +167,18 @@ async def fetch_source(
                     if is_undated:
                         undated_count += 1
 
+                    # Extract description — try summary first, fall back to description
+                    # Cap at 500 chars to keep embedding input concise
+                    raw_desc    = (
+                        getattr(entry, "summary",     "") or
+                        getattr(entry, "description", "") or
+                        ""
+                    )
+                    description = strip_html(raw_desc)[:500]
+
                     articles.append({
                         "title":         title,
+                        "description":   description,
                         "link":          link,
                         "url_hash":      make_url_hash(link),
                         "published":     published.isoformat() if published else None,

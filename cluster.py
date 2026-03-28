@@ -27,17 +27,32 @@ MIN_SOURCES        = 3                    # minimum unique sources to qualify fo
 
 def embed_headlines(articles: list[dict]) -> np.ndarray:
     '''
-    Generate sentence embeddings for all article headlines.
+    Generate sentence embeddings for all articles.
+    Uses title + description when available for richer semantic signal.
+    Falls back to title alone when description is absent or empty.
     Returns a normalized numpy array of shape (n_articles, embedding_dim).
     '''
     logger.info(f"Loading embedding model: {EMBEDDING_MODEL}")
     model = SentenceTransformer(EMBEDDING_MODEL)
 
-    headlines = [a["title"] for a in articles]
-    logger.info(f"Embedding {len(headlines)} headlines...")
+    texts = []
+    desc_count = 0
+    for a in articles:
+        desc = a.get("description", "").strip()
+        if desc:
+            texts.append(f"{a['title']}. {desc}")
+            desc_count += 1
+        else:
+            texts.append(a["title"])
+
+    logger.info(
+        f"Embedding {len(texts)} articles "
+        f"({desc_count} with description, "
+        f"{len(texts) - desc_count} title-only)..."
+    )
 
     embeddings = model.encode(
-        headlines,
+        texts,
         batch_size=64,
         show_progress_bar=False,
         convert_to_numpy=True,
