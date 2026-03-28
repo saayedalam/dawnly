@@ -26,8 +26,8 @@ def get_nlp():
     '''Load the spaCy model once and cache it for reuse.'''
     global _nlp
     if _nlp is None:
-        logger.info("Loading spaCy model: en_core_web_sm")
-        _nlp = spacy.load("en_core_web_sm")
+        logger.info("Loading spaCy model: en_core_web_md")
+        _nlp = spacy.load("en_core_web_md")
         logger.info("spaCy model loaded")
     return _nlp
 
