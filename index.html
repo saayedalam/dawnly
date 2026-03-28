@@ -148,6 +148,61 @@
       color: rgba(245, 238, 220, 0.82);
     }
 
+    /* Flip label — shows "Edition No. X" by default, "Volume N" on hover/tap */
+    .meta-edition-flip {
+      position: relative;
+      perspective: 400px;
+      cursor: default;
+      display: inline-block;
+      height: 14px;
+      overflow: visible;
+    }
+
+    .meta-edition-flip::before,
+    .meta-edition-flip::after {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      display: block;
+      position: absolute;
+      left: 0;
+      white-space: nowrap;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      backface-visibility: hidden;
+    }
+
+    .meta-edition-flip::before {
+      content: 'Edition No. ' attr(data-edition);
+      color: var(--ink-2);
+      transform: rotateX(0deg);
+      opacity: 1;
+    }
+
+    .meta-edition-flip::after {
+      content: 'Volume ' attr(data-volume);
+      color: var(--amber);
+      transform: rotateX(-90deg);
+      opacity: 0;
+    }
+
+    .meta-edition-flip:hover::before,
+    .meta-edition-flip.active::before {
+      transform: rotateX(90deg);
+      opacity: 0;
+    }
+
+    .meta-edition-flip:hover::after,
+    .meta-edition-flip.active::after {
+      transform: rotateX(0deg);
+      opacity: 1;
+    }
+
+    .hero.dark .meta-edition-flip::before {
+      color: rgba(245, 238, 220, 0.82);
+    }
+
     .logo-block {
       position: relative;
       z-index: 2;
@@ -983,7 +1038,7 @@
     <canvas class="sky" id="sky"></canvas>
 
     <div class="meta-bar">
-      <span class="meta-label" id="edition-label">Edition No. 1</span>
+      <span class="meta-label meta-edition-flip" id="edition-label" data-edition="1"></span>
       <a href="./about.html" class="meta-domain meta-domain-flip"></a>
       <span class="meta-label" id="date-label"></span>
     </div>
@@ -1146,6 +1201,16 @@ function getEditionNumber() {
 
   const diffDays = Math.floor((currentEditionDate - launchDate) / 86400000);
   return Math.max(1, diffDays + 1);
+}
+
+function toRoman(n) {
+  const vals = [1000,900,500,400,100,90,50,40,10,9,5,4,1];
+  const syms = ['M','CM','D','CD','C','XC','L','XL','X','IX','V','IV','I'];
+  let result = '';
+  for (let i = 0; i < vals.length; i++) {
+    while (n >= vals[i]) { result += syms[i]; n -= vals[i]; }
+  }
+  return result;
 }
 
 function setTimeOfDay() {
@@ -1599,7 +1664,11 @@ async function loadStories() {
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
     document.getElementById('date-label').textContent = pubDate;
     // footer-stats removed
-    document.getElementById('edition-label').textContent = `Edition No. ${getEditionNumber()}`;
+    const editionEl = document.getElementById('edition-label');
+    const editionNum = getEditionNumber();
+    const volumeNum = toRoman(new Date().getFullYear() - 2025);
+    editionEl.setAttribute('data-edition', editionNum);
+    editionEl.setAttribute('data-volume', volumeNum);
 
     buildTicker();
     buildEqualGridWithImage(stories);
@@ -1635,6 +1704,20 @@ setInterval(() => { document.getElementById('cd').textContent = getCountdown(); 
       flip.classList.add('active');
       // Auto-dismiss after 2.5s if user doesn't tap again
       setTimeout(() => flip.classList.remove('active'), 2500);
+    }
+  }, { passive: false });
+})();
+
+// Mobile tap support for the Edition flip label
+(function() {
+  const el = document.getElementById('edition-label');
+  if (!el) return;
+
+  el.addEventListener('touchstart', function(e) {
+    e.preventDefault();
+    el.classList.toggle('active');
+    if (el.classList.contains('active')) {
+      setTimeout(() => el.classList.remove('active'), 2500);
     }
   }, { passive: false });
 })();
