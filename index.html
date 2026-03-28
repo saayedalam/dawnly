@@ -65,28 +65,6 @@
       padding: 10px 24px 8px;
       border-bottom: 1px solid var(--border);
       position: relative; z-index: 2;
-      perspective: 600px;
-    }
-
-    .meta-label,
-    .meta-domain {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--ink-2);
-    }
-
-    .meta-domain {
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-    }
-
-    .hero.dark .meta-label,
-    .hero.dark .meta-domain {
-      color: rgba(245, 238, 220, 0.82);
     }
 
     /* ── Meta bar flip elements ─────────────────────────────────────────── */
@@ -118,6 +96,7 @@
       /* Right-align text inside */
       display: flex;
       justify-content: flex-end;
+      min-width: 160px;
     }
 
     .flip-front,
@@ -386,8 +365,7 @@
     .card-regions,
     .card-hint,
     .back-hint,
-    .back-source,
-    .footer-left {
+    .back-source {
       font-family: 'Jost', sans-serif;
       text-transform: uppercase;
     }
@@ -750,13 +728,6 @@
       flex-shrink: 0;
     }
 
-    .footer-left {
-      font-size: 8px;
-      font-weight: 400;
-      letter-spacing: 1.5px;
-      color: var(--ink-2);
-    }
-
     .footer-subscribe-btn {
       font-family: 'Jost', sans-serif;
       font-size: 11px;
@@ -886,6 +857,17 @@
     .subscribe-close:hover { color: var(--ink-1); }
 
     @media (max-width: 768px) {
+      html, body {
+        overflow: auto;
+        height: auto;
+      }
+
+      .np {
+        height: auto;
+        min-height: 100vh;
+        overflow: visible;
+      }
+
       .meta-bar {
         display: grid;
         grid-template-columns: 1fr auto 1fr;
@@ -898,16 +880,33 @@
         letter-spacing: 1px;
       }
 
-      /* Pull centre element back into grid flow on mobile */
       .meta-flip-link {
         position: static;
         transform: none;
         justify-self: center;
       }
 
-      /* Right element right-aligned in its column */
       .meta-flip-right {
         justify-self: end;
+        min-width: 0;
+      }
+
+      .content {
+        padding: 0 12px 12px;
+        min-height: auto;
+      }
+
+      .grid {
+        gap: 8px;
+        border: none;
+        background: transparent;
+        flex: unset;
+        min-height: auto;
+      }
+
+      .card,
+      .img-card {
+        border: 1px solid rgba(42,36,16,0.2);
       }
     }
 
@@ -920,45 +919,6 @@
       .meta-flip:hover .flip-back {
         transform: rotateX(-90deg);
         opacity: 0;
-      }
-    }
-
-    @media (max-width: 768px) {
-      .grid {
-        gap: 8px;
-        border: none;
-        background: transparent;
-      }
-
-      .card,
-      .img-card {
-        border: 1px solid rgba(42,36,16,0.2);
-      }
-
-      .content {
-        padding: 0 12px 12px;
-      }
-    }
-
-    @media (max-width: 768px) {
-      html, body {
-        overflow: auto;
-        height: auto;
-      }
-
-      .np {
-        height: auto;
-        min-height: 100vh;
-        overflow: visible;
-      }
-
-      .content {
-        min-height: auto;
-      }
-
-      .grid {
-        flex: unset;
-        min-height: auto;
       }
     }
   </style>
@@ -1598,7 +1558,6 @@ async function loadStories() {
 
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
     document.getElementById('date-front').textContent = pubDate;
-    // footer-stats removed
     const editionNum = getEditionNumber();
     const volumeNum = toRoman(new Date().getFullYear() - 2025);
     document.getElementById('edition-front').textContent = `Edition No. ${editionNum}`;
