@@ -1,39 +1,39 @@
 {
-  "published_at": "2026-03-27T10:56:57.196018+00:00",
-  "story_count": 9,
+  "published_at": "2026-03-28T10:41:02.938186+00:00",
+  "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Tensions with Iran create global economic and diplomatic ripples",
-      "summary": "The Strait of Hormuz serves as a critical chokepoint through which roughly one-fifth of global oil passes, making control or disruption of this waterway a central leverage point in regional tensions. Uncertainty over access to the strait has already affected energy markets and prompted diplomatic negotiations, including recent deadline extensions as various parties seek to influence Iran's behavior toward opening or securing the passage.",
+      "headline": "Iran conflict escalates as regional tensions reshape global markets",
+      "summary": "Israeli and American forces continue sustained military operations against Iranian targets and affiliated groups across the region as the conflict enters its fourth week. Yemen's Houthi movement has launched missile strikes on Israel while Lebanon faces ongoing Israeli attacks that are displacing large portions of its population.",
       "is_grouped": true,
-      "angle_count": 4,
+      "angle_count": 3,
       "angles": [
         {
-          "headline": "Why the Strait of Hormuz matters so much in the Iran war",
-          "summary": "The Strait of Hormuz serves as a critical chokepoint through which roughly one-fifth of global oil passes, making control or disruption of this waterway a central leverage point in regional tensions. Uncertainty over access to the strait has already affected energy markets and prompted diplomatic negotiations, including recent deadline extensions as various parties seek to influence Iran's behavior toward opening or securing the passage."
+          "headline": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
+          "summary": "Israeli and American forces continue sustained military operations against Iranian targets and affiliated groups across the region as the conflict enters its fourth week. Yemen's Houthi movement has launched missile strikes on Israel while Lebanon faces ongoing Israeli attacks that are displacing large portions of its population."
         },
         {
-          "headline": "War on Iran price crisis not just about energy, says analyst",
-          "summary": "Trump has extended a pause on strikes targeting Iran's energy infrastructure, signaling a potential diplomatic opening as U.S.-Iran talks are set to occur soon. Analysts suggest the broader economic impact extends beyond energy markets to include currency fluctuations, supply chain disruptions, and regional financial stability concerns."
+          "headline": "Amid Iran war, Trump says he’d love his legacy to be made as ‘great peacemaker’",
+          "summary": "Trump has expressed a desire to be remembered as a peacemaker while simultaneously demanding that Iran reopen the Strait of Hormuz and criticizing NATO allies over their response to regional tensions. His administration is reportedly evaluating military options to secure control of the strategic waterway, which Iran has disrupted amid escalating conflict."
         },
         {
-          "headline": "Rubio heads to Europe to try garner support for Iran war",
-          "summary": "Secretary of State Rubio is traveling to Europe to discuss potential military action against Iran with Group of Seven allies, particularly focusing on security concerns in the Strait of Hormuz. The diplomatic visit follows recent U.S. criticism of NATO members and occurs as European partners express skepticism about broader regional escalation."
+          "headline": "Fighting in Iran: Is another 1970s‑style oil crisis looming?",
+          "summary": "Escalating conflict in Iran raises concerns about potential disruptions to global oil supplies, echoing the economic shocks that followed the 1979 revolution. Financial markets are responding to the uncertainty, with some sectors and currencies gaining ground while others face volatility tied to the duration and scope of the fighting."
         }
       ],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/26/donald-trump-urges-iran-end-war-or-face-assassinations"
+          "link": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month"
         }
       ],
       "regions": [
@@ -45,276 +45,299 @@
         "Global",
         "Hong Kong",
         "India",
+        "Israel",
         "Middle East",
         "North Africa",
-        "Pakistan",
         "Qatar",
         "South Africa",
         "South America",
+        "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7455,
-      "mentions": 46,
-      "diversity": 17
+      "score": 0.7917,
+      "mentions": 80,
+      "diversity": 18
     },
     {
       "rank": 2,
-      "headline": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "summary": "Two vessels carrying humanitarian supplies departed Mexico for Cuba but lost contact with authorities, prompting Mexico's navy to initiate search operations. The disappearance raises questions about maritime safety in the region and the delivery of aid to the island nation.",
+      "headline": "Tiger Woods released on bail after car crash",
+      "summary": "Tiger Woods was arrested on suspicion of driving under the influence following a single-vehicle rollover crash in Florida. He was released on bail hours after his arrest, and now faces DUI charges related to the incident.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/mexico-launches-search-for-two-missing-aid-boats-bound-for-cuba?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/3/28/tiger-woods-released-on-bail-hours-after-arrest-on-suspicion-of-dui?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tiger-woods-released-on-bail-after-florida-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
+        "Australia",
+        "Canada",
         "Germany",
         "Hong Kong",
-        "India",
         "Qatar",
         "UK"
       ],
-      "score": 0.4941,
-      "mentions": 6,
+      "score": 0.5811,
+      "mentions": 8,
       "diversity": 5
     },
     {
       "rank": 3,
-      "headline": "Trump's signature to appear on US dollars in first for sitting president",
-      "summary": "The U.S. Treasury will add President Trump's signature to all newly printed dollar bills, marking the first time a sitting president has appeared on currency in this manner. Treasury secretaries have historically signed bills as part of their official duties, and this change reflects the current administration's decision to implement the practice during Trump's presidency.",
+      "headline": "Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown",
+      "summary": "Nepal's former Prime Minister K.P. Sharma Oli has been detained on suspicion of ordering a violent crackdown that killed protesters during recent demonstrations. The arrest includes the ex-Home Minister and addresses accountability for deaths that occurred during protests, likely involving Gen Z activists.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/28/kp-sharma-oli-nepal-arrested-alleged-role-protest-crackdown-ntwnfb"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nepal-former-pm-oli-arrested-over-deadly-protests/a-76573671?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Qatar",
+        "UK"
+      ],
+      "score": 0.4507,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "House Republicans reject Senate deal, prolonging partial US government shutdown",
+      "summary": "House Republicans reject a bipartisan Senate proposal to reopen shuttered federal agencies, keeping parts of the government closed and leaving funding disputes unresolved. President Trump directs that TSA employees receive pay during the shutdown to maintain airport security operations while Congress remains deadlocked over broader spending disagreements.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/3/27/trumps-signature-to-appear-on-us-currency-in-first-for-sitting-president?traffic_source=rss"
+          "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/in-a-first-trump-signature-to-appear-on-all-us-dollar-bills/a-76555406?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/us-republicans-reject-senate-bill-to-end-shutdown-fund-tsa/a-76564649?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-us-dhs-funding-airports-donald-trump-congress/"
         }
       ],
       "regions": [
         "Canada",
         "Germany",
-        "Hong Kong",
-        "India",
-        "Qatar",
-        "South Africa",
-        "UK",
-        "US"
-      ],
-      "score": 0.4811,
-      "mentions": 8,
-      "diversity": 8
-    },
-    {
-      "rank": 4,
-      "headline": "Now in power, Nepal’s rapper-politician Balen Shah faces new challenge",
-      "summary": "Balendra Shah, a musician-turned-politician, has been sworn in as Nepal's prime minister after his party secured enough support to form a government. His transition from the entertainment world to leading the nation now requires him to address pressing governance issues while maintaining the political coalition that brought him to power.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/features/2026/3/27/now-in-power-nepals-rapper-politician-balen-shah-faces-new-challenge?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nepal-ex-rapper-balendra-shah-sworn-in-as-prime-minister/a-76556989?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Qatar",
-        "South Africa",
         "Southeast Asia",
-        "US"
+        "UK"
       ],
-      "score": 0.3833,
-      "mentions": 7,
-      "diversity": 7
+      "score": 0.4503,
+      "mentions": 5,
+      "diversity": 3
     },
     {
       "rank": 5,
-      "headline": "‘Emergency situation’: Trump says he will order payments to TSA agents amid turmoil at US airports – as it happened",
-      "summary": "President Trump announces he will issue an executive order to compensate TSA agents during the federal government shutdown, after hundreds of security screeners have stopped working at airports. The measure aims to restore normal operations at major transportation hubs where staffing shortages have created significant delays and disruptions.",
+      "headline": "Third No Kings protests to see millions across US push back on Trump administration",
+      "summary": "Millions of Americans are participating in the third \"No Kings\" protest series, with demonstrations planned across thousands of cities to oppose Trump administration policies. The recurring protest movement seeks record turnout as organizers attempt to sustain momentum in their ongoing mobilization effort.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest"
+          "link": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-trump-orders-payment-to-tsa-agents-after-hundreds-quit/a-76552493?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3348061/trump-says-hell-sign-order-pay-tsa-during-shutdown?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "UK"
-      ],
-      "score": 0.3141,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "Ukraine signs deal with Saudi Arabia offering drone expertise",
-      "summary": "Ukraine and Saudi Arabia have established a defense cooperation agreement focused on drone technology and air defense capabilities during an unannounced visit by President Zelenskyy. The deal represents Ukraine's effort to diversify its international security partnerships while leveraging expertise gained from its ongoing conflict.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/ukraine-saudi-arabia-defence-cooperation-talks-updates/article70792161.ece"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1985880/ukraine-saudi-arabia-sign-air-defence-deal-senior-officials"
-        }
-      ],
-      "regions": [
-        "India",
-        "Pakistan",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.3072,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "US court suspends Pentagon sanctions against Anthropic",
-      "summary": "A U.S. court has temporarily halted the Pentagon's ability to designate Anthropic as a supply chain risk, preventing the enforcement of sanctions against the AI company. The suspension allows Anthropic to operate pending resolution of the underlying legal dispute over the Pentagon's authority to impose such restrictions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-court-suspends-pentagon-sanctions-against-anthropic/a-76556322?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/03/28/nx-s1-5763702/no-kings-saturday-protests"
         },
         {
           "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/db1392dc-5042-4ed4-873e-f826429b5f0e"
+          "link": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
         }
       ],
       "regions": [
-        "Canada",
-        "Germany",
-        "India",
+        "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.2761,
+      "score": 0.4503,
       "mentions": 5,
-      "diversity": 5
+      "diversity": 3
     },
     {
-      "rank": 8,
-      "headline": "North Korea and Belarus sign friendship treaty on Lukashenko’s first visit",
-      "summary": "Belarusian President Alexander Lukashenko visits North Korea for the first time and the two countries formalize their relationship through a friendship treaty. The agreement signals closer ties between two nations that both face international isolation and sanctions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/diplomacy/article/3348067/north-korea-and-belarus-sign-friendship-treaty-lukashenkos-first-visit?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit/article70787249.ece"
-        },
-        {
-          "name": "Dawn Pakistan",
-          "link": "https://www.dawn.com/news/1985838/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit"
-        }
-      ],
-      "regions": [
-        "Hong Kong",
-        "India",
-        "Pakistan",
-        "South Africa",
-        "Ukraine"
-      ],
-      "score": 0.1234,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Olympic Committee bans transgender women from female events",
-      "summary": "The International Olympic Committee has established new eligibility requirements that prevent transgender women from competing in female events unless they meet specific testosterone level thresholds established before transitioning. The policy aims to address ongoing debate about fairness in women's sports while transgender athletes and rights advocates say it creates barriers to participation.",
+      "rank": 6,
+      "headline": "Indonesia rolls out social media ban for under-16s",
+      "summary": "Indonesia begins enforcing a ban that prevents children under 16 from accessing social media platforms, making it one of the world's first countries to implement such a broad age-based restriction. The policy aims to protect young users from online harms including addiction, cyberbullying, and exposure to inappropriate content.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/olympic-committee-bans-transgender-women-from-female-events/a-76546859?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/indonesia-rolls-out-social-media-ban-for-under-16s/a-76574803?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/video-ioc-effectively-bans-transgender-athletes-from-womens-category/"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3348232/indonesia-begins-social-media-ban-children-under-16?utm_source=rss_feed"
         },
         {
-          "name": "Daily Maverick",
-          "link": "https://www.dailymaverick.co.za/article/2026-03-26-ioc-bars-transgender-athletes-from-womens-events-at-olympics/"
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/asia/indonesia-starts-social-media-ban-children-youtube-tiktok-facebook-instagram-6022636"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia"
+      ],
+      "score": 0.3637,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Trump says ‘Cuba is next’ target of US military",
+      "summary": "During a speech highlighting U.S. military achievements, Trump identified Cuba as a potential target for American military action. He made the statement while defending his standing with his political base against suggestions of declining support.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/trump-cuba-next-deny-lose-maga-support-us-6023036"
+        }
+      ],
+      "regions": [
+        "India",
+        "Qatar",
+        "Southeast Asia"
+      ],
+      "score": 0.3346,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Bank of America settles Epstein case for $72.5 million",
+      "summary": "Bank of America settles a lawsuit by agreeing to pay $72.5 million over its role in failing to report suspicious financial activity linked to Jeffrey Epstein's sex-trafficking operation. The bank's systems missed or ignored warning signs despite regulatory obligations to flag potential money laundering and criminal conduct.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bank-of-america-settles-epstein-case-for-72-5-million/a-76573867?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3348228/bank-america-pay-us725-million-settle-epstein-sex-trafficking-lawsuit?utm_source=rss_feed"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/bank-of-america-agrees-to-pay-93-7-million-to-settle-epstein-accusers-lawsuit"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia"
+      ],
+      "score": 0.3274,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Missing aid boats have safely reached Cuba, US confirms",
+      "summary": "Two aid boats that departed from Mexico carrying humanitarian supplies have arrived safely in Cuba, the US Coast Guard confirms. The vessels had prompted a search operation after losing contact during their crossing, but both crews and cargo reached their destination without incident.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3348215/missing-aid-boats-safely-crossed-cuba-us-coastguard-says?utm_source=rss_feed"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/missing-sailboats-for-cuba-aid-convoy-arrived-safely-afp-reports"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "Mexico",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.2828,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Pro-Iran hackers say they breached FBI chief Patel’s email account, post personal files",
+      "summary": "Pro-Iran hackers claim to have accessed FBI Director Kash Patel's personal email account and published photos and documents from it online. The FBI has confirmed that the breach occurred, marking a significant security incident involving a senior U.S. law enforcement official's private communications.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3348214/pro-iran-hackers-say-they-breached-fbi-chief-patels-email-account-post-personal-files?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email-publish-photos-and-documents/article70795233.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fbi-confirms-director-kash-patels-email-hack-claimed-iran-linked-group"
         }
       ],
       "regions": [
         "Canada",
-        "Germany",
-        "South Africa"
+        "Hong Kong",
+        "India",
+        "Middle East"
       ],
-      "score": 0.0955,
+      "score": 0.2828,
       "mentions": 4,
-      "diversity": 3
+      "diversity": 4
     }
   ]
 }
