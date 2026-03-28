@@ -165,6 +165,14 @@ def run_pipeline() -> None:
         backup = load_backup()
         if backup:
             logger.warning("Using previous top10.json as fallback")
+            write_output(backup)
+            update_health_log(source_health)
+            logger.info("\n" + "=" * 60)
+            logger.info("DAWNLY PIPELINE COMPLETE (fallback used)")
+            logger.info(f"Published at: {backup['published_at']}")
+            logger.info(f"Stories: {backup['story_count']}")
+            logger.info("=" * 60)
+            return
         else:
             logger.warning("No backup available — publishing with fewer stories")
 
