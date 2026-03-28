@@ -83,173 +83,90 @@
       left: 50%;
       transform: translateX(-50%);
     }
-    /* Note: .meta-domain-flip overrides positioning for the link variant */
 
     .hero.dark .meta-label,
     .hero.dark .meta-domain {
       color: rgba(245, 238, 220, 0.82);
     }
 
-    /* Flip link — shows "Dawnly.News" by default, "About Dawnly" on hover */
-    .meta-domain-flip {
+    /* ── Meta bar flip elements ─────────────────────────────────────────── */
+
+    .meta-flip {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      display: inline-block;
+      position: relative;
+      height: 13px;
+      cursor: default;
+      /* perspective on the element itself for clean per-element 3D */
+      perspective: 400px;
+    }
+
+    .meta-flip-link {
       text-decoration: none;
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
       cursor: pointer;
-      display: inline-block;
-      padding: 6px 10px;
-    }
-
-    .meta-domain-flip::before,
-    .meta-domain-flip::after {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      display: block;
+      /* Centre flip sits in absolute flow on desktop */
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
-      white-space: nowrap;
-      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.4s cubic-bezier(0.4,0,0.2,1);
-      backface-visibility: hidden;
     }
 
-    .meta-domain-flip::before {
-      content: 'Dawnly.News';
-      color: var(--ink-2);
-      transform: translateX(-50%) rotateX(0deg);
-      opacity: 1;
+    .meta-flip-right {
+      /* Right-align text inside */
+      display: flex;
+      justify-content: flex-end;
     }
 
-    .meta-domain-flip::after {
-      content: 'About Dawnly';
-      color: var(--amber);
-      transform: translateX(-50%) rotateX(-90deg);
-      opacity: 0;
-    }
-
-    .meta-domain-flip:hover::before,
-    .meta-domain-flip.active::before {
-      transform: translateX(-50%) rotateX(90deg);
-      opacity: 0;
-    }
-
-    .meta-domain-flip:hover::after,
-    .meta-domain-flip.active::after {
-      transform: translateX(-50%) rotateX(0deg);
-      opacity: 1;
-    }
-
-    .hero.dark .meta-domain-flip::before {
-      color: rgba(245, 238, 220, 0.82);
-    }
-
-    /* Flip label — shows "Edition No. X" by default, "Volume N" on hover/tap */
-    .meta-edition-flip {
-      position: relative;
-      cursor: default;
-      display: inline-block;
-      padding: 6px 10px 6px 0;
-    }
-
-    .meta-edition-flip::before,
-    .meta-edition-flip::after {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 2px;
-      text-transform: uppercase;
+    .flip-front,
+    .flip-back {
       display: block;
+      white-space: nowrap;
       position: absolute;
+      top: 0;
       left: 0;
-      white-space: nowrap;
-      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.4s cubic-bezier(0.4,0,0.2,1);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1),
+                  opacity  0.4s cubic-bezier(0.4,0,0.2,1);
       backface-visibility: hidden;
     }
 
-    .meta-edition-flip::before {
-      content: 'Edition No. ' attr(data-edition);
-      color: var(--ink-2);
-      transform: rotateX(0deg);
-      opacity: 1;
-    }
-
-    .meta-edition-flip::after {
-      content: 'Volume ' attr(data-volume);
-      color: var(--amber);
-      transform: rotateX(-90deg);
-      opacity: 0;
-    }
-
-    .meta-edition-flip:hover::before,
-    .meta-edition-flip.active::before {
-      transform: rotateX(90deg);
-      opacity: 0;
-    }
-
-    .meta-edition-flip:hover::after,
-    .meta-edition-flip.active::after {
-      transform: rotateX(0deg);
-      opacity: 1;
-    }
-
-    .hero.dark .meta-edition-flip::before {
-      color: rgba(245, 238, 220, 0.82);
-    }
-
-    /* Flip label — shows date by default, countdown on hover/tap */
-    .meta-date-flip {
-      position: relative;
-      cursor: default;
-      display: inline-block;
-      padding: 6px 0 6px 10px;
-    }
-
-    .meta-date-flip::before,
-    .meta-date-flip::after {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      display: block;
-      position: absolute;
+    /* Right-aligned element: anchor text to right instead */
+    .meta-flip-right .flip-front,
+    .meta-flip-right .flip-back {
+      left: auto;
       right: 0;
-      white-space: nowrap;
-      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.4s cubic-bezier(0.4,0,0.2,1);
-      backface-visibility: hidden;
     }
 
-    .meta-date-flip::before {
-      content: attr(data-date);
+    /* Default state */
+    .flip-front {
       color: var(--ink-2);
       transform: rotateX(0deg);
       opacity: 1;
     }
 
-    .meta-date-flip::after {
-      content: attr(data-cd);
+    .flip-back {
       color: var(--amber);
       transform: rotateX(-90deg);
       opacity: 0;
     }
 
-    .meta-date-flip:hover::before,
-    .meta-date-flip.active::before {
+    /* Flipped state — triggered by :hover on desktop, .active on mobile */
+    .meta-flip:hover .flip-front,
+    .meta-flip.active .flip-front {
       transform: rotateX(90deg);
       opacity: 0;
     }
 
-    .meta-date-flip:hover::after,
-    .meta-date-flip.active::after {
+    .meta-flip:hover .flip-back,
+    .meta-flip.active .flip-back {
       transform: rotateX(0deg);
       opacity: 1;
     }
 
-    .hero.dark .meta-date-flip::before {
+    /* Dark hero overrides */
+    .hero.dark .flip-front {
       color: rgba(245, 238, 220, 0.82);
     }
 
@@ -974,57 +891,33 @@
         grid-template-columns: 1fr auto 1fr;
         align-items: center;
         padding: 10px 16px;
-        perspective: 600px;
       }
 
-      .meta-label,
-      .meta-domain {
+      .meta-flip {
         font-size: 7px;
         letter-spacing: 1px;
       }
 
-      /* Strip desktop padding — meta-bar padding provides the touch area */
-      .meta-edition-flip {
-        padding: 0;
-        justify-self: start;
-      }
-
-      /* Centre element: override absolute positioning back into grid flow */
-      .meta-domain-flip {
+      /* Pull centre element back into grid flow on mobile */
+      .meta-flip-link {
         position: static;
         transform: none;
         justify-self: center;
-        padding: 0;
       }
 
-      .meta-date-flip {
-        padding: 0;
+      /* Right element right-aligned in its column */
+      .meta-flip-right {
         justify-self: end;
-      }
-
-      #date-label {
-        justify-self: end;
-        text-align: right;
       }
     }
 
-    /* On touch devices, disable :hover — only .active controls the flip */
+    /* On touch devices kill :hover — only .active controls flipping */
     @media (hover: none) {
-      .meta-domain-flip:hover::before {
-        transform: translateX(-50%) rotateX(0deg);
-        opacity: 1;
-      }
-      .meta-domain-flip:hover::after {
-        transform: translateX(-50%) rotateX(-90deg);
-        opacity: 0;
-      }
-      .meta-edition-flip:hover::before,
-      .meta-date-flip:hover::before {
+      .meta-flip:hover .flip-front {
         transform: rotateX(0deg);
         opacity: 1;
       }
-      .meta-edition-flip:hover::after,
-      .meta-date-flip:hover::after {
+      .meta-flip:hover .flip-back {
         transform: rotateX(-90deg);
         opacity: 0;
       }
@@ -1077,9 +970,18 @@
     <canvas class="sky" id="sky"></canvas>
 
     <div class="meta-bar">
-      <span class="meta-label meta-edition-flip" id="edition-label" data-edition="1"></span>
-      <a href="./about.html" class="meta-domain meta-domain-flip"></a>
-      <span class="meta-label meta-date-flip" id="date-label" data-date="" data-cd=""></span>
+      <span class="meta-flip" id="edition-label">
+        <span class="flip-front" id="edition-front">Edition No. 1</span>
+        <span class="flip-back" id="edition-back">Volume I</span>
+      </span>
+      <a href="./about.html" class="meta-flip meta-flip-link" id="domain-label">
+        <span class="flip-front">Dawnly.News</span>
+        <span class="flip-back">About Dawnly</span>
+      </a>
+      <span class="meta-flip meta-flip-right" id="date-label">
+        <span class="flip-front" id="date-front"></span>
+        <span class="flip-back" id="date-back"></span>
+      </span>
     </div>
 
     <div class="logo-block">
@@ -1695,13 +1597,12 @@ async function loadStories() {
     const stories = data.stories || [];
 
     const pubDate = data.published_at ? formatDate(data.published_at) : formatDisplayDate();
-    document.getElementById('date-label').setAttribute('data-date', pubDate);
+    document.getElementById('date-front').textContent = pubDate;
     // footer-stats removed
-    const editionEl = document.getElementById('edition-label');
     const editionNum = getEditionNumber();
     const volumeNum = toRoman(new Date().getFullYear() - 2025);
-    editionEl.setAttribute('data-edition', editionNum);
-    editionEl.setAttribute('data-volume', volumeNum);
+    document.getElementById('edition-front').textContent = `Edition No. ${editionNum}`;
+    document.getElementById('edition-back').textContent  = `Volume ${volumeNum}`;
 
     buildTicker();
     buildEqualGridWithImage(stories);
@@ -1713,55 +1614,44 @@ async function loadStories() {
   }
 }
 
-const dateEl = document.getElementById('date-label');
-dateEl.setAttribute('data-date', formatDisplayDate());
-dateEl.setAttribute('data-cd', getCountdown());
+const editionNum = getEditionNumber();
+const volumeNum  = toRoman(new Date().getFullYear() - 2025);
+document.getElementById('edition-front').textContent = `Edition No. ${editionNum}`;
+document.getElementById('edition-back').textContent  = `Volume ${volumeNum}`;
+document.getElementById('date-front').textContent    = formatDisplayDate();
+document.getElementById('date-back').textContent     = getCountdown();
 
 setTimeOfDay();
 loadStories();
 setInterval(() => {
-  document.getElementById('date-label').setAttribute('data-cd', getCountdown());
+  document.getElementById('date-back').textContent = getCountdown();
 }, 60000);
 
-// Mobile tap support for the About Dawnly flip link
+// Mobile tap support for meta-bar flip elements
 (function() {
-  const flip = document.querySelector('.meta-domain-flip');
-  if (!flip) return;
+  // Edition + Date: pure toggle on tap
+  ['edition-label', 'date-label'].forEach(function(id) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      el.classList.toggle('active');
+    }, { passive: false });
+  });
 
-  flip.addEventListener('touchend', function(e) {
+  // Centre link: first tap reveals "About Dawnly", second tap navigates
+  const link = document.getElementById('domain-label');
+  if (!link) return;
+  link.addEventListener('touchend', function(e) {
     e.preventDefault();
     e.stopPropagation();
-    const isActive = flip.classList.contains('active');
-    if (isActive) {
-      window.location.href = flip.getAttribute('href');
+    if (link.classList.contains('active')) {
+      window.location.href = link.getAttribute('href');
     } else {
-      flip.classList.add('active');
-      setTimeout(() => flip.classList.remove('active'), 2500);
+      link.classList.add('active');
+      setTimeout(() => link.classList.remove('active'), 2500);
     }
-  }, { passive: false });
-})();
-
-// Mobile tap support for the Edition flip label
-(function() {
-  const el = document.getElementById('edition-label');
-  if (!el) return;
-
-  el.addEventListener('touchend', function(e) {
-    e.preventDefault();
-    e.stopPropagation();
-    el.classList.toggle('active');
-  }, { passive: false });
-})();
-
-// Mobile tap support for the Date flip label
-(function() {
-  const el = document.getElementById('date-label');
-  if (!el) return;
-
-  el.addEventListener('touchend', function(e) {
-    e.preventDefault();
-    e.stopPropagation();
-    el.classList.toggle('active');
   }, { passive: false });
 })();
 
