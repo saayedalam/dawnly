@@ -65,6 +65,7 @@
       padding: 10px 24px 8px;
       border-bottom: 1px solid var(--border);
       position: relative; z-index: 2;
+      perspective: 600px;
     }
 
     .meta-label,
@@ -95,11 +96,9 @@
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
-      perspective: 400px;
       cursor: pointer;
       display: inline-block;
-      height: 14px;
-      overflow: visible;
+      padding: 6px 10px;
     }
 
     .meta-domain-flip::before,
@@ -114,7 +113,7 @@
       left: 50%;
       transform: translateX(-50%);
       white-space: nowrap;
-      transition: transform 0.3s ease, opacity 0.3s ease;
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.4s cubic-bezier(0.4,0,0.2,1);
       backface-visibility: hidden;
     }
 
@@ -151,11 +150,9 @@
     /* Flip label — shows "Edition No. X" by default, "Volume N" on hover/tap */
     .meta-edition-flip {
       position: relative;
-      perspective: 400px;
       cursor: default;
       display: inline-block;
-      height: 14px;
-      overflow: visible;
+      padding: 6px 10px 6px 0;
     }
 
     .meta-edition-flip::before,
@@ -169,7 +166,7 @@
       position: absolute;
       left: 0;
       white-space: nowrap;
-      transition: transform 0.3s ease, opacity 0.3s ease;
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.4s cubic-bezier(0.4,0,0.2,1);
       backface-visibility: hidden;
     }
 
@@ -206,11 +203,9 @@
     /* Flip label — shows date by default, countdown on hover/tap */
     .meta-date-flip {
       position: relative;
-      perspective: 400px;
       cursor: default;
       display: inline-block;
-      height: 14px;
-      overflow: visible;
+      padding: 6px 0 6px 10px;
     }
 
     .meta-date-flip::before,
@@ -224,7 +219,7 @@
       position: absolute;
       right: 0;
       white-space: nowrap;
-      transition: transform 0.3s ease, opacity 0.3s ease;
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.4s cubic-bezier(0.4,0,0.2,1);
       backface-visibility: hidden;
     }
 
