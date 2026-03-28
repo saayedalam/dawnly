@@ -193,6 +193,14 @@ SOURCES = [
         "continent": "Southeast Asia",
     },
     {
+        "name":      "The Straits Times",
+        "url":       "https://www.straitstimes.com/news/world/rss.xml",
+        "tier":      "regional",
+        "weight":    0.7,
+        "region":    "Southeast Asia",
+        "continent": "Southeast Asia",
+    },
+    {
         "name":      "MercoPress",
         "url":       "https://en.mercopress.com/rss",
         "tier":      "regional",
@@ -324,6 +332,14 @@ SOURCES = [
         "tier":      "niche",
         "weight":    0.4,
         "region":    "North Africa",
+        "continent": "Middle East & North Africa",
+    },
+    {
+        "name":      "Times of Israel",
+        "url":       "https://www.timesofisrael.com/feed/",
+        "tier":      "niche",
+        "weight":    0.4,
+        "region":    "Israel",
         "continent": "Middle East & North Africa",
     },
     {
