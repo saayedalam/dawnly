@@ -120,6 +120,7 @@ async def fetch_source(
     weight       = source["weight"]
     tier         = source["tier"]
     region       = source["region"]
+    continent    = source.get("continent", "")
 
     # --- Change 1: per-source article cap ---
     article_cap  = source.get("max_articles", MAX_ARTICLES_PER_SOURCE)
@@ -177,15 +178,16 @@ async def fetch_source(
                     description = strip_html(raw_desc)[:500]
 
                     articles.append({
-                        "title":         title,
-                        "description":   description,
-                        "link":          link,
-                        "url_hash":      make_url_hash(link),
-                        "published":     published.isoformat() if published else None,
-                        "source_name":   name,
-                        "source_tier":   tier,
-                        "source_weight": weight,
-                        "source_region": region,
+                        "title":            title,
+                        "description":      description,
+                        "link":             link,
+                        "url_hash":         make_url_hash(link),
+                        "published":        published.isoformat() if published else None,
+                        "source_name":      name,
+                        "source_tier":      tier,
+                        "source_weight":    weight,
+                        "source_region":    region,
+                        "source_continent": continent,
                     })
 
                 return articles, undated_count

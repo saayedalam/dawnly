@@ -66,11 +66,17 @@ def get_coverage_reach(source_name: str) -> float:
 
 def geographic_diversity_score(cluster: list[dict]) -> int:
     '''
-    Count the number of distinct regions covering this story.
-    More regions = more globally significant.
+    Count the number of distinct continents covering this story.
+    Uses continent rather than region so five European outlets count
+    as 1 (Europe), not 5 separate regions. More continents = more
+    globally significant.
+    Falls back to source_region if continent is not present.
     '''
-    regions = set(a["source_region"] for a in cluster)
-    return len(regions)
+    zones = set(
+        a.get("source_continent") or a["source_region"]
+        for a in cluster
+    )
+    return len(zones)
 
 
 def average_coverage_reach(cluster: list[dict]) -> float:
@@ -183,9 +189,12 @@ def get_cluster_entity(cluster: list[dict]) -> str:
 
     for article in cluster:
         title = article.get("title", "")
-        if not title:
+        desc  = article.get("description", "").strip()
+        # Use title + description when available for richer entity signal
+        text  = f"{title}. {desc}" if desc else title
+        if not text:
             continue
-        doc = nlp(title)
+        doc = nlp(text)
         for ent in doc.ents:
             if ent.label_ in _ENTITY_LABELS:
                 text = ent.text.lower().strip()
