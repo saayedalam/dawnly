@@ -29,7 +29,7 @@
       --paper-2:#ede6d4;
       --border: rgba(42,36,16,0.15);
 
-      /* Grouped card — terracotta accent */
+      /* Big story treatment — warm terracotta */
       --big-paper:   #f5e8d4;
       --big-paper-2: #eeddc4;
       --big-accent:  #b85c1a;
@@ -90,6 +90,11 @@
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
+    }
+
+    /* Left and right elements must be equal width so the centre is truly centred */
+    #edition-label {
+      min-width: 160px;
     }
 
     .meta-flip-right {
@@ -447,6 +452,10 @@
 
     .card.grouped .card-back {
       background: var(--big-paper-2);
+    }
+
+    .card.grouped .card-front::before {
+      content: none;
     }
 
     .card.grouped .card-front,
@@ -966,6 +975,7 @@ function getTorontoNowParts() {
     day: '2-digit',
     hour: '2-digit',
     minute: '2-digit',
+    second: '2-digit',
     hourCycle: 'h23'
   }).formatToParts(new Date());
 
@@ -975,7 +985,8 @@ function getTorontoNowParts() {
     month: Number(map.month),
     day: Number(map.day),
     hour: Number(map.hour),
-    minute: Number(map.minute)
+    minute: Number(map.minute),
+    second: Number(map.second)
   };
 }
 
@@ -1099,6 +1110,7 @@ function buildTicker() {
   ).join('');
 }
 
+
 function buildEqualGridWithImage(stories) {
   const grid = document.getElementById('grid');
   grid.innerHTML = '';
@@ -1166,7 +1178,7 @@ function buildEqualGridWithImage(stories) {
         img.style.minHeight  = '180px';
         grid.appendChild(img);
       } else if (storyIndex < storyItems.length) {
-        const card = buildCard(storyItems[storyIndex], storyIndex, 1, 1, 1);
+        const card = buildCard(storyItems[storyIndex], storyIndex, 1, 1, 1, 1);
         card.style.gridColumn = 'auto';
         card.style.gridRow    = 'auto';
         card.style.minHeight  = '220px';
@@ -1197,7 +1209,7 @@ function buildEqualGridWithImage(stories) {
       const stats = fixedStats[fixedImagesFilled++] || null;
       grid.appendChild(buildImageCard(1, col, row, imgSeedBase++, stats));
     } else if (storyIndex < storyItems.length) {
-      grid.appendChild(buildCard(storyItems[storyIndex], storyIndex, 1, col, row));
+      grid.appendChild(buildCard(storyItems[storyIndex], storyIndex, 1, col, row, 1));
       storyIndex++;
     } else {
       grid.appendChild(buildImageCard(1, col, row, imgSeedBase++, null));
@@ -1205,7 +1217,7 @@ function buildEqualGridWithImage(stories) {
   }
 }
 
-function buildCard(story, index, colSpan, colStart, rowStart) {
+function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
   const card = document.createElement('div');
   card.className = 'card';
   card.style.gridColumn = `${colStart} / span ${colSpan}`;
