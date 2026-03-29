@@ -84,15 +84,12 @@
       perspective: 400px;
     }
 
-    /* Centre element — fixed width so grid auto column has real size */
+    /* Centre element — fixed width, grid auto column sizes to this */
     .meta-flip-link {
       text-decoration: none;
       cursor: pointer;
       justify-self: center;
       width: 120px;
-      display: flex;
-      justify-content: center;
-      align-items: flex-start;
     }
 
     /* Right element */
@@ -102,6 +99,7 @@
       min-width: 160px;
     }
 
+    /* Both faces — shared base */
     .flip-front,
     .flip-back {
       display: block;
@@ -114,70 +112,46 @@
       backface-visibility: hidden;
     }
 
-    /* Centre link: anchor both faces to mid-point of the 120px container */
+    /* Centre: use margin-left to position, NOT transform — keeps transform free for rotation only */
     .meta-flip-link .flip-front,
     .meta-flip-link .flip-back {
       left: 50%;
+      margin-left: -60px;
+      width: 120px;
+      text-align: center;
     }
 
-    /* Right-aligned element: anchor text to right */
+    /* Right: anchor to right edge */
     .meta-flip-right .flip-front,
     .meta-flip-right .flip-back {
       left: auto;
       right: 0;
     }
 
-    /* Default state */
+    /* Default visible state */
     .flip-front {
       color: var(--ink-2);
-      transform: translateX(-50%) rotateX(0deg);
+      transform: rotateX(0deg);
       opacity: 1;
     }
 
-    /* Non-link elements don't need translateX */
-    .meta-flip:not(.meta-flip-link) .flip-front {
-      transform: rotateX(0deg);
-    }
-    .meta-flip-right .flip-front {
-      transform: rotateX(0deg);
-    }
-
+    /* Default hidden state */
     .flip-back {
       color: var(--amber);
-      transform: translateX(-50%) rotateX(-90deg);
+      transform: rotateX(-90deg);
       opacity: 0;
     }
 
-    /* Non-link elements don't need translateX */
-    .meta-flip:not(.meta-flip-link) .flip-back {
-      transform: rotateX(-90deg);
-    }
-    .meta-flip-right .flip-back {
-      transform: rotateX(-90deg);
-    }
-
-    /* Flipped state — desktop hover and mobile .active */
-    /* Non-link elements */
-    .meta-flip:not(.meta-flip-link):hover .flip-front,
-    .meta-flip:not(.meta-flip-link).active .flip-front {
+    /* Flipped state — hover on desktop, .active on mobile */
+    .meta-flip:hover .flip-front,
+    .meta-flip.active .flip-front {
       transform: rotateX(90deg);
       opacity: 0;
     }
-    .meta-flip:not(.meta-flip-link):hover .flip-back,
-    .meta-flip:not(.meta-flip-link).active .flip-back {
-      transform: rotateX(0deg);
-      opacity: 1;
-    }
 
-    /* Link element — preserve translateX(-50%) at all states */
-    .meta-flip-link:hover .flip-front,
-    .meta-flip-link.active .flip-front {
-      transform: translateX(-50%) rotateX(90deg);
-      opacity: 0;
-    }
-    .meta-flip-link:hover .flip-back,
-    .meta-flip-link.active .flip-back {
-      transform: translateX(-50%) rotateX(0deg);
+    .meta-flip:hover .flip-back,
+    .meta-flip.active .flip-back {
+      transform: rotateX(0deg);
       opacity: 1;
     }
 
