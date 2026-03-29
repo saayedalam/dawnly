@@ -80,6 +80,7 @@
       display: inline-block;
       position: relative;
       height: 13px;
+      width: fit-content;
       cursor: default;
       perspective: 400px;
     }
@@ -97,6 +98,12 @@
       display: flex;
       justify-content: flex-end;
       min-width: 160px;
+      justify-self: end;
+    }
+
+    /* Left element */
+    #edition-label {
+      justify-self: start;
     }
 
     /* Both faces — shared base */
