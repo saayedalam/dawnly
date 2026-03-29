@@ -84,6 +84,7 @@
       perspective: 400px;
     }
 
+    /* Centre element — fixed width so grid auto column has real size */
     .meta-flip-link {
       text-decoration: none;
       cursor: pointer;
@@ -91,8 +92,10 @@
       width: 120px;
       display: flex;
       justify-content: center;
+      align-items: flex-start;
     }
 
+    /* Right element */
     .meta-flip-right {
       display: flex;
       justify-content: flex-end;
@@ -111,28 +114,13 @@
       backface-visibility: hidden;
     }
 
-    /* Centre the text inside the link flip element */
+    /* Centre link: anchor both faces to mid-point of the 120px container */
     .meta-flip-link .flip-front,
     .meta-flip-link .flip-back {
       left: 50%;
-      transform: translateX(-50%);
     }
 
-    .meta-flip-link .flip-back {
-      transform: translateX(-50%) rotateX(-90deg);
-    }
-
-    .meta-flip-link:hover .flip-front,
-    .meta-flip-link.active .flip-front {
-      transform: translateX(-50%) rotateX(90deg);
-    }
-
-    .meta-flip-link:hover .flip-back,
-    .meta-flip-link.active .flip-back {
-      transform: translateX(-50%) rotateX(0deg);
-    }
-
-    /* Right-aligned element: anchor text to right instead */
+    /* Right-aligned element: anchor text to right */
     .meta-flip-right .flip-front,
     .meta-flip-right .flip-back {
       left: auto;
@@ -142,26 +130,54 @@
     /* Default state */
     .flip-front {
       color: var(--ink-2);
-      transform: rotateX(0deg);
+      transform: translateX(-50%) rotateX(0deg);
       opacity: 1;
+    }
+
+    /* Non-link elements don't need translateX */
+    .meta-flip:not(.meta-flip-link) .flip-front {
+      transform: rotateX(0deg);
+    }
+    .meta-flip-right .flip-front {
+      transform: rotateX(0deg);
     }
 
     .flip-back {
       color: var(--amber);
-      transform: rotateX(-90deg);
+      transform: translateX(-50%) rotateX(-90deg);
       opacity: 0;
     }
 
-    /* Flipped state — triggered by :hover on desktop, .active on mobile */
-    .meta-flip:hover .flip-front,
-    .meta-flip.active .flip-front {
+    /* Non-link elements don't need translateX */
+    .meta-flip:not(.meta-flip-link) .flip-back {
+      transform: rotateX(-90deg);
+    }
+    .meta-flip-right .flip-back {
+      transform: rotateX(-90deg);
+    }
+
+    /* Flipped state — desktop hover and mobile .active */
+    /* Non-link elements */
+    .meta-flip:not(.meta-flip-link):hover .flip-front,
+    .meta-flip:not(.meta-flip-link).active .flip-front {
       transform: rotateX(90deg);
       opacity: 0;
     }
-
-    .meta-flip:hover .flip-back,
-    .meta-flip.active .flip-back {
+    .meta-flip:not(.meta-flip-link):hover .flip-back,
+    .meta-flip:not(.meta-flip-link).active .flip-back {
       transform: rotateX(0deg);
+      opacity: 1;
+    }
+
+    /* Link element — preserve translateX(-50%) at all states */
+    .meta-flip-link:hover .flip-front,
+    .meta-flip-link.active .flip-front {
+      transform: translateX(-50%) rotateX(90deg);
+      opacity: 0;
+    }
+    .meta-flip-link:hover .flip-back,
+    .meta-flip-link.active .flip-back {
+      transform: translateX(-50%) rotateX(0deg);
       opacity: 1;
     }
 
