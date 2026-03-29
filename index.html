@@ -61,7 +61,9 @@
     .sky { position: absolute; inset: 0; pointer-events: none; opacity: 0.5; }
 
     .meta-bar {
-      display: flex; align-items: center; justify-content: space-between;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
       padding: 10px 24px 8px;
       border-bottom: 1px solid var(--border);
       position: relative; z-index: 2;
@@ -79,26 +81,16 @@
       position: relative;
       height: 13px;
       cursor: default;
-      /* perspective on the element itself for clean per-element 3D */
       perspective: 400px;
     }
 
     .meta-flip-link {
       text-decoration: none;
       cursor: pointer;
-      /* Centre flip sits in absolute flow on desktop */
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-    }
-
-    /* Left and right elements must be equal width so the centre is truly centred */
-    #edition-label {
-      min-width: 160px;
+      justify-self: center;
     }
 
     .meta-flip-right {
-      /* Right-align text inside */
       display: flex;
       justify-content: flex-end;
       min-width: 160px;
@@ -812,9 +804,6 @@
       }
 
       .meta-bar {
-        display: grid;
-        grid-template-columns: 1fr auto 1fr;
-        align-items: center;
         padding: 10px 16px;
       }
 
@@ -823,14 +812,7 @@
         letter-spacing: 1px;
       }
 
-      .meta-flip-link {
-        position: static;
-        transform: none;
-        justify-self: center;
-      }
-
       .meta-flip-right {
-        justify-self: end;
         min-width: 0;
       }
 
