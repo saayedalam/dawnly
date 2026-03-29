@@ -80,7 +80,6 @@
       display: inline-block;
       position: relative;
       height: 13px;
-      width: fit-content;
       cursor: default;
       perspective: 400px;
     }
@@ -93,14 +92,16 @@
       width: 120px;
     }
 
-    /* Right element — align to end of its column, text anchors right */
-    .meta-flip-right {
-      justify-self: end;
-    }
-
-    /* Left element */
+    /* Left element — wide enough for "Edition No. XX" */
     #edition-label {
       justify-self: start;
+      width: 100px;
+    }
+
+    /* Right element — wide enough for full date string, right-aligned */
+    .meta-flip-right {
+      justify-self: end;
+      width: 170px;
     }
 
     /* Both faces — shared base */
@@ -828,9 +829,21 @@
       .meta-flip {
         font-size: 7px;
         letter-spacing: 1px;
-        /* Larger tap target on mobile */
-        padding: 8px 0;
-        margin: -8px 0;
+        padding: 10px 0;
+        margin: -10px 0;
+      }
+
+      /* Narrower widths at smaller font size on mobile */
+      #edition-label {
+        width: 76px;
+      }
+
+      .meta-flip-link {
+        width: 88px;
+      }
+
+      .meta-flip-right {
+        width: 130px;
       }
 
       .content {
