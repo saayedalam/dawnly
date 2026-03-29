@@ -88,6 +88,9 @@
       text-decoration: none;
       cursor: pointer;
       justify-self: center;
+      width: 120px;
+      display: flex;
+      justify-content: center;
     }
 
     .meta-flip-right {
@@ -106,6 +109,23 @@
       transition: transform 0.4s cubic-bezier(0.4,0,0.2,1),
                   opacity  0.4s cubic-bezier(0.4,0,0.2,1);
       backface-visibility: hidden;
+    }
+
+    /* Centre the text inside the link flip element */
+    .meta-flip-link .flip-front,
+    .meta-flip-link .flip-back {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    .meta-flip-link:hover .flip-front,
+    .meta-flip-link.active .flip-front {
+      transform: translateX(-50%) rotateX(90deg);
+    }
+
+    .meta-flip-link:hover .flip-back,
+    .meta-flip-link.active .flip-back {
+      transform: translateX(-50%) rotateX(0deg);
     }
 
     /* Right-aligned element: anchor text to right instead */
