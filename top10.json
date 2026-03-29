@@ -1,39 +1,39 @@
 {
-  "published_at": "2026-03-28T10:41:02.938186+00:00",
+  "published_at": "2026-03-29T10:43:08.128801+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Iran conflict escalates as regional tensions reshape global markets",
-      "summary": "Israeli and American forces continue sustained military operations against Iranian targets and affiliated groups across the region as the conflict enters its fourth week. Yemen's Houthi movement has launched missile strikes on Israel while Lebanon faces ongoing Israeli attacks that are displacing large portions of its population.",
+      "headline": "Regional tensions escalate amid concerns over broader conflicts",
+      "summary": "Houthi attacks on shipping in the Red Sea disrupt one of the world's most critical maritime trade routes, raising costs for importers and exporters across multiple industries. Regional tensions continue to escalate as the conflict expands beyond its original borders, with diplomatic efforts underway to manage the broader implications.",
       "is_grouped": true,
-      "angle_count": 3,
+      "angle_count": 4,
       "angles": [
         {
-          "headline": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
-          "summary": "Israeli and American forces continue sustained military operations against Iranian targets and affiliated groups across the region as the conflict enters its fourth week. Yemen's Houthi movement has launched missile strikes on Israel while Lebanon faces ongoing Israeli attacks that are displacing large portions of its population."
+          "headline": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+          "summary": "Houthi attacks on shipping in the Red Sea disrupt one of the world's most critical maritime trade routes, raising costs for importers and exporters across multiple industries. Regional tensions continue to escalate as the conflict expands beyond its original borders, with diplomatic efforts underway to manage the broader implications."
         },
         {
-          "headline": "Amid Iran war, Trump says he’d love his legacy to be made as ‘great peacemaker’",
-          "summary": "Trump has expressed a desire to be remembered as a peacemaker while simultaneously demanding that Iran reopen the Strait of Hormuz and criticizing NATO allies over their response to regional tensions. His administration is reportedly evaluating military options to secure control of the strategic waterway, which Iran has disrupted amid escalating conflict."
+          "headline": "No Kings protesters across the US rally against Donald Trump",
+          "summary": "Large-scale protests called \"No Kings\" are taking place across the United States, with participants mobilizing to oppose Trump and his administration's policies. The demonstrations reflect organized resistance from multiple cities and draw crowds described in the millions as protesters seek to push back against the current administration's direction."
         },
         {
-          "headline": "Fighting in Iran: Is another 1970s‑style oil crisis looming?",
-          "summary": "Escalating conflict in Iran raises concerns about potential disruptions to global oil supplies, echoing the economic shocks that followed the 1979 revolution. Financial markets are responding to the uncertainty, with some sectors and currencies gaining ground while others face volatility tied to the duration and scope of the fighting."
+          "headline": "Pentagon readies for weeks of US ground operations in Iran: Report",
+          "summary": "US military planners are preparing contingency plans for extended ground operations that could last weeks if deployed in Iran, according to defense assessments. Iran's Revolutionary Guards have claimed recent attacks on aluminium facilities in the UAE and Bahrain, while Iranian officials suggest readiness to respond to potential US military action."
         }
       ],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month"
+          "link": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon"
         }
       ],
       "regions": [
@@ -42,7 +42,6 @@
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
         "Israel",
@@ -50,292 +49,288 @@
         "North Africa",
         "Qatar",
         "South Africa",
-        "South America",
         "Southeast Asia",
         "UK",
         "US",
-        "Ukraine"
+        "Ukraine",
+        "West Africa"
       ],
-      "score": 0.7917,
-      "mentions": 80,
-      "diversity": 18
+      "score": 0.7667,
+      "mentions": 90,
+      "diversity": 17
     },
     {
       "rank": 2,
-      "headline": "Tiger Woods released on bail after car crash",
-      "summary": "Tiger Woods was arrested on suspicion of driving under the influence following a single-vehicle rollover crash in Florida. He was released on bail hours after his arrest, and now faces DUI charges related to the incident.",
+      "headline": "Kimi Antonelli wins Japanese Grand Prix to become youngest F1 title leader",
+      "summary": "Kimi Antonelli, an Italian teenager, wins the Japanese Grand Prix and takes the lead in the Formula 1 championship standings. His victory makes him the youngest driver to hold the title lead at this stage of an F1 season.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/sport/formula1/articles/c75k7kqdw6no?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/3/28/tiger-woods-released-on-bail-hours-after-arrest-on-suspicion-of-dui?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/3/29/kimi-antonelli-wins-japanese-gp-to-become-youngest-f1-title-leader?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/italian-teenager-antonelli-wins-japanese-gp-take-championship-lead-6023976"
+        }
+      ],
+      "regions": [
+        "Qatar",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3917,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 3,
+      "headline": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
+      "summary": "Thieves in Italy stole approximately 12 tons of KitKat chocolate bars from a shipment, representing over 400,000 individual bars from Nestle's new chocolate range. The scale of the theft underscores ongoing challenges with cargo theft in the region, where high-value goods remain vulnerable during transport.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/tiger-woods-released-on-bail-after-florida-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3348270/over-400000-kitkat-bars-stolen-thieves-make-break-12-tonne-shipment?utm_source=rss_feed"
         }
       ],
       "regions": [
         "Australia",
-        "Canada",
         "Germany",
         "Hong Kong",
-        "Qatar",
         "UK"
       ],
-      "score": 0.5811,
-      "mentions": 8,
-      "diversity": 5
-    },
-    {
-      "rank": 3,
-      "headline": "Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown",
-      "summary": "Nepal's former Prime Minister K.P. Sharma Oli has been detained on suspicion of ordering a violent crackdown that killed protesters during recent demonstrations. The arrest includes the ex-Home Minister and addresses accountability for deaths that occurred during protests, likely involving Gen Z activists.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/28/kp-sharma-oli-nepal-arrested-alleged-role-protest-crackdown-ntwnfb"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nepal-former-pm-oli-arrested-over-deadly-protests/a-76573671?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "India",
-        "North Africa",
-        "Qatar",
-        "UK"
-      ],
-      "score": 0.4507,
-      "mentions": 6,
-      "diversity": 4
+      "score": 0.3722,
+      "mentions": 4,
+      "diversity": 3
     },
     {
       "rank": 4,
-      "headline": "House Republicans reject Senate deal, prolonging partial US government shutdown",
-      "summary": "House Republicans reject a bipartisan Senate proposal to reopen shuttered federal agencies, keeping parts of the government closed and leaving funding disputes unresolved. President Trump directs that TSA employees receive pay during the shutdown to maintain airport security operations while Congress remains deadlocked over broader spending disagreements.",
+      "headline": "Police in Paris foil attempted bomb attack outside Bank of America building",
+      "summary": "French police prevented an attempted bombing at a Bank of America building in Paris by intercepting the attack before it could occur. The foiled operation highlights ongoing security concerns around financial institutions and potential threats in the French capital.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-republicans-reject-senate-bill-to-end-shutdown-fund-tsa/a-76564649?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-us-dhs-funding-airports-donald-trump-congress/"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3348268/french-anti-terror-prosecutors-probe-foiled-paris-bomb-plot?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Canada",
         "Germany",
+        "Hong Kong",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.4503,
-      "mentions": 5,
+      "score": 0.3722,
+      "mentions": 4,
       "diversity": 3
     },
     {
       "rank": 5,
-      "headline": "Third No Kings protests to see millions across US push back on Trump administration",
-      "summary": "Millions of Americans are participating in the third \"No Kings\" protest series, with demonstrations planned across thousands of cities to oppose Trump administration policies. The recurring protest movement seeks record turnout as organizers attempt to sustain momentum in their ongoing mobilization effort.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/03/28/nx-s1-5763702/no-kings-saturday-protests"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
-        }
-      ],
-      "regions": [
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.4503,
-      "mentions": 5,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "Indonesia rolls out social media ban for under-16s",
-      "summary": "Indonesia begins enforcing a ban that prevents children under 16 from accessing social media platforms, making it one of the world's first countries to implement such a broad age-based restriction. The policy aims to protect young users from online harms including addiction, cyberbullying, and exposure to inappropriate content.",
+      "headline": "North Korea tests high-thrust engine in long-range missile push",
+      "summary": "North Korea has tested a high-thrust engine designed for long-range missiles, marking another step in its weapons development program. The test suggests the country is advancing toward building intercontinental ballistic missiles capable of reaching the United States mainland.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/indonesia-rolls-out-social-media-ban-for-under-16s/a-76574803?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/north-korea-tests-high-thrust-engine-in-long-range-missile-push/a-76581352?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3348232/indonesia-begins-social-media-ban-children-under-16?utm_source=rss_feed"
+          "link": "https://www.scmp.com/week-asia/politics/article/3348280/north-tests-powerful-missile-engine-will-icbm-launch-follow?utm_source=rss_feed"
         },
         {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/asia/indonesia-starts-social-media-ban-children-youtube-tiktok-facebook-instagram-6022636"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-conducts-engine-test-for-missile-capable-of-targeting-us-mainland/article70798788.ece"
         }
       ],
       "regions": [
         "Germany",
         "Hong Kong",
+        "India",
         "Southeast Asia"
       ],
-      "score": 0.3637,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.3565,
+      "mentions": 5,
+      "diversity": 4
     },
     {
-      "rank": 7,
-      "headline": "Trump says ‘Cuba is next’ target of US military",
-      "summary": "During a speech highlighting U.S. military achievements, Trump identified Cuba as a potential target for American military action. He made the statement while defending his standing with his political base against suggestions of declining support.",
+      "rank": 6,
+      "headline": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
+      "summary": "Vice President JD Vance wins the Conservative Political Action Conference's straw poll, positioning him as a leading contender for the 2028 Republican presidential nomination. The non-binding poll reflects current sentiment among CPAC attendees but does not predict primary or general election outcomes.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/mar/28/jd-vance-leads-cpac-poll-republican-presidential-candidate"
         },
         {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/trump-cuba-next-deny-lose-maga-support-us-6023036"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/64dee502-774d-4cc2-804f-3093ea4480c7"
         }
       ],
       "regions": [
-        "India",
         "Qatar",
-        "Southeast Asia"
+        "UK"
       ],
-      "score": 0.3346,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
     },
     {
-      "rank": 8,
-      "headline": "Bank of America settles Epstein case for $72.5 million",
-      "summary": "Bank of America settles a lawsuit by agreeing to pay $72.5 million over its role in failing to report suspicious financial activity linked to Jeffrey Epstein's sex-trafficking operation. The bank's systems missed or ignored warning signs despite regulatory obligations to flag potential money laundering and criminal conduct.",
+      "rank": 7,
+      "headline": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
+      "summary": "Ukraine and Qatar formalize a defense partnership as President Zelenskyy travels through the Gulf region to strengthen security ties and explore military cooperation. The visit reflects Ukraine's effort to diversify its international support network and secure advanced defense technology, particularly against drone threats, while building relationships with wealthy Gulf states.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/bank-of-america-settles-epstein-case-for-72-5-million/a-76573867?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3348228/bank-america-pay-us725-million-settle-epstein-sex-trafficking-lawsuit?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3348273/irans-drones-swarm-gulf-ukraines-wartime-tech-lands-billion-dollar-deals?utm_source=rss_feed"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/united-states/bank-of-america-agrees-to-pay-93-7-million-to-settle-epstein-accusers-lawsuit"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/zelenskyy-visits-uae-for-talks-on-security-situation/article70796073.ece"
         }
       ],
       "regions": [
+        "Canada",
         "Germany",
         "Hong Kong",
-        "Southeast Asia"
+        "India",
+        "Ukraine"
       ],
-      "score": 0.3274,
+      "score": 0.339,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Man held on suspicion of attempted murder after car hits pedestrians in Derby",
+      "summary": "A vehicle struck multiple pedestrians in Derby, United Kingdom, injuring seven people. Police arrested a man at the scene on suspicion of attempted murder.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/mar/29/man-arrested-in-derby-after-car-hits-multiple-pedestrians-with-some-seriously-injured"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/car-hits-pedestrians-in-central-england-city-driver-arrested-police/article70798734.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/car-hits-pedestrians-in-central-england-city-driver-arrested-police"
+        }
+      ],
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.275,
       "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 9,
-      "headline": "Missing aid boats have safely reached Cuba, US confirms",
-      "summary": "Two aid boats that departed from Mexico carrying humanitarian supplies have arrived safely in Cuba, the US Coast Guard confirms. The vessels had prompted a search operation after losing contact during their crossing, but both crews and cargo reached their destination without incident.",
+      "headline": "Pope Leo tells Monaco to use 'gift of smallness' for good",
+      "summary": "Pope Leo XIV visits Monaco and encourages the principality to leverage its small size and resources as advantages for promoting justice and peace globally. The pontiff frames Monaco's modest scale not as a limitation but as a distinctive position from which to pursue moral leadership and charitable influence.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-tells-monaco-to-use-gift-of-smallness-for-good/a-76577459?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3348215/missing-aid-boats-safely-crossed-cuba-us-coastguard-says?utm_source=rss_feed"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-xiv-monaco-visit/"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/missing-sailboats-for-cuba-aid-convoy-arrived-safely-afp-reports"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/03/28/in-historic-monaco-visit-pope-leo-xiv-calls-for-justice-and-peace/"
         }
       ],
       "regions": [
-        "Hong Kong",
-        "Mexico",
-        "Southeast Asia",
-        "UK"
+        "Africa",
+        "Canada",
+        "Germany"
       ],
-      "score": 0.2828,
-      "mentions": 4,
-      "diversity": 4
+      "score": 0.275,
+      "mentions": 3,
+      "diversity": 3
     },
     {
       "rank": 10,
-      "headline": "Pro-Iran hackers say they breached FBI chief Patel’s email account, post personal files",
-      "summary": "Pro-Iran hackers claim to have accessed FBI Director Kash Patel's personal email account and published photos and documents from it online. The FBI has confirmed that the breach occurred, marking a significant security incident involving a senior U.S. law enforcement official's private communications.",
+      "headline": "Missing Cuba-bound boats carrying aid arrive safely in Havana",
+      "summary": "Two sailboats carrying humanitarian aid that went missing while traveling to Cuba have arrived safely in Havana after the Mexican Navy located them off the island's coast. The successful delivery resolves concerns about the vessels and their cargo, which were intended to provide assistance to Cuba.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3348214/pro-iran-hackers-say-they-breached-fbi-chief-patels-email-account-post-personal-files?utm_source=rss_feed"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/missing-cuba-bound-boats-carrying-aid-arrive-safely-in-havana/a-76580010?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email-publish-photos-and-documents/article70795233.ece"
+          "link": "https://www.thehindu.com/news/international/missing-sailboats-carrying-aid-arrive-in-cuba-after-being-located-by-mexican-navy/article70798621.ece"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fbi-confirms-director-kash-patels-email-hack-claimed-iran-linked-group"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-mexico-cuba-humanitarian-aid-missing-sailboats/"
         }
       ],
       "regions": [
         "Canada",
-        "Hong Kong",
+        "Germany",
         "India",
-        "Middle East"
+        "North Africa"
       ],
-      "score": 0.2828,
+      "score": 0.2389,
       "mentions": 4,
       "diversity": 4
     }
