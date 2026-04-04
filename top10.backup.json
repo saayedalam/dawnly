@@ -1,112 +1,139 @@
 {
-  "published_at": "2026-04-02T11:00:19.173701+00:00",
+  "published_at": "2026-04-03T10:53:03.057613+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Trump says Iran war objectives 'nearing completion' in address to nation",
-      "summary": "Trump states that military objectives in Iran are approaching completion, prompting markets to react with oil prices rising and stock indices declining across Asia. The escalating US-Israeli campaign has created economic uncertainty, with investors weighing the geopolitical risks against energy supply concerns.",
+      "headline": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
+      "summary": "The United States has struck the Karaj bridge in Iran, prompting Iranian citizens to express concern about potential escalation and retaliation. The incident occurs amid broader tensions over regional attacks, with Western allies considering sanctions related to Iran's actions in the Strait of Hormuz.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address"
+          "link": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike"
         }
       ],
       "regions": [
         "Africa",
-        "Asia-Pacific",
         "Australia",
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
+        "Global",
         "Hong Kong",
         "India",
-        "Israel",
         "Middle East",
         "North Africa",
         "Qatar",
-        "South Africa",
-        "South America",
+        "Russia",
         "Southeast Asia",
         "UK",
         "US",
-        "Ukraine"
+        "West Africa"
       ],
-      "score": 0.7778,
-      "mentions": 77,
+      "score": 0.79,
+      "mentions": 54,
       "diversity": 9
     },
     {
       "rank": 2,
-      "headline": "'Oh my goodness, that is spectacular': Watch BBC science editor react to launch",
-      "summary": "NASA's Artemis II rocket launches successfully, carrying astronauts on a mission to orbit the moon and return to Earth. The flight represents humanity's next step toward landing people on the lunar surface and establishes a pathway for deeper space exploration.",
+      "headline": "Trump removes US Attorney General Pam Bondi",
+      "summary": "Trump has removed Pam Bondi from her position as Attorney General, ending her tenure leading the Justice Department. The departure marks a shift in the administration's leadership at the agency responsible for federal law enforcement and legal matters.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche?traffic_source=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-removes-attorney-general-pam-bondi/a-76648584?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "Africa",
         "Australia",
-        "Brazil",
+        "Canada",
         "Germany",
-        "Hong Kong",
         "India",
-        "Israel",
         "Qatar",
-        "South Africa",
         "South America",
         "Southeast Asia",
         "UK",
-        "US",
-        "Ukraine"
+        "US"
       ],
-      "score": 0.6177,
-      "mentions": 23,
-      "diversity": 9
+      "score": 0.6475,
+      "mentions": 13,
+      "diversity": 7
     },
     {
       "rank": 3,
-      "headline": "Trump v Supreme Court: The battle over birthright citizenship",
-      "summary": "The Supreme Court heard arguments on whether the 14th Amendment's guarantee of citizenship to all people born in the US applies to children of non-citizens, with Trump attending the oral arguments as the case directly affects his policy agenda. The justices' questions suggested skepticism toward narrowing birthright citizenship, though the court's final decision will determine whether millions of American-born children retain automatic citizenship rights.",
+      "headline": "Myanmar's coup leader who set off a brutal civil war becomes president",
+      "summary": "Min Aung Hlaing, who led Myanmar's 2021 military coup, has been elected president by the pro-military parliament, formalizing his control after years of civil conflict. The appointment consolidates power within the junta structure while widespread armed resistance to military rule continues across the country.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nb4ky4?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-supreme-court-debates-citizenship-with-rare-trump-visit/a-76630576?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3348722/china-targeted-birthright-citizenship-debate-supreme-court-justices-sceptical?utm_source=rss_feed"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Qatar",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6286,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+      "summary": "NASA's Artemis II spacecraft has executed a critical engine burn to depart Earth's orbit and begin its trajectory toward the Moon, carrying four astronauts on humanity's first crewed lunar mission since 1972. The mission continues on schedule despite an earlier toilet malfunction that the crew resolved, positioning the spacecraft to reach the Moon's far side as planned.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon"
         }
       ],
       "regions": [
@@ -114,233 +141,205 @@
         "Canada",
         "Germany",
         "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4746,
-      "mentions": 10,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "A year on: Four ways Trump's tariffs have changed the global economy",
-      "summary": "Trump's tariffs have reshaped global trade patterns over the past year, affecting supply chains, manufacturing locations, and pricing across multiple sectors. Economists assess mixed results, with some businesses relocating production while consumers face higher costs on imported goods.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/2/trumps-tariffs-one-year-on-how-americans-are-paying-the-price?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/apr/02/trump-liberation-day-us-tariffs-trade"
-        }
-      ],
-      "regions": [
-        "Germany",
+        "North Africa",
         "Qatar",
         "UK",
         "US"
       ],
-      "score": 0.4712,
-      "mentions": 6,
-      "diversity": 3
+      "score": 0.5404,
+      "mentions": 8,
+      "diversity": 5
     },
     {
       "rank": 5,
-      "headline": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
-      "summary": "A magnitude 7.4 earthquake struck off Ternate in Indonesia's Molucca Sea, damaging buildings and causing one death in the region. Authorities issued and then lifted a tsunami warning as waves reached the area but posed no major threat.",
+      "headline": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
+      "summary": "Trump has announced a 100 percent tariff on imported pharmaceuticals, using the trade measure as leverage to negotiate lower drug prices and increase domestic manufacturing. The tariff affects major pharmaceutical exporters including Australia, which has stated it will not raise domestic drug prices in response to the policy.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert"
+          "link": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/indonesia-strong-earthquake-strikes-molucca-⁠sea-killing-1/a-76634417?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/25ecf952-2fca-4ac0-9f72-69949c929a62"
         }
       ],
       "regions": [
-        "Africa",
-        "Germany",
-        "Hong Kong",
+        "Australia",
         "India",
         "Qatar",
-        "South Africa",
+        "Southeast Asia",
         "UK"
       ],
-      "score": 0.3949,
+      "score": 0.5044,
       "mentions": 7,
       "diversity": 5
     },
     {
       "rank": 6,
-      "headline": "U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez",
-      "summary": "The U.S. removes financial restrictions on Delcy Rodríguez, Venezuela's acting president, altering its stance toward a figure previously targeted by sanctions. The move enables her to travel to Washington and signals a potential shift in diplomatic relations between the two countries.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-lifts-sanctions-on-venezuela-s-acting-president-delcy-rodriguez/a-76635151?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3348729/us-lifts-sanctions-venezuelas-acting-president-rodriguez-who-praises-trump?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "India",
-        "South America",
-        "US"
-      ],
-      "score": 0.3801,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
-      "headline": "Trump’s threats to withdraw US from Nato ‘look like Putin’s dream plan’, says Tusk – Europe live",
-      "summary": "Donald Trump's recent statements about potentially withdrawing the United States from NATO have drawn criticism from European leaders, including Polish Prime Minister Donald Tusk, who view such threats as strategically advantageous to Russian interests. While Trump frames NATO as ineffective, analysts note that actual withdrawal would face significant legal and political obstacles despite the serious destabilizing effects such rhetoric alone can create.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/us-is-considering-exiting-paper-tiger-nato-says-trump/article70811161.ece"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Global",
-        "India",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.3282,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 8,
-      "headline": "UK to host virtual summit on reopening the Strait of Hormuz",
-      "summary": "Britain convenes a virtual meeting with 35 countries, including Canada, to address the closure of the Strait of Hormuz, a critical shipping passage for global oil trade. The summit aims to coordinate international efforts toward reopening the waterway, which affects energy supplies and commerce across multiple regions.",
+      "headline": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
+      "summary": "Cuba is releasing more than 2,000 prisoners in what officials describe as a humanitarian and sovereign gesture, occurring amid mounting diplomatic pressure from the United States. The move reflects ongoing tensions between the two countries and Cuba's response to international scrutiny over its detention practices.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-iran-war-talks-reopening-strait-of-hormuz/"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/uk-to-host-talks-with-35-countries-on-reopening-strait-of-hormuz"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html"
         }
       ],
       "regions": [
-        "Canada",
+        "Hong Kong",
+        "Qatar",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.2302,
-      "mentions": 3,
-      "diversity": 3
+      "score": 0.4858,
+      "mentions": 5,
+      "diversity": 5
     },
     {
-      "rank": 9,
-      "headline": "Israel’s death penalty law is not about executing Palestinians",
-      "summary": "Israel has enacted a death penalty law that applies to Palestinians convicted of certain crimes, marking a significant shift in its legal system after decades without executions. The law has drawn condemnation from eight Muslim-majority nations, who view it as a tool for prosecuting Palestinians in occupied territories.",
+      "rank": 7,
+      "headline": "Tiger Woods told police after car crash he was ‘talking to the president’",
+      "summary": "Tiger Woods told a police officer he was on a phone call with the president at the time of his car crash, according to body camera footage released from the incident. The golfer's account provides context for what he was doing immediately before the accident occurred.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/opinions/2026/4/2/israels-death-penalty-law-is-not-about-executing-palestinians?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-muslim-countries-condemn-israels-law-death-penalty-palestinians"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3348863/after-car-crash-tiger-woods-told-officer-he-was-talking-president?utm_source=rss_feed"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/eight-muslim-majority-countries-condemn-israels-new-death-penalty-law"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/after-crash-tiger-woods-told-deputy-he-was-talking-to-the-president-body-camera-shows-20260403-p5zl61.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
       "regions": [
-        "Middle East",
-        "Qatar",
-        "Southeast Asia"
+        "Africa",
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Qatar"
       ],
-      "score": 0.1944,
-      "mentions": 3,
-      "diversity": 2
+      "score": 0.4484,
+      "mentions": 7,
+      "diversity": 5
     },
     {
-      "rank": 10,
-      "headline": "Israeli strike on Beirut kills senior Hezbollah commander",
-      "summary": "An Israeli airstrike on Beirut kills a senior Hezbollah military commander, marking an escalation in cross-border military operations between Israel and the Lebanese militant group. The strike occurs amid ongoing exchanges of fire in southern Lebanon, where civilian and combatant casualties continue to mount on both sides.",
+      "rank": 8,
+      "headline": "‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran",
+      "summary": "French President Macron expresses concern that Trump's shifting positions on NATO and Iran undermine diplomatic stability and create uncertainty for European allies. The criticism reflects broader European frustration with what officials view as inconsistent messaging on key security issues.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/israeli-strike-on-beirut-kills-senior-hezbollah-commander/article70812850.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-four-southern-lebanon"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/02/lebanon-hit-by-fresh-israeli-raid-and-hezbollah-response/"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/treated-badly-trump-sparks-furore-as-he-mocks-macron-s-marriage-20260403-p5zl40.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
       "regions": [
-        "Africa",
-        "India",
-        "Middle East"
+        "Australia",
+        "Germany",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.1524,
-      "mentions": 3,
+      "score": 0.4255,
+      "mentions": 4,
       "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Ukraine: Kharkiv under repeated attack on 1,500th day of war",
+      "summary": "Russia is conducting unprecedented aerial bombardment across Ukraine, including sustained drone attacks on the eastern city of Kharkiv as the war enters its 1,500th day. The intensity of these strikes, which include record numbers of drones, reflects an escalation in Russia's air campaign despite international calls for restraint.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-kharkiv-under-repeated-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-fired-record-number-of-drones-in-march-ukraine-air-force-data/article70817138.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-conducting-rolling-aerial-attack-on-ukraine-kyiv-says"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.398,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Hegseth fires US Army chief of staff in reported string of dismissals",
+      "summary": "Defense Secretary Hegseth has removed the US Army's chief of staff as part of a broader restructuring of military leadership. The dismissals occur while the United States maintains active military operations in the Middle East, signaling a shift in the Pentagon's command structure during an ongoing conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hegseth-asks-us-armys-top-officer-to-step-down-while-us-continues-war-on-iran/article70818467.ece"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Qatar",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3774,
+      "mentions": 6,
+      "diversity": 4
     }
   ]
 }
