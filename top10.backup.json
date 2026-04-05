@@ -1,26 +1,39 @@
 {
-  "published_at": "2026-04-03T10:53:03.057613+00:00",
+  "published_at": "2026-04-04T10:42:31.888074+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
-      "summary": "The United States has struck the Karaj bridge in Iran, prompting Iranian citizens to express concern about potential escalation and retaliation. The incident occurs amid broader tensions over regional attacks, with Western allies considering sanctions related to Iran's actions in the Strait of Hormuz.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "US aircraft operates over southern Iran amid tensions",
+      "summary": "A U.S. F-15E fighter jet was shot down over southern Iran, and video footage captured American search and rescue helicopters responding to retrieve the crew. One of the two pilots has been rescued, according to reports from the ongoing military operations in the region.",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Video appears to show US plane and search and rescue helicopters over southern Iran",
+          "summary": "A U.S. F-15E fighter jet was shot down over southern Iran, and video footage captured American search and rescue helicopters responding to retrieve the crew. One of the two pilots has been rescued, according to reports from the ongoing military operations in the region."
+        },
+        {
+          "headline": "French-owned ship passes through Strait of Hormuz",
+          "summary": "A French-owned vessel has successfully transited the Strait of Hormuz, a critical waterway through which roughly one-third of global sea-traded oil passes. The passage reflects ongoing tensions in the region and demonstrates that commercial shipping continues despite geopolitical risks that have prompted debate among Western powers about how to secure the strategically vital channel."
+        },
+        {
+          "headline": "International law experts allege violations in Iran war",
+          "summary": "International law experts have raised allegations that recent military strikes violate established conventions governing armed conflict, focusing on the targeting of infrastructure and civilian areas. The dispute centers on whether the strikes meet the legal threshold for war crimes or constitute legitimate military actions under international humanitarian law."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/videos/cly68eg7px6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike"
+          "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
         }
       ],
       "regions": [
@@ -32,108 +45,39 @@
         "Global",
         "Hong Kong",
         "India",
+        "Israel",
         "Middle East",
         "North Africa",
-        "Qatar",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "West Africa"
-      ],
-      "score": 0.79,
-      "mentions": 54,
-      "diversity": 9
-    },
-    {
-      "rank": 2,
-      "headline": "Trump removes US Attorney General Pam Bondi",
-      "summary": "Trump has removed Pam Bondi from her position as Attorney General, ending her tenure leading the Justice Department. The departure marks a shift in the administration's leadership at the agency responsible for federal law enforcement and legal matters.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-removes-attorney-general-pam-bondi/a-76648584?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "India",
         "Qatar",
         "South America",
         "Southeast Asia",
         "UK",
-        "US"
+        "US",
+        "Ukraine"
       ],
-      "score": 0.6475,
-      "mentions": 13,
-      "diversity": 7
+      "score": 0.7095,
+      "mentions": 85,
+      "diversity": 17
     },
     {
-      "rank": 3,
-      "headline": "Myanmar's coup leader who set off a brutal civil war becomes president",
-      "summary": "Min Aung Hlaing, who led Myanmar's 2021 military coup, has been elected president by the pro-military parliament, formalizing his control after years of civil conflict. The appointment consolidates power within the junta structure while widespread armed resistance to military rule continues across the country.",
+      "rank": 2,
+      "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+      "summary": "The Artemis II spacecraft has reached the midpoint of its journey to the Moon, with the crew capturing photographs of Earth from their distant vantage point. The mission continues NASA's effort to return humans to lunar exploration after decades of absence.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Qatar",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.6286,
-      "mentions": 8,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-      "summary": "NASA's Artemis II spacecraft has executed a critical engine burn to depart Earth's orbit and begin its trajectory toward the Moon, carrying four astronauts on humanity's first crewed lunar mission since 1972. The mission continues on schedule despite an earlier toilet malfunction that the crew resolved, positioning the spacecraft to reach the Moon's far side as planned.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon"
+          "link": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
         }
       ],
       "regions": [
@@ -141,51 +85,58 @@
         "Canada",
         "Germany",
         "Hong Kong",
-        "North Africa",
+        "India",
+        "Israel",
         "Qatar",
+        "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.5404,
-      "mentions": 8,
-      "diversity": 5
+      "score": 0.5974,
+      "mentions": 14,
+      "diversity": 7
     },
     {
-      "rank": 5,
-      "headline": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
-      "summary": "Trump has announced a 100 percent tariff on imported pharmaceuticals, using the trade measure as leverage to negotiate lower drug prices and increase domestic manufacturing. The tariff affects major pharmaceutical exporters including Australia, which has stated it will not raise domestic drug prices in response to the policy.",
+      "rank": 3,
+      "headline": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+      "summary": "Russia has intensified military operations against Ukraine around Easter rather than pursuing ceasefire negotiations, according to Ukrainian President Zelensky. Multiple Russian attacks on Ukrainian cities and infrastructure have killed dozens of people as the conflict approaches its 1,500th day.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/25ecf952-2fca-4ac0-9f72-69949c929a62"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-14-people-killed-in-massive-russian-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "Australia",
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
         "India",
         "Qatar",
+        "Russia",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.5044,
-      "mentions": 7,
-      "diversity": 5
+      "score": 0.5898,
+      "mentions": 21,
+      "diversity": 7
     },
     {
-      "rank": 6,
-      "headline": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
-      "summary": "Cuba is releasing more than 2,000 prisoners in what officials describe as a humanitarian and sovereign gesture, occurring amid mounting diplomatic pressure from the United States. The move reflects ongoing tensions between the two countries and Cuba's response to international scrutiny over its detention practices.",
+      "rank": 4,
+      "headline": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
+      "summary": "Cuba is releasing over 2,000 prisoners as the United States eases longstanding economic restrictions, part of a broader thaw in tensions between the two countries. Human rights organizations are seeking clarity on whether the releases include political detainees and protesters, rather than only those convicted of common crimes.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -196,150 +147,206 @@
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade"
         }
       ],
       "regions": [
-        "Hong Kong",
+        "Canada",
+        "Germany",
         "Qatar",
         "Southeast Asia",
-        "UK",
-        "US"
+        "UK"
       ],
-      "score": 0.4858,
-      "mentions": 5,
-      "diversity": 5
+      "score": 0.513,
+      "mentions": 6,
+      "diversity": 4
     },
     {
-      "rank": 7,
-      "headline": "Tiger Woods told police after car crash he was ‘talking to the president’",
-      "summary": "Tiger Woods told a police officer he was on a phone call with the president at the time of his car crash, according to body camera footage released from the incident. The golfer's account provides context for what he was doing immediately before the accident occurred.",
+      "rank": 5,
+      "headline": "Afghanistan earthquake kills eight members of same family",
+      "summary": "A 5.9 magnitude earthquake struck Afghanistan, killing at least eight members of a single family in the affected region. The tremors were felt across a wider area including northern India and Pakistan, though casualty reports remain concentrated in Afghanistan.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3348863/after-car-crash-tiger-woods-told-officer-he-was-talking-president?utm_source=rss_feed"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/afghanistan-earthquake-of-magnitude-5-9-kills-at-least-8/a-76657899?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/north-america/after-crash-tiger-woods-told-deputy-he-was-talking-to-the-president-body-camera-shows-20260403-p5zl61.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/earthquake-today-3-april-2026-afghanistan-epicentre-tremors-delhi-jammu-pakistan/article70821067.ece"
         }
       ],
       "regions": [
-        "Africa",
-        "Australia",
         "Canada",
-        "Hong Kong",
-        "Qatar"
+        "Germany",
+        "India",
+        "Qatar",
+        "Southeast Asia"
       ],
-      "score": 0.4484,
-      "mentions": 7,
+      "score": 0.4169,
+      "mentions": 5,
       "diversity": 5
     },
     {
+      "rank": 6,
+      "headline": "Trump seeks $1.5T for defense, 10% cut to domestic programs",
+      "summary": "Trump's proposed budget allocates $1.5 trillion to defense while cutting domestic programs by 10 percent, reflecting escalating military commitments in the Middle East. The spending plan signals a significant shift in federal priorities toward military expenditure amid heightened tensions with Iran.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/politics/article/3349007/trump-administration-seeks-us15-trillion-defence-new-budget-request?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3848,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Trump seeks $152m to reopen notorious Alcatraz prison",
+      "summary": "Trump has requested $152 million in funding to reopen Alcatraz Island as an operational federal prison, decades after the facility closed in 1963. The proposal aims to address overcrowding in the federal prison system by restoring the island's infrastructure and security capabilities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/apr/03/trump-alcatraz-prison"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/trump-seeks-152-million-to-reopen-alcatraz-as-active-prison"
+        }
+      ],
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
       "rank": 8,
-      "headline": "‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran",
-      "summary": "French President Macron expresses concern that Trump's shifting positions on NATO and Iran undermine diplomatic stability and create uncertainty for European allies. The criticism reflects broader European frustration with what officials view as inconsistent messaging on key security issues.",
+      "headline": "Football rally in Peru leaves one dead and dozens injured",
+      "summary": "A pre-match event at a football stadium in Peru results in one fatality and injuries to dozens of attendees. The incident occurs during what appears to be a gathering or rally related to an upcoming match.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sport/other-sports/one-killed-dozens-hurt-as-football-stadium-event-in-peru-goes-awry/article70822492.ece"
+        }
+      ],
+      "regions": [
+        "India",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Pakistan announces free public transport after fuel price hike – as it happened",
+      "summary": "Pakistan increased fuel prices by up to 54 percent, then quickly reversed course by cutting petrol prices by 80 PKR per liter after public backlash forced a policy reversal. The government offered 30 days of free public transport to offset remaining cost pressures on commuters navigating the volatile pricing changes.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran"
+          "link": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/europe/treated-badly-trump-sparks-furore-as-he-mocks-macron-s-marriage-20260403-p5zl40.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Germany",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4255,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "Ukraine: Kharkiv under repeated attack on 1,500th day of war",
-      "summary": "Russia is conducting unprecedented aerial bombardment across Ukraine, including sustained drone attacks on the eastern city of Kharkiv as the war enters its 1,500th day. The intensity of these strikes, which include record numbers of drones, reflects an escalation in Russia's air campaign despite international calls for restraint.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-kharkiv-under-repeated-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3349010/pakistan-offers-30-days-free-public-transport-following-40-petrol-hike?utm_source=rss_feed"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russia-fired-record-number-of-drones-in-march-ukraine-air-force-data/article70817138.ece"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/russia-conducting-rolling-aerial-attack-on-ukraine-kyiv-says"
+          "link": "https://www.thehindu.com/news/international/pakistan-government-slashes-petrol-price-by-pkr-80-per-litre-day-after-sharp-hike-met-severe-backlash/article70822285.ece"
         }
       ],
       "regions": [
-        "Germany",
+        "Hong Kong",
         "India",
-        "Southeast Asia",
-        "Ukraine"
+        "UK"
       ],
-      "score": 0.398,
-      "mentions": 7,
+      "score": 0.3186,
+      "mentions": 5,
       "diversity": 3
     },
     {
       "rank": 10,
-      "headline": "Hegseth fires US Army chief of staff in reported string of dismissals",
-      "summary": "Defense Secretary Hegseth has removed the US Army's chief of staff as part of a broader restructuring of military leadership. The dismissals occur while the United States maintains active military operations in the Middle East, signaling a shift in the Pentagon's command structure during an ongoing conflict.",
+      "headline": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
+      "summary": "The World Health Organization has documented over 20 attacks on healthcare facilities in Iran since early March, disrupting medical services in a country already facing significant health infrastructure challenges. The attacks represent a broader regional security concern that threatens civilians' access to essential medical care and complicates efforts to maintain functional health systems.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
+          "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/hegseth-asks-us-armys-top-officer-to-step-down-while-us-continues-war-on-iran/article70818467.ece"
+          "link": "https://www.thehindu.com/news/international/who-warns-about-attacks-on-iran-health-facilities-regional-threat/article70822215.ece"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/world-health-organization-israel-united-states-iran-health-facilities-attacks-6036166"
         }
       ],
       "regions": [
-        "Canada",
         "India",
-        "Middle East",
         "Qatar",
-        "Southeast Asia",
-        "US"
+        "Southeast Asia"
       ],
-      "score": 0.3774,
-      "mentions": 6,
-      "diversity": 4
+      "score": 0.2554,
+      "mentions": 4,
+      "diversity": 3
     }
   ]
 }
