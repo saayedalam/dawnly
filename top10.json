@@ -1,39 +1,26 @@
 {
-  "published_at": "2026-04-05T10:43:23.716554+00:00",
+  "published_at": "2026-04-06T11:05:17.622960+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Regional tensions ease slightly as humanitarian crisis deepens",
-      "summary": "A US airman from a downed F-15E fighter jet has been rescued after ejecting over Iranian territory during recent military operations. The recovery marks a significant development in the escalating conflict involving US and Israeli forces against Iran and its allies in the region.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "What we know so far about rescue of US airman in Iran",
-          "summary": "A US airman from a downed F-15E fighter jet has been rescued after ejecting over Iranian territory during recent military operations. The recovery marks a significant development in the escalating conflict involving US and Israeli forces against Iran and its allies in the region."
-        },
-        {
-          "headline": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
-          "summary": "Iran announces that Iraqi vessels have permission to transit the Strait of Hormuz, signaling a specific carve-out in its broader stance on shipping through the critical waterway. Ship movements through the strait have increased, suggesting either renewed confidence in passage or a response to regional diplomatic overtures."
-        },
-        {
-          "headline": "Aid groups warn war in West Asia is hindering food, medicine from reaching millions",
-          "summary": "Aid organizations report that ongoing conflict in West Asia is blocking the delivery of essential food and medicine to millions of people who depend on humanitarian assistance. The disruption of supply chains and access routes threatens to worsen an already severe humanitarian crisis across the region."
-        }
-      ],
+      "headline": "How rescue of US airman in remote part of Iran unfolded",
+      "summary": "A U.S. airman was rescued from a remote region of Iran following what appears to have been a military operation or incident in the area. The extraction underscores ongoing tensions in the region as Israeli and American military activities have intensified against Iranian and Lebanese targets.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
+          "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
         }
       ],
       "regions": [
@@ -46,295 +33,303 @@
         "India",
         "Israel",
         "Middle East",
+        "North Africa",
         "Qatar",
+        "South Africa",
+        "South America",
         "Southeast Asia",
         "UK",
         "US",
-        "Ukraine"
+        "West Africa"
       ],
-      "score": 0.9341,
-      "mentions": 58,
-      "diversity": 14
+      "score": 0.7667,
+      "mentions": 91,
+      "diversity": 9
     },
     {
       "rank": 2,
-      "headline": "'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon",
-      "summary": "The Artemis II crew observes the lunar far side—the hemisphere permanently facing away from Earth—during their ongoing mission to the Moon. The astronauts' observations of this remote terrain contribute to NASA's preparation for future crewed lunar landings and extended surface exploration.",
+      "headline": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "summary": "During Artemis II's lunar flyby, the crew will experience a 40-minute communication blackout as the spacecraft passes behind the moon, a natural occurrence caused by the moon blocking radio signals between the capsule and Earth. NASA has prepared for this event as part of the mission's planned trajectory, which brings the astronauts closer to the lunar surface than any crewed mission since Apollo.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/6/a-visual-guide-to-artemis-ii-and-previous-missions-to-the-moon?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/us/science-technology/article/3349061/us-artemis-iis-moon-trip-faces-challenging-toilet-mission-again-over-flushing?utm_source=rss_feed"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/science/2026/apr/05/artemis-ii-astronauts-nasa-far-side-of-moon"
         }
       ],
       "regions": [
-        "Australia",
-        "Hong Kong",
-        "South America",
+        "Canada",
+        "Germany",
+        "India",
+        "Israel",
+        "Qatar",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.6675,
-      "mentions": 8,
-      "diversity": 6
+      "score": 0.523,
+      "mentions": 13,
+      "diversity": 5
     },
     {
       "rank": 3,
-      "headline": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
-      "summary": "Ukrainian forces strike two major Russian energy infrastructure targets—a port facility in Primorsk and an oil refinery in Nizhny Novgorod—as part of an ongoing campaign to disrupt fuel supplies. The attacks occur while Ukrainian President Zelensky travels to Turkey for diplomatic discussions, signaling continued military operations despite engagement in peace negotiations.",
+      "headline": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
+      "summary": "Pepsi has ended its sponsorship of London's Wireless Festival after the event announced Kanye West as a headliner, following public criticism over the artist's recent controversial statements. The withdrawal reflects how brands assess reputational risk when associated with polarizing figures, a pattern that has affected other major sponsors of the same festival.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3349053/russia-ukraine-strikes-kill-10-zelensky-travels-turkey-talks?utm_source=rss_feed"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russia-says-ukraine-attack-damages-oil-pipeline/article70826075.ece"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html"
         }
       ],
       "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
         "Hong Kong",
-        "India",
-        "Qatar",
-        "Russia",
+        "Israel",
         "Southeast Asia",
-        "Ukraine"
+        "UK",
+        "US"
       ],
-      "score": 0.5263,
-      "mentions": 10,
-      "diversity": 6
+      "score": 0.3634,
+      "mentions": 6,
+      "diversity": 5
     },
     {
       "rank": 4,
-      "headline": "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
-      "summary": "Indonesian peacekeepers serving with the United Nations Interim Force in Lebanon (UNIFIL) were killed during recent conflict in the country's south, and their remains have been returned home for burial ceremonies. President Prabowo has condemned the attacks that resulted in the deaths, underscoring tensions in a region where international peacekeeping forces operate amid ongoing Israeli-Hezbollah hostilities.",
+      "headline": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+      "summary": "Savannah Guthrie has returned to hosting NBC's Today show following months away during her mother's disappearance. The search for her mother continues as Guthrie resumes her broadcasting duties.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
+        }
+      ],
+      "regions": [
+        "UK",
+        "US"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 5,
+      "headline": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
+      "summary": "Serbian and Hungarian officials report finding explosives near a Russian gas pipeline running toward Hungary, with Hungarian Prime Minister Viktor Orbán suggesting Ukrainian involvement. The discovery has sparked accusations of a \"false flag\" operation, with various parties blaming each other for either planting or fabricating the incident to serve their geopolitical interests.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3349104/orban-appears-blame-kyiv-serbian-gas-pipeline-explosives-find?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3292,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Pope's Easter message: Leaders must choose peace over war",
+      "summary": "Pope Leo XIV used his first Easter Mass as pontiff to urge world leaders to prioritize peace over military conflict, particularly addressing ongoing tensions in West Asia. The pontiff also called for an end to widespread indifference toward human suffering, framing peace as a moral choice facing decision-makers globally.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/choose-peace-says-pope-leo-first-easter-wishes-war-in-west-asia/article70827518.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-xiv-easter-message-mass/"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "India",
+        "Ukraine"
+      ],
+      "score": 0.318,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Ukraine and Syria to cooperate on security, Zelenskyy says",
+      "summary": "Zelenskyy visits Syria to establish security cooperation between the two countries as part of a broader Middle East diplomatic tour. The agreement signals Ukraine's effort to expand international support and regional relationships beyond its traditional European allies.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349076/indonesia-lays-rest-peacekeepers-killed-lebanon-prabowo-condemns-attacks?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3349106/zelensky-syria-discuss-security-cooperation-president-ahmed-al-sharaa?utm_source=rss_feed"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/indonesia-lays-to-rest-peacekeepers-killed-in-lebanon/article70825940.ece"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/04/06/zelenskyy-turkey-and-syria-discuss-war-and-reconstruction/"
         }
       ],
       "regions": [
+        "Africa",
         "Hong Kong",
-        "India",
+        "Israel",
         "Qatar",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Ukraine"
       ],
-      "score": 0.4553,
-      "mentions": 4,
-      "diversity": 4
+      "score": 0.3051,
+      "mentions": 6,
+      "diversity": 5
     },
     {
-      "rank": 5,
-      "headline": "In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted",
-      "summary": "More than 50 healthcare workers have died in Lebanon during Israeli military operations, with some observers contending they are being deliberately targeted. The deaths raise questions about whether medical personnel are being adequately protected under international humanitarian law during the conflict.",
+      "rank": 8,
+      "headline": "Hamas armed wing says disarmament demands not acceptable",
+      "summary": "Hamas's armed wing rejects calls to disarm, viewing such demands as preconditions that ignore ongoing Israeli military operations. The group links any disarmament to Israel first meeting ceasefire requirements, framing the issue as conditional rather than absolute.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss"
         },
         {
           "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-108-hospitalised-war-injuries-past-24-hours"
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-rules-out-disarmament-israel-meets-ceasefire-terms"
         },
         {
           "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-palestinians-in-gaza-medics-say"
+          "link": "https://www.straitstimes.com/world/middle-east/hamas-armed-wing-says-disarmament-calls-are-unacceptable"
         }
       ],
       "regions": [
         "Middle East",
-        "Southeast Asia",
-        "US"
-      ],
-      "score": 0.4403,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "Giuffre family urges UK’s King Charles to meet Epstein survivors in US",
-      "summary": "Virginia Giuffre's family is calling on King Charles to meet with survivors of Jeffrey Epstein's abuse during his upcoming visit to the United States. The request reflects ongoing pressure on public figures to acknowledge and engage with those harmed by the financier's crimes.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/4/giuffre-family-urges-uks-king-charles-to-meet-epstein-survivors-in-us?traffic_source=rss"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/north-america/giuffre-s-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit-20260405-p5zleg.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit"
-        }
-      ],
-      "regions": [
-        "Australia",
         "Qatar",
         "Southeast Asia"
       ],
-      "score": 0.4,
-      "mentions": 3,
-      "diversity": 3
+      "score": 0.2671,
+      "mentions": 4,
+      "diversity": 2
     },
     {
-      "rank": 7,
-      "headline": "US arrests niece and grandniece of slain Iran general Qassem Soleimani",
-      "summary": "The United States has arrested the niece and grandniece of Qassem Soleimani, the Iranian general killed in a 2020 U.S. airstrike, after revoking their immigration status. The arrests follow a broader action in which the U.S. revoked green cards and visas for several Iranian nationals with connections to the Tehran government.",
+      "rank": 9,
+      "headline": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
+      "summary": "Hungarian voters head to the polls with opposition parties gaining ground against Prime Minister Viktor Orbán, whose government has deepened economic and political ties with China over the past decade. A shift in leadership could reshape Hungary's alignment in Europe, potentially weakening Beijing's influence over a key EU member state.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3349055/us-arrests-niece-and-grandniece-slain-iran-general-qassem-soleimani?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe?utm_source=rss_feed"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/us-revokes-green-cards-and-visas-of-several-iranian-nationals-connected-to-tehran-government/article70824688.ece"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-qassem-soleimani-relatives-arrested-iran-war-trump-rubio/"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Hong Kong",
-        "India",
-        "Southeast Asia"
-      ],
-      "score": 0.3816,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "US satellite firm Planet Labs announces blackout on war on Iran images",
-      "summary": "Planet Labs will indefinitely stop publishing satellite imagery of Iran and surrounding conflict zones following a request from the U.S. government. The decision restricts public access to real-time visual information about military activities in the region.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/satellite-firm-planet-labs-to-indefinitely-withhold-iran-war-images/article70826065.ece"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/hungarian-voters-face-a-big-question-jd-vance-thinks-he-has-the-answer-20260405-p5zlct.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         },
         {
           "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/satellite-firm-planet-labs-to-indefinitely-withhold-iran-war-images"
-        }
-      ],
-      "regions": [
-        "India",
-        "Israel",
-        "Qatar",
-        "Southeast Asia"
-      ],
-      "score": 0.3316,
-      "mentions": 5,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "At Easter vigil, Pope Leo urges world not to grow numb to war",
-      "summary": "Pope Leo celebrates his first Easter vigil as pontiff and warns against becoming desensitized to the violence reshaping multiple regions globally. He calls on world leaders to actively pursue peace rather than accept ongoing conflict as inevitable.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/europe/at-easter-vigil-pope-leo-urges-world-not-to-grow-numb-to-war-20260405-p5zldt.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-pope-leo-easter-vigil-peace-world-at-war/"
-        },
-        {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/pope-leo-easter-call-hope-global-conflicts-war-6037471"
+          "link": "https://www.straitstimes.com/world/europe/hungary-prepares-to-vote-as-orbans-future-hangs-in-balance"
         }
       ],
       "regions": [
         "Australia",
-        "Canada",
-        "North Africa",
-        "Southeast Asia"
+        "Hong Kong",
+        "Southeast Asia",
+        "Ukraine"
       ],
-      "score": 0.3232,
-      "mentions": 6,
+      "score": 0.2218,
+      "mentions": 4,
       "diversity": 4
     },
     {
       "rank": 10,
-      "headline": "Ukraine’s Zelensky fears Iran war may lead to less support to fight Russia’s invasion",
-      "summary": "Zelensky expresses concern that escalating tensions in the Middle East could divert international military aid and diplomatic attention away from Ukraine's defense against Russia. The Ukrainian president worries that a prolonged regional conflict will strain the resources and political focus that allied nations have directed toward supporting his country's war effort.",
+      "headline": "Russian drone attack on Ukraine’s Odesa kills three, Regional Governor says",
+      "summary": "A Russian drone strike on the port city of Odesa kills three people and injures multiple others, hitting residential areas. The attack contributes to broader power outages affecting other regions of Ukraine.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3349073/ukraines-zelensky-fears-iran-war-may-lead-less-support-fight-russias-invasion?utm_source=rss_feed"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-drone-attack-on-ukraine-odesa-april-6-2026/article70829208.ece"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/a-long-war-in-west-asia-could-take-away-support-for-ukraine-says-zelenskyy/article70825968.ece"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russian-drone-attack-on-ukraines-odesa-kills-three-regional-governor-says"
         },
         {
           "name": "Kyiv Post",
-          "link": "https://www.kyivpost.com/post/73266"
+          "link": "https://www.kyivpost.com/post/73300"
         }
       ],
       "regions": [
-        "Hong Kong",
         "India",
+        "Southeast Asia",
         "Ukraine"
       ],
-      "score": 0.26,
+      "score": 0.1524,
       "mentions": 3,
       "diversity": 3
     }

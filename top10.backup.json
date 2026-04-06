@@ -1,39 +1,39 @@
 {
-  "published_at": "2026-04-04T10:42:31.888074+00:00",
+  "published_at": "2026-04-05T10:43:23.716554+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "US aircraft operates over southern Iran amid tensions",
-      "summary": "A U.S. F-15E fighter jet was shot down over southern Iran, and video footage captured American search and rescue helicopters responding to retrieve the crew. One of the two pilots has been rescued, according to reports from the ongoing military operations in the region.",
+      "headline": "Regional tensions ease slightly as humanitarian crisis deepens",
+      "summary": "A US airman from a downed F-15E fighter jet has been rescued after ejecting over Iranian territory during recent military operations. The recovery marks a significant development in the escalating conflict involving US and Israeli forces against Iran and its allies in the region.",
       "is_grouped": true,
-      "angle_count": 5,
+      "angle_count": 3,
       "angles": [
         {
-          "headline": "Video appears to show US plane and search and rescue helicopters over southern Iran",
-          "summary": "A U.S. F-15E fighter jet was shot down over southern Iran, and video footage captured American search and rescue helicopters responding to retrieve the crew. One of the two pilots has been rescued, according to reports from the ongoing military operations in the region."
+          "headline": "What we know so far about rescue of US airman in Iran",
+          "summary": "A US airman from a downed F-15E fighter jet has been rescued after ejecting over Iranian territory during recent military operations. The recovery marks a significant development in the escalating conflict involving US and Israeli forces against Iran and its allies in the region."
         },
         {
-          "headline": "French-owned ship passes through Strait of Hormuz",
-          "summary": "A French-owned vessel has successfully transited the Strait of Hormuz, a critical waterway through which roughly one-third of global sea-traded oil passes. The passage reflects ongoing tensions in the region and demonstrates that commercial shipping continues despite geopolitical risks that have prompted debate among Western powers about how to secure the strategically vital channel."
+          "headline": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+          "summary": "Iran announces that Iraqi vessels have permission to transit the Strait of Hormuz, signaling a specific carve-out in its broader stance on shipping through the critical waterway. Ship movements through the strait have increased, suggesting either renewed confidence in passage or a response to regional diplomatic overtures."
         },
         {
-          "headline": "International law experts allege violations in Iran war",
-          "summary": "International law experts have raised allegations that recent military strikes violate established conventions governing armed conflict, focusing on the targeting of infrastructure and civilian areas. The dispute centers on whether the strikes meet the legal threshold for war crimes or constitute legitimate military actions under international humanitarian law."
+          "headline": "Aid groups warn war in West Asia is hindering food, medicine from reaching millions",
+          "summary": "Aid organizations report that ongoing conflict in West Asia is blocking the delivery of essential food and medicine to millions of people who depend on humanitarian assistance. The disruption of supply chains and access routes threatens to worsen an already severe humanitarian crisis across the region."
         }
       ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/cly68eg7px6o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
+          "link": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
         }
       ],
       "regions": [
@@ -42,310 +42,300 @@
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
         "Israel",
         "Middle East",
-        "North Africa",
         "Qatar",
-        "South America",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7095,
-      "mentions": 85,
-      "diversity": 17
+      "score": 0.9341,
+      "mentions": 58,
+      "diversity": 14
     },
     {
       "rank": 2,
-      "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "summary": "The Artemis II spacecraft has reached the midpoint of its journey to the Moon, with the crew capturing photographs of Earth from their distant vantage point. The mission continues NASA's effort to return humans to lunar exploration after decades of absence.",
+      "headline": "'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon",
+      "summary": "The Artemis II crew observes the lunar far side—the hemisphere permanently facing away from Earth—during their ongoing mission to the Moon. The astronauts' observations of this remote terrain contribute to NASA's preparation for future crewed lunar landings and extended surface exploration.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/science-technology/article/3349061/us-artemis-iis-moon-trip-faces-challenging-toilet-mission-again-over-flushing?utm_source=rss_feed"
         }
       ],
       "regions": [
         "Australia",
-        "Canada",
-        "Germany",
         "Hong Kong",
-        "India",
-        "Israel",
-        "Qatar",
+        "South America",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.5974,
-      "mentions": 14,
-      "diversity": 7
+      "score": 0.6675,
+      "mentions": 8,
+      "diversity": 6
     },
     {
       "rank": 3,
-      "headline": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-      "summary": "Russia has intensified military operations against Ukraine around Easter rather than pursuing ceasefire negotiations, according to Ukrainian President Zelensky. Multiple Russian attacks on Ukrainian cities and infrastructure have killed dozens of people as the conflict approaches its 1,500th day.",
+      "headline": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
+      "summary": "Ukrainian forces strike two major Russian energy infrastructure targets—a port facility in Primorsk and an oil refinery in Nizhny Novgorod—as part of an ongoing campaign to disrupt fuel supplies. The attacks occur while Ukrainian President Zelensky travels to Turkey for diplomatic discussions, signaling continued military operations despite engagement in peace negotiations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-14-people-killed-in-massive-russian-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3349053/russia-ukraine-strikes-kill-10-zelensky-travels-turkey-talks?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-says-ukraine-attack-damages-oil-pipeline/article70826075.ece"
         }
       ],
       "regions": [
-        "Africa",
         "Canada",
-        "Germany",
+        "Central Asia & Eastern Europe",
         "Hong Kong",
         "India",
         "Qatar",
         "Russia",
         "Southeast Asia",
-        "UK",
         "Ukraine"
       ],
-      "score": 0.5898,
-      "mentions": 21,
-      "diversity": 7
+      "score": 0.5263,
+      "mentions": 10,
+      "diversity": 6
     },
     {
       "rank": 4,
-      "headline": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
-      "summary": "Cuba is releasing over 2,000 prisoners as the United States eases longstanding economic restrictions, part of a broader thaw in tensions between the two countries. Human rights organizations are seeking clarity on whether the releases include political detainees and protesters, rather than only those convicted of common crimes.",
+      "headline": "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
+      "summary": "Indonesian peacekeepers serving with the United Nations Interim Force in Lebanon (UNIFIL) were killed during recent conflict in the country's south, and their remains have been returned home for burial ceremonies. President Prabowo has condemned the attacks that resulted in the deaths, underscoring tensions in a region where international peacekeeping forces operate amid ongoing Israeli-Hezbollah hostilities.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349076/indonesia-lays-rest-peacekeepers-killed-lebanon-prabowo-condemns-attacks?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/indonesia-lays-to-rest-peacekeepers-killed-in-lebanon/article70825940.ece"
         }
       ],
       "regions": [
-        "Canada",
-        "Germany",
+        "Hong Kong",
+        "India",
         "Qatar",
-        "Southeast Asia",
-        "UK"
+        "Southeast Asia"
       ],
-      "score": 0.513,
-      "mentions": 6,
+      "score": 0.4553,
+      "mentions": 4,
       "diversity": 4
     },
     {
       "rank": 5,
-      "headline": "Afghanistan earthquake kills eight members of same family",
-      "summary": "A 5.9 magnitude earthquake struck Afghanistan, killing at least eight members of a single family in the affected region. The tremors were felt across a wider area including northern India and Pakistan, though casualty reports remain concentrated in Afghanistan.",
+      "headline": "In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted",
+      "summary": "More than 50 healthcare workers have died in Lebanon during Israeli military operations, with some observers contending they are being deliberately targeted. The deaths raise questions about whether medical personnel are being adequately protected under international humanitarian law during the conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-108-hospitalised-war-injuries-past-24-hours"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-four-palestinians-in-gaza-medics-say"
+        }
+      ],
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4403,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Giuffre family urges UK’s King Charles to meet Epstein survivors in US",
+      "summary": "Virginia Giuffre's family is calling on King Charles to meet with survivors of Jeffrey Epstein's abuse during his upcoming visit to the United States. The request reflects ongoing pressure on public figures to acknowledge and engage with those harmed by the financier's crimes.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/4/giuffre-family-urges-uks-king-charles-to-meet-epstein-survivors-in-us?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/afghanistan-earthquake-of-magnitude-5-9-kills-at-least-8/a-76657899?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/earthquake-today-3-april-2026-afghanistan-epicentre-tremors-delhi-jammu-pakistan/article70821067.ece"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Germany",
-        "India",
-        "Qatar",
-        "Southeast Asia"
-      ],
-      "score": 0.4169,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Trump seeks $1.5T for defense, 10% cut to domestic programs",
-      "summary": "Trump's proposed budget allocates $1.5 trillion to defense while cutting domestic programs by 10 percent, reflecting escalating military commitments in the Middle East. The spending plan signals a significant shift in federal priorities toward military expenditure amid heightened tensions with Iran.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/us/politics/article/3349007/trump-administration-seeks-us15-trillion-defence-new-budget-request?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-3-2026-west-asia-crisis-conflict/article70818422.ece"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.3848,
-      "mentions": 8,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
-      "headline": "Trump seeks $152m to reopen notorious Alcatraz prison",
-      "summary": "Trump has requested $152 million in funding to reopen Alcatraz Island as an operational federal prison, decades after the facility closed in 1963. The proposal aims to address overcrowding in the federal prison system by restoring the island's infrastructure and security capabilities.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/apr/03/trump-alcatraz-prison"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/giuffre-s-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit-20260405-p5zleg.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         },
         {
           "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/united-states/trump-seeks-152-million-to-reopen-alcatraz-as-active-prison"
+          "link": "https://www.straitstimes.com/world/europe/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit"
         }
       ],
       "regions": [
-        "Southeast Asia",
-        "UK"
+        "Australia",
+        "Qatar",
+        "Southeast Asia"
       ],
-      "score": 0.35,
+      "score": 0.4,
       "mentions": 3,
-      "diversity": 2
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "US arrests niece and grandniece of slain Iran general Qassem Soleimani",
+      "summary": "The United States has arrested the niece and grandniece of Qassem Soleimani, the Iranian general killed in a 2020 U.S. airstrike, after revoking their immigration status. The arrests follow a broader action in which the U.S. revoked green cards and visas for several Iranian nationals with connections to the Tehran government.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3349055/us-arrests-niece-and-grandniece-slain-iran-general-qassem-soleimani?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-revokes-green-cards-and-visas-of-several-iranian-nationals-connected-to-tehran-government/article70824688.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-qassem-soleimani-relatives-arrested-iran-war-trump-rubio/"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.3816,
+      "mentions": 5,
+      "diversity": 4
     },
     {
       "rank": 8,
-      "headline": "Football rally in Peru leaves one dead and dozens injured",
-      "summary": "A pre-match event at a football stadium in Peru results in one fatality and injuries to dozens of attendees. The incident occurs during what appears to be a gathering or rally related to an upcoming match.",
+      "headline": "US satellite firm Planet Labs announces blackout on war on Iran images",
+      "summary": "Planet Labs will indefinitely stop publishing satellite imagery of Iran and surrounding conflict zones following a request from the U.S. government. The decision restricts public access to real-time visual information about military activities in the region.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/sport/other-sports/one-killed-dozens-hurt-as-football-stadium-event-in-peru-goes-awry/article70822492.ece"
+          "link": "https://www.thehindu.com/news/international/satellite-firm-planet-labs-to-indefinitely-withhold-iran-war-images/article70826065.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/satellite-firm-planet-labs-to-indefinitely-withhold-iran-war-images"
         }
       ],
       "regions": [
         "India",
-        "UK"
+        "Israel",
+        "Qatar",
+        "Southeast Asia"
       ],
-      "score": 0.35,
-      "mentions": 3,
-      "diversity": 2
-    },
-    {
-      "rank": 9,
-      "headline": "Pakistan announces free public transport after fuel price hike – as it happened",
-      "summary": "Pakistan increased fuel prices by up to 54 percent, then quickly reversed course by cutting petrol prices by 80 PKR per liter after public backlash forced a policy reversal. The government offered 30 days of free public transport to offset remaining cost pressures on commuters navigating the volatile pricing changes.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/south-asia/article/3349010/pakistan-offers-30-days-free-public-transport-following-40-petrol-hike?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/pakistan-government-slashes-petrol-price-by-pkr-80-per-litre-day-after-sharp-hike-met-severe-backlash/article70822285.ece"
-        }
-      ],
-      "regions": [
-        "Hong Kong",
-        "India",
-        "UK"
-      ],
-      "score": 0.3186,
+      "score": 0.3316,
       "mentions": 5,
       "diversity": 3
     },
     {
-      "rank": 10,
-      "headline": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
-      "summary": "The World Health Organization has documented over 20 attacks on healthcare facilities in Iran since early March, disrupting medical services in a country already facing significant health infrastructure challenges. The attacks represent a broader regional security concern that threatens civilians' access to essential medical care and complicates efforts to maintain functional health systems.",
+      "rank": 9,
+      "headline": "At Easter vigil, Pope Leo urges world not to grow numb to war",
+      "summary": "Pope Leo celebrates his first Easter vigil as pontiff and warns against becoming desensitized to the violence reshaping multiple regions globally. He calls on world leaders to actively pursue peace rather than accept ongoing conflict as inevitable.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/at-easter-vigil-pope-leo-urges-world-not-to-grow-numb-to-war-20260405-p5zldt.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/who-warns-about-attacks-on-iran-health-facilities-regional-threat/article70822215.ece"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-easter-vigil-peace-world-at-war/"
         },
         {
           "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/world-health-organization-israel-united-states-iran-health-facilities-attacks-6036166"
+          "link": "https://www.channelnewsasia.com/world/pope-leo-easter-call-hope-global-conflicts-war-6037471"
         }
       ],
       "regions": [
-        "India",
-        "Qatar",
+        "Australia",
+        "Canada",
+        "North Africa",
         "Southeast Asia"
       ],
-      "score": 0.2554,
-      "mentions": 4,
+      "score": 0.3232,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Ukraine’s Zelensky fears Iran war may lead to less support to fight Russia’s invasion",
+      "summary": "Zelensky expresses concern that escalating tensions in the Middle East could divert international military aid and diplomatic attention away from Ukraine's defense against Russia. The Ukrainian president worries that a prolonged regional conflict will strain the resources and political focus that allied nations have directed toward supporting his country's war effort.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3349073/ukraines-zelensky-fears-iran-war-may-lead-less-support-fight-russias-invasion?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/a-long-war-in-west-asia-could-take-away-support-for-ukraine-says-zelenskyy/article70825968.ece"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/73266"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Ukraine"
+      ],
+      "score": 0.26,
+      "mentions": 3,
       "diversity": 3
     }
   ]
