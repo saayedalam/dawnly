@@ -1,37 +1,40 @@
 {
-  "published_at": "2026-04-06T11:05:17.622960+00:00",
+  "published_at": "2026-04-09T11:07:34.664288+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "How rescue of US airman in remote part of Iran unfolded",
-      "summary": "A U.S. airman was rescued from a remote region of Iran following what appears to have been a military operation or incident in the area. The extraction underscores ongoing tensions in the region as Israeli and American military activities have intensified against Iranian and Lebanese targets.",
+      "headline": "BBC at the site of Israeli air strikes in Beirut",
+      "summary": "BBC journalists document the aftermath of intensive Israeli air strikes on Beirut, where multiple explosions struck the Lebanese capital in a concentrated assault. The escalating military operations occur as diplomatic efforts intensify, with regional actors including Iran and the US engaging in ceasefire negotiations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
+          "link": "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia"
         }
       ],
       "regions": [
         "Africa",
+        "Asia-Pacific",
         "Australia",
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
+        "Global",
         "Hong Kong",
         "India",
         "Israel",
+        "Mexico",
         "Middle East",
         "North Africa",
         "Qatar",
@@ -40,298 +43,287 @@
         "Southeast Asia",
         "UK",
         "US",
-        "West Africa"
+        "Ukraine"
       ],
-      "score": 0.7667,
-      "mentions": 91,
-      "diversity": 9
+      "score": 0.8141,
+      "mentions": 120,
+      "diversity": 10
     },
     {
       "rank": 2,
-      "headline": "The 40 minutes when the Artemis crew loses contact with the Earth",
-      "summary": "During Artemis II's lunar flyby, the crew will experience a 40-minute communication blackout as the spacecraft passes behind the moon, a natural occurrence caused by the moon blocking radio signals between the capsule and Earth. NASA has prepared for this event as part of the mission's planned trajectory, which brings the astronauts closer to the lunar surface than any crewed mission since Apollo.",
+      "headline": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "summary": "Trump expressed frustration with NATO during a meeting with alliance chief Mark Rutte, specifically criticizing member states for declining to join military action against Iran. Rutte characterized the closed-door discussion as frank and noted Trump's disappointment with the alliance's position on the issue.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/6/a-visual-guide-to-artemis-ii-and-previous-missions-to-the-moon?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/science/2026/apr/05/artemis-ii-astronauts-nasa-far-side-of-moon"
+          "link": "https://www.theguardian.com/world/2026/apr/08/nato-mark-rutte-trump-iran-war"
         }
       ],
       "regions": [
-        "Canada",
+        "Australia",
         "Germany",
         "India",
-        "Israel",
         "Qatar",
-        "Southeast Asia",
         "UK",
-        "US"
+        "Ukraine"
       ],
-      "score": 0.523,
-      "mentions": 13,
-      "diversity": 5
+      "score": 0.4939,
+      "mentions": 8,
+      "diversity": 4
     },
     {
       "rank": 3,
-      "headline": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-      "summary": "Pepsi has ended its sponsorship of London's Wireless Festival after the event announced Kanye West as a headliner, following public criticism over the artist's recent controversial statements. The withdrawal reflects how brands assess reputational risk when associated with polarizing figures, a pattern that has affected other major sponsors of the same festival.",
+      "headline": "Trapped miner rescued from flooded Mexican tunnel after 14 days",
+      "summary": "A miner trapped underground in Mexico for 14 days following a tunnel flood has been rescued alive. The rescue operation required extensive pumping and excavation efforts to reach the worker in the flooded shaft.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cly9z8w4q55o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/04/09/mexico-miner-rescued-alive-after-14-days-trapped-underground/"
         }
       ],
       "regions": [
-        "Hong Kong",
-        "Israel",
-        "Southeast Asia",
-        "UK",
-        "US"
+        "Africa",
+        "Qatar",
+        "UK"
       ],
-      "score": 0.3634,
-      "mentions": 6,
-      "diversity": 5
+      "score": 0.3812,
+      "mentions": 3,
+      "diversity": 3
     },
     {
       "rank": 4,
-      "headline": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
-      "summary": "Savannah Guthrie has returned to hosting NBC's Today show following months away during her mother's disappearance. The search for her mother continues as Guthrie resumes her broadcasting duties.",
+      "headline": "JD Vance claims US is not interfering in Hungary election",
+      "summary": "JD Vance states that the United States is not interfering in Hungary's election while publicly campaigning for Prime Minister Viktor Orbán at a rally in the country. Vance has also criticized Ukrainian President Zelenskyy and characterized the Ukraine conflict as the most difficult geopolitical problem to resolve.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jd-vance-criticizes-zelenskyy-and-ukraine-in-hungary-on-visit-campaigning-for-viktor-orban/a-76706045?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/vance-says-ukraine-conflict-has-been-hardest-to-solve/article70839418.ece"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "India",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3616,
+      "mentions": 5,
+      "diversity": 2
+    },
+    {
+      "rank": 5,
+      "headline": "Four people die trying to board boat in Channel crossing attempt",
+      "summary": "Four people died while attempting to board a small boat for a Channel crossing near northern France. The incident highlights the risks migrants face during attempts to reach the UK across one of Europe's busiest shipping lanes.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/four-dead-as-migrant-dinghy-sinks-off-french-coast-say-local-authorities"
         }
       ],
       "regions": [
-        "UK",
-        "US"
+        "Southeast Asia",
+        "UK"
       ],
       "score": 0.35,
       "mentions": 3,
       "diversity": 2
     },
     {
-      "rank": 5,
-      "headline": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
-      "summary": "Serbian and Hungarian officials report finding explosives near a Russian gas pipeline running toward Hungary, with Hungarian Prime Minister Viktor Orbán suggesting Ukrainian involvement. The discovery has sparked accusations of a \"false flag\" operation, with various parties blaming each other for either planting or fabricating the incident to serve their geopolitical interests.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3349104/orban-appears-blame-kyiv-serbian-gas-pipeline-explosives-find?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Central Asia & Eastern Europe",
-        "Eastern Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.3292,
-      "mentions": 10,
-      "diversity": 4
-    },
-    {
       "rank": 6,
-      "headline": "Pope's Easter message: Leaders must choose peace over war",
-      "summary": "Pope Leo XIV used his first Easter Mass as pontiff to urge world leaders to prioritize peace over military conflict, particularly addressing ongoing tensions in West Asia. The pontiff also called for an end to widespread indifference toward human suffering, framing peace as a moral choice facing decision-makers globally.",
+      "headline": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+      "summary": "The Artemis II crew prepares to return to Earth after completing a record-breaking lunar flyby mission that gathered significant scientific data and observations. The astronauts report witnessing lunar features and phenomena they had not anticipated, contributing new insights that will inform future crewed Moon exploration efforts.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/choose-peace-says-pope-leo-first-easter-wishes-war-in-west-asia/article70827518.ece"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-pope-leo-xiv-easter-message-mass/"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/09/science/space/nasa-artemis-moon-astronauts-return.html"
         }
       ],
       "regions": [
-        "Africa",
         "Canada",
         "Germany",
-        "India",
-        "Ukraine"
+        "South Africa",
+        "UK",
+        "US"
       ],
-      "score": 0.318,
-      "mentions": 5,
-      "diversity": 4
+      "score": 0.3339,
+      "mentions": 6,
+      "diversity": 3
     },
     {
       "rank": 7,
-      "headline": "Ukraine and Syria to cooperate on security, Zelenskyy says",
-      "summary": "Zelenskyy visits Syria to establish security cooperation between the two countries as part of a broader Middle East diplomatic tour. The agreement signals Ukraine's effort to expand international support and regional relationships beyond its traditional European allies.",
+      "headline": "Matthew Perry's 'Ketamine Queen' dealer jailed for 15 years",
+      "summary": "A drug dealer known as the \"Ketamine Queen\" has received a 15-year prison sentence for supplying the ketamine that led to actor Matthew Perry's death in October 2023. The case involved a network of people who provided Perry with the drug, which he injected without medical supervision in the weeks before his fatal overdose.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/matthew-perry-s-ketamine-queen-dealer-jailed-for-15-years/a-76715711?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/ketamine-queen-sentenced-over-matthew-perry-death-20260409-p5zmdz.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-matthew-perry-drugs-death-ketamine-queen-jasveen-sangha-sentence/"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "South Africa"
+      ],
+      "score": 0.3294,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Djibouti elections: Who’s running against Guelleh and what’s at stake?",
+      "summary": "President Ismail Omar Guelleh faces multiple challengers in Djibouti's presidential election after leading the nation for 27 years, with the vote reflecting tensions over governance and political space in this strategically important Horn of Africa state. The election determines whether Guelleh will secure a sixth term or whether opposition candidates can break his dominance in a country that hosts major military installations for several global powers.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3349106/zelensky-syria-discuss-security-cooperation-president-ahmed-al-sharaa?utm_source=rss_feed"
+          "link": "https://www.aljazeera.com/news/2026/4/9/djibouti-elections-whos-running-against-guelleh-and-whats-at-stake?traffic_source=rss"
         },
         {
           "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/06/zelenskyy-turkey-and-syria-discuss-war-and-reconstruction/"
+          "link": "http://www.africanews.com/2026/04/09/djibouti-vote-guelleh-poised-to-extend-27-year-rule/"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202604090129.html"
         }
       ],
       "regions": [
         "Africa",
-        "Hong Kong",
-        "Israel",
-        "Qatar",
-        "Southeast Asia",
-        "Ukraine"
+        "East Africa",
+        "Qatar"
       ],
-      "score": 0.3051,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 8,
-      "headline": "Hamas armed wing says disarmament demands not acceptable",
-      "summary": "Hamas's armed wing rejects calls to disarm, viewing such demands as preconditions that ignore ongoing Israeli military operations. The group links any disarmament to Israel first meeting ceasefire requirements, framing the issue as conditional rather than absolute.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-rules-out-disarmament-israel-meets-ceasefire-terms"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/hamas-armed-wing-says-disarmament-calls-are-unacceptable"
-        }
-      ],
-      "regions": [
-        "Middle East",
-        "Qatar",
-        "Southeast Asia"
-      ],
-      "score": 0.2671,
+      "score": 0.2937,
       "mentions": 4,
       "diversity": 2
     },
     {
       "rank": 9,
-      "headline": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
-      "summary": "Hungarian voters head to the polls with opposition parties gaining ground against Prime Minister Viktor Orbán, whose government has deepened economic and political ties with China over the past decade. A shift in leadership could reshape Hungary's alignment in Europe, potentially weakening Beijing's influence over a key EU member state.",
+      "headline": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads",
+      "summary": "North Korea conducted weapons tests featuring missiles equipped with cluster-bomb warheads, according to state media reports. The tests also included electromagnetic weapons and carbon-fiber bombs, expanding the range of munitions the country claims to have developed.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads"
+        },
+        {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3349440/tests-electromagnetic-weapon-and-carbon-fibre-bomb-state-media?utm_source=rss_feed"
+        },
+        {
+          "name": "Egypt Independent",
+          "link": "https://www.egyptindependent.com/north-korea-says-its-latest-tests-included-missiles-armed-with-cluster-bomb-warheads/"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "North Africa",
+        "US"
+      ],
+      "score": 0.2063,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Gilgo Beach Killer’s ‘Unusual’ Deal Could Help Solve Other Murders",
+      "summary": "Rex Heuermann, a Long Island architect convicted in the Gilgo Beach serial killings, has pleaded guilty to murdering seven women and confessed to an eighth victim as part of a plea agreement. The deal may allow investigators to resolve other unsolved murders and provide families with answers about cases connected to his crimes.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/08/nyregion/fbi-behavioral-analysis-unit-gilgo-beach.html"
         },
         {
           "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/europe/hungarian-voters-face-a-big-question-jd-vance-thinks-he-has-the-answer-20260405-p5zlct.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "link": "https://www.smh.com.au/world/north-america/new-york-architect-admits-to-killing-eight-women-20260409-p5zmdi.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/hungary-prepares-to-vote-as-orbans-future-hangs-in-balance"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-gilgo-beach-serial-killings-rex-heuermann/"
         }
       ],
       "regions": [
         "Australia",
-        "Hong Kong",
-        "Southeast Asia",
-        "Ukraine"
+        "Canada",
+        "US"
       ],
-      "score": 0.2218,
+      "score": 0.2062,
       "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 10,
-      "headline": "Russian drone attack on Ukraine’s Odesa kills three, Regional Governor says",
-      "summary": "A Russian drone strike on the port city of Odesa kills three people and injures multiple others, hitting residential areas. The attack contributes to broader power outages affecting other regions of Ukraine.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russian-drone-attack-on-ukraine-odesa-april-6-2026/article70829208.ece"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/russian-drone-attack-on-ukraines-odesa-kills-three-regional-governor-says"
-        },
-        {
-          "name": "Kyiv Post",
-          "link": "https://www.kyivpost.com/post/73300"
-        }
-      ],
-      "regions": [
-        "India",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.1524,
-      "mentions": 3,
-      "diversity": 3
+      "diversity": 2
     }
   ]
 }

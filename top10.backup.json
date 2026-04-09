@@ -1,36 +1,34 @@
 {
-  "published_at": "2026-04-07T11:06:10.609655+00:00",
+  "published_at": "2026-04-06T11:05:17.622960+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Anthony Zurcher: Little sign of breakthrough as Trump's Iran deadline nears",
-      "summary": "Trump's deadline for Iran negotiations approaches with no clear signs of diplomatic progress between the parties. Oil markets and Iranian infrastructure face uncertainty as the clock runs down, with Israel preparing potential strikes on Iran's transportation networks.",
+      "headline": "How rescue of US airman in remote part of Iran unfolded",
+      "summary": "A U.S. airman was rescued from a remote region of Iran following what appears to have been a military operation or incident in the area. The extraction underscores ongoing tensions in the region as Israeli and American military activities have intensified against Iranian and Lebanese targets.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/7/iran-war-what-is-happening-on-day-39-of-us-israeli-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
+          "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
         }
       ],
       "regions": [
         "Africa",
-        "Asia-Pacific",
         "Australia",
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
         "Israel",
@@ -38,310 +36,300 @@
         "North Africa",
         "Qatar",
         "South Africa",
+        "South America",
         "Southeast Asia",
         "UK",
         "US",
-        "Ukraine"
+        "West Africa"
       ],
-      "score": 0.874,
-      "mentions": 61,
+      "score": 0.7667,
+      "mentions": 91,
       "diversity": 9
     },
     {
       "rank": 2,
-      "headline": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
-      "summary": "NASA's Artemis II spacecraft completed a lunar flyby that carried its crew farther from Earth than any humans have traveled since the Apollo era, breaking a distance record set more than 50 years ago. The mission is now returning to Earth, marking a key milestone in NASA's program to resume crewed lunar exploration.",
+      "headline": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "summary": "During Artemis II's lunar flyby, the crew will experience a 40-minute communication blackout as the spacecraft passes behind the moon, a natural occurrence caused by the moon blocking radio signals between the capsule and Earth. NASA has prepared for this event as part of the mission's planned trajectory, which brings the astronauts closer to the lunar surface than any crewed mission since Apollo.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/6/a-visual-guide-to-artemis-ii-and-previous-missions-to-the-moon?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
+          "link": "https://www.theguardian.com/science/2026/apr/05/artemis-ii-astronauts-nasa-far-side-of-moon"
         }
       ],
       "regions": [
-        "Africa",
-        "Australia",
         "Canada",
         "Germany",
         "India",
         "Israel",
         "Qatar",
-        "South Africa",
-        "South America",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.7459,
-      "mentions": 21,
-      "diversity": 8
+      "score": 0.523,
+      "mentions": 13,
+      "diversity": 5
     },
     {
       "rank": 3,
-      "headline": "Australia's most-decorated living soldier charged over alleged war crimes",
-      "summary": "Ben Roberts-Smith, a highly decorated former Australian soldier, faces charges related to alleged killings during military operations in Afghanistan. The charges represent a rare prosecution of a senior military figure and stem from a lengthy investigation into conduct during the country's involvement in the Afghan conflict.",
+      "headline": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
+      "summary": "Pepsi has ended its sponsorship of London's Wireless Festival after the event announced Kanye West as a headliner, following public criticism over the artist's recent controversial statements. The withdrawal reflects how brands assess reputational risk when associated with polarizing figures, a pattern that has affected other major sponsors of the same festival.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Qatar",
-        "South Africa",
-        "UK"
-      ],
-      "score": 0.6521,
-      "mentions": 9,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "JD Vance arrives in Hungary to back Orbán's re-election bid",
-      "summary": "US Vice President JD Vance travels to Hungary days before a closely contested election to publicly support Prime Minister Viktor Orbán's re-election campaign. The visit signals alignment between the incoming Trump administration and Orbán's government on populist and nationalist policies that have drawn criticism from other Western democracies.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "India",
-        "Qatar",
-        "South Africa",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.6381,
-      "mentions": 9,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
-      "summary": "Taiwan's opposition leader Cheng Li-wun has arrived in China for meetings expected to include Xi Jinping, marking a rare high-level engagement between Beijing and Taiwan's opposition parties. The visit signals continued diplomatic channels between the two sides despite ongoing tensions over Taiwan's political status.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/07/nx-s1-5776401/taiwan-opposition-arrives-china"
+          "link": "https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-china-for-peace/a-76683490?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html"
         }
       ],
       "regions": [
-        "Asia-Pacific",
-        "Germany",
         "Hong Kong",
-        "South Africa",
+        "Israel",
+        "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.5263,
-      "mentions": 7,
-      "diversity": 4
+      "score": 0.3634,
+      "mentions": 6,
+      "diversity": 5
     },
     {
-      "rank": 6,
-      "headline": "Three killed in shooting near Israeli consulate in Turkiye’s Istanbul",
-      "summary": "Turkish police exchanged gunfire with attackers outside the Israeli consulate in Istanbul, resulting in three deaths. Authorities are investigating the incident, which marks a security breach at a high-profile diplomatic location in the city.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul?traffic_source=rss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3349279/least-2-dead-gunfight-outside-israeli-consulate-istanbul?utm_source=rss_feed"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-probes-shooting-near-israeli-consulate-istanbul"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Hong Kong",
-        "Israel",
-        "Middle East",
-        "Qatar",
-        "Southeast Asia"
-      ],
-      "score": 0.448,
-      "mentions": 8,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "Disruption expected as six-day doctors' strike begins",
-      "summary": "Resident doctors in England have begun a six-day strike after rejecting the government's latest pay and workforce proposal, marking a significant escalation in their ongoing labor dispute. The strike will cause considerable disruption to hospital services and patient care across the country during the period.",
+      "rank": 4,
+      "headline": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+      "summary": "Savannah Guthrie has returned to hosting NBC's Today show following months away during her mother's disappearance. The search for her mother continues as Guthrie resumes her broadcasting duties.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/doctors-in-england-begin-six-day-strike-after-rejecting-governments-pay-and-workforce-deal/article70833161.ece"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/doctors-in-england-begin-six-day-strike-after-rejecting-governments-pay-and-workforce-deal"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
         }
       ],
       "regions": [
-        "India",
-        "Southeast Asia",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.4367,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
     },
     {
-      "rank": 8,
-      "headline": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
-      "summary": "Ukrainian and Russian forces have each killed three civilians in recent drone strikes, part of an escalating pattern of aerial attacks targeting populated areas. The strikes have struck civilian infrastructure in cities including Odesa and Nikopol, where a bus was hit, resulting in casualties including children and injured residents.",
+      "rank": 5,
+      "headline": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
+      "summary": "Serbian and Hungarian officials report finding explosives near a Russian gas pipeline running toward Hungary, with Hungarian Prime Minister Viktor Orbán suggesting Ukrainian involvement. The discovery has sparked accusations of a \"false flag\" operation, with various parties blaming each other for either planting or fabricating the incident to serve their geopolitical interests.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-3-killed-in-odesa-kyiv-targets-russian-oil-exports/a-76679304?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/two-children-among-seven-dead-in-fresh-ukraine-russia-strikes-6040621"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3349104/orban-appears-blame-kyiv-serbian-gas-pipeline-explosives-find?utm_source=rss_feed"
         }
       ],
       "regions": [
         "Central Asia & Eastern Europe",
+        "Eastern Europe",
         "Germany",
-        "Qatar",
-        "Russia",
+        "Hong Kong",
+        "India",
         "Southeast Asia",
+        "UK",
         "Ukraine"
       ],
-      "score": 0.4167,
-      "mentions": 8,
-      "diversity": 3
+      "score": 0.3292,
+      "mentions": 10,
+      "diversity": 4
     },
     {
-      "rank": 9,
-      "headline": "Vietnam elects Communist Party leader To Lam as president",
-      "summary": "To Lam, the Communist Party's general secretary, has been elected president of Vietnam, consolidating significant state power in his hands. His appointment follows Vietnam's governance pattern where the party chief holds the country's top leadership position, similar to China's political structure.",
+      "rank": 6,
+      "headline": "Pope's Easter message: Leaders must choose peace over war",
+      "summary": "Pope Leo XIV used his first Easter Mass as pontiff to urge world leaders to prioritize peace over military conflict, particularly addressing ongoing tensions in West Asia. The pontiff also called for an end to widespread indifference toward human suffering, framing peace as a moral choice facing decision-makers globally.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/vietnam-elects-communist-party-leader-to-lam-as-president/a-76682860?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349235/lam-emerges-vietnams-supreme-leader-after-being-elected-president?utm_source=rss_feed"
+          "link": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/vietnam-elects-communist-party-chief-to-lam-as-president-echoing-chinas-power-structure/article70833019.ece"
+          "link": "https://www.thehindu.com/news/international/choose-peace-says-pope-leo-first-easter-wishes-war-in-west-asia/article70827518.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-xiv-easter-message-mass/"
         }
       ],
       "regions": [
-        "Asia-Pacific",
+        "Africa",
+        "Canada",
         "Germany",
-        "Hong Kong",
-        "India"
+        "India",
+        "Ukraine"
       ],
-      "score": 0.4087,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.318,
+      "mentions": 5,
+      "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "One dead as high-speed train collides with lorry in France",
-      "summary": "A high-speed train and a truck collided at a level crossing in France, killing the train driver. Two people sustained critical injuries in the incident, which authorities are investigating to determine how the vehicles came to occupy the same space.",
+      "rank": 7,
+      "headline": "Ukraine and Syria to cooperate on security, Zelenskyy says",
+      "summary": "Zelenskyy visits Syria to establish security cooperation between the two countries as part of a broader Middle East diplomatic tour. The agreement signals Ukraine's effort to expand international support and regional relationships beyond its traditional European allies.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3349268/france-high-speed-rail-collides-truck-killing-train-driver?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3349106/zelensky-syria-discuss-security-cooperation-president-ahmed-al-sharaa?utm_source=rss_feed"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/french-high-speed-train-crashes-into-military-truck-driver-feared-to-have-died"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/04/06/zelenskyy-turkey-and-syria-discuss-war-and-reconstruction/"
         }
       ],
       "regions": [
+        "Africa",
+        "Hong Kong",
+        "Israel",
+        "Qatar",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3051,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Hamas armed wing says disarmament demands not acceptable",
+      "summary": "Hamas's armed wing rejects calls to disarm, viewing such demands as preconditions that ignore ongoing Israeli military operations. The group links any disarmament to Israel first meeting ceasefire requirements, framing the issue as conditional rather than absolute.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-rules-out-disarmament-israel-meets-ceasefire-terms"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/hamas-armed-wing-says-disarmament-calls-are-unacceptable"
+        }
+      ],
+      "regions": [
+        "Middle East",
+        "Qatar",
+        "Southeast Asia"
+      ],
+      "score": 0.2671,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
+      "summary": "Hungarian voters head to the polls with opposition parties gaining ground against Prime Minister Viktor Orbán, whose government has deepened economic and political ties with China over the past decade. A shift in leadership could reshape Hungary's alignment in Europe, potentially weakening Beijing's influence over a key EU member state.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/hungarian-voters-face-a-big-question-jd-vance-thinks-he-has-the-answer-20260405-p5zlct.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/hungary-prepares-to-vote-as-orbans-future-hangs-in-balance"
+        }
+      ],
+      "regions": [
+        "Australia",
         "Hong Kong",
         "Southeast Asia",
-        "UK"
+        "Ukraine"
       ],
-      "score": 0.3985,
+      "score": 0.2218,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Russian drone attack on Ukraine’s Odesa kills three, Regional Governor says",
+      "summary": "A Russian drone strike on the port city of Odesa kills three people and injures multiple others, hitting residential areas. The attack contributes to broader power outages affecting other regions of Ukraine.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-drone-attack-on-ukraine-odesa-april-6-2026/article70829208.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russian-drone-attack-on-ukraines-odesa-kills-three-regional-governor-says"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/73300"
+        }
+      ],
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.1524,
       "mentions": 3,
       "diversity": 3
     }
