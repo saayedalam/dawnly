@@ -1,39 +1,26 @@
 {
-  "published_at": "2026-04-10T11:03:59.479320+00:00",
+  "published_at": "2026-04-11T10:43:34.301614+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Tensions escalate across Middle East as ceasefire collapses",
-      "summary": "Israel launched intensive strikes against southern Lebanon after a ceasefire understanding collapsed, killing civilians and destroying residential areas in what residents and officials describe as a sudden resumption of hostilities. The escalation raises questions about the viability of negotiations between the two sides and the broader regional conflict involving Iran and the United States.",
-      "is_grouped": true,
-      "angle_count": 4,
-      "angles": [
-        {
-          "headline": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
-          "summary": "Israel launched intensive strikes against southern Lebanon after a ceasefire understanding collapsed, killing civilians and destroying residential areas in what residents and officials describe as a sudden resumption of hostilities. The escalation raises questions about the viability of negotiations between the two sides and the broader regional conflict involving Iran and the United States."
-        },
-        {
-          "headline": "Iran war: JD Vance heads to Pakistan for talks with Tehran",
-          "summary": "Vice President JD Vance is traveling to Pakistan to lead direct negotiations with Iran as tensions remain high following recent military escalations between the two countries. The talks represent the first substantive diplomatic engagement since the conflict intensified, with success dependent on both sides' willingness to move toward a ceasefire."
-        },
-        {
-          "headline": "White House staff told not to place bets on prediction markets",
-          "summary": "The White House has instructed staff members to avoid placing bets on prediction markets, citing concerns about potential conflicts of interest and the appearance of profiting from government decisions. The guidance reflects broader ethical standards that prohibit federal employees from trading on non-public information or appearing to benefit personally from their official roles."
-        }
-      ],
+      "headline": "Trump has handed JD Vance his most difficult mission yet",
+      "summary": "JD Vance faces mounting pressure to negotiate between the Trump administration and Iran as tensions escalate in the Middle East, with the vice president tasked with pursuing diplomatic solutions amid regional conflicts. The assignment arrives as Israel conducts military operations in Gaza and Lebanon while resisting immediate ceasefires, leaving little diplomatic room for U.S. intermediaries to maneuver.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran"
+          "link": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
         }
       ],
       "regions": [
@@ -45,313 +32,319 @@
         "Global",
         "Hong Kong",
         "India",
-        "Israel",
         "Middle East",
         "North Africa",
         "Qatar",
         "South Africa",
-        "South America",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7283,
-      "mentions": 93,
-      "diversity": 18
+      "score": 0.825,
+      "mentions": 84,
+      "diversity": 9
     },
     {
       "rank": 2,
-      "headline": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
-      "summary": "Taiwan's opposition leader met with China's President Xi Jinping in Beijing—their first encounter in a decade—where Xi emphasized that people across the Taiwan Strait share a Chinese identity and described unification as inevitable. The opposition leader responded by calling for \"reconciliation,\" signaling a stance toward cross-strait dialogue that contrasts with the current Taiwan government's approach.",
+      "headline": "Artemis crew home safely after completing historic mission to the Moon",
+      "summary": "The Artemis II crew has returned to Earth following a successful lunar mission that marks humanity's first crewed journey to the Moon since 1972. The mission's completion represents a critical milestone for NASA's broader Artemis program, which aims to establish sustained lunar exploration and eventually support missions to Mars.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/10/xi-jinping-cheng-li-wu-china-taiwan-meeting-bejing"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
         }
       ],
       "regions": [
+        "Africa",
         "Australia",
         "Canada",
         "Germany",
         "Hong Kong",
         "India",
         "Qatar",
-        "UK",
-        "US"
-      ],
-      "score": 0.5299,
-      "mentions": 13,
-      "diversity": 6
-    },
-    {
-      "rank": 3,
-      "headline": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-      "summary": "Melania Trump has publicly denied any association with Jeffrey Epstein and called for a hearing to allow survivors to share their experiences. Her statement comes amid scrutiny over her past attendance at events where Epstein was also present, though no allegations of impropriety involving her have been documented.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/melania-trump-denies-ties-to-epstein-in-white-house-video/a-76728289?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "India",
-        "Israel",
-        "North Africa",
-        "South Africa",
+        "South America",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.4837,
-      "mentions": 15,
-      "diversity": 7
+      "score": 0.7708,
+      "mentions": 27,
+      "diversity": 9
     },
     {
-      "rank": 4,
-      "headline": "Russia and Ukraine agree to truce for Orthodox Easter",
-      "summary": "Russia and Ukraine have agreed to a 32-hour ceasefire coinciding with Orthodox Easter, which falls on May 5 this year. Ukrainian officials have expressed skepticism about whether Russia will honor the agreement, citing past violations of similar truces.",
+      "rank": 3,
+      "headline": "Prince Harry sued for defamation by charity Sentebale he co-founded",
+      "summary": "Sentebale, a charity Prince Harry co-founded to support children affected by HIV in southern Africa, is suing him for defamation over statements he made about the organization. The lawsuit centers on claims Harry made that the charity disputes, though the specific allegations remain under legal review.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3349711/prince-harry-sued-african-charity-he-set-honour-princess-diana?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "UK"
+      ],
+      "score": 0.4946,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "UK to hold off on deal ceding Chagos Islands amid US opposition",
+      "summary": "The UK has postponed legislation that would transfer the Chagos Islands to Mauritius following pressure from the United States, which maintains a strategic military base on the territory. The delay suggests Britain's reluctance to proceed without American support for a deal that addresses Mauritius's long-standing territorial claim while preserving the geopolitical interests of both Western nations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/article/3349744/trump-critique-pauses-uk-handover-chagos-islands-mauritius?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Qatar",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4528,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Ukraine: Attacks continue as Orthodox Easter ceasefire nears",
+      "summary": "Both Russia and Ukraine continue military operations in the days before an Orthodox Easter ceasefire scheduled to begin, with drone attacks reported across multiple Ukrainian regions. The announced truce reflects a periodic pattern of temporary pauses during religious holidays, though Ukrainian skepticism suggests uncertainty about whether both sides will honor the agreement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-attacks-continue-as-orthodox-easter-ceasefire-nears/a-76746629?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3349710/ukrainians-sceptical-russias-putin-orders-easter-truce?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-ukraine-easter-ceasefire/article70850180.ece"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4515,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Melania Trump's speech propels Epstein crisis back to forefront",
+      "summary": "Melania Trump called for congressional hearings into the Jeffrey Epstein case during a public speech, renewing attention on the deceased financier's crimes and connections. House Oversight leadership responded by committing to hold hearings that include testimony from Epstein's victims, though survivors expressed mixed reactions to the First Lady's intervention.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/10/nx-s1-5780858/melania-trump-jeffrey-epstein"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Canada",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4356,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
+      "summary": "Someone threw a Molotov cocktail at Sam Altman's home, causing property damage but no reported injuries. Authorities arrested a suspect in connection with the attack.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-russia-s-putin-declares-easter-ceasefire/a-76728827?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/molotov-cocktail-thrown-at-sam-altman-s-home-man-arrested/a-76744259?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349719/molotov-attack-openai-ceo-sam-altmans-home-leads-arrest?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Qatar",
+        "Southeast Asia"
+      ],
+      "score": 0.4122,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Final push for votes as challenger to Hungary's Orbán senses victory",
+      "summary": "Hungary's opposition challenger makes a final campaign push as polling suggests a competitive race against Prime Minister Orbán, whose tenure has been marked by concerns over judicial independence and democratic backsliding. Voters weigh issues of corruption and economic hardship alongside hopes for political change in what could reshape the country's governance.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-hungary-election-tisza-magyar-politics-results-trump-vance/"
         }
       ],
       "regions": [
         "Canada",
         "Central Asia & Eastern Europe",
+        "Eastern Europe",
         "Germany",
-        "India",
-        "Qatar",
-        "Russia",
+        "Global",
+        "Israel",
         "Southeast Asia",
         "UK",
-        "US",
         "Ukraine"
       ],
-      "score": 0.4412,
-      "mentions": 13,
+      "score": 0.4087,
+      "mentions": 14,
       "diversity": 5
     },
     {
-      "rank": 5,
-      "headline": "How the Artemis crew will splash down on Earth",
-      "summary": "The Artemis II astronauts return to Earth today, with their spacecraft splashing down in the Pacific Ocean after a multi-day journey from lunar orbit. NASA's recovery teams will be stationed to retrieve the crew and capsule, completing the second crewed test flight of the Artemis program.",
+      "rank": 9,
+      "headline": "Trump administration unveils 250-foot 'Triumphal Arch' design",
+      "summary": "The Trump administration has announced plans for a 250-foot ornamental arch in Washington, D.C., featuring classical design elements including eagles, lions, and gold detailing. The structure represents a significant addition to the capital's architectural landscape, though its actual construction remains contingent on approvals and funding.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/10/nx-s1-5776716/artemis-ii-astronauts-return-earth-moon-splashdown-pacific"
+          "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/artemis-ii-astronauts-set-to-splash-down-back-on-earth/live-76722861?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.4405,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "US: Pentagon must restore journalists' access, judge says",
-      "summary": "A federal judge has ruled that the Pentagon must restore access for credentialled journalists after the department restricted their ability to cover military facilities and events. The decision rejects the Pentagon's second attempt to limit press presence, enforcing an earlier court order that the department had failed to comply with.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-pentagon-must-restore-journalists-access-judge-says/a-76729492?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
+          "link": "https://www.dw.com/en/trump-says-plans-filed-for-huge-triumphal-arch-in-washington/a-76746081?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349574/us-judge-orders-pentagon-restore-press-access-credentialed-reporters?utm_source=rss_feed"
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349713/trump-unveils-plan-triumphal-arch-washington-eagles-lions-lots-gold?utm_source=rss_feed"
         }
       ],
       "regions": [
         "Germany",
         "Hong Kong",
+        "Israel",
         "Southeast Asia",
-        "US"
+        "UK"
       ],
-      "score": 0.3161,
-      "mentions": 4,
+      "score": 0.3602,
+      "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 7,
-      "headline": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
-      "summary": "Researchers have documented sustained coordinated attacks between two neighboring chimpanzee groups in Uganda over several years, resulting in deaths and injuries among members of both communities. The behavior suggests that chimpanzees engage in organized intergroup conflict similar to warfare, providing insight into how such violence might function in primate societies.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/africa/scientists-stunned-as-chimpanzees-turn-on-friends-in-killing-spree-20260410-p5zmuw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-chimpanzees-science-ngogo-nature-wildlife/"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Canada",
-        "UK"
-      ],
-      "score": 0.2787,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 8,
-      "headline": "Migrant dinghy sinks in English Channel off France, 4 people die",
-      "summary": "A dinghy carrying migrants capsized in the English Channel near France, resulting in four deaths and the rescue of 38 others. The incident underscores the continuing risks migrants face when attempting to cross the Channel, a route used regularly by people seeking entry to the United Kingdom.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/migrant-dinghy-sinks-in-english-channel-off-france-4-people-die/a-76719631?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/channel-crossing-from-france-to-uk-deaths-migrants-rescue-operations/article70842865.ece"
-        },
-        {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/10/four-migrants-drown-in-channel-boat-attempt-off-calais/"
-        }
-      ],
-      "regions": [
-        "Africa",
-        "Germany",
-        "India"
-      ],
-      "score": 0.2787,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "Djibouti votes as long-time leader seeks sixth presidential term",
-      "summary": "Djibouti holds a presidential election in which incumbent Ismail Omar Guelleh seeks a sixth term after the country's constitutional court removed age restrictions that previously would have barred his candidacy. The vote takes place at a geopolitically significant location near the Red Sea, where Djibouti controls access to major shipping routes and hosts military installations from multiple world powers.",
+      "rank": 10,
+      "headline": "Djibouti’s President Guelleh wins sixth straight term in office",
+      "summary": "President Ismaïl Omar Guelleh secures reelection in Djibouti with official results showing 97.8% of the vote, extending his tenure that began in 1999. The election took place amid reports of notably low voter turnout in the strategic Horn of Africa nation.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss"
         },
         {
           "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/10/low-turnout-as-djibouti-votes-in-election-set-to-extend-guellehs-long-rule/"
+          "link": "http://www.africanews.com/2026/04/11/djibouti-a-landslide-victory-for-guelleh-according-to-official-results/"
         },
         {
-          "name": "The Star Kenya",
-          "link": "https://allafrica.com/stories/202604100076.html"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/djibouti-president-wins-election-with-97-8-of-vote-state-media-says"
         }
       ],
       "regions": [
         "Africa",
-        "East Africa",
         "Qatar",
-        "South Africa",
         "Southeast Asia"
       ],
-      "score": 0.2614,
-      "mentions": 6,
+      "score": 0.3595,
+      "mentions": 5,
       "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "Argentina approves Milei’s glacier mining bill amid environmental protests",
-      "summary": "Argentina's Congress approves changes to glacier protection laws, allowing mining operations in previously off-limits areas and expanding resource extraction in the Andes. Environmental groups oppose the measure, arguing it threatens water sources and ecosystems that communities depend on across South America.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei"
-        },
-        {
-          "name": "MercoPress",
-          "link": "https://en.mercopress.com/2026/04/09/argentina-approves-glacier-law-reform-opens-previously-protected-areas-to-mining?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-          "name": "Buenos Aires Times",
-          "link": "https://www.batimes.com.ar/news/economy/argentinas-congress-approves-glacier-law-in-win-for-milei-and-copper-miners.phtml"
-        }
-      ],
-      "regions": [
-        "South America",
-        "UK"
-      ],
-      "score": 0.1844,
-      "mentions": 4,
-      "diversity": 2
     }
   ]
 }
