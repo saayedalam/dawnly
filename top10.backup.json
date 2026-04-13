@@ -1,26 +1,26 @@
 {
-  "published_at": "2026-04-11T10:43:34.301614+00:00",
+  "published_at": "2026-04-12T10:48:06.554625+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Trump has handed JD Vance his most difficult mission yet",
-      "summary": "JD Vance faces mounting pressure to negotiate between the Trump administration and Iran as tensions escalate in the Middle East, with the vice president tasked with pursuing diplomatic solutions amid regional conflicts. The assignment arrives as Israel conducts military operations in Gaza and Lebanon while resisting immediate ceasefires, leaving little diplomatic room for U.S. intermediaries to maneuver.",
+      "headline": "US-Iran talks ending without deal disappointing, Streeting says",
+      "summary": "US and Iranian negotiators conclude talks in Pakistan without reaching an agreement, leaving officials like UK Health Secretary Streeting expressing disappointment over the stalled diplomatic process. The talks end as regional tensions remain elevated, with oil tankers moving out of the Strait of Hormuz and Pakistan calling for both nations to maintain their current ceasefire arrangement.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
+          "link": "https://www.theguardian.com/australia-news/2026/apr/12/penny-wong-calls-failed-peace-talks-between-us-and-iran-disappointing-and-urges-resumption"
         }
       ],
       "regions": [
@@ -29,321 +29,304 @@
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
+        "Israel",
         "Middle East",
         "North Africa",
         "Qatar",
-        "South Africa",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.825,
-      "mentions": 84,
-      "diversity": 9
+      "score": 0.6991,
+      "mentions": 89,
+      "diversity": 8
     },
     {
       "rank": 2,
-      "headline": "Artemis crew home safely after completing historic mission to the Moon",
-      "summary": "The Artemis II crew has returned to Earth following a successful lunar mission that marks humanity's first crewed journey to the Moon since 1972. The mission's completion represents a critical milestone for NASA's broader Artemis program, which aims to establish sustained lunar exploration and eventually support missions to Mars.",
+      "headline": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
+      "summary": "Hungarians are voting in an election that could end Viktor Orbán's 16-year tenure as prime minister, with opposition parties unified behind a single rival candidate for the first time. High turnout suggests significant public engagement with a contest that represents the strongest electoral challenge to Orbán's rule since he first took office.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
+          "link": "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years"
         }
       ],
       "regions": [
-        "Africa",
         "Australia",
-        "Canada",
         "Germany",
-        "Hong Kong",
         "India",
+        "Israel",
         "Qatar",
-        "South America",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7708,
-      "mentions": 27,
-      "diversity": 9
+      "score": 0.54,
+      "mentions": 19,
+      "diversity": 6
     },
     {
       "rank": 3,
-      "headline": "Prince Harry sued for defamation by charity Sentebale he co-founded",
-      "summary": "Sentebale, a charity Prince Harry co-founded to support children affected by HIV in southern Africa, is suing him for defamation over statements he made about the organization. The lawsuit centers on claims Harry made that the charity disputes, though the specific allegations remain under legal review.",
+      "headline": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+      "summary": "Asha Bhosle, who recorded playback vocals for thousands of Hindi films over seven decades, dies at 92 in Mumbai. Her voice shaped Indian cinema from the 1940s onward, making her one of the most recorded artists in history.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3349711/prince-harry-sued-african-charity-he-set-honour-princess-diana?utm_source=rss_feed"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-legendary-playback-singer-asha-bhosle-dies-at-92/a-76752404?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Hong Kong",
-        "India",
+        "Germany",
+        "Qatar",
+        "Southeast Asia",
         "UK"
       ],
-      "score": 0.4946,
-      "mentions": 7,
-      "diversity": 6
+      "score": 0.4256,
+      "mentions": 4,
+      "diversity": 3
     },
     {
       "rank": 4,
-      "headline": "UK to hold off on deal ceding Chagos Islands amid US opposition",
-      "summary": "The UK has postponed legislation that would transfer the Chagos Islands to Mauritius following pressure from the United States, which maintains a strategic military base on the territory. The delay suggests Britain's reluctance to proceed without American support for a deal that addresses Mauritius's long-standing territorial claim while preserving the geopolitical interests of both Western nations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/article/3349744/trump-critique-pauses-uk-handover-chagos-islands-mauritius?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Qatar",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4528,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 5,
-      "headline": "Ukraine: Attacks continue as Orthodox Easter ceasefire nears",
-      "summary": "Both Russia and Ukraine continue military operations in the days before an Orthodox Easter ceasefire scheduled to begin, with drone attacks reported across multiple Ukrainian regions. The announced truce reflects a periodic pattern of temporary pauses during religious holidays, though Ukrainian skepticism suggests uncertainty about whether both sides will honor the agreement.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-attacks-continue-as-orthodox-easter-ceasefire-nears/a-76746629?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3349710/ukrainians-sceptical-russias-putin-orders-easter-truce?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russia-ukraine-easter-ceasefire/article70850180.ece"
-        }
-      ],
-      "regions": [
-        "Africa",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "North Africa",
-        "Russia",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.4515,
-      "mentions": 12,
-      "diversity": 6
-    },
-    {
-      "rank": 6,
-      "headline": "Melania Trump's speech propels Epstein crisis back to forefront",
-      "summary": "Melania Trump called for congressional hearings into the Jeffrey Epstein case during a public speech, renewing attention on the deceased financier's crimes and connections. House Oversight leadership responded by committing to hold hearings that include testimony from Epstein's victims, though survivors expressed mixed reactions to the First Lady's intervention.",
+      "headline": "Australian teenager Gout faster than Bolt at 18",
+      "summary": "An 18-year-old Australian sprinter has run 200 meters in 19.67 seconds, breaking the national record and matching a speed milestone that Usain Bolt did not achieve until later in his career. The performance positions Gout among the world's fastest young sprinters and suggests potential for future international competition.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/sport/athletics/articles/cgqkeq05y9vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/10/nx-s1-5780858/melania-trump-jeffrey-epstein"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds?traffic_source=rss"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html"
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/teen-sensation-gout-smashes-australian-200m-record-sub-20-second-run-6051516"
         }
       ],
       "regions": [
-        "Australia",
-        "Canada",
+        "Qatar",
         "Southeast Asia",
-        "UK",
-        "US"
+        "UK"
       ],
-      "score": 0.4356,
-      "mentions": 7,
-      "diversity": 4
+      "score": 0.3528,
+      "mentions": 3,
+      "diversity": 3
     },
     {
-      "rank": 7,
-      "headline": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
-      "summary": "Someone threw a Molotov cocktail at Sam Altman's home, causing property damage but no reported injuries. Authorities arrested a suspect in connection with the attack.",
+      "rank": 5,
+      "headline": "More than 500 arrests at Palestine Action protest",
+      "summary": "London police arrested over 500 people during a protest against the government's ban on Palestine Action, an activist group. The arrests occurred as demonstrators gathered to challenge the organization's designation as illegal.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss"
+          "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/molotov-cocktail-thrown-at-sam-altman-s-home-man-arrested/a-76744259?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349719/molotov-attack-openai-ceo-sam-altmans-home-leads-arrest?utm_source=rss_feed"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/london-police-arrest-protesters-over-palestine-action-ban/article70852334.ece"
         }
       ],
       "regions": [
-        "Germany",
-        "Hong Kong",
+        "India",
         "Qatar",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.4122,
+      "score": 0.3506,
       "mentions": 4,
       "diversity": 4
     },
     {
-      "rank": 8,
-      "headline": "Final push for votes as challenger to Hungary's Orbán senses victory",
-      "summary": "Hungary's opposition challenger makes a final campaign push as polling suggests a competitive race against Prime Minister Orbán, whose tenure has been marked by concerns over judicial independence and democratic backsliding. Voters weigh issues of corruption and economic hardship alongside hopes for political change in what could reshape the country's governance.",
+      "rank": 6,
+      "headline": "Union Berlin appoint first female head coach",
+      "summary": "Union Berlin has appointed Eta as its head coach, making her the first woman to hold the position at a Bundesliga club. The appointment marks a significant milestone in German professional football, where coaching leadership has historically remained male-dominated.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-hungary-election-tisza-magyar-politics-results-trump-vance/"
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/union-berlin-appoint-eta-bundesligas-first-female-head-coach-6051311"
         }
       ],
       "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Eastern Europe",
         "Germany",
-        "Global",
-        "Israel",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3111,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+      "summary": "The Artemis II astronauts have returned to Earth and received a formal welcome in Houston after completing their lunar mission. The crew members expressed gratitude for their experience in space during their first public remarks since splashdown.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/11/nx-s1-5781820/artemis-ii-splashdown-captures-nationwide-attention"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349765/over-moon-artemis-ii-astronauts-make-emotional-homecoming-after-record-trip?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "North Africa",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.2963,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukraine and Russia each report hundreds of violations during a 32-hour ceasefire declared for Orthodox Easter, with Ukrainian officials citing continued Russian drone strikes and Moscow denying the claims. The mutual accusations reflect the broader pattern of disputed compliance that has characterized previous temporary truces between the two countries.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/article/3349757/russia-and-ukraine-begin-32-hour-ceasefire-orthodox-easter?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "Russia",
         "Southeast Asia",
         "UK",
         "Ukraine"
       ],
-      "score": 0.4087,
-      "mentions": 14,
-      "diversity": 5
+      "score": 0.2392,
+      "mentions": 16,
+      "diversity": 3
     },
     {
       "rank": 9,
-      "headline": "Trump administration unveils 250-foot 'Triumphal Arch' design",
-      "summary": "The Trump administration has announced plans for a 250-foot ornamental arch in Washington, D.C., featuring classical design elements including eagles, lions, and gold detailing. The structure represents a significant addition to the capital's architectural landscape, though its actual construction remains contingent on approvals and funding.",
+      "headline": "Benin holds presidential election four months after failed coup",
+      "summary": "Benin holds a presidential election four months after a failed coup attempt disrupted the country's political stability. The vote takes place amid rising security threats from al-Qaeda-linked groups and widespread poverty, with the incumbent finance minister positioned as the frontrunner.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-says-plans-filed-for-huge-triumphal-arch-in-washington/a-76746081?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349713/trump-unveils-plan-triumphal-arch-washington-eagles-lions-lots-gold?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "Israel",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3602,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 10,
-      "headline": "Djibouti’s President Guelleh wins sixth straight term in office",
-      "summary": "President Ismaïl Omar Guelleh secures reelection in Djibouti with official results showing 97.8% of the vote, extending his tenure that began in 1999. The election took place amid reports of notably low voter turnout in the strategic Horn of Africa nation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss"
+          "link": "https://www.scmp.com/news/world/africa/article/3349796/benin-election-favours-continuity-amid-al-qaeda-attacks-poverty?utm_source=rss_feed"
         },
         {
           "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/11/djibouti-a-landslide-victory-for-guelleh-according-to-official-results/"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/djibouti-president-wins-election-with-97-8-of-vote-state-media-says"
+          "link": "http://www.africanews.com/2026/04/12/polls-open-in-benin-presidential-election-finance-minister-a-favourite/"
         }
       ],
       "regions": [
         "Africa",
-        "Qatar",
-        "Southeast Asia"
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.3595,
-      "mentions": 5,
+      "score": 0.2339,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "A Hezbollah commander describes battling Israel in Lebanon",
+      "summary": "A Hezbollah commander has offered an account of military engagements with Israeli forces operating in Lebanon, providing perspective from the armed group's leadership on the ongoing conflict. The statement comes as Hezbollah opposes diplomatic negotiations between Lebanon and Israel, with recent strikes in the region resulting in significant casualties.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hezbollah-ayatollahs-allies-in-lebanon/article70851974.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/hezbollah-mp-slams-planned-lebanese-talks-with-israel-as-strikes-kill-10"
+        }
+      ],
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.2312,
+      "mentions": 4,
       "diversity": 3
     }
   ]
