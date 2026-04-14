@@ -1,26 +1,39 @@
 {
-  "published_at": "2026-04-12T10:48:06.554625+00:00",
+  "published_at": "2026-04-13T11:23:42.257123+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "US-Iran talks ending without deal disappointing, Streeting says",
-      "summary": "US and Iranian negotiators conclude talks in Pakistan without reaching an agreement, leaving officials like UK Health Secretary Streeting expressing disappointment over the stalled diplomatic process. The talks end as regional tensions remain elevated, with oil tankers moving out of the Strait of Hormuz and Pakistan calling for both nations to maintain their current ceasefire arrangement.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Tensions rise between US and Iran amid diplomatic stalemate",
+      "summary": "The Strait of Hormuz remains operational with ongoing maritime traffic, though tensions have risen as the US considers a potential blockade of Iranian ports in the region. The UK has explicitly declined to participate in any such blockade, citing concerns about the legality and broader implications of restricting passage through the strategically vital waterway.",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "How many ships are crossing the Strait of Hormuz?",
+          "summary": "The Strait of Hormuz remains operational with ongoing maritime traffic, though tensions have risen as the US considers a potential blockade of Iranian ports in the region. The UK has explicitly declined to participate in any such blockade, citing concerns about the legality and broader implications of restricting passage through the strategically vital waterway."
+        },
+        {
+          "headline": "Pope says he has 'no fear' of Trump after scathing criticism",
+          "summary": "Pope Leo has publicly stated he is unafraid following Trump's recent criticism of his diplomatic approach and character. The pontiff's comments come as he begins an African tour in Algeria, continuing his focus on international peace initiatives despite the political tensions."
+        },
+        {
+          "headline": "US-Iran Talks Fail - What Happens Next?",
+          "summary": "Negotiators from the US and Iran ended 21 hours of talks without reaching an agreement on a ceasefire, with each side citing the other's demands as the obstacle. The breakdown leaves unresolved tensions over nuclear arrangements and regional conflicts, with both nations now reassessing their next diplomatic steps."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/australia-news/2026/apr/12/penny-wong-calls-failed-peace-talks-between-us-and-iran-disappointing-and-urges-resumption"
+          "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
         }
       ],
       "regions": [
@@ -35,298 +48,318 @@
         "Middle East",
         "North Africa",
         "Qatar",
+        "Russia",
+        "South Africa",
+        "South America",
         "Southeast Asia",
         "UK",
         "US",
-        "Ukraine"
+        "Ukraine",
+        "West Africa"
       ],
-      "score": 0.6991,
-      "mentions": 89,
-      "diversity": 8
+      "score": 0.8542,
+      "mentions": 93,
+      "diversity": 19
     },
     {
       "rank": 2,
-      "headline": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
-      "summary": "Hungarians are voting in an election that could end Viktor Orbán's 16-year tenure as prime minister, with opposition parties unified behind a single rival candidate for the first time. High turnout suggests significant public engagement with a contest that represents the strongest electoral challenge to Orbán's rule since he first took office.",
+      "headline": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+      "summary": "Péter Magyar's party wins a decisive majority in Hungary's election, ending Viktor Orbán's 16-year tenure as prime minister. The result marks a significant shift in Hungarian politics after years of Orbán's governance and represents voters' choice for a new direction in the country's leadership.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Germany",
-        "India",
-        "Israel",
-        "Qatar",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.54,
-      "mentions": 19,
-      "diversity": 6
-    },
-    {
-      "rank": 3,
-      "headline": "Legendary Bollywood singer Asha Bhosle dies aged 92",
-      "summary": "Asha Bhosle, who recorded playback vocals for thousands of Hindi films over seven decades, dies at 92 in Mumbai. Her voice shaped Indian cinema from the 1940s onward, making her one of the most recorded artists in history.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/india-legendary-playback-singer-asha-bhosle-dies-at-92/a-76752404?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Qatar",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4256,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 4,
-      "headline": "Australian teenager Gout faster than Bolt at 18",
-      "summary": "An 18-year-old Australian sprinter has run 200 meters in 19.67 seconds, breaking the national record and matching a speed milestone that Usain Bolt did not achieve until later in his career. The performance positions Gout among the world's fastest young sprinters and suggests potential for future international competition.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/sport/athletics/articles/cgqkeq05y9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds?traffic_source=rss"
-        },
-        {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/sport/teen-sensation-gout-smashes-australian-200m-record-sub-20-second-run-6051516"
-        }
-      ],
-      "regions": [
-        "Qatar",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3528,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 5,
-      "headline": "More than 500 arrests at Palestine Action protest",
-      "summary": "London police arrested over 500 people during a protest against the government's ban on Palestine Action, an activist group. The arrests occurred as demonstrators gathered to challenge the organization's designation as illegal.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/london-police-arrest-protesters-over-palestine-action-ban/article70852334.ece"
-        }
-      ],
-      "regions": [
-        "India",
-        "Qatar",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3506,
-      "mentions": 4,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "Union Berlin appoint first female head coach",
-      "summary": "Union Berlin has appointed Eta as its head coach, making her the first woman to hold the position at a Bundesliga club. The appointment marks a significant milestone in German professional football, where coaching leadership has historically remained male-dominated.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/sport/union-berlin-appoint-eta-bundesligas-first-female-head-coach-6051311"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3111,
-      "mentions": 3,
-      "diversity": 2
-    },
-    {
-      "rank": 7,
-      "headline": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
-      "summary": "The Artemis II astronauts have returned to Earth and received a formal welcome in Houston after completing their lunar mission. The crew members expressed gratitude for their experience in space during their first public remarks since splashdown.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/11/nx-s1-5781820/artemis-ii-splashdown-captures-nationwide-attention"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3349765/over-moon-artemis-ii-astronauts-make-emotional-homecoming-after-record-trip?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Australia",
-        "Hong Kong",
-        "North Africa",
-        "South Africa",
-        "UK",
-        "US"
-      ],
-      "score": 0.2963,
-      "mentions": 9,
-      "diversity": 6
-    },
-    {
-      "rank": 8,
-      "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "summary": "Ukraine and Russia each report hundreds of violations during a 32-hour ceasefire declared for Orthodox Easter, with Ukrainian officials citing continued Russian drone strikes and Moscow denying the claims. The mutual accusations reflect the broader pattern of disputed compliance that has characterized previous temporary truces between the two countries.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/article/3349757/russia-and-ukraine-begin-32-hour-ceasefire-orthodox-easter?utm_source=rss_feed"
-        }
-      ],
-      "regions": [
-        "Central Asia & Eastern Europe",
-        "Hong Kong",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.2392,
-      "mentions": 16,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "Benin holds presidential election four months after failed coup",
-      "summary": "Benin holds a presidential election four months after a failed coup attempt disrupted the country's political stability. The vote takes place amid rising security threats from al-Qaeda-linked groups and widespread poverty, with the incumbent finance minister positioned as the frontrunner.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/africa/article/3349796/benin-election-favours-continuity-amid-al-qaeda-attacks-poverty?utm_source=rss_feed"
-        },
-        {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/12/polls-open-in-benin-presidential-election-finance-minister-a-favourite/"
+          "link": "https://www.theguardian.com/australia-news/2026/apr/13/tony-abbott-labels-viktor-orban-trump-with-brains-as-future-of-budapest-thinktank-linked-to-former-pm-in-doubt"
         }
       ],
       "regions": [
         "Africa",
-        "Hong Kong",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Israel",
+        "North Africa",
+        "Qatar",
+        "Russia",
+        "South Africa",
+        "South America",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
       ],
-      "score": 0.2339,
-      "mentions": 4,
-      "diversity": 4
+      "score": 0.7625,
+      "mentions": 49,
+      "diversity": 9
     },
     {
-      "rank": 10,
-      "headline": "A Hezbollah commander describes battling Israel in Lebanon",
-      "summary": "A Hezbollah commander has offered an account of military engagements with Israeli forces operating in Lebanon, providing perspective from the armed group's leadership on the ongoing conflict. The statement comes as Hezbollah opposes diplomatic negotiations between Lebanon and Israel, with recent strikes in the region resulting in significant casualties.",
+      "rank": 3,
+      "headline": "Peruvians go to polls hoping to break cycle of instability",
+      "summary": "Peruvians are voting in a presidential election amid hopes of ending years of political turmoil that has included multiple dissolutions of Congress and frequent changes in leadership. Election day complications—including voting extensions in some areas and delayed result announcements—are raising concerns about the integrity of the process as candidates position themselves for a likely runoff.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/hezbollah-ayatollahs-allies-in-lebanon/article70851974.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/peru-general-elections-fujimori-leading-runoff-likely/a-76756162?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/hezbollah-mp-slams-planned-lebanese-talks-with-israel-as-strikes-kill-10"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/13/world/americas/peru-election-extended-voting.html"
         }
       ],
       "regions": [
+        "Africa",
+        "Germany",
         "India",
+        "South America",
         "Southeast Asia",
+        "UK",
         "US"
       ],
-      "score": 0.2312,
+      "score": 0.5624,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "At least 30 killed in crush at historic fortress in Haiti",
+      "summary": "A stampede at a mountaintop fortress in Haiti has killed at least 30 people, with dozens more injured in the crush. The incident occurred at the historic site, though the specific circumstances that triggered the crowd surge remain unclear from available reports.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/stampede-haitian-mountaintop-fortress-kills-and-injures-people/article70855294.ece"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Australia",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5392,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Rory McIlroy defends Masters title, underlining why he is one of golf's greats",
+      "summary": "Rory McIlroy wins the Masters for the second consecutive year, joining an elite group of only three other players to defend the title successfully. His victory reinforces his standing among golf's premier competitors and adds another major championship to his career record.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters"
+        }
+      ],
+      "regions": [
+        "Qatar",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5035,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Zelenskyy, Putin mark Easter amid truce breach allegations",
+      "summary": "Ukrainian President Zelenskyy and Russian President Putin both observed Easter, though each side accused the other of violating an unofficial truce that had paused major hostilities over the holiday period. Drone strikes resumed between the two countries as the ceasefire ended, with both nations claiming the other initiated breaches of the agreement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/zelenskyy-putin-mark-easter-amid-truce-breach-allegations/a-76754232?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-russia-renew-drone-strikes-after-easter-truce/article70856732.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-ukraine-war-putin-easter-ceasefire/"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4399,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Britney Spears goes into rehab after driving under the influence arrest",
+      "summary": "Britney Spears has entered a rehabilitation facility following her arrest on suspicion of driving under the influence in March. The voluntary admission to treatment marks a significant step in addressing the circumstances that led to the arrest.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/music/2026/apr/13/britney-spears-enters-rehab-after-march-dui-arrest"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/culture/music/article-britney-spears-substance-abuse-treatment-facility-arrest-suspicion-dui/"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "UK"
+      ],
+      "score": 0.4222,
       "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
+      "summary": "A Nigerian military airstrike intended to target jihadists struck a civilian market in the northeast, killing at least 100 people according to initial reports. The incident appears to have resulted from a targeting error during operations against armed groups active in the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-many-dead-after-military-bombs-village-market/a-76756309?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nigeria-air-force-attack-misfire-market-death-toll-updates/article70854878.ece"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "India",
+        "South Africa",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.3892,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Australia appoints female army chief for the first time in history",
+      "summary": "Lieutenant General Susan Coyle becomes the first woman to lead Australia's Army, marking a significant shift in the military's leadership structure. The appointment reflects broader efforts across defense forces globally to increase diversity in senior command positions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/australasia/article/3349850/australia-appoints-first-female-army-chief-historic-reshuffle-military-top-brass?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/australia-appoints-lt-gen-susan-coyle-as-first-woman-to-lead-its-army/article70856382.ece"
+        }
+      ],
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Qatar"
+      ],
+      "score": 0.325,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover",
+      "summary": "Mauritius reaffirms its claim to the Chagos Islands after Britain abandoned plans to hand over the territory, citing insufficient political support from the incoming U.S. administration. The island nation intends to pursue sovereignty through diplomatic and legal channels, continuing a decades-long dispute over the strategic archipelago in the Indian Ocean.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/04/13/mauritius-vows-to-pursue-chagos-sovereignty-after-uk-deal-collapses/"
+        },
+        {
+          "name": "MercoPress",
+          "link": "https://en.mercopress.com/2026/04/13/uk-shelves-chagos-islands-deal-following-lack-of-support-from-trump?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.325,
+      "mentions": 3,
       "diversity": 3
     }
   ]
