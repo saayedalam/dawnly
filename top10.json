@@ -1,32 +1,44 @@
 {
-  "published_at": "2026-04-14T11:11:49.787171+00:00",
+  "published_at": "2026-04-15T11:09:01.181713+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "US blockade of Iranian ports explained in two minutes",
-      "summary": "The United States has implemented restrictions on Iranian ports, limiting Iran's ability to export oil and conduct maritime trade as part of broader sanctions enforcement. The blockade affects shipping through the Strait of Hormuz, a critical global chokepoint, while some sanctioned tankers continue to navigate the route despite the restrictions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Tensions ease as regional powers pursue diplomatic channels",
+      "summary": "Israel and Lebanon begin direct negotiations for the first time in over three decades, marking a significant diplomatic shift after decades of indirect communication through intermediaries. The talks address long-standing border disputes and regional tensions, particularly regarding maritime boundaries and Hezbollah's presence in southern Lebanon.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Israel and Lebanon hold first direct talks since 1993",
+          "summary": "Israel and Lebanon begin direct negotiations for the first time in over three decades, marking a significant diplomatic shift after decades of indirect communication through intermediaries. The talks address long-standing border disputes and regional tensions, particularly regarding maritime boundaries and Hezbollah's presence in southern Lebanon."
+        },
+        {
+          "headline": "Iran used Chinese spy satellite to target US bases",
+          "summary": "Iran accessed a Chinese spy satellite to gather targeting information on U.S. military installations across the Middle East region. The capability to conduct this surveillance represents a significant expansion of Iran's intelligence-gathering tools and raises questions about the scope of intelligence-sharing between Tehran and Beijing."
+        },
+        {
+          "headline": "Analysis:Dollar sheds bulk of Iran war premium, but few expect a sharper drop",
+          "summary": "The U.S. dollar has retreated from the elevated levels it reached during Iran tensions, as markets reassess the likelihood of major regional escalation. Analysts expect the currency to stabilize near current levels rather than weaken further, while the broader economic impact on Asia and global trade remains uncertain."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin"
+          "link": "https://www.theguardian.com/world/live/2026/apr/15/iran-war-live-news-us-naval-blockade-strait-of-hormuz-pakistan-peace-talks-middle-east-crisis-latest"
         }
       ],
       "regions": [
         "Africa",
         "Australia",
-        "Brazil",
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
@@ -43,303 +55,301 @@
         "US",
         "Ukraine"
       ],
-      "score": 0.7333,
-      "mentions": 52,
-      "diversity": 10
+      "score": 0.8,
+      "mentions": 54,
+      "diversity": 17
     },
     {
       "rank": 2,
-      "headline": "Americanswers... on 5 Live! Donald Trump vs Pope Leo on Iran",
-      "summary": "Trump and a papal figure named Leo have disagreed publicly over Iran policy, with the conflict touching on questions about religious authority's role in foreign affairs. The dispute reflects broader tensions between Trump's administration and Catholic leadership over the appropriate scope of papal commentary on U.S. political decisions.",
+      "headline": "The human cost of the war in Sudan, three years on",
+      "summary": "Sudan's three-year conflict has displaced millions of families while creating severe shortages of food and fuel that continue to worsen living conditions across the country. The humanitarian crisis has prompted international efforts, including a Berlin conference seeking over $1 billion in aid, as civilians face ongoing displacement, hunger, and loss of stability.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nd6swy?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/13/nx-s1-5783925/where-are-american-catholics-on-trumps-fight-with-the-pope"
+          "link": "https://www.npr.org/2026/04/15/nx-s1-5781032/sudan-darfur-war-genocide-famine"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
+        "Germany",
+        "India",
+        "Qatar",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6377,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Magyar calls for fast handover of power in talks with Hungary's president",
+      "summary": "Peter Magyar, who led the opposition to a decisive election victory over Prime Minister Viktor Orbán, is pushing for a rapid transfer of power during meetings with Hungary's president. Magyar aims to establish a new government by early May, signaling a potential shift in Hungary's political direction after years of Orbán's rule.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/apr/15/peter-magyar-hungary-president-media-viktor-orban-european-union-europe-latest"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-posts-and-then-deletes-jesus-like-ai-image-of-himself/a-76768673?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/hungary-s-magyar-hoping-to-form-new-government-in-early-may/a-76788697?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "regions": [
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.525,
+      "mentions": 15,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
+      "summary": "Xi Jinping met with Russian Foreign Minister Sergey Lavrov, publicly characterizing China-Russia relations as a stabilizing partnership amid global tensions. The meeting signals Beijing's continued alignment with Moscow despite international pressure, as both nations seek to expand their influence in regions like the Middle East.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/xi-hails-china-russia-ties-signals-bigger-role-in-iran-war/a-76787130?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/plus/news/world/middle-east/article/3350178/china-cements-russia-ties-both-win-us-war?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Qatar",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4821,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "North Korea boosting ability to manufacture nuclear arms, IAEA chief warns",
+      "summary": "The International Atomic Energy Agency warns that North Korea is expanding its capacity to produce nuclear weapons materials and warheads. The assessments reflect ongoing concerns about the country's nuclear program despite international sanctions and diplomatic efforts to limit its development.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/15/north-korea-nuclear-weapons-capability-un-watchdog-rafael-grossi"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-is-boosting-nuclear-weapons-capacity-iaea-chief/article70864157.ece"
+        }
+      ],
+      "regions": [
+        "India",
+        "Qatar",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4129,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "US forces kill 4 people in latest strike on vessels in eastern Pacific",
+      "summary": "The US military conducted another strike on a vessel in the eastern Pacific, resulting in four deaths as part of ongoing operations targeting suspected drug trafficking boats. This marks the fourth such strike by US forces in the region within a week.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/apr/14/us-military-boat-strike-eastern-pacific"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3350107/us-military-says-4-killed-fourth-drug-boat-strike-week?utm_source=rss_feed"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Qatar",
+        "UK",
+        "US"
+      ],
+      "score": 0.4071,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Paris art enthusiast wins €1m Picasso painting in €100 charity raffle",
+      "summary": "A Paris art enthusiast won a Picasso painting valued at €1 million by purchasing a single €100 raffle ticket for charity. The significant return on investment—roughly a tenfold gain—illustrates how fundraising raffles can create outsized rewards for lucky participants while generating money for charitable causes.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/apr/15/picasso-painting-winner-charity-raffle"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/15/g-s1-117480/raffle-winner-picasso"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/culture/art-and-architecture/article-france-raffles-1-million-picasso-to-raise-money-for-alzheimers/"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "UK",
+        "US"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "Pope heads to Cameroon as separatists announce 3-day pause in fighting",
+      "summary": "Pope Francis arrives in Cameroon during a significant moment, as separatist groups in the Anglophone regions have declared a temporary ceasefire that creates an opening for dialogue on the conflict that has displaced hundreds of thousands. His visit underscores the Catholic Church's role in seeking reconciliation in Africa while highlighting the deep divisions within Cameroon between its French-speaking majority and English-speaking regions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/15/g-s1-117486/pope-heads-to-cameroon"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-cameroon-africa-tour-trump-criticism/"
+        }
+      ],
+      "regions": [
+        "Africa",
+        "Canada",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3457,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Turkey school shooting injures 16, teenage attacker dead",
+      "summary": "A teenage gunman opens fire at a high school in Turkey's Siverek district, wounding 16 people before being killed. The incident marks a rare occurrence of such violence in the country, where school shootings remain uncommon.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/turkey-school-shooting-injures-16-teenage-attacker-dead/a-76784713?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/turkiye-school-shooting-april-14-2026/article70860799.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/turkey-high-school-shooting-20260415-p5znyh.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
       "regions": [
         "Africa",
         "Australia",
-        "Canada",
         "Germany",
-        "Hong Kong",
-        "India",
-        "Israel",
-        "Middle East",
-        "South Africa",
-        "South America",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
+        "India"
       ],
-      "score": 0.6769,
-      "mentions": 29,
-      "diversity": 9
-    },
-    {
-      "rank": 3,
-      "headline": "Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live",
-      "summary": "Hungary has elected a new prime minister, Péter Magyar, ending Viktor Orbán's long tenure as leader. U.S. Vice President Vance expressed disappointment over Orbán's loss but committed to working constructively with Hungary's incoming government.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Germany",
-        "India",
-        "South America",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.5542,
-      "mentions": 20,
-      "diversity": 5
-    },
-    {
-      "rank": 4,
-      "headline": "Mark Carney secures majority government in Canada after special election win",
-      "summary": "Mark Carney's Liberal Party has won enough seats in a special election to form a majority government in Canada's Parliament. This result gives Carney's administration the ability to pass legislation without needing support from other parties.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html"
-        }
-      ],
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "India",
-        "North Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.4292,
-      "mentions": 8,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "Retrial over death of Argentina legend Maradona to begin",
-      "summary": "A retrial begins in Argentina regarding Diego Maradona's 2020 death, as authorities re-examine the circumstances surrounding the football legend's passing. The proceedings will determine whether medical professionals bear responsibility in connection with Maradona's death at age 60.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/4/14/new-trial-over-football-great-maradonas-death-begins-in-argentina?traffic_source=rss"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/new-trial-over-soccer-legend-maradonas-death-begins-in-argentina"
-        }
-      ],
-      "regions": [
-        "Qatar",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4216,
+      "score": 0.3379,
       "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 6,
-      "headline": "Man charged with attempted murder of OpenAI CEO Sam Altman",
-      "summary": "A man has been charged with attempted murder following a Molotov cocktail attack on OpenAI CEO Sam Altman's California home. The incident marks a serious escalation in violence directed at a prominent artificial intelligence industry figure.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/man-charged-with-attempted-murder-of-openai-ceo-sam-altman?traffic_source=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/technology/openai-ceos-california-home-hit-by-molotov-cocktail-man-arrested/article70856090.ece"
-        }
-      ],
-      "regions": [
-        "India",
-        "Qatar",
-        "US"
-      ],
-      "score": 0.4216,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-      "summary": "Lebanese and Israeli officials are meeting directly in Washington for the first time in decades, with the United States facilitating discussions aimed at resolving border tensions and the broader conflict. Hezbollah's position remains uncertain, as the militant group's support will be crucial for any agreement to hold, even though Lebanon's government is pursuing negotiations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/what-we-know-about-us-hosted-talks-between-israel-and-lebanon?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html"
-        }
-      ],
-      "regions": [
-        "Canada",
-        "Israel",
-        "Qatar",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.4114,
-      "mentions": 11,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
-      "summary": "A former NATO chief has criticized the UK government's approach to defense spending and military preparedness, arguing that insufficient investment threatens national security. The critique reflects ongoing debate among security experts about whether current defense budgets and policies adequately address emerging threats to Britain.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/apr/14/starmer-accused-of-corrosive-complacency-about-defence-by-ex-head-of-nato"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/former-nato-chief-targets-pm-starmer-warning-uks-security-in-peril"
-        }
-      ],
-      "regions": [
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3903,
-      "mentions": 4,
-      "diversity": 2
-    },
-    {
-      "rank": 9,
-      "headline": "Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church",
-      "summary": "Pope Leo's visit to Algeria represents the Catholic Church's strategic focus on Africa, where the faith is experiencing faster growth than in Europe and North America. The trip carries symbolic weight given Augustine's Algerian origins and the Pope's emphasis on reconciliation between communities historically divided by colonialism and conflict.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html"
-        },
-        {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/14/pope-leo-xiv-celebrates-historic-mass-at-rainsoaked-basilica-in-algiers/"
-        }
-      ],
-      "regions": [
-        "Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.3855,
-      "mentions": 7,
       "diversity": 4
     },
     {
       "rank": 10,
-      "headline": "Spanish prime minister’s wife charged with corruption",
-      "summary": "Spain's Prime Minister Pedro Sánchez's wife faces corruption charges following a multi-year investigation into her business activities. The case marks a significant legal challenge for the sitting government and raises questions about transparency in Spain's political leadership.",
+      "headline": "Short-term gains for China from US-Iran war may turn to longer-term pain",
+      "summary": "A potential US-Iran conflict could initially benefit China through disrupted energy markets and geopolitical advantage, but prolonged regional instability threatens its trade routes and economic interests. Trump's planned Beijing visit reflects improved American sentiment toward China, suggesting he may pursue negotiations that reshape US-China relations rather than escalate tensions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/14/spanish-prime-minister-wife-charged-with-corruption-pedro-sanchez-begona-gomez"
+          "link": "https://www.theguardian.com/world/2026/apr/15/china-us-iran-war-risks-energy-economy"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/spanish-pm-sanchez-wife-charged-with-corruption/a-76770986?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3350188/trump-tells-letter-exchange-xi-jinping-over-chinas-role-iran-war-interview?utm_source=rss_feed"
         },
         {
           "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/spanish-pms-wife-charged-with-corruption"
+          "link": "https://www.straitstimes.com/world/united-states/americans-views-of-china-improve-ahead-of-trump-xi-summit-survey"
         }
       ],
       "regions": [
-        "Germany",
+        "Hong Kong",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.35,
-      "mentions": 3,
-      "diversity": 2
+      "score": 0.3272,
+      "mentions": 4,
+      "diversity": 3
     }
   ]
 }
