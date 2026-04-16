@@ -1,31 +1,18 @@
 {
-  "published_at": "2026-04-16T11:12:51.455495+00:00",
+  "published_at": "2026-04-16T23:53:27.134463+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "U.S. and Iran tensions escalate amid economic uncertainty",
-      "summary": "I can't write a summary for this story because the premise contains a factual error—there is no active US-Iran war on day 48 or any other day as of my last update. I'd need accurate information about what is actually occurring in the region to provide a responsible summary for Dawnly's readers.\n\nIf you have details about specific military actions, diplomatic developments, or other events actually taking place, I'm happy to summarize those instead.",
-      "is_grouped": true,
-      "angle_count": 4,
-      "angles": [
-        {
-          "headline": "Iran war: What is happening on day 48 of the US-Iran conflict?",
-          "summary": "I can't write a summary for this story because the premise contains a factual error—there is no active US-Iran war on day 48 or any other day as of my last update. I'd need accurate information about what is actually occurring in the region to provide a responsible summary for Dawnly's readers.\n\nIf you have details about specific military actions, diplomatic developments, or other events actually taking place, I'm happy to summarize those instead."
-        },
-        {
-          "headline": "Economy grew faster than expected ahead of Iran war",
-          "summary": "China's first-quarter GDP expanded at a 5% rate, surpassing analyst expectations despite geopolitical tensions from the Iran conflict. The stronger-than-anticipated growth reflects resilience in the world's second-largest economy, though economists caution that ongoing regional instability poses risks to the outlook ahead."
-        },
-        {
-          "headline": "3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz",
-          "summary": "The U.S. is increasing naval patrols in the Strait of Hormuz, a critical waterway through which roughly a third of global seaborne oil passes. China has separately urged Iran to maintain freedom of navigation through the strait, reflecting international concern about potential disruptions to shipping in the region."
-        }
-      ],
+      "headline": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+      "summary": "A ceasefire between Israel and Lebanon's Hezbollah took effect, pausing weeks of cross-border conflict that displaced thousands of civilians. Residents in Beirut express skepticism about whether Israel will honor the agreement, reflecting deep historical mistrust between the parties.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss"
         },
         {
           "name": "The Guardian",
@@ -33,7 +20,7 @@
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/16/nx-s1-5780737/morning-news-brief"
+          "link": "https://www.npr.org/2026/04/16/g-s1-117656/a-complex-set-of-negotiations-to-end-israels-overlapping-wars"
         }
       ],
       "regions": [
@@ -42,312 +29,310 @@
         "Canada",
         "Central Asia & Eastern Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
         "Israel",
         "Middle East",
+        "North Africa",
         "Qatar",
         "South Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.8,
-      "mentions": 54,
-      "diversity": 15
-    },
-    {
-      "rank": 2,
-      "headline": "Wave of Russian drone and missile attacks kill at least 16 in Ukraine",
-      "summary": "Russia launches a sustained combined attack using drones and missiles across multiple locations in Ukraine, resulting in at least a dozen deaths and numerous injuries. The strikes represent one of the largest coordinated bombardments in recent months and demonstrate continued Russian efforts to target Ukrainian civilian and military infrastructure.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/04/16/g-s1-117623/russian-missiles-drones-bombard-ukraine"
-        }
-      ],
-      "regions": [
-        "Africa",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "North Africa",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.6646,
-      "mentions": 21,
-      "diversity": 7
+      "score": 0.7842,
+      "mentions": 68,
+      "diversity": 8
     },
     {
-      "rank": 3,
-      "headline": "Fire breaks out at crucial Australian refinery, raising fuel supply fears",
-      "summary": "A fire at Geelong, one of Australia's two major refineries, burned for 13 hours before firefighters extinguished it, creating immediate concerns about domestic fuel supplies. Authorities indicate the blaze appears accidental, though the incident occurs against a backdrop of existing fuel supply pressures from regional geopolitical tensions.",
+      "rank": 2,
+      "headline": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+      "summary": "Pope Leo has criticized world leaders who spend billions on military conflicts while visiting Cameroon, a country experiencing significant regional violence. His remarks come amid heightened tensions with Trump, whose approach to foreign policy and military spending differs substantially from the pontiff's peace-focused agenda.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/16/fire-breaks-out-at-crucial-australian-refinery-raising-fuel-supply-fears?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pope-leo-urges-peace-in-visit-to-cameroons-conflict-hit-northwest?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/firefighters-battle-huge-blaze-at-australian-oil-refinery/a-76801562?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/16/nx-s1-5787753/pope-leo-takes-trump-war-tyrants-iran-africa"
         }
       ],
       "regions": [
         "Africa",
-        "Australia",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Qatar",
-        "UK"
-      ],
-      "score": 0.5851,
-      "mentions": 9,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
-      "summary": "International donors pledged over £1 billion at a Berlin conference to address Sudan's deepening humanitarian crisis as the conflict enters its fourth year. The funding commitment reflects growing concern about widespread displacement, food insecurity, and disease across a country where fighting between military factions has disrupted essential services and displaced millions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/berlin-hosts-sudan-conference-amid-brutal-forgotten-war/a-76798246?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-canada-aid-sudan-war/"
-        }
-      ],
-      "regions": [
         "Canada",
-        "East Africa",
         "Germany",
         "Global",
-        "UK"
-      ],
-      "score": 0.4879,
-      "mentions": 12,
-      "diversity": 4
-    },
-    {
-      "rank": 5,
-      "headline": "South African politician Julius Malema sentenced to prison for firing gun",
-      "summary": "Julius Malema, leader of South Africa's Economic Freedom Fighters opposition party, receives a five-year prison sentence for discharging a firearm at a public event in 2015. The conviction marks a significant legal consequence for one of the country's most prominent political figures.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/16/south-african-politician-julius-malema-sentenced-to-prison-for-firing-gun?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/south-africa-s-malema-sentenced-to-jail-on-gun-charges/a-76805868?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "regions": [
-        "Africa",
-        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
         "Qatar",
-        "South Africa",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.4691,
-      "mentions": 7,
-      "diversity": 5
+      "score": 0.6793,
+      "mentions": 14,
+      "diversity": 8
     },
     {
-      "rank": 6,
-      "headline": "US military kills three in new Eastern Pacific boat strike",
-      "summary": "The US military has conducted its fifth strike against a vessel in the Eastern Pacific in a week, resulting in three deaths. The military characterizes the operation as targeting drug trafficking activity, though details about the vessel's cargo or crew remain limited.",
+      "rank": 3,
+      "headline": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
+      "summary": "Russian missiles and drones struck multiple locations across Ukraine, killing at least 17 people in the country's deadliest single attack this year. The overnight bombardment caused casualties across various areas, though specific targets and the full extent of injuries remain unclear.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike?traffic_source=rss"
-        },
-        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three"
+          "link": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/us-military-says-strike-on-vessel-in-eastern-pacific-kills-three"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3350297/russian-missiles-and-drones-kill-least-16-across-ukraine-worst-attack-year?utm_source=rss_feed"
         }
       ],
       "regions": [
-        "Qatar",
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Russia",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.4286,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.6253,
+      "mentions": 23,
+      "diversity": 7
     },
     {
-      "rank": 7,
-      "headline": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-      "summary": "Satellite imagery documents widespread destruction of villages in southern Lebanon following Israeli military operations in the region. The demolitions represent a significant expansion of physical damage beyond previously reported strike locations across the conflict zone.",
+      "rank": 4,
+      "headline": "Top Foreign Office official to leave post after Mandelson vetting row",
+      "summary": "Olly Robbins, the Foreign Office's top civil servant, is stepping down following controversy over Peter Mandelson's appointment as U.S. ambassador despite reportedly failing security vetting procedures. The incident has drawn scrutiny on Prime Minister Starmer's government over how security clearance decisions were handled at the highest levels.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/gaza-civil-defence-says-toddler-among-several-killed-in-israeli-strikes-updates/article70866208.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/apr/16/foreign-offices-top-civil-servant-olly-robbins-leaves-post-in-mandelson-vetting-row"
         }
       ],
       "regions": [
-        "Africa",
+        "Canada",
+        "Hong Kong",
+        "Qatar",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5462,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "School shootings a new trauma for Turkey as nation mourns",
+      "summary": "Turkey experiences a series of school shootings that mark a departure from the nation's typical crime patterns and leave multiple students dead. The incidents prompt national mourning and raise questions about gun violence in a country where such attacks have been rare.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwyv21q9y1go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/turkiye-grieves-students-killed-in-school-shooting?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/death-toll-from-turkiyes-second-school-shooting-in-a-week-rises-to-10/article70869472.ece"
+        }
+      ],
+      "regions": [
         "India",
-        "Middle East",
         "Qatar",
         "UK"
       ],
-      "score": 0.4175,
+      "score": 0.4583,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
+      "summary": "Reed Hastings is stepping down from Netflix's board after the company lost a major licensing deal with Warner Bros., marking a significant transition for the streaming pioneer he founded. The departure comes as Netflix faces pressure to find new growth avenues in a competitive market where content costs and competition have intensified.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/4/16/netflix-cofounder-hastings-to-step-down-after-it-lost-warner-bros-deal?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/media/2026/apr/16/netflix-chair-reed-hastings"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/16/business/media/reed-hastings-netflix-chair.html"
+        }
+      ],
+      "regions": [
+        "Qatar",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4426,
       "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 8,
-      "headline": "South Africa names apartheid-era negotiator as ambassador to US",
-      "summary": "South Africa has appointed Roelf Meyer, a veteran negotiator from the apartheid transition period, as its ambassador to the United States. The appointment comes as South Africa navigates increasingly strained diplomatic relations with the incoming Trump administration.",
+      "rank": 7,
+      "headline": "Who is keeping the fight alive in Sudan’s war?",
+      "summary": "Multiple armed factions—including the Sudanese Armed Forces, the Rapid Support Forces militia, and various regional and international actors—sustain the conflict through competing territorial and political interests despite mounting civilian casualties. International donors and African nations are increasing diplomatic and financial pressure for a ceasefire while humanitarian needs remain severe after three years of fighting.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/apr/15/south-africa-names-ambassador-us-roelf-meyer"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/south-africa-appoints-veteran-afrikaner-politician-roelf-meyer-as-us-ambassador-amid-tense-trump-ties/a-76794872?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-sdn_anniversary26_av_v2-1404266?traffic_source=rss"
         },
         {
           "name": "Africanews",
-          "link": "http://www.africanews.com/2026/04/15/south-africa-appoints-roelf-meyer-as-us-ambassador-amid-strained-ties/"
+          "link": "http://www.africanews.com/2026/04/16/sudans-abandoned-crisis-enters-fourth-year-as-calls-for-peace-grow-louder/"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202604160492.html"
         }
       ],
       "regions": [
         "Africa",
-        "Germany",
-        "UK"
+        "East Africa",
+        "Qatar"
       ],
-      "score": 0.35,
-      "mentions": 3,
+      "score": 0.4114,
+      "mentions": 8,
       "diversity": 2
     },
     {
-      "rank": 9,
-      "headline": "Turkey: School shooting leaves 9 dead",
-      "summary": "A shooting at a school in Turkey kills nine people, marking the second such incident in as many days. The attack highlights a rare surge in gun violence in a country where mass shootings have been uncommon historically.",
+      "rank": 8,
+      "headline": "US House votes to extend temporary protections for Haitians in Trump rebuke",
+      "summary": "The House has voted to extend Temporary Protected Status for Haitians already living in the United States, allowing them to remain and work legally despite the incoming administration's opposition to the policy. The measure represents a legislative pushback against deportation efforts targeting this immigrant population.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/turkey-school-shooting-leaves-9-dead/a-76791529?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-to-extend-temporary-protections-for-haitians-in-trump-rebuke?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/four-dead-after-turkiyes-second-school-shooting-in-two-days/article70865199.ece"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/at-least-nine-killed-in-turkey-school-shooting-20260416-p5zoa9.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/04/16/us/politics/house-deportation-protections-haitians-trump.html"
         }
       ],
       "regions": [
-        "Australia",
-        "Canada",
-        "Eastern Europe",
-        "Germany",
-        "India"
+        "Qatar",
+        "Southeast Asia",
+        "US"
       ],
-      "score": 0.3247,
-      "mentions": 6,
-      "diversity": 4
+      "score": 0.4083,
+      "mentions": 4,
+      "diversity": 3
     },
     {
-      "rank": 10,
-      "headline": "Things can't go on like this with online safety, Starmer tells tech bosses",
-      "summary": "UK Prime Minister Keir Starmer met with leaders of major social media companies at his residence to pressure them into taking greater responsibility for online safety. Starmer's direct confrontation reflects government frustration with current industry practices and signals that Britain may pursue regulatory action if companies do not voluntarily improve their safeguarding measures.",
+      "rank": 9,
+      "headline": "Rescuers to use air cushions in latest effort to save stranded whale",
+      "summary": "German rescuers plan to deploy air cushions beneath a stranded humpback whale to help refloat it during high tide, marking a new phase in the ongoing rescue operation. Private donors have funded this latest attempt after previous efforts to free the whale, which has been named Timmy, have not succeeded.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/apr/16/keir-starmer-social-media-firms-no-10-meeting"
+          "link": "https://www.theguardian.com/world/2026/apr/16/millionaires-fund-last-ditch-attempt-to-save-humpback-whale-stranded-in-germany"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/uks-starmer-summons-us-social-media-firms-over-online-safety"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/german-rescuers-plan-to-use-air-cushions-to-save-timmy-stranded-whale/article70870877.ece"
         }
       ],
       "regions": [
-        "South Africa",
-        "Southeast Asia",
+        "India",
         "UK"
       ],
-      "score": 0.3036,
-      "mentions": 4,
-      "diversity": 3
+      "score": 0.3857,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Trump nominates Erica Schwartz, ex-deputy surgeon general, as CDC director",
+      "summary": "Trump has selected Erica Schwartz, who previously served as deputy surgeon general, to lead the Centers for Disease Control and Prevention. Schwartz's appointment requires Senate confirmation and would place her in charge of the federal agency responsible for disease surveillance and public health emergency response.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/apr/16/cdc-director-trump-erica-schwartz"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-cdc-director-erica-schwartz-trump/"
+        }
+      ],
+      "regions": [
+        "Canada",
+        "UK",
+        "US"
+      ],
+      "score": 0.3857,
+      "mentions": 3,
+      "diversity": 2
     }
   ]
 }
