@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 # Config
 # -------------------------------------------------------------------------
 
-EMBEDDING_MODEL    = "all-MiniLM-L6-v2"  # fast, lightweight, strong for news
+EMBEDDING_MODEL    = "all-mpnet-base-v2"   # higher quality embeddings, 768-dim
 DBSCAN_EPS         = 0.35                 # similarity threshold (lower = tighter clusters)
 DBSCAN_MIN_SAMPLES = 2                    # minimum articles to form a cluster
 MIN_SOURCES        = 3                    # minimum unique sources to qualify for top 10
