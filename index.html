@@ -364,18 +364,10 @@
       flex-shrink: 0;
     }
 
-    .card-regions,
     .card-hint,
     .back-source {
       font-family: 'Jost', sans-serif;
       text-transform: uppercase;
-    }
-
-    .card-regions {
-      font-size: 8px;
-      font-weight: 400;
-      letter-spacing: 1.5px;
-      color: var(--ink-3);
     }
 
     .card-hint {
@@ -1393,7 +1385,6 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
           <div class="angle-badge">${angleCount} Angles · Tap to read</div>
           <div class="card-headline">${story.headline}</div>
           <div class="card-foot">
-            <div class="card-regions">${regions}</div>
             <div class="card-hint">Tap to read</div>
           </div>
         </div>
@@ -1409,7 +1400,6 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
           <div class="card-num">${rank}</div>
           <div class="card-headline">${story.headline}</div>
           <div class="card-foot">
-            <div class="card-regions">${regions}</div>
             <div class="card-hint">Tap to read</div>
           </div>
         </div>
