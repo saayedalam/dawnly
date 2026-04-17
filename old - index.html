@@ -319,16 +319,30 @@
       position: relative;
       width: 100%;
       height: 100%;
+      transition: transform 0.5s cubic-bezier(0.4,0.2,0.2,1);
+      transform-style: preserve-3d;
+      perspective: 1000px;
     }
 
-    .card-front {
+    .card.flipped .card-inner { transform: rotateY(180deg); }
+
+    .card-front,
+    .card-back {
       position: absolute;
       inset: 0;
       padding: 12px 11px;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
       background: var(--paper);
       overflow: hidden;
       display: flex;
       flex-direction: column;
+    }
+
+    .card-back {
+      transform: rotateY(180deg);
+      background: var(--paper-2);
+      justify-content: space-between;
     }
 
     .card-num {
@@ -366,6 +380,7 @@
 
     .card-regions,
     .card-hint,
+    .back-hint,
     .back-source {
       font-family: 'Jost', sans-serif;
       text-transform: uppercase;
@@ -378,11 +393,33 @@
       color: var(--ink-3);
     }
 
-    .card-hint {
+    .card-hint,
+    .back-hint {
       font-size: 8px;
       font-weight: 400;
       letter-spacing: 1px;
       color: var(--ink-3);
+    }
+
+    .back-summary {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 16px;
+      font-weight: 400;
+      font-style: normal;
+      color: var(--ink-1);
+      line-height: 1.4;
+      flex: 1;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      margin-bottom: 8px;
+    }
+
+    .back-sources {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      flex-shrink: 0;
     }
 
     .back-source {
@@ -409,187 +446,32 @@
       flex-shrink: 0;
     }
 
+    .back-hint {
+      text-align: right;
+      margin-top: 5px;
+      flex-shrink: 0;
+    }
+
     /* -----------------------------------------------------------------------
-       Story overlay — opens on card click, full width, centered
+       Grouped card — one card representing multiple story angles
     ----------------------------------------------------------------------- */
 
-    .overlay-backdrop {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(0, 0, 0, 0.45);
-      z-index: 100;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .overlay-backdrop.open {
-      display: flex;
-    }
-
-    .overlay-panel {
-      background: var(--paper-2);
-      width: 100%;
-      max-height: 80vh;
-      overflow-y: auto;
-      padding: 32px 40px;
-      position: relative;
-      box-shadow: 0 8px 40px rgba(0,0,0,0.18);
-    }
-
-    .overlay-close {
-      position: absolute;
-      top: 16px;
-      right: 20px;
-      font-family: 'Jost', sans-serif;
-      font-size: 11px;
-      font-weight: 400;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--ink-3);
-      cursor: pointer;
-      background: none;
-      border: none;
-      padding: 4px 8px;
-    }
-
-    .overlay-close:hover { color: var(--ink-1); }
-
-    .overlay-rank {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 500;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--ink-3);
-      margin-bottom: 10px;
-    }
-
-    .overlay-headline {
-      font-family: 'Cormorant Garamond', Georgia, serif;
-      font-weight: 700;
-      font-size: 32px;
-      color: var(--ink-1);
-      line-height: 1.15;
-      margin-bottom: 20px;
-    }
-
-    .overlay-summary {
-      font-family: 'Source Serif 4', Georgia, serif;
-      font-size: 16px;
-      font-weight: 400;
-      color: var(--ink-1);
-      line-height: 1.6;
-      margin-bottom: 24px;
-    }
-
-    .overlay-divider {
-      border: none;
-      border-top: 1px solid var(--ink-3);
-      opacity: 0.3;
-      margin: 20px 0;
-    }
-
-    .overlay-angles {
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-      margin-bottom: 24px;
-    }
-
-    .overlay-angle-item {
-      border-left: 2px solid var(--big-accent);
-      padding-left: 14px;
-    }
-
-    .overlay-angle-headline {
-      font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 17px;
-      font-weight: 700;
-      color: var(--ink-1);
-      line-height: 1.2;
-      margin-bottom: 5px;
-    }
-
-    .overlay-angle-summary {
-      font-family: 'Source Serif 4', Georgia, serif;
-      font-size: 13px;
-      font-weight: 300;
-      font-style: italic;
-      color: var(--ink-2);
-      line-height: 1.5;
-    }
-
-    .overlay-stats {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: var(--ink-3);
-      display: flex;
-      gap: 16px;
-      flex-wrap: wrap;
-      margin-bottom: 16px;
-    }
-
-    .overlay-stat span {
-      color: var(--ink-1);
-      font-weight: 600;
-    }
-
-    .overlay-sources {
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
-      margin-bottom: 12px;
-    }
-
-    .overlay-source {
-      font-family: 'Jost', sans-serif;
-      font-size: 9px;
-      font-weight: 400;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: var(--ink-2);
-      text-decoration: none;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .overlay-source:hover { color: var(--ink-1); }
-
-    .overlay-regions {
-      font-family: 'Jost', sans-serif;
-      font-size: 8px;
-      font-weight: 400;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: var(--ink-3);
-      line-height: 1.8;
-    }
-
-    @media (max-width: 768px) {
-      .overlay-panel {
-        padding: 24px 20px;
-        max-height: 85vh;
-      }
-      .overlay-headline {
-        font-size: 24px;
-      }
-      .overlay-summary {
-        font-size: 14px;
-      }
-    }
-
-    .card.grouped .card-front {
+    .card.grouped .card-front,
+    .card.grouped .card-back {
       background: var(--big-paper);
-      box-shadow: inset 0 0 0 2px var(--big-accent);
+    }
+
+    .card.grouped .card-back {
+      background: var(--big-paper-2);
     }
 
     .card.grouped .card-front::before {
       content: none;
+    }
+
+    .card.grouped .card-front,
+    .card.grouped .card-back {
+      box-shadow: inset 0 0 0 2px var(--big-accent);
     }
 
     .card.grouped .card-num {
@@ -997,14 +879,6 @@
   </style>
 </head>
 <body>
-
-  <!-- Story overlay -->
-  <div class="overlay-backdrop" id="overlay-backdrop">
-    <div class="overlay-panel" id="overlay-panel">
-      <button class="overlay-close" id="overlay-close">✕ Close</button>
-      <div id="overlay-content"></div>
-    </div>
-  </div>
 <div class="np">
 
   <div class="hero" id="hero">
@@ -1390,12 +1264,17 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
       <div class="card-inner">
         <div class="card-front">
           <div class="card-num">${rank}</div>
-          <div class="angle-badge">${angleCount} Angles · Tap to read</div>
+          <div class="angle-badge">${angleCount} Angles · Tap To Explore</div>
           <div class="card-headline">${story.headline}</div>
           <div class="card-foot">
             <div class="card-regions">${regions}</div>
-            <div class="card-hint">Tap to read</div>
+            <div class="card-hint">Tap ↻</div>
           </div>
+        </div>
+        <div class="card-back">
+          <div class="angle-list">${anglesHTML}</div>
+          <div class="back-sources">${sources}</div>
+          <div class="back-hint">Tap ↻</div>
         </div>
       </div>`;
 
@@ -1410,13 +1289,18 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
           <div class="card-headline">${story.headline}</div>
           <div class="card-foot">
             <div class="card-regions">${regions}</div>
-            <div class="card-hint">Tap to read</div>
+            <div class="card-hint">Tap ↻</div>
           </div>
+        </div>
+        <div class="card-back">
+          <div class="back-summary">${story.summary || story.headline}</div>
+          <div class="back-sources">${sources}</div>
+          <div class="back-hint">Tap ↻</div>
         </div>
       </div>`;
   }
 
-  card.addEventListener('click', () => openOverlay(story));
+  card.addEventListener('click', () => card.classList.toggle('flipped'));
 
   requestAnimationFrame(() => {
     const front = card.querySelector('.card-front');
@@ -1463,89 +1347,56 @@ function buildCard(story, index, colSpan, colStart, rowStart, maxMentions) {
       headline.style.lineHeight = '1.1';
       headline.style.webkitLineClamp = String(bestLines);
     }
+
+    const back = card.querySelector('.card-back');
+    const summary = card.querySelector('.back-summary');
+    const sourcesBlock = card.querySelector('.back-sources');
+    const backHint = card.querySelector('.back-hint');
+
+    // Back text fitting only applies to regular (non-grouped) cards
+    if (back && summary && !isGrouped) {
+      const availBackH = back.clientHeight
+        - (sourcesBlock ? sourcesBlock.offsetHeight + 8 : 0)
+        - (backHint ? backHint.offsetHeight + 5 : 0)
+        - 32;
+
+      summary.style.overflow = 'hidden';
+      summary.style.display = '-webkit-box';
+      summary.style.webkitBoxOrient = 'vertical';
+
+      let minSize = 13;
+      let maxSize = 24;
+      let bestSize = minSize;
+      let bestLines = 3;
+
+      while (minSize <= maxSize) {
+        const mid = Math.floor((minSize + maxSize) / 2);
+        const lineH = mid * 1.35;
+        const lines = Math.max(3, Math.floor(availBackH / lineH));
+
+        summary.style.fontSize = mid + 'px';
+        summary.style.lineHeight = '1.35';
+        summary.style.webkitLineClamp = String(lines);
+
+        const fits = summary.scrollHeight <= summary.clientHeight + 1;
+
+        if (fits) {
+          bestSize = mid;
+          bestLines = lines;
+          minSize = mid + 1;
+        } else {
+          maxSize = mid - 1;
+        }
+      }
+
+      summary.style.fontSize = bestSize + 'px';
+      summary.style.lineHeight = '1.35';
+      summary.style.webkitLineClamp = String(bestLines);
+    }
   });
 
   return card;
 }
-
-// -------------------------------------------------------------------------
-// Overlay — opens on card click, shows full story detail
-// -------------------------------------------------------------------------
-
-const overlayBackdrop = document.getElementById('overlay-backdrop');
-const overlayContent  = document.getElementById('overlay-content');
-const overlayClose    = document.getElementById('overlay-close');
-
-function openOverlay(story) {
-  const rank = ROMAN[(story.rank || 1) - 1] || String(story.rank || '');
-  const isGrouped = story.is_grouped === true;
-
-  const sourcesHTML = (story.sources || []).map(s =>
-    `<a class="overlay-source" href="${s.link}" target="_blank" rel="noopener">
-      <span class="back-dot"></span>${s.name}
-    </a>`
-  ).join('');
-
-  const regionsText = Array.isArray(story.regions)
-    ? story.regions.join(' · ')
-    : (story.regions || '');
-
-  const statsHTML = `
-    <div class="overlay-stats">
-      <div class="overlay-stat">Score <span>${story.score ? story.score.toFixed(2) : '—'}</span></div>
-      <div class="overlay-stat">Sources <span>${(story.sources || []).length}</span></div>
-      <div class="overlay-stat">Mentions <span>${story.mentions || '—'}</span></div>
-      <div class="overlay-stat">Regions <span>${story.diversity || (Array.isArray(story.regions) ? story.regions.length : '—')}</span></div>
-    </div>`;
-
-  let bodyHTML = '';
-
-  if (isGrouped) {
-    const anglesHTML = (story.angles || []).map(a => `
-      <div class="overlay-angle-item">
-        <div class="overlay-angle-headline">${a.headline}</div>
-        ${a.summary ? `<div class="overlay-angle-summary">${a.summary}</div>` : ''}
-      </div>`).join('');
-
-    bodyHTML = `
-      <div class="overlay-rank">${rank}</div>
-      <div class="overlay-headline">${story.headline}</div>
-      <hr class="overlay-divider">
-      <div class="overlay-angles">${anglesHTML}</div>
-      <hr class="overlay-divider">
-      ${statsHTML}
-      <div class="overlay-sources">${sourcesHTML}</div>
-      <div class="overlay-regions">${regionsText}</div>`;
-  } else {
-    bodyHTML = `
-      <div class="overlay-rank">${rank}</div>
-      <div class="overlay-headline">${story.headline}</div>
-      <div class="overlay-summary">${story.summary || ''}</div>
-      <hr class="overlay-divider">
-      ${statsHTML}
-      <div class="overlay-sources">${sourcesHTML}</div>
-      <div class="overlay-regions">${regionsText}</div>`;
-  }
-
-  overlayContent.innerHTML = bodyHTML;
-  overlayBackdrop.classList.add('open');
-  document.body.style.overflow = 'hidden';
-}
-
-function closeOverlay() {
-  overlayBackdrop.classList.remove('open');
-  document.body.style.overflow = '';
-}
-
-overlayClose.addEventListener('click', closeOverlay);
-
-overlayBackdrop.addEventListener('click', (e) => {
-  if (e.target === overlayBackdrop) closeOverlay();
-});
-
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') closeOverlay();
-});
 
 /**
  * Build an image card.
@@ -1554,7 +1405,8 @@ document.addEventListener('keydown', (e) => {
  * @param {number}      rowStart
  * @param {number}      seedOffset  - unique per card so photos never repeat
  * @param {object|null} statsBack   - if provided, card flips to show stats
- *   statsBack = { label, rows: [{num, desc}], footer }\n */
+ *   statsBack = { label, rows: [{num, desc}], footer }
+ */
 function buildImageCard(colSpan, colStart, rowStart, seedOffset = 0, statsBack = null) {
   const ic = document.createElement('div');
   ic.className = 'img-card';
