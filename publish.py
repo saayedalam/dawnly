@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 # -------------------------------------------------------------------------
 
 OUTPUT_FILE    = "top10.json"
-BACKUP_FILE    = "top10.backup.json"
+ARCHIVE_DIR    = "archive/top10"
 MIN_STORIES    = 10     # minimum stories required to publish
 
 
@@ -78,42 +78,38 @@ def build_output(stories: list[dict]) -> dict:
 
 
 # -------------------------------------------------------------------------
-# File writer with fallback protection
+# File writers
 # -------------------------------------------------------------------------
 
 def write_output(data: dict) -> None:
     '''
-    Write top10.json safely.
-    Backs up the previous version before overwriting.
-    If writing fails, the backup is preserved.
+    Write top10.json to the repo root for the frontend to consume.
     '''
-    # Back up previous output if it exists
-    if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE, "r") as f:
-                previous = f.read()
-            with open(BACKUP_FILE, "w") as f:
-                f.write(previous)
-            logger.info(f"Previous output backed up to {BACKUP_FILE}")
-        except Exception as e:
-            logger.warning(f"Could not back up previous output: {e}")
-
-    # Write new output
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
     logger.info(f"Published {data['story_count']} stories to {OUTPUT_FILE}")
 
 
-def load_backup() -> dict | None:
+def archive_output(data: dict) -> None:
     '''
-    Load the backup top10.json if it exists.
-    Used as fallback when the pipeline produces insufficient stories.
+    Save a dated copy of top10.json to archive/top10/YYYY-MM-DD.json.
+    Creates the archive directory if it does not exist.
+    Skips archiving if the file for today already exists.
     '''
-    if os.path.exists(BACKUP_FILE):
-        with open(BACKUP_FILE, "r") as f:
-            return json.load(f)
-    return None
+    os.makedirs(ARCHIVE_DIR, exist_ok=True)
+
+    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    archive_path = os.path.join(ARCHIVE_DIR, f"{date_str}.json")
+
+    if os.path.exists(archive_path):
+        logger.info(f"Archive already exists for {date_str} — skipping")
+        return
+
+    with open(archive_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    logger.info(f"Archived to {archive_path}")
 
 
 # -------------------------------------------------------------------------
@@ -123,8 +119,7 @@ def load_backup() -> dict | None:
 def run_pipeline() -> None:
     '''
     Run the full Dawnly pipeline:
-    fetch → cluster → rank → summarize → publish → health log
-    Falls back to previous output if pipeline produces insufficient stories.
+    fetch → cluster → rank → summarize → publish → archive → health log
     '''
     from fetch import fetch_all
     from cluster import cluster_articles
@@ -156,29 +151,17 @@ def run_pipeline() -> None:
     logger.info("\n[4/5] Summarizing stories...")
     stories = summarize_all(stories)
 
-    # Safety check — fallback if not enough stories
+    # Safety check — warn if fewer than minimum stories
     if len(stories) < MIN_STORIES:
         logger.warning(
             f"Only {len(stories)} stories produced — "
-            f"minimum is {MIN_STORIES}. Checking for backup..."
+            f"minimum is {MIN_STORIES}. Publishing with fewer stories."
         )
-        backup = load_backup()
-        if backup:
-            logger.warning("Using previous top10.json as fallback")
-            write_output(backup)
-            update_health_log(source_health)
-            logger.info("\n" + "=" * 60)
-            logger.info("DAWNLY PIPELINE COMPLETE (fallback used)")
-            logger.info(f"Published at: {backup['published_at']}")
-            logger.info(f"Stories: {backup['story_count']}")
-            logger.info("=" * 60)
-            return
-        else:
-            logger.warning("No backup available — publishing with fewer stories")
 
-    # Build and write output
+    # Build, write, and archive output
     output = build_output(stories)
     write_output(output)
+    archive_output(output)
 
     # Step 5 — Source health log
     logger.info("\n[5/5] Updating source health log...")
