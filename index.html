@@ -1272,7 +1272,6 @@ function buildEqualGridWithImage(stories) {
     rows: [
       { num: top.mentions,  desc: "sources\ncovered it" },
       { num: top.diversity, desc: "regions\nreached" },
-      { num: Math.round(top.score), desc: "relevance\nscore" },
     ],
     footer: top.regions ? top.regions.join(" · ") : null,
   } : null;
@@ -1482,7 +1481,6 @@ function openOverlay(story) {
 
   const statsHTML = `
     <div class="overlay-stats">
-      <div class="overlay-stat">Score <span>${story.score ? story.score.toFixed(2) : '—'}</span></div>
       <div class="overlay-stat">Sources <span>${(story.sources || []).length}</span></div>
       <div class="overlay-stat">Mentions <span>${story.mentions || '—'}</span></div>
       <div class="overlay-stat">Regions <span>${story.diversity || (Array.isArray(story.regions) ? story.regions.length : '—')}</span></div>
