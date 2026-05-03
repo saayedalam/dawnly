@@ -1,7 +1,7 @@
 # Dawnly
 
 [![Pipeline](https://github.com/saayedalam/dawnly/actions/workflows/pipeline.yml/badge.svg)](https://github.com/saayedalam/dawnly/actions/workflows/pipeline.yml)
-[![Live](https://img.shields.io/badge/live-dawnly.news-c8820a?style=flat&logo=googlechrome&logoColor=white)](https://saayedalam.me/dawnly)
+[![Live](https://img.shields.io/badge/live-dawnly.news-c8820a?style=flat&logo=googlechrome&logoColor=white)](https://dawnly.news)
 [![Python](https://img.shields.io/badge/python-3.11-3776ab?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Runs Daily](https://img.shields.io/badge/runs-daily%206AM%20EST-2a2410?style=flat&logo=github-actions&logoColor=white)](https://github.com/saayedalam/dawnly/actions)
 
@@ -9,7 +9,7 @@
 
 Dawnly publishes a daily top 10 global news digest — algorithmically ranked, locked for 24 hours, reset at 6AM EST. No breaking news. No infinite scroll. No personalization. You read it once. You put it down. You live your day.
 
-→ **[dawnly.news](https://saayedalam.me/dawnly)**
+→ **[dawnly.news](https://dawnly.news)**
 
 ---
 

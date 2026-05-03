@@ -211,7 +211,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
                     </span>
                   </td>
                   <td align="right">
-                    <a href="https://saayedalam.me/dawnly"
+                    <a href="https://dawnly.news"
                        style="font-family: 'Jost', sans-serif; font-size: 8px;
                               font-weight: 500; letter-spacing: 2px; color: #c8820a;
                               text-transform: uppercase; text-decoration: none;">
