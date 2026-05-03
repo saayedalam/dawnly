@@ -1,0 +1,86 @@
+{
+  "last_updated": "2026-05-03",
+  "note": "Log of all sources removed from Dawnly. Used to prevent re-adding sources that failed. replaced_by is null if no direct replacement was chosen.",
+  "removed_sources": [
+    {
+      "name": "African Arguments",
+      "tier": "regional",
+      "region": "Africa",
+      "continent": "Africa",
+      "url": "https://africanarguments.org/feed",
+      "removed_date": "2026-04-01",
+      "reason": "Dead — 0% reliability, zero articles fetched across all tracked days",
+      "replaced_by": null
+    },
+    {
+      "name": "Toronto Star",
+      "tier": "regional",
+      "region": "Canada",
+      "continent": "North America",
+      "url": "https://www.thestar.com/search/?f=rss",
+      "removed_date": "2026-04-01",
+      "reason": "Dead — 0% reliability, zero articles fetched across all tracked days",
+      "replaced_by": null
+    },
+    {
+      "name": "The Africa Report",
+      "tier": "niche",
+      "region": "Africa",
+      "continent": "Africa",
+      "url": "https://www.theafricareport.com/feed",
+      "removed_date": "2026-04-01",
+      "reason": "Dead — 0% reliability, zero articles fetched",
+      "replaced_by": null
+    },
+    {
+      "name": "Politico",
+      "tier": "niche",
+      "region": "US",
+      "continent": "North America",
+      "url": "https://www.politico.com/rss/politicopicks.xml",
+      "removed_date": "2026-04-01",
+      "reason": "Low volume — few articles fetched, insufficient contribution to pipeline",
+      "replaced_by": null
+    },
+    {
+      "name": "France 24",
+      "tier": "global",
+      "region": "France",
+      "continent": "Europe",
+      "url": "https://www.france24.com/en/rss",
+      "removed_date": "2026-04-01",
+      "reason": "Reason unknown — was 100% healthy at time of removal. Removed circa early April 2026.",
+      "replaced_by": null
+    },
+    {
+      "name": "Coconuts Media",
+      "tier": "niche",
+      "region": "Southeast Asia",
+      "continent": "Southeast Asia",
+      "url": "https://coconuts.co/feed",
+      "removed_date": "2026-05-03",
+      "reason": "Dead from day 1 — 0% reliability over 38 days, zero articles ever fetched",
+      "replaced_by": null
+    },
+    {
+      "name": "Der Spiegel International",
+      "tier": "global",
+      "region": "Germany",
+      "continent": "Europe",
+      "url": "https://www.spiegel.de/international/index.rss",
+      "removed_date": "2026-05-03",
+      "reason": "Effectively dead — 16% reliability over 38 days, averaging 0.2 articles/day. Consistently degraded with no sign of recovery.",
+      "replaced_by": null
+    },
+    {
+      "name": "Dawn Pakistan",
+      "tier": "regional",
+      "region": "Pakistan",
+      "continent": "South Asia",
+      "url": "https://www.dawn.com/feed",
+      "removed_date": "2026-05-03",
+      "reason": "Consistently degrading — 42% reliability in week 1, declining to 17% by week 4 over 46 days. Clear downward trend with no recovery.",
+      "replaced_by": null
+    }
+  ]
+}
