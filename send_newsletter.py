@@ -46,7 +46,7 @@ PREVIEW_INTROS = [
     "Your morning briefing. Read it once. Put it down.",
     "Ten stories. One edition. Nothing in between.",
     "The world in ten headlines, ranked by reach.",
-    "Algorithmically ranked. Editorially calm.",
+    "Ranked by reach. Editorially calm.",
     "Global news, distilled. One edition at dawn.",
     "Today's edition is ready.",
 ]
@@ -207,7 +207,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
                     <span style="font-family: 'Jost', sans-serif; font-size: 8px;
                                  font-weight: 400; letter-spacing: 2px; color: #9a8a70;
                                  text-transform: uppercase;">
-                      Algorithmically Ranked · 10 Stories · Resets 6AM EST
+                      Ranked by Global Coverage · 10 Stories · Resets 6AM EST
                     </span>
                   </td>
                   <td align="right">

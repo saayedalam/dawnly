@@ -7,7 +7,7 @@
 
 **The morning paper, rebuilt for today.**
 
-Dawnly publishes a daily top 10 global news digest — algorithmically ranked, locked for 24 hours, reset at 6AM EST. No breaking news. No infinite scroll. No personalization. You read it once. You put it down. You live your day.
+Dawnly publishes a daily top 10 global news digest — ranked by global coverage, locked for 24 hours, reset at 6AM EST. No breaking news. No infinite scroll. No personalization. You read it once. You put it down. You live your day.
 
 → **[dawnly.news](https://dawnly.news)**
 
