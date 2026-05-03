@@ -62,14 +62,7 @@ SOURCES = [
         "region":    "Germany",
         "continent": "Europe",
     },
-    {
-        "name":      "Der Spiegel International",
-        "url":       "https://www.spiegel.de/international/index.rss",
-        "tier":      "global",
-        "weight":    1.0,
-        "region":    "Germany",
-        "continent": "Europe",
-    },
+
     {
         "name":      "NHK World Japan",
         "url":       "https://www3.nhk.or.jp/rss/news/cat0.xml",
@@ -117,14 +110,7 @@ SOURCES = [
         "continent":    "South Asia",
         "max_articles": 75,
     },
-    {
-        "name":      "Dawn Pakistan",
-        "url":       "https://www.dawn.com/feed",
-        "tier":      "regional",
-        "weight":    0.7,
-        "region":    "Pakistan",
-        "continent": "South Asia",
-    },
+
     {
         "name":         "The Diplomat",
         "url":          "https://thediplomat.com/feed",
@@ -366,14 +352,7 @@ SOURCES = [
         "region":    "Eastern Europe",
         "continent": "Europe",
     },
-    {
-        "name":      "Coconuts Media",
-        "url":       "https://coconuts.co/feed",
-        "tier":      "niche",
-        "weight":    0.4,
-        "region":    "Southeast Asia",
-        "continent": "Southeast Asia",
-    },
+
 
 ]
 
