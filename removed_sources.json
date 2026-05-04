@@ -81,6 +81,36 @@
       "removed_date": "2026-05-03",
       "reason": "Consistently degrading — 42% reliability in week 1, declining to 17% by week 4 over 46 days. Clear downward trend with no recovery.",
       "replaced_by": null
+    },
+    {
+      "name": "BenarNews",
+      "tier": "niche",
+      "region": "Southeast Asia",
+      "continent": "Southeast Asia",
+      "url": "https://www.benarnews.org/english/feed",
+      "removed_date": "2026-05-03",
+      "reason": "Shut down April 3, 2026 — US government (USAGM) withheld funding. Publication ceased entirely.",
+      "replaced_by": null
+    },
+    {
+      "name": "The Irrawaddy",
+      "tier": "niche",
+      "region": "Myanmar",
+      "continent": "Southeast Asia",
+      "url": "https://www.irrawaddy.com/feed",
+      "removed_date": "2026-05-03",
+      "reason": "Bot-blocking — HTTP 403 on primary URL. Feed exists but blocks automated requests. Too fragile to maintain.",
+      "replaced_by": null
+    },
+    {
+      "name": "Dhaka Tribune",
+      "tier": "regional",
+      "region": "Bangladesh",
+      "continent": "South Asia",
+      "url": "https://www.dhakatribune.com/feed",
+      "removed_date": "2026-05-03",
+      "reason": "No reliable RSS feed URL — tried /feed and /world/feed, both 404. Non-standard feed structure.",
+      "replaced_by": "The Daily Star (Bangladesh) already in source list"
     }
   ]
 }
