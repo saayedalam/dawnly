@@ -1481,7 +1481,7 @@ function openOverlay(story) {
 
   const statsHTML = `
     <div class="overlay-stats">
-      <div class="overlay-stat">Sources <span>${(story.sources || []).length}</span></div>
+      <div class="overlay-stat">Sources <span>${story.source_count || (story.sources || []).length}</span></div>
       <div class="overlay-stat">Mentions <span>${story.mentions || '—'}</span></div>
       <div class="overlay-stat">Regions <span>${story.diversity || (Array.isArray(story.regions) ? story.regions.length : '—')}</span></div>
     </div>`;

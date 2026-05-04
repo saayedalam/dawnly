@@ -305,6 +305,7 @@ def group_big_stories(scored: list[dict]) -> list[dict]:
             "diversity":     len(all_regions),
             "regions":       all_regions,
             "sources":       all_sources,
+            "source_count":  len(set(s["name"] for s in all_sources)),
         })
 
     # Mark regular stories
@@ -365,6 +366,9 @@ def rank_clusters(clusters: list[list[dict]]) -> list[dict]:
             if len(top_sources) == 3:
                 break
 
+        # Total unique sources in cluster (uncapped — used for display)
+        unique_source_count = len(set(a["source_name"] for a in cluster))
+
         scored.append({
             "headline":       best["title"],
             "entity":         get_cluster_entity(cluster),
@@ -375,6 +379,7 @@ def rank_clusters(clusters: list[list[dict]]) -> list[dict]:
             "diversity":      geographic_diversity_score(cluster),
             "regions":        regions,
             "sources":        top_sources,
+            "source_count":   unique_source_count,
             "articles":       cluster,
         })
 

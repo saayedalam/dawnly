@@ -35,7 +35,7 @@ SOURCES = [
         "url":       "https://www.aljazeera.com/xml/rss/all.xml",
         "tier":      "global",
         "weight":    1.0,
-        "region":    "Qatar",
+        "region":    "Middle East",
         "continent": "Middle East & North Africa",
     },
     {
