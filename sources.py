@@ -373,7 +373,7 @@ SOURCES = [
         "url":       "https://www.timesofisrael.com/feed/",
         "tier":      "niche",
         "weight":    0.4,
-        "region":    "Israel",
+        "region":    "Middle East",
         "continent": "Middle East & North Africa",
     },
     {
