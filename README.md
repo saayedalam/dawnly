@@ -17,7 +17,7 @@ Dawnly publishes a daily top 10 global news digest — ranked by global coverage
 
 Every morning at 6AM EST, a GitHub Actions pipeline runs automatically:
 
-1. **Fetch** — pulls headlines from 33 RSS sources across global, regional, and niche tiers
+1. **Fetch** — pulls headlines from 50 RSS sources across global, regional, and niche tiers
 2. **Cluster** — groups semantically similar articles using sentence-BERT embeddings and DBSCAN
 3. **Rank** — scores each story cluster across three signals: mention volume, source quality, and geographic spread
 4. **Summarize** — generates a one-sentence summary per story using a local BART model
@@ -32,10 +32,10 @@ The frontend reads `top10.json` on load. No server. No database. No API keys in 
 | Layer | Technology |
 |---|---|
 | Fetching | `aiohttp`, `feedparser` — async with retry and dedup |
-| Clustering | `sentence-transformers` (all-MiniLM-L6-v2), DBSCAN |
-| NER & Grouping | `spaCy` (en_core_web_sm) |
+| Clustering | `sentence-transformers` (all-mpnet-base-v2), DBSCAN |
+| NER & Grouping | `spaCy` (en_core_web_md) |
 | Ranking | Custom scoring — normalized, weighted additive formula |
-| Summarization | `facebook/bart-large-cnn` — runs locally, no API |
+| Summarization | Claude Haiku API — via Anthropic prompt caching |
 | Automation | GitHub Actions — daily cron + manual dispatch |
 | Frontend | Vanilla HTML/CSS/JS — newspaper layout, no frameworks |
 | Hosting | GitHub Pages |
@@ -46,7 +46,7 @@ The frontend reads `top10.json` on load. No server. No database. No API keys in 
 
 ```
 dawnly/
-├── fetch.py          # Async RSS fetcher — 33 sources, 24hr window
+├── fetch.py          # Async RSS fetcher — 50 sources, 24hr window
 ├── cluster.py        # Sentence-BERT embeddings + DBSCAN clustering
 ├── rank.py           # Scoring, NER entity detection, big story grouping
 ├── summarize.py      # BART summarization (local model)
@@ -63,11 +63,11 @@ dawnly/
 
 ## Sources
 
-33 RSS sources across three tiers, covering every major region:
+50 RSS sources across three tiers, covering every major region:
 
-- **Global (7):** BBC, Al Jazeera, The Guardian, NPR, Deutsche Welle, France 24, NHK World
-- **Regional (15):** NYT, FT, SCMP, The Hindu, Dawn, The Diplomat, Middle East Eye, Sydney Morning Herald, Toronto Star, African Arguments, CNA, Guardian Africa, Guardian Americas, MercoPress, Hong Kong Free Press
-- **Niche (11):** Foreign Policy, ProPublica, Politico, Rest of World, The Intercept, Quartz, Balkan Insight, Buenos Aires Times, The Africa Report, The Moscow Times, Guardian Russia
+- **Global (6):** BBC, Al Jazeera, The Guardian, NPR, Deutsche Welle, NHK World
+- **Regional (21):** Major outlets across North America, Europe, Asia, Africa, the Middle East, South America, and Oceania
+- **Niche (23):** Specialist and regional outlets covering underrepresented geographies and topics
 
 ---
 
