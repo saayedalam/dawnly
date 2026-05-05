@@ -49,11 +49,12 @@ def build_output(stories: list[dict]) -> dict:
                     }
                     for j, angle in enumerate(story["angles"])
                 ],
-                "sources":   story["sources"],
-                "regions":   story["regions"],
-                "score":     story["score"],
-                "mentions":  story["mention_count"],
-                "diversity": story["diversity"],
+                "sources":      story["sources"],
+                "source_count": story.get("source_count", len(story["sources"])),
+                "regions":      story["regions"],
+                "score":        story["score"],
+                "mentions":     story["mention_count"],
+                "diversity":    story["diversity"],
             })
         else:
             items.append({
@@ -63,11 +64,12 @@ def build_output(stories: list[dict]) -> dict:
                 "is_grouped":  False,
                 "angle_count": 1,
                 "angles":      [],
-                "sources":     story["sources"],
-                "regions":     story["regions"],
-                "score":       story["score"],
-                "mentions":    story["mention_count"],
-                "diversity":   story["diversity"],
+                "sources":      story["sources"],
+                "source_count": story.get("source_count", len(story["sources"])),
+                "regions":      story["regions"],
+                "score":        story["score"],
+                "mentions":     story["mention_count"],
+                "diversity":    story["diversity"],
             })
 
     return {
