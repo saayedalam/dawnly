@@ -1820,11 +1820,8 @@ function showFeedbackToast(e) {
   const toast = document.getElementById('feedback-toast');
   toast.classList.add('show');
   setTimeout(() => toast.classList.remove('show'), 2000);
-  // Push to GA as a page_view with feedback parameter
-  if (window.gtag) {
-    const param = url.includes('global') ? 'global' : 'usheavy';
-    gtag('event', 'feedback', { feedback_value: param });
-  }
+  const param = url.includes('global') ? 'global' : 'usheavy';
+  gtag('event', 'feedback', { feedback_value: param });
 }
 
 // Check for feedback param on load (from email click)
@@ -1838,9 +1835,7 @@ function showFeedbackToast(e) {
         toast.classList.add('show');
         setTimeout(() => toast.classList.remove('show'), 2000);
       }
-      if (window.gtag) {
-        gtag('event', 'feedback', { feedback_value: f });
-      }
+      gtag('event', 'feedback', { feedback_value: f });
       // Clean the URL without reloading
       window.history.replaceState({}, '', window.location.pathname);
     });
