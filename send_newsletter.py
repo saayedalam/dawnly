@@ -197,6 +197,30 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
             </td>
           </tr>
 
+          <!-- Feedback -->
+          <tr>
+            <td style="padding: 16px 0 4px; text-align: center;">
+              <span style="font-family: 'Jost', sans-serif; font-size: 8px;
+                           font-weight: 400; letter-spacing: 1.5px; color: #9a8a70;
+                           text-transform: uppercase;">
+                How global did today's feel?&nbsp;&nbsp;
+              </span>
+              <a href="https://dawnly.news?f=global"
+                 style="font-family: 'Jost', sans-serif; font-size: 8px;
+                        font-weight: 400; letter-spacing: 1px; color: #9a8a70;
+                        text-transform: uppercase; text-decoration: none;
+                        border: 1px solid rgba(154,138,112,0.4);
+                        padding: 3px 8px 2px;">🌍 Global</a>
+              &nbsp;
+              <a href="https://dawnly.news?f=usheavy"
+                 style="font-family: 'Jost', sans-serif; font-size: 8px;
+                        font-weight: 400; letter-spacing: 1px; color: #9a8a70;
+                        text-transform: uppercase; text-decoration: none;
+                        border: 1px solid rgba(154,138,112,0.4);
+                        padding: 3px 8px 2px;">🇺🇸 US-heavy</a>
+            </td>
+          </tr>
+
           <!-- Footer -->
           <tr>
             <td style="padding: 16px 0 24px;

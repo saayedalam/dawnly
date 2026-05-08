@@ -790,6 +790,96 @@
       justify-content: center;
       align-items: center;
       flex-shrink: 0;
+      gap: 0;
+    }
+
+    .footer-left,
+    .footer-right {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+    }
+
+    .footer-divider {
+      width: 1px;
+      height: 28px;
+      background: rgba(42,36,16,0.2);
+      flex-shrink: 0;
+      margin: 0 4px;
+    }
+
+    .footer-feedback {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .footer-feedback-label {
+      font-family: 'Jost', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: #9a8a70;
+      white-space: nowrap;
+    }
+
+    .footer-feedback-btn {
+      font-family: 'Jost', sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      letter-spacing: 1px;
+      color: #9a8a70;
+      background: none;
+      border: 1px solid rgba(154,138,112,0.35);
+      padding: 3px 9px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: color 0.2s ease, border-color 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .footer-feedback-btn:hover {
+      color: #1a1408;
+      border-color: rgba(42,36,16,0.4);
+    }
+
+    .feedback-toast {
+      position: fixed;
+      bottom: 40px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1a1408;
+      color: #f5f0e4;
+      font-family: 'Jost', sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 8px 20px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+      z-index: 200;
+      white-space: nowrap;
+    }
+
+    .feedback-toast.show {
+      opacity: 1;
+    }
+
+    @media (max-width: 600px) {
+      .footer {
+        flex-direction: column;
+        gap: 8px;
+        padding: 8px 0 4px;
+      }
+      .footer-divider {
+        width: 40px;
+        height: 1px;
+        margin: 0;
+      }
     }
 
     .footer-subscribe-btn {
@@ -1062,8 +1152,20 @@
     </div>
 
     <div class="footer">
-      <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe to Dawnly.News</button>
+      <div class="footer-left">
+        <button class="footer-subscribe-btn" onclick="openSubscribe()">Subscribe to Dawnly.News</button>
+      </div>
+      <div class="footer-divider"></div>
+      <div class="footer-right">
+        <div class="footer-feedback">
+          <span class="footer-feedback-label">How global did today's feel?</span>
+          <a class="footer-feedback-btn" href="?f=global" onclick="showFeedbackToast(event)">🌍 Global</a>
+          <a class="footer-feedback-btn" href="?f=usheavy" onclick="showFeedbackToast(event)">🇺🇸 US-heavy</a>
+        </div>
+      </div>
     </div>
+
+    <div class="feedback-toast" id="feedback-toast">Thanks for the feedback.</div>
 
     <!-- Subscribe overlay -->
     <div class="subscribe-overlay" id="subscribe-overlay" onclick="handleOverlayClick(event)">
@@ -1707,6 +1809,43 @@ async function submitSubscribe() {
     msg.className = 'subscribe-msg error';
   }
 }
+
+// -------------------------------------------------------------------------
+// Feedback buttons
+// -------------------------------------------------------------------------
+
+function showFeedbackToast(e) {
+  e.preventDefault();
+  const url = e.currentTarget.getAttribute('href');
+  const toast = document.getElementById('feedback-toast');
+  toast.classList.add('show');
+  setTimeout(() => toast.classList.remove('show'), 2000);
+  // Push to GA as a page_view with feedback parameter
+  if (window.gtag) {
+    const param = url.includes('global') ? 'global' : 'usheavy';
+    gtag('event', 'feedback', { feedback_value: param });
+  }
+}
+
+// Check for feedback param on load (from email click)
+(function () {
+  const params = new URLSearchParams(window.location.search);
+  const f = params.get('f');
+  if (f === 'global' || f === 'usheavy') {
+    window.addEventListener('load', () => {
+      const toast = document.getElementById('feedback-toast');
+      if (toast) {
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 2000);
+      }
+      if (window.gtag) {
+        gtag('event', 'feedback', { feedback_value: f });
+      }
+      // Clean the URL without reloading
+      window.history.replaceState({}, '', window.location.pathname);
+    });
+  }
+})();
 </script>
 </body>
 </html>
