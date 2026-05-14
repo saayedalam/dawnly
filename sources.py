@@ -48,7 +48,7 @@ SOURCES = [
     },
     {
         "name":      "NPR News",
-        "url":       "https://feeds.npr.org/1001/rss.xml",
+        "url":       "https://feeds.npr.org/1004/rss.xml",
         "tier":      "global",
         "weight":    1.0,
         "region":    "US",
