@@ -5,7 +5,7 @@
 # 3. Geographic spread — distinct regions covering the story
 #
 # Scoring (v2): weighted additive with per-signal min-max normalization
-# SCORE = 0.40 × norm(log_mentions) + 0.35 × norm(source_quality) + 0.25 × norm(geo_spread)
+# SCORE = 0.35 × norm(log_mentions) + 0.35 × norm(source_quality) + 0.30 × norm(geo_spread)
 
 import logging
 import math
@@ -47,9 +47,9 @@ DEFAULT_REACH = 0.4     # fallback for any source not in sources.py
 TOP_N         = 10      # number of stories to return
 
 # V2 signal weights — must sum to 1.0
-W_MENTIONS = 0.40
+W_MENTIONS = 0.35
 W_QUALITY  = 0.35
-W_SPREAD   = 0.25
+W_SPREAD   = 0.30
 
 
 # -------------------------------------------------------------------------
