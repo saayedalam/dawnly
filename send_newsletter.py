@@ -59,17 +59,16 @@ PREVIEW_INTROS = [
 def build_subject(edition: int, published_at: str) -> str:
     '''
     Build the email subject line.
-    Format: Dawnly · Edition N · Month D
-    Kept minimal — just brand, edition number, and date.
-    The tagline lives inside the email body header instead.
+    Format: Dawnly · Month D, YYYY
+    Kept minimal — just brand and date.
     '''
     try:
         dt       = datetime.fromisoformat(published_at)
-        date_str = dt.strftime("%B %-d")
+        date_str = dt.strftime("%B %-d, %Y")
     except Exception:
-        date_str = datetime.now(timezone.utc).strftime("%B %-d")
+        date_str = datetime.now(timezone.utc).strftime("%B %-d, %Y")
 
-    return f"Dawnly · Edition {edition} · {date_str}"
+    return f"Dawnly · {date_str}"
 
 
 def build_html(stories: list[dict], edition: int, published_at: str) -> str:
@@ -105,12 +104,11 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
     rows_html = ""
     for i, story in enumerate(stories):
         rank    = ROMAN[i] if i < len(ROMAN) else str(i + 1)
-        regions = ", ".join(story.get("regions", []))
         sources = story.get("sources", [])
 
-        top_link     = sources[0]["link"] if sources else "#"
-        headline     = story.get("headline", "")
-        source_names = " · ".join(s["name"] for s in sources[:3])
+        top_link = sources[0]["link"] if sources else "#"
+        headline = story.get("headline", "")
+        summary  = story.get("summary", "")
 
         # Last row has no border-bottom
         border = "border-bottom: 1px solid #e8e0cc;" if i < len(stories) - 1 else ""
@@ -131,10 +129,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
                             font-size: 18px; font-weight: 700; color: #1a1408;
                             line-height: 1.3; text-decoration: none;
                             display: block; margin-bottom: 5px;">{headline}</a>
-                  <span style="font-family: 'Jost', sans-serif; font-size: 8px;
-                               font-weight: 400; letter-spacing: 1.5px; color: #9a8a70;
-                               text-transform: uppercase;">{source_names}</span>
-                  {f'<br><span style="font-family: Jost, sans-serif; font-size: 8px; font-weight: 400; letter-spacing: 1px; color: #b8a888; text-transform: uppercase;">{regions}</span>' if regions else ''}
+                  {('<span style="font-family: Jost, sans-serif; font-size: 12px; font-weight: 400; color: #4a3f2f; line-height: 1.5; display: block;">' + summary + '</span>') if summary else ''}
                 </td>
               </tr>
             </table>
