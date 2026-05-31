@@ -114,6 +114,23 @@ def archive_output(data: dict) -> None:
     logger.info(f"Archived to {archive_path}")
 
 
+def archive_hdbscan_output(data: dict) -> None:
+    '''
+    Save the HDBSCAN shadow run output to archive/top10/YYYY-MM-DD_hdbscan.json.
+    Used for side-by-side comparison with the production DBSCAN output.
+    Never touches the live top10.json or the production archive entry.
+    '''
+    os.makedirs(ARCHIVE_DIR, exist_ok=True)
+
+    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    archive_path = os.path.join(ARCHIVE_DIR, f"{date_str}_hdbscan.json")
+
+    with open(archive_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    logger.info(f"HDBSCAN shadow output archived to {archive_path}")
+
+
 # -------------------------------------------------------------------------
 # Main pipeline orchestrator
 # -------------------------------------------------------------------------
@@ -169,11 +186,66 @@ def run_pipeline() -> None:
     logger.info("\n[5/5] Updating source health log...")
     update_health_log(source_health)
 
+    # Shadow — HDBSCAN comparison run (non-fatal, no API cost)
+    run_shadow_hdbscan(articles)
+
     logger.info("\n" + "=" * 60)
     logger.info("DAWNLY PIPELINE COMPLETE")
     logger.info(f"Published at: {output['published_at']}")
     logger.info(f"Stories: {output['story_count']}")
     logger.info("=" * 60)
+
+
+def run_shadow_hdbscan(articles: list[dict]) -> None:
+    '''
+    Run the HDBSCAN shadow pipeline on already-fetched articles.
+    Does not summarize (no API cost) — headline and cluster structure only.
+    Output goes to archive/top10/YYYY-MM-DD_hdbscan.json for manual comparison.
+    Never affects the live site or production output.
+    '''
+    from cluster import cluster_articles_hdbscan
+    from rank import rank_clusters
+
+    logger.info("\n[Shadow] Running HDBSCAN comparison pipeline...")
+
+    try:
+        clusters = cluster_articles_hdbscan(articles)
+        logger.info(f"[Shadow] HDBSCAN: {len(clusters)} qualified clusters")
+
+        stories = rank_clusters(clusters)
+        logger.info(f"[Shadow] Ranked {len(stories)} stories")
+
+        # Build lightweight output — no summaries, just structure for comparison
+        date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        items = []
+        for i, story in enumerate(stories, 1):
+            items.append({
+                "rank":        i,
+                "headline":    story["headline"],
+                "is_grouped":  story.get("is_grouped", False),
+                "angle_count": story.get("angle_count", 1),
+                "angles":      [{"headline": a["headline"]} for a in story.get("angles", [])],
+                "sources":     story["sources"],
+                "source_count": story.get("source_count", len(story["sources"])),
+                "regions":     story["regions"],
+                "score":       story["score"],
+                "mentions":    story["mention_count"],
+                "diversity":   story["diversity"],
+            })
+
+        shadow_output = {
+            "published_at": datetime.now(timezone.utc).isoformat(),
+            "algorithm":    "hdbscan",
+            "story_count":  len(items),
+            "stories":      items,
+        }
+
+        archive_hdbscan_output(shadow_output)
+        logger.info("[Shadow] HDBSCAN shadow run complete")
+
+    except Exception as e:
+        # Shadow pipeline must never crash the main pipeline
+        logger.warning(f"[Shadow] HDBSCAN shadow run failed (non-fatal): {e}")
 
 
 # -------------------------------------------------------------------------

@@ -117,6 +117,81 @@ def cluster_articles(articles: list[dict]) -> list[list[dict]]:
 
 
 # -------------------------------------------------------------------------
+# HDBSCAN shadow clustering — experimental, not used in production path
+# -------------------------------------------------------------------------
+
+# HDBSCAN config — imported from sklearn (no extra dependency needed)
+# min_cluster_size: minimum articles to form a cluster (same logic as DBSCAN_MIN_SAMPLES)
+# min_samples: controls how conservative cluster formation is — higher = fewer, tighter clusters
+# cluster_selection_epsilon: post-processing merge threshold — clusters closer than this are merged.
+#   Set to match DBSCAN_EPS so comparison is fair.
+HDBSCAN_MIN_CLUSTER_SIZE      = 2
+HDBSCAN_MIN_SAMPLES           = 2
+HDBSCAN_CLUSTER_SELECTION_EPS = 0.25   # tighter than DBSCAN_EPS — HDBSCAN is less aggressive by default
+
+
+def cluster_articles_hdbscan(articles: list[dict]) -> list[list[dict]]:
+    '''
+    Shadow clustering using HDBSCAN — experimental alternative to DBSCAN.
+
+    Key differences from DBSCAN:
+    - No fixed eps threshold — density is estimated adaptively per region
+    - Better at finding clusters of varying density
+    - Produces a cleaner noise classification (articles that truly don't fit)
+
+    Uses sklearn's built-in HDBSCAN (available since sklearn 1.3) —
+    no additional dependencies required.
+
+    Returns the same format as cluster_articles(): a list of article lists,
+    filtered by MIN_SOURCES. Safe to pass directly to rank_clusters().
+    '''
+    from sklearn.cluster import HDBSCAN as SklearnHDBSCAN
+
+    if not articles:
+        logger.warning("No articles to cluster (HDBSCAN)")
+        return []
+
+    # Reuse the same embedding step — identical to production path
+    embeddings = embed_headlines(articles)
+
+    logger.info("Running HDBSCAN clustering (shadow)...")
+    clusterer = SklearnHDBSCAN(
+        min_cluster_size=HDBSCAN_MIN_CLUSTER_SIZE,
+        min_samples=HDBSCAN_MIN_SAMPLES,
+        cluster_selection_epsilon=HDBSCAN_CLUSTER_SELECTION_EPS,
+        metric="euclidean",   # sklearn HDBSCAN does not support cosine — euclidean on
+                              # normalized vectors is mathematically equivalent
+    )
+    labels = clusterer.fit_predict(embeddings)
+
+    # Group articles by cluster label — label -1 is noise, discard
+    clusters: dict[int, list[dict]] = {}
+    for i, label in enumerate(labels):
+        if label == -1:
+            continue
+        if label not in clusters:
+            clusters[label] = []
+        clusters[label].append(articles[i])
+
+    logger.info(f"HDBSCAN found {len(clusters)} raw clusters "
+                f"({sum(1 for l in labels if l == -1)} noise points discarded)")
+
+    # Apply same MIN_SOURCES filter as production path
+    qualified = []
+    for cluster_articles_list in clusters.values():
+        unique_sources = set(a["source_name"] for a in cluster_articles_list)
+        if len(unique_sources) >= MIN_SOURCES:
+            qualified.append(cluster_articles_list)
+
+    logger.info(
+        f"HDBSCAN: {len(qualified)} clusters qualify "
+        f"(>= {MIN_SOURCES} unique sources)"
+    )
+
+    return qualified
+
+
+# -------------------------------------------------------------------------
 # Summary helper
 # -------------------------------------------------------------------------
 
