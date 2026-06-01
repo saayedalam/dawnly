@@ -1,0 +1,356 @@
+{
+  "published_at": "2026-06-01T16:15:11.805383+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Bowen: Trump needs this war to end but Iran is not backing down"
+        },
+        {
+          "headline": "US says struck Iran military sites, Tehran responds by targeting base"
+        },
+        {
+          "headline": "Iran executes two men accused of leading early 2026 protests"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-iran-really-wants-to-make-a-deal-with-the-us/article71047141.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/trump-says-iran-really-wants-to-make-a-deal-with-the-us"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4111,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.9038,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/01/israel-sends-message-beaufort-castle-lebanon"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8358,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Key messages between Mandelson and ministers so far",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c4g819dml28o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/01/peter-mandelson-documents-published-keir-starmer-labour-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3355598/uk-publishes-new-mandelson-files-raising-heat-pm-starmer?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7996,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/french-navy-seizes-russian-oil-tanker?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7416,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Ethiopia holds elections with PM Abiy’s party expected to dominate",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ethiopia-votes-as-ruling-party-eyes-landslide-win/a-77369637?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/01/ethiopia-votes-as-abiy-seeks-stronger-mandate-amid-democratic-concerns/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.7137,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Middle East crisis live: Iran says no more peace talks with US until Israel stops its operations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a4f1e36d-f3a5-4959-b227-133300f01be1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6886,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Confirmed Ebola cases in Congo reach 282 as survivors describe their recoveries",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ebola-recoveries-bring-signs-of-hope-in-congo-as-suspected-cases-emerge-outside-africa/article71047259.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ebola-bundibugyo-recoveries-congo-outbreak-who/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "India",
+        "North Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6646,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "French police arrest 780 after violent clashes as PSG fans celebrate Champions League win",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/01/nx-s1-5842841/peaceful-psg-parade"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sport/football/france-says-nearly-900-arrested-in-champions-league-final-riots/article71047301.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.645,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Ex-Federal Reserve chair Jerome Powell sounds alarm over political interference",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3355503/powell-uses-jfk-award-speech-defend-fed-political-pressure?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/business/Economy/outgoing-us-federal-reserve-chair-powell-delivers-defense-of-fed-independence/article71046824.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5725,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
