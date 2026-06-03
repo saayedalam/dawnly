@@ -1,0 +1,351 @@
+{
+  "published_at": "2026-06-03T15:03:07.717825+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.86,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8082,
+      "mentions": 19,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Key moments of police bodycam footage before Henry Nowak's death",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/videos/cvgz7gv4w8no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-protest-erupts-over-student-murder/a-77399817?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/03/world/europe/henry-nowak-murder-southampton-protests-uk.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7837,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "US plans new tariffs on dozens of countries including UK, citing forced labour concerns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-plans-extra-tariffs-for-60-countries-over-forced-labor/a-77400171?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7686,
+      "mentions": 15,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Fire at New Delhi hotel kills at least 21 people, including 18 foreigners",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/3/fire-at-new-delhi-hotel-kills-at-least-21-people?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-several-killed-in-new-delhi-fire/live-77399912?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3355829/india-hotel-fire-kills-least-21?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "Pakistan"
+      ],
+      "score": 0.6664,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/02/health/ebola-tests-congo.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Middle East",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.5926,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Scenes from the aftermath of Russia's latest massive attack on Kyiv",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/seven-killed-11-wounded-after-drone-hits-bus-russia-installed-donetsk-region-leader/article71055748.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ukraine-russia-war-putin-grim-pattern-civilians-strikes/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Global",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5514,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Hilton, Becerra lead California governor race: Key primary election results",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/3/hilton-becerra-lead-california-governor-race-key-primary-election-results?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/03/california-governor-election"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/e3df0e9d-b77c-4de8-bdd0-d76bb59162a2"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5359,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Three die in Royal Navy helicopter crash during training exercise",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/03/royal-navy-helicopter-crash-devon"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-navy-helicopter-crash-crewmembers-killed-june-3-2026/article71057505.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5069,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "U.S. President Trump confirms he called Netanyahu ‘crazy’ in phone call",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-confirms-he-called-netanyahu-crazy-during-phone-call-over-lebanon-conflict/article71057121.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2611258/trump-confirms-he-called-netanyahu-crazy-in-phone-call"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/02/youre-f-crazy-trump-clashes-with-netanyahu-as-lebanon-tensions-rise"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4824,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
