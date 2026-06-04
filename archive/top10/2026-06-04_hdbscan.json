@@ -1,0 +1,360 @@
+{
+  "published_at": "2026-06-04T12:52:41.939047+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US House votes to end Trump’s Iran war: Does it matter?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US House votes to end Trump’s Iran war: Does it matter?"
+        },
+        {
+          "headline": "Iran leader says dealt enemies 'decisive blow' in Mideast war"
+        },
+        {
+          "headline": "Trump slams war-power vote as 'meaningless' and 'unpatriotic'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3355887/us-house-votes-stop-iran-war-rebuke-trump?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-house-votes-to-curb-trump-on-iran-war-as-talks-stall/article71059994.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.6649,
+      "mentions": 12,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks"
+        },
+        {
+          "headline": "Israel continues strikes in southern Lebanon despite ceasefire deal"
+        },
+        {
+          "headline": "Lebanon and Israel agree to implement ceasefire"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/lebanon-ceasefire-raises-hopes-of-progress-for-iran-deal"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/77497"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4193,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Sherpa guide missing for six days found crawling to Everest base camp",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/mount-everest-missing-sherpa-found-alive-after-6-days/a-77420418?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8304,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "SpaceX IPO to Be Largest Ever at $135 Share Price",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spacexs-ipo-is-set-to-be-the-biggest-ever-and-could-make-elon-musk-a-trillionaire/article71058600.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "India",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7941,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Netanayahu’s been ‘a great partner’, says Trump – as it happened",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/shorts/watch-iran-denies-strikingkuwaitairport-blames-us-patriot-misfire/article71060099.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/04/video-shows-moment-drone-hits-kuwait-airport-terminal"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Global",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.74,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "China bans four New Zealand lawmakers over visit to Taiwan",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/4/china-bans-four-new-zealand-lawmakers-over-visit-to-taiwan?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-bans-4-new-zealand-lawmakers-after-their-taiwan-trip/a-77416000?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3355971/beijing-slaps-travel-ban-new-zealand-mps-crossing-red-line-taiwan-visit?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.7305,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Did Germany lose its UNSC seat because of support for Israel?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/4/did-germany-lose-its-unsc-seat-because-of-support-for-israel?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/grim-mood-in-berlin-after-germany-loses-security-council-bid/a-77420221?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/portugal-austria-among-five-nations-elected-to-un-security-council-germany-suffers-setback/article71059897.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.6705,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Protests in Albania grow over Jared Kushner-backed luxury resort",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/04/protests-in-albania-grow-over-jared-kushner-backed-luxury-resort"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/04/g-s1-125926/albania-protests-trump-family-linked-resort"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-concerns-grow-over-albania-s-trump-linked-megaproject/a-77409540?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "UK",
+        "US"
+      ],
+      "score": 0.5669,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/03/ebola-wfp-steps-food-assistance-to-frontline-workers-patients/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/ebola-patient-from-congo-travelled-to-uae-and-uganda-who"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5261,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/many-killed-in-overnight-strikes-in-gaza-hospital-says/article71060564.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/israel-kills-nine-palestinians-overnight-gaza-bombardment"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5187,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
