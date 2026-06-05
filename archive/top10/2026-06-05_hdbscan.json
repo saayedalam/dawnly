@@ -1,0 +1,399 @@
+{
+  "published_at": "2026-06-05T12:48:18.773703+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?"
+        },
+        {
+          "headline": "House Passes Ukraine Aid in Defiance of Republican Leaders"
+        },
+        {
+          "headline": "Ukraine: Marine drone explodes in Romanian port"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/5/zelenskyy-asks-putin-for-meeting-whats-he-offering-could-russia-accept?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-s-zelenskyy-proposes-putin-meeting-on-ending-war/a-77427312?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.635,
+      "mentions": 36,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "Hezbollah rejects Israel-Lebanon truce as Trump scrambles to end Iran war",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Hezbollah rejects Israel-Lebanon truce as Trump scrambles to end Iran war"
+        },
+        {
+          "headline": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues"
+        },
+        {
+          "headline": "Middle East: UN doubles Lebanon aid appeal amid Israel war"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-hezbollah-rejects-lebanon-israel-ceasefire-terms/live-77415738?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6021,
+      "mentions": 21,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more"
+        },
+        {
+          "headline": "Fireball seen after explosion at Mexico gas facility"
+        },
+        {
+          "headline": "Shakira and Burna Boy opening World Cup in Mexico, Katy Perry headlines US"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/5/fifa-world-cup-2026-super-bowl-half-time-show-kits-football-talking-points?traffic_source=rss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-host-cities-put-best-known-dishes-in-spotlight-for-world-cup/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/04/young-footballers-in-a-rio-favela-find-hope-from-their-sport-ahead-of-world-cup/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Mexico",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.4016,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Russia Floods Armenia With Disinformation Ahead of Election",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia Floods Armenia With Disinformation Ahead of Election"
+        },
+        {
+          "headline": "Ukraine and Russia exchange 185 prisoners of war each in swap"
+        },
+        {
+          "headline": "Head of Poltava District Court Sentenced to 15 Years for Spying for Russian FSB"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/trump-backed-trade-route-casts-spotlight-on-armenia-election"
+        },
+        {
+          "name": "Radio Free Europe",
+          "link": "https://www.rferl.org/a/russia-economy-armenia-westward-tilt-elections/33773229.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Japan",
+        "Russia",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.1875,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6804,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "China’s Xi headed to North Korea in bid to shore up ties",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3356076/xi-heads-north-korea-tech-transfer-clampdown-inflation-pickup?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.6554,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "How much value is AI really creating?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/article/3356117/huawei-chips-refine-deepseek-model-major-leap-chinas-ai-self-reliance?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/ai-to-double-data-centre-power-and-water-consumption-by-2030-un-researchers-say/article71061427.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Asia-Pacific",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6323,
+      "mentions": 19,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "US-Iran war pushing millions into food crisis, warns UN",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/05/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/videos/watch-is-the-israelus-alliance-straining-over-iran/article71064931.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "East Africa",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5554,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Senate Republicans pass bill authorizing $70bn for immigration enforcement in vote-a-rama – US politics live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3356152/us-senate-passes-us70-billion-ice-funding-fails-ban-anti-weaponisation-fund?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/senate-passes-70-billion-immigration-enforcement-bill-without-limits-on-trump-settlement-fund/article71064885.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5457,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Trump announces $700 million funding for coal plants, energy infrastructure",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-announces-700-million-funding-for-coal-plants-energy-infrastructure/article71062804.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/06/how-government-inaction-turned-sumatras-rains-into-a-national-catastrophe/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Mexico"
+      ],
+      "score": 0.5437,
+      "mentions": 31,
+      "diversity": 4
+    }
+  ]
+}
