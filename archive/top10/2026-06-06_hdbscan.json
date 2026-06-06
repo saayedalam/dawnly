@@ -1,0 +1,381 @@
+{
+  "published_at": "2026-06-06T11:43:45.481730+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire"
+        },
+        {
+          "headline": "Iran footballers issued US visas for World Cup, says White House"
+        },
+        {
+          "headline": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8059,
+      "mentions": 47,
+      "diversity": 15
+    },
+    {
+      "rank": 2,
+      "headline": "Cockroach Janta Party rallies at New Delhi for youth protests",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Cockroach Janta Party rallies at New Delhi for youth protests"
+        },
+        {
+          "headline": "Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad"
+        },
+        {
+          "headline": "Japan won't become another Silicon Valley. It doesn't need to"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-cockroach-party-holds-protest-at-jantar-mantar/live-77443229?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3356192/viral-indian-youth-movement-cockroach-janta-party-hits-delhi-streets-first-protest?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4439,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Wasting China’s solar panel surplus is madness",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Wasting China’s solar panel surplus is madness"
+        },
+        {
+          "headline": "On China, Trump picked the right battle but the wrong strategy"
+        },
+        {
+          "headline": "What does Washington’s latest AI chip guidance mean for Chinese tech firms?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/asia-opinion/article/3355995/problem-japans-bid-strengthen-energy-security-supply-chains?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/spotlight/comment/hormuz-crisis-highlights-china-s-unique-oil-strategy"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Asia-Pacific",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3354,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/05/nx-s1-5845119/putin-promotes-a-new-world-economic-order-at-st-petersburg-forum"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7849,
+      "mentions": 19,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-disinformation-in-congo-is-worsening-ebola-epidemic/a-77434273?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7397,
+      "mentions": 15,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3356199/israeli-troops-kill-7-month-old-palestinian-baby-west-bank-car-shooting?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4604,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Teenage star v 500-1 qualifier - a French Open final of contrasts",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/tennis/articles/c3w2wz7pd0po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/5/cobolli-into-final-as-virus-struck-arnaldi-pulls-out-of-french-open?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-06/golf-us-womens-open-nelly-korda-stages-comeback-second-round/106767844"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4439,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Anthropic: AI could escape human control",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nqck86?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/trump-says-his-team-will-look-into-us-taking-stake-in-ai-companies"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4229,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/british-pm-starmer-criticises-us-v-p-vance-over-comments-on-uk-teens-death/article71068887.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/british-pm-hits-back-at-vance-over-comments-on-teen-s-stabbing-death-20260606-p604hw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4204,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Astronauts take shelter as air leaks worsen on International Space Station",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3356173/astronauts-take-shelter-air-leaks-worsen-international-space-station?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/science/iss-astronauts-in-evacuation-mode-as-russia-attempts-to-fix-widening-air-leak/article71066499.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/astronauts-shelter-for-air-leak-repairs-on-international-space-station-20260606-p604g2.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.4064,
+      "mentions": 5,
+      "diversity": 5
+    }
+  ]
+}
