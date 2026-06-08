@@ -1,0 +1,375 @@
+{
+  "published_at": "2026-06-08T14:21:51.008607+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "My drinking days are over - here are my tips for an alcohol-free World Cup",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "My drinking days are over - here are my tips for an alcohol-free World Cup"
+        },
+        {
+          "headline": "Stock market jitters remain amid tech fears and renewed Middle East attacks"
+        },
+        {
+          "headline": "Oil prices rise more than $2 on Israel strikes on Lebanon"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/czr25ypjrdvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/8/how-extreme-weather-and-heat-could-affect-players-at-world-cup-2026?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/teacher-protests-in-mexico-could-spoil-the-world-cup-party/a-77455624?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6108,
+      "mentions": 25,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Middle East updates: Iran declares end to attacks on Israel",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Middle East updates: Iran declares end to attacks on Israel"
+        },
+        {
+          "headline": "Israel and Iran exchange missile fire threatening Middle East truce"
+        },
+        {
+          "headline": "Israel and Iran exchange strikes as Middle East crisis threatens to escalate"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-updates-iran-declares-end-to-attacks-on-israel/live-77452499?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-halts-attacks-after-painful-response-against-israel"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/israel-says-iran-launched-missiles-at-it-in-first-such-attack-since-april-ceasefire-20260608-p604og.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5124,
+      "mentions": 18,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "At least 32 dead after major earthquake strikes southern Philippines",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/8/philippines-earthquake-kills-15-prompts-tsunami-fears-all-to-know?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8559,
+      "mentions": 25,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Friendship or leverage: Why is Xi Jinping in North Korea?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/al-jazeera-explains-china-north-korea-ties-as-xi-visits-pyongyang?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7805,
+      "mentions": 21,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Peru: Presidential election too close to call",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/peru-presidential-election-too-close-to-call/a-77458446?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3356314/peru-faces-drawn-out-count-presidential-race-goes-down-wire?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/peru-runoff-election-results-keiko-fujimori-roberto-sanchez/article71075160.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.5608,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/08/iran-ceasefire-talks-us-israel-strait-of-hormuz-blockade-houthis-yemen"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/yemens-houthis-declare-total-ban-on-israeli-ships-in-red-sea/article71075490.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5484,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Armenian PM Pashinyan declares victory in parliamentary elections",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/armenian-pm-pashinyan-declares-victory-in-parliamentary-elections?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/armenia-election-prime-minister-pashinyan-declares-victory/a-77447079?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/armenian-pm-nikol-pashinyan-claims-victory-in-election-seen-as-test-of-russias-influence/article71076521.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5278,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Pope uses Spain speech to warn of global ‘spiritual and cultural crisis’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/08/pope-leo-xiv-spain-speech-global-spiritual-cultural-crisis"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/08/nx-s1-5849821/spanish-parliament-pope-speech"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/pope-leo-tells-spains-church-to-listen-to-abuse-survivors-offer-reparations"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4763,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "New York stabbing, Kansas City shooting raise World Cup security concerns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/08/stabbing-new-york-penn-station"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/08/at-least-six-people-wounded-in-stabbing-at-new-yorks-penn-station-citys-mayor-says"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.45,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/07/italian-rescuers-recover-10-bodies-after-migrant-boat-capsizes-off-malta"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/police-offer-20000-reward-in-killing-of-indian-national-in-us/article71075062.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4395,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
