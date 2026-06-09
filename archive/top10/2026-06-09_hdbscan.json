@@ -1,0 +1,357 @@
+{
+  "published_at": "2026-06-09T12:47:25.467488+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz",
+      "is_grouped": true,
+      "angle_count": 8,
+      "angles": [
+        {
+          "headline": "Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz"
+        },
+        {
+          "headline": "Complex relationship between Trump and Netanyahu continues to undermine Middle East ceasefire"
+        },
+        {
+          "headline": "Trump says Iran deal in ‘final throes’"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/09/nx-s1-5851482/trump-pilots-us-helicopter-crash"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3356459/trump-responds-us-apache-helicopter-crash-near-hormuz-claims-iran-deal-close?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7988,
+      "mentions": 44,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/9/trump-booed-thunderously-at-nba-finals-what-we-know?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.8513,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "4 states head to the polls. And, global conflicts are on the rise, new report says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/conflict-trends-civil-wars-international-fights-hit-high/a-77467842?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/09/global-conflicts-hit-record-high-in-2025-study-finds/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7222,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Federal judge strikes down Trump's $100,000 fee on new H-1B visas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/09/nx-s1-5851474/federal-judge-fee-h1b-visa"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/indian-diaspora-groups-welcome-court-ruling-striking-down-100000-h-1b-visa-fee/article71079145.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/08/us-judge-blocks-trump-plan-for-100000-visa-fee"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6968,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kenya-police-fire-tear-gas-at-protest-against-us-ebola-center/a-77469392?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/kenyan-police-crack-down-on-protest-against-us-ebola-quarantine-facility/article71079890.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.6547,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Israel attacks Tyre in Lebanon, tells all residents to leave",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israel-attacks-tyre-in-lebanon-tells-all-residents-to-leave?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-israel-strikes-lebanon-despite-iran-warning/live-77467866?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-8-killed-israeli-strike-tyre-warning"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.6285,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3356493/pentagon-blacklists-china-tech-giants-us-competition-expands?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pentagon-labels-tech-giant-alibaba-and-electric-car-maker-byd-as-aiding-chinese-military/article71079091.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6172,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Somali referee Artan barred from entering US ahead of World Cup",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026/a-77467197?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Australia",
+        "East Africa",
+        "Germany",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.5947,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "ICC's Karim Khan suspended over claims of sexual misconduct",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/icc-s-karim-khan-suspended-over-claims-of-sexual-misconduct/a-77467013?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/icc-chief-prosecutor-suspended-pending-decision-by-oversight-body-over-sexual-misconduct-allegations/article71078442.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/09/icc-suspends-chief-prosecutor-over-allegations-of-sexual-misconduct/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5369,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "The unlikely corporate winners of AI",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/policy/article/3356498/global-ai-data-shortage-looming-china-boosts-its-own-supply?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/indian-envoy-meets-us-tech-leaders-discusses-perspectives-on-future-of-ai/article71079654.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5367,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
