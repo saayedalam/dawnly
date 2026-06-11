@@ -1,0 +1,372 @@
+{
+  "published_at": "2026-06-11T14:09:10.301363+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?"
+        },
+        {
+          "headline": "Iran shuts Hormuz strait: But wasn’t it already closed?"
+        },
+        {
+          "headline": "Trump vows to hit Iran 'very hard tonight' and later take over its oil and gas sectors"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/11/podcasts/the-headlines/trump-inflation-australia-social-media-ban.html"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/10/trump-says-i-love-the-inflation-claims-us-taking-millions-of-barrels-of-iranian-oil"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5388,
+      "mentions": 26,
+      "diversity": 15
+    },
+    {
+      "rank": 2,
+      "headline": "Russia’s conscripts recount pressure to fight in Ukraine",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia’s conscripts recount pressure to fight in Ukraine"
+        },
+        {
+          "headline": "The War in Ukraine Has Now Gone On Longer Than World War I"
+        },
+        {
+          "headline": "US inflation hits 3-year high as Iran war drives energy shock, rattles markets"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russias-conscripts-recount-pressure-to-fight-in-ukraine"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/77930"
+        },
+        {
+          "name": "Bangkok Post",
+          "link": "https://www.bangkokpost.com/world/3269338/russian-conscripts-recount-pressure-to-fight-in-ukraine"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Global",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.2179,
+      "mentions": 10,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Chris Mason: Healey's resignation is a devastating critique of Starmer's government",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cm20vznj2p2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/11/aukus-among-australia-worst-foreign-policy-decisions-gareth-evans"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8452,
+      "mentions": 17,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "'A van was set alight and pushed towards my home'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cjwg0wg2w47o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/11/g-s1-127401/uk-anti-immigration-protests-belfast"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3356758/belfast-reeling-anti-immigration-violence-and-online-hit-lists-terrify-minorities?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8346,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Musk's SpaceX IPO holds both promise and peril",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/musk-s-spacex-ipo-holds-both-promise-and-peril/a-77491986?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/business/china-business/article/3356712/chinas-space-start-ups-eye-ipo-boom-spacex-heads-record-listing?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.6095,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/11/the-world-cups-most-storied-stadium-prepares-for-another-chapter?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/10/infantino-defends-world-cup-ticket-prices-says-fans-should-chill-about-ref-denied-us-entry"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Brazil",
+        "Europe",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.5443,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Ukraine launches long-range strikes on military, energy sites in Russia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-launches-long-range-strikes-on-military-energy-sites-in-russia/article71086258.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ukraine-flamingo-strikes-military-energy-sites-russia/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/ukraines-drone-commander-wants-to-cut-crimea-off-from-russia"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5015,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "117.8 Million fled their homes worldwide: Lebanon’s shelter crisis worsens",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/117-8-million-fled-their-homes-worldwide-lebanons-shelter-crisis-worsens?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/11/nx-s1-5850270/number-of-people-forced-to-flee-their-homes-has-dropped-u-n-report-finds"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/unhcr-says-fewer-people-displaced-worldwide-in-2025-but-long-term-refugee-crisis-persists/article71087558.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4959,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Bill Gates tells Epstein panel he 'never victimized anyone'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bill-gates-tells-epstein-panel-he-never-victimized-anyone/a-77496857?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2612622/bill-gates-testifies-epstein-pressured-him-using-knowledge-of-his-affairs"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Pakistan",
+        "US"
+      ],
+      "score": 0.4723,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Thai court sentences two Uyghur men to death for 2015 Bangkok bombing",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/11/thai-court-sentences-uyghur-men-to-death-2015-bangkok-bombing"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/thailand-2-men-sentenced-to-death-for-2015-bangkok-bombing/a-77499201?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/health-environment/article/3356719/thai-court-sentences-2-chinese-uygur-men-death-2015-bangkok-shrine-bombing?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "UK"
+      ],
+      "score": 0.4688,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
