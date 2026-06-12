@@ -1,0 +1,345 @@
+{
+  "published_at": "2026-06-12T13:35:21.941530+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made"
+        },
+        {
+          "headline": "USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups"
+        },
+        {
+          "headline": "Middle East crisis live: Tehran would not cede control of Hormuz in deal with US, Iran state media report"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-says-iran-deal-coming-soon-tehran-yet-to-confirm/live-77520654?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8227,
+      "mentions": 22,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Why Has Defence Secretary John Healey Resigned?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nq8m70?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8025,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/12/thailand-princess-bajrakitiyabha-dies-aged-47"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.8011,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Celebrated British artist David Hockney dies aged 88",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/artanddesign/2026/jun/12/artist-david-hockney-dies"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.7327,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Nineteen now arrested over Northern Ireland disorder with house targeted in arson",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.6137,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/12/nx-s1-5856122/ousted-south-korean-president-yoon-prison-drone-flights-pyongyang"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-korea-ex-president-yoon-gets-30-years-for-sending-drones-into-north-korea/a-77516214?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3356833/south-korean-court-sentences-ex-president-yoon-30-years-over-pyongyang-drone-plot?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5961,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5861,
+      "mentions": 10,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "Why the economics make this the craziest World Cup ever",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3356842/replays-luck-draws-hong-kong-eateries-chase-world-cup-business-despite-time-difference?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "Japan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.58,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 9,
+      "headline": "A year after Air India crash killed 260: Do we know what happened?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/12/air-india-crash-ai171-bereaved-families-seek-closure-one-year-on"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/british-high-commissioner-lindy-cameron-pays-tribute-to-air-india-plane-crash-victims/article71093038.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5154,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Toronto police officer shot while investigating US consulate attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/us-officer-shot-by-fellow-cop-during-horseplay-20260612-p606ak.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "India",
+        "UK"
+      ],
+      "score": 0.4786,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
