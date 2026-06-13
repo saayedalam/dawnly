@@ -1,0 +1,370 @@
+{
+  "published_at": "2026-06-13T12:02:27.992555+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran war: Pakistan PM says peace deal expected in 24 hours",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Iran war: Pakistan PM says peace deal expected in 24 hours"
+        },
+        {
+          "headline": "UAE to unlock billions of dollars for Iran, sources say"
+        },
+        {
+          "headline": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-says-final-text-of-us-iran-peace-deal-agreed-upon/article71096649.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/12/iran-says-deal-with-us-closer-than-ever-as-trump-warns-tehran-to-get-act-together"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.6117,
+      "mentions": 22,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Palestine Action activists jailed over factory raid",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Palestine Action activists jailed over factory raid"
+        },
+        {
+          "headline": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza"
+        },
+        {
+          "headline": "Lebanon reports Israeli strikes in south after evacuation warning"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/ce950111xk7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/13/palestinian-held-sama-safi-israeli-military"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6031,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 3,
+      "headline": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Brazil",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.9,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Anthropic suspends new AI tools over US government security concerns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7845,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Crowd gathers at Kennedy Center after court denies Trump’s emergency appeal to keep his name on building – as it happened",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3356989/kennedy-centre-loses-last-ditch-attempt-keep-trumps-name-building?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7617,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "'It's all they're talking about': Scotland gripped by football fever",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c78ydv8er7no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.7029,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Switzerland to vote on plan to cap population at 10 million",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Japan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6835,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/elon-musk-becomes-world-s-first-trillionaire-after-spacex-ipo/a-77529579?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3356972/elon-musk-becomes-worlds-first-trillionaire-after-spacex-ipo?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "South America",
+        "UK"
+      ],
+      "score": 0.671,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 9,
+      "headline": "Woman in critical condition after shark attack at Coogee beach",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/woman-critically-injured-in-shark-attack-at-sydney-beach/a-77534097?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/australasia/article/3356995/beachgoers-australia-rescue-woman-after-shark-attack-sydneys-coogee-beach?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.621,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Ukrainian strike kills one, wounds three in southern Russia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukrainian-strike-kills-one-wounds-three-in-southern-russia/article71096830.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/ukraine-drone-strikes-kills-one-sparks-fire-at-russian-port-of-temryuk-governor-says"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/78114"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5812,
+      "mentions": 17,
+      "diversity": 3
+    }
+  ]
+}
