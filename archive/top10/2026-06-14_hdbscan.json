@@ -1,0 +1,356 @@
+{
+  "published_at": "2026-06-14T12:06:55.196396+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Funeral for slain Iranian supreme leader Khamenei set for July",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Funeral for slain Iranian supreme leader Khamenei set for July"
+        },
+        {
+          "headline": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing"
+        },
+        {
+          "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3357015/funeral-slain-iranian-supreme-leader-khamenei-set-july?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-funeral-for-late-supreme-leader-khamenei-to-begin-july-4-burial-set-for-july-9/article71097431.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/13/iran-officials-announce-dates-for-ali-khamenei-funeral-and-burial"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6404,
+      "mentions": 19,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "Trump to name James McDonald – one of his lawyers – as Wall Street’s top cop",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump to name James McDonald – one of his lawyers – as Wall Street’s top cop"
+        },
+        {
+          "headline": "As Trump turns 80, what's it really like to work as an octogenarian?"
+        },
+        {
+          "headline": "Trump’s name is gone from the Kennedy Center’s facade: top official"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3357027/trump-name-james-mcdonald-one-his-lawyers-wall-streets-top-cop?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/jay-clayton-golfer-lawyer-spymaster/article71098658.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-trump-names-personal-lawyer-to-lead-powerful-new-york-federal/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4469,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8966,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "New York Knicks win NBA championship for first time in over 50 years",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/new-york-knicks-win-first-nba-championship-in-53-years/a-77543316?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8076,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Why Haiti v Scotland was antidote to the ills of world football",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/14/scotland-beat-haiti-1-0-to-mark-a-winning-return-to-the-world?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-14/world-cup-live-qatar-switzerland-brazil-morocco-haiti-scotland/106794480"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6269,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-14/socceroos-win-adelaide-reacts/106796588"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/australia-stun-turkey-defensive-masterclass-world-cup-6182241"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5997,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Ukrainian drone strikes kill one, spark fire at oil facility in Russia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-drone-attack-on-russia-june-14-2026/article71100942.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ukraine-drone-strike-kills-one-triggers-fire-russian-port/"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/78135"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "India",
+        "Ukraine"
+      ],
+      "score": 0.5601,
+      "mentions": 11,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/14/philippines-earthquake-raised-seabed-costal-uplift-coral-exposed"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3357057/deadly-mindanao-quake-raised-seabed-causing-marine-die?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/deadly-philippine-quake-raised-seabed-by-up-to-two-metres/article71100767.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5561,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "UFC fight, military flyover, fireworks: inside Trump’s US$60 million 80th birthday bash",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3357032/ufc-fight-military-flyover-fireworks-inside-trumps-us60-million-80th-birthday-bash?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/donald-trump-turns-80-birthday-celebrations-cage-fight-white-house/article71100235.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/sports-guy-trump-works-to-project-strength-with-ufc-bout-as-political-woes-mount-20260614-p606m0.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.4469,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Trump to discuss Strait of Hormuz demining efforts at G7",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3357023/trump-discuss-strait-hormuz-demining-efforts-g7?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-to-meet-modi-onthe-sidelines-of-the-g-7-summit-us-officials-say/article71098389.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/trump-to-meet-with-middle-east-leaders-attend-ukraine-session-at-g7-us-officials-say"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4379,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
