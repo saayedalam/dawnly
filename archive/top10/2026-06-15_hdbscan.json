@@ -1,0 +1,360 @@
+{
+  "published_at": "2026-06-15T15:55:45.629052+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "G7 gets underway amid tensions between Europe and the U.S.",
+      "is_grouped": true,
+      "angle_count": 7,
+      "angles": [
+        {
+          "headline": "G7 gets underway amid tensions between Europe and the U.S."
+        },
+        {
+          "headline": "U.S. and Iran announce a deal to end the war and reopen the Strait of Hormuz"
+        },
+        {
+          "headline": "Strait of Hormuz reopening won't restore normal prewar shipping any time soon"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/15/nx-s1-5856340/g7-gets-underway-amid-tensions-between-europe-and-the-u-s"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/g7-leaders-gather-to-grapple-with-wars-global-economy/live-77556967?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/g7-summit-2026-begins-in-evian-key-leaders-countries-dates-and-venue-details/article71104781.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6366,
+      "mentions": 30,
+      "diversity": 17
+    },
+    {
+      "rank": 2,
+      "headline": "Social media ban - bold and blunt, but no silver bullet",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-announces-social-media-ban-for-under-16s?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8438,
+      "mentions": 23,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Henry Nowak killer's sentence referred to Court of Appeal under unduly lenient scheme",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c8721y4341qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/15/g-s1-128126/norways-crown-princess-son-sentenced-to-prison-for-rape"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.7094,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Trump celebrates 80th birthday with Iran deal and UFC fights at the White House",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/15/nx-s1-5858610/trump-birthday-ufc-white-house"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-hosts-white-house-cage-fights-to-mark-80th-birthday/a-77546507?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "US"
+      ],
+      "score": 0.6094,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Brazilian woman dies after rope-jumping instructors fail to attach cord",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3357125/brazilian-woman-killed-after-being-thrown-bridge-without-rope-buried-sao-paulo?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5981,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Palestine Action ban is lawful, Court of Appeal rules",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/15/what-a-uk-courts-backing-of-the-palestine-action-terror-ban-means?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/15/ban-on-palestine-action-was-lawful-court-of-appeal-rules"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5766,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/six-killed-as-helicopters-collide-in-brazils-rio-de-janeiro/article71102068.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/14/singer-oliver-tree-and-youtuber-gaspi-among-six-killed-as-two-helicopters-collide-in-brazi"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Europe",
+        "India",
+        "South America",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5673,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Record increase in DRC Ebola cases raises death toll to 181",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/15/record-daily-jump-in-drc-ebola-outbreak-takes-death-toll-to-178?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/15/drc-ebola-fear-grips-bunia-as-life-slows-and-businesses-lose-income-in-ituri/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4843,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "US: Skydiving plane crash leaves 12 people dead in Missouri",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-skydiving-plane-crash-leaves-12-people-dead-in-missouri/a-77551574?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/united-states-missouri-plane-crash/article71103279.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/twelve-people-killed-in-missouri-plane-crash-state-highway-patrol-says-20260615-p606qd.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India"
+      ],
+      "score": 0.4484,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Russia was behind arson attacks targeting PM, BBC reveals",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/15/two-men-found-guilty-over-arson-attacks-linked-to-keir-starmer"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/dd79d6eb-44e4-4365-8c6e-a4fd64b211c8"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4278,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
