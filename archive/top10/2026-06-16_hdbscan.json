@@ -1,0 +1,384 @@
+{
+  "published_at": "2026-06-16T15:19:05.317525+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran says Israeli occupation in Lebanon would breach US deal",
+      "is_grouped": true,
+      "angle_count": 8,
+      "angles": [
+        {
+          "headline": "Iran says Israeli occupation in Lebanon would breach US deal"
+        },
+        {
+          "headline": "Why the Iranian Team Is in a Tough Spot at the World Cup"
+        },
+        {
+          "headline": "Iran ‘agreed to never have a nuclear weapon’, says Trump – as it happened"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/16/nx-s1-5858937/israels-ambassador-to-the-u-s-talks-about-u-s-iran-deal-to-end-war"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-iran-deal-tehran-says-israel-withdrawal-from-lebanon-key/live-77573728?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6508,
+      "mentions": 44,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Refugee groups condemn Tory plan to remove judges from asylum appeals",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Refugee groups condemn Tory plan to remove judges from asylum appeals"
+        },
+        {
+          "headline": "What UK social media ban means for gaming and YouTube"
+        },
+        {
+          "headline": "UK forces face operational cuts without more cash, defence chief warns"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/16/conservatives-plan-remove-judges-asylum-appeals"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shied-of-immunity/a-77575633?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/british-sikh-mans-unduly-lenient-sentence-for-uk-murder-to-be-reviewed/article71107561.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4121,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Russian artist and Putin critic shot dead in Poland",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russian artist and Putin critic shot dead in Poland"
+        },
+        {
+          "headline": "Starmer pleased 'justice has been done' after arson attacks on property connected to him"
+        },
+        {
+          "headline": "U.K. imposes new sanctions on Russian shadow fleet after Indian captain arrest"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/16/russia-artist-putin-critic-robert-kuzovkov-shot-dead-poland"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russian-artist-critical-of-putin-shot-dead-in-poland/a-77576814?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Germany",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.35,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Zelenskyy thanks G7 leaders for ‘strong ideas on how to force Russia into peace’ – as it happened",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jun/16/g7-world-leaders-ukraine-russia-war-iran-trump-zelenskyy-putin-eu-france-eu-europe-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/16/nx-s1-5859260/g7-leaders-meet-for-first-full-day-of-summit-tuesday"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/g7-summit-ukraine-and-iran-lead-agenda/live-77556967?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8223,
+      "mentions": 27,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "FBI thwarted plot targeting White House UFC event, Patel says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3357341/5-arrested-after-fbi-foils-drone-sniper-plot-during-white-house-fight-night?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/multiple-arrests-as-fbi-disrupts-planned-attacks-targeting-white-house-ufc-show-director-says/article71109581.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5321,
+      "mentions": 7,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Eight presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2613437/eight-crew-believed-dead-in-california-b-52-bomber-crash"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/16/eight-killed-in-us-air-force-b-52-bomber-crash-in-california"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Pakistan",
+        "Ukraine"
+      ],
+      "score": 0.4894,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "China offers staunch support to Myanmar president during his state visit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/16/china-offers-staunch-support-to-myanmar-president-during-his-state-visit?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3357315/chinas-xi-vows-support-myanmar-president-min-aung-hlaing-moves-bridge-isolation?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/china-xi-jinping-meeting-with-myanmar-chief-in-beijing/article71107765.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Asia-Pacific",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.4436,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Indonesia hit by 6.7 magnitude earthquake",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/indonesia-hit-by-6-7-magnitude-earthquake/a-77571245?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/health-environment/article/3357287/philippines-still-not-ready-big-one-even-after-latest-quake?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/67-magnitude-earthquake-shakes-part-of-indonesia/article71107725.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Thailand"
+      ],
+      "score": 0.4248,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Brazil police arrest bungee jumping operators after woman dies",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/brazil-police-arrest-bungee-jumping-operators-after-woman-dies?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/15/21-year-old-woman-dies-after-being-launched-off-bridge-without-safety-rope"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4121,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Red Cross warns Ebola outbreak in DRC not yet peaked, could last a year",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/16/red-cross-warns-ebola-outbreak-in-drc-not-yet-peaked-could-last-a-year?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/dr-congo-ebola-peak-in-front-of-us-outbreak-could-last-a-year-says-red-cross/article71109172.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/16/dr-congos-ebola-outbreak-tops-800-cases-as-death-toll-reaches-192/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.3669,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
