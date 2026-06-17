@@ -1,0 +1,384 @@
+{
+  "published_at": "2026-06-17T13:49:04.046850+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "PM warns Burnham against immediate leadership challenge if he wins by-election",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "PM warns Burnham against immediate leadership challenge if he wins by-election"
+        },
+        {
+          "headline": "Harry and Meghan to bring children to UK next month"
+        },
+        {
+          "headline": "Slowest food price rises in nearly a year and a half help keep UK inflation at 2.8%"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/17/lib-dems-to-urge-labour-to-drop-torpor-and-timidity-on-eu-and-rejoin-single-market"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6799,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "I’ll resume bombing if Iran acts up, Trump warns after criticism of deal",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "I’ll resume bombing if Iran acts up, Trump warns after criticism of deal"
+        },
+        {
+          "headline": "Skeptical Republicans demand details of US-Iran outline peace deal"
+        },
+        {
+          "headline": "West Asia LIVE: Opening Hormuz will be ‘massive step forward’, says NATO chief"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/17/trump-g7-leaders-iran-missile-programme-ukraine"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2613609/iran-deal-includes-300-billion-fund-more-than-half-of-which-already-committed-source-says"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-dropping-bombs-their-head-if-iran-doesnt-behave"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Global",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5185,
+      "mentions": 17,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "British couple describe having warning shots fired near them by Russian warship",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "British couple describe having warning shots fired near them by Russian warship"
+        },
+        {
+          "headline": "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’"
+        },
+        {
+          "headline": "Ukraine: Russian drone attack on Zaporizhzhia home kills one, injures seven"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russian-ship-fires-warning-shots-at-british-yacht-in-channel/a-77581943?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/we-did-nothing-wrong-say-british-yacht-couple-fired-at-by-russian-warship-20260617-p607hv.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4813,
+      "mentions": 24,
+      "diversity": 15
+    },
+    {
+      "rank": 4,
+      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/17/austria-vs-jordan-fifa-world-cup-2026-marko-arnautovic-goal-penalty-football?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-17/world-cup-messi-hattrick-mbappe-haaland-braces/106807544"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Europe",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.7773,
+      "mentions": 20,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ebola-and-the-us-patient-spotlight-global-health-injustice/a-77577798?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/dr-congo-ebola-peak-in-front-of-us-outbreak-could-last-a-year-says-red-cross/article71109172.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5846,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Taiwan accuses Kenya of deporting conference delegates on China’s behalf",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/17/taiwan-accuses-kenya-of-deporting-conference-delegates-on-chinas-behalf?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/17/g-s1-128550/taiwan-says-chinese-pressure-over-the-island-is-the-new-normal"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/military/article/3357332/what-launch-himars-rockets-towards-taiwan-strait-says-about-taipeis-battle-plans?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.5466,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-mosque-west-bank"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5242,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "5 charged in plot to attack Trump's UFC event, DOJ says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/5-charged-in-plot-to-attack-trump-s-ufc-event-doj-says/a-77583097?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-at-white-house/article71103305.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/17/fbi-foils-plot-targeting-white-house-ufc-event-five-arrested-across-multiple-states"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "South Africa"
+      ],
+      "score": 0.506,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "The Croatia players England should look out for",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/football/articles/cy04g9ldneeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/17/world-cup-predictions-portugal-vs-dr-congo-england-vs-croatia-and-more?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-17/world-cup-2026-england-harry-kane-thomas-tuchel-croatia/106809564"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5005,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Iran sends loaded oil tankers past US blockade line",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2613620/iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4966,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
