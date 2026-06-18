@@ -1,0 +1,362 @@
+{
+  "published_at": "2026-06-18T13:39:17.255003+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Pentagon chief announces review of US forces in Europe, slams NATO allies",
+      "is_grouped": true,
+      "angle_count": 7,
+      "angles": [
+        {
+          "headline": "Pentagon chief announces review of US forces in Europe, slams NATO allies"
+        },
+        {
+          "headline": "What's in the US-Iran agreement?"
+        },
+        {
+          "headline": "Trump signs agreement with Iran. And, the president's approval hits record lows"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/18/pentagon-chief-announces-review-of-us-forces-in-europe-slams-nato-allies?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jun/18/ukraine-russia-moscow-strikes-nato-defence-ministers-hegseth-rutte-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8182,
+      "mentions": 33,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "Voters head to the polls for Makerfield by-election",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Voters head to the polls for Makerfield by-election"
+        },
+        {
+          "headline": "Amber heat health alerts issued with UK temperatures set to soar above 30C"
+        },
+        {
+          "headline": "In Britain, resisting a genocide is now treated as terrorism"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c5yzgpe2ld3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5881,
+      "mentions": 14,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8414,
+      "mentions": 23,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Men jailed over work for Chinese intelligence in UK",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/18/man-charged-hate-crime-burning-cross-chicago"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357604/uk-court-jails-2-hongkongers-tied-trade-office-10-years-spying?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5454,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 5,
+      "headline": "Trump welcomed to Versailles for dinner with Macron",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/06/17/trump-welcomed-to-versailles-for-dinner-with-macron"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/not-gold-leaf-the-real-deal-macron-tries-to-win-over-trump-at-lavish-versailles-20260618-p607tj.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-french-president-hosts-trump-at-palace-of-versailles/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "score": 0.5028,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/17/israel-continues-strikes-on-lebanon-ahead-of-anticipated-us-iran-peace-deal"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-our-forces-are-operating-southern-lebanon"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4953,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "She Saw Her Skydiving Plane Burn. Would She Jump Again?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/18/us/skydiving-crash-witness.html"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-18/jenny-simpson-undergoes-cpr-after-collapsing-at-event/106812602"
+        },
+        {
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/06/18/tai-po-fire-asteroid-named-to-honour-fallen-firefighter-ho-wai-ho/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.4741,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Taiwan hopes US arms sale package can be approved soon, president says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3357551/more-taiwan-favour-goodwill-beijing-over-defence-ties-us-poll-shows?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/taiwan-not-provoking-china-hopes-new-us-arms-sale-package-can-be-approved-soon-president-says/article71116575.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.4484,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Israel’s foreign minister cuts ties with top EU diplomat over ‘apartheid’ remark",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3357596/israels-foreign-minister-cuts-ties-top-eu-diplomat-over-apartheid-remark?utm_source=rss_feed"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/18/kaja-kallas-responds-after-israeli-foreign-minister-says-he-will-sever-all-contact-with-he"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-accuses-eus-top-diplomat-blood-libel-and-severs-ties"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4044,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "EU lawmakers approve new tougher migrant policy",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-lawmakers-approve-new-tougher-migrant-policy/a-77595342?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/eu-lawmakers-approve-return-hubs-migration-reform/article71115319.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/17/eu-lawmakers-approve-deportation-hubs-for-migrants/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "India"
+      ],
+      "score": 0.3881,
+      "mentions": 7,
+      "diversity": 3
+    }
+  ]
+}
