@@ -1,0 +1,352 @@
+{
+  "published_at": "2026-06-19T13:44:55.651207+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+      "is_grouped": true,
+      "angle_count": 8,
+      "angles": [
+        {
+          "headline": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims"
+        },
+        {
+          "headline": "Secretary of Defense Hegseth scolds NATO allies — again"
+        },
+        {
+          "headline": "Iran waives Strait of Hormuz fees during 60-day peace negotiation period"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/jd-vance-slams-israeli-officials-who-criticised-us-iran-deal-deepening-rift-between-allies/article71120670.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2613921/us-vp-jd-vance-warns-israeli-critics-over-iran-deal-trump-is-your-only-ally"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4564,
+      "mentions": 37,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "What is Burnham's path to becoming Labour leader and PM?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/audio/2026/jun/19/andy-burnham-our-next-prime-minister-podcast"
+        }
+      ],
+      "source_count": 21,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8595,
+      "mentions": 35,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-drone-attack-russia-oil-refinery/article71117019.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/ukrainian-drone-strike-on-oil-refinery-spreads-flames-and-black-smoke-in-moscow-20260619-p6089r.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "India",
+        "Middle East",
+        "Russia",
+        "South America",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5305,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Amber extreme heat warning issued as 35C heatwave approaches",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/weather/articles/cz0jde5xkjvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-heat-alerts-in-effect-for-millions/live-77625380?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4862,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 5,
+      "headline": "Two men jailed over Starmer-linked arson attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cgmdjpmmng7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/19/two-men-jailed-for-arson-attacks-on-property-linked-to-keir-starmer"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3357725/ukrainian-romanian-jailed-uk-over-starmer-arson-plot-ordered-mystery-russian?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4757,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/19/man-released-police-boy-three-zoo-crocodile-enclosure-cambridgeshire"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/man-arrested-after-child-ends-up-in-british-zoo-s-crocodile-enclosure-20260619-p608a4.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4737,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/19/nx-s1-5864084/us-strike-alleged-drug-boat-kills-3-eastern-pacific-ocean"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/us-politics/article-us-military-strike-boat-pacific-ocean/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4653,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Watch World Cup Day 8: Hosts Canada and Mexico top their groups",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/2026/6/19/video-world-cup-2026-highlights?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-19/world-cup-live-cze-south-africa-sui-bhi-can-qat-mex-kor/106812430"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/06/19/mexico-becomes-first-nation-to-reach-world-cup-knockout-stage"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Indonesia",
+        "Middle East"
+      ],
+      "score": 0.4487,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "London Marathon to be two-day event in 2027",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/athletics/articles/c892p7d0kk8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/19/arsenal-to-begin-premier-league-title-defence-against-promoted-coventry?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/champions-arsenal-host-promoted-coventry-in-2026-27-premier-league-opener-6195591"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.4353,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ebola-outbreak-is-three-times-bigger-than-any-previous-outbreak-at-the/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/19/ebola-death-toll-passes-200-in-dr-congo-from-875-confirmed-cases/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4253,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
