@@ -1,0 +1,363 @@
+{
+  "published_at": "2026-06-20T12:07:02.929258+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War"
+        },
+        {
+          "headline": "Hormuz disruption will continue until 80 mines blocking route are cleared"
+        },
+        {
+          "headline": "‘It’s a big mistake’: Israelis feel betrayed and angry after Iran peace deal"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/talks-between-us-iran-called-off-because-of-fighting-in-lebanon-officials-say/article71123404.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/06/19/iran-us-talks-called-off-amid-renewed-lebanon-fighting-leaving-next-steps-unclear/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.478,
+      "mentions": 14,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Talk of Starmer staying on to fight is fading - fast",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cjeg7p5w4y9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8923,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/meloni-stunned-by-trump-s-comment-she-begged-for-photo/a-77633016?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3357722/italian-minister-cancels-us-trip-after-trump-claims-meloni-begged-him-photo?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.8519,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "One dead and 89 injured following train collision in Bedford, UK",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/one-dead-and-89-injured-following-train-collision-in-bedford-uk?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/20/bedford-train-crash-passenger-carriage-injured-hospital-treatment"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-train-collision-north-of-london-kills-at-least-one-person/a-77632526?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8008,
+      "mentions": 8,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Trump unveils new Air Force One, a converted Qatari 747",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-unveils-interim-air-force-one-a-gift-from-qatar/a-77633683?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7662,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Tourist dies in Dominican Republic luxury resort fire",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/inferno-rips-through-dominican-republic-beach-resort?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/woman-killed-hundreds-evacuate-in-dominican-republic-hotel-fire/a-77634423?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7276,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Israel and Hezbollah renew ceasefire after deadly flareup disrupts opening of Iran talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-s-new-clashes-with-hezbollah-loom-over-us-iran-deal/live-77634368?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israel-and-hezbollah-agree-on-lebanon-ceasefire-us-official/article71123118.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.6609,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Bolivia's Paz declares state of emergency over blockades",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bolivia-s-paz-declares-state-of-emergency-over-blockades/a-77635224?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3357770/bolivias-president-declares-state-emergency-paving-way-troop-deployment?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/bolivias-president-declares-emergency-over-blockade-crisis-paving-way-to-deploy-military/article71125333.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.6128,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Poland's president strips Zelenskyy of top honor",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/poland-s-president-strips-zelenskyy-of-top-honor/a-77632926?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3357747/polands-president-strips-ukraines-zelensky-top-award?utm_source=rss_feed"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/zelenskiys-chief-of-staff-renounces-polish-medal-amid-ww2-dispute"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.6115,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Australia pledges action on H5N1 after bird flu case confirmed",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5972,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
