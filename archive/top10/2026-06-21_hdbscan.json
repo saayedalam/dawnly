@@ -1,0 +1,347 @@
+{
+  "published_at": "2026-06-21T12:18:03.259244+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon"
+        },
+        {
+          "headline": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz"
+        },
+        {
+          "headline": "Vance arrives in Switzerland for US-Iran talks"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/20/nx-s1-5864209/iran-claims-hormuz-closure-u-s-says-ships-still-passing"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/iran-says-it-s-closed-key-shipping-route-again-20260621-p608o1.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6075,
+      "mentions": 27,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "Signs grow that Starmer will resign as government mood shifts",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3357799/report-says-uk-pm-starmer-ready-quit-source-says-he-still-focused-job?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8273,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Colombians to vote in presidential run-off pitting leftist against hardliner",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombias-presidential-runoff-election-will-decide-how-the-country-continues-to-tackle-drug-trafficking"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Brazil",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7425,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Italy’s Meloni let Trump’s jibes slide for so long. Now, she’s hitting back",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3357801/italys-meloni-let-trumps-jibes-slide-so-long-now-shes-hitting-back?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-response-italy-pm-meloni-photo-war-of-words/article71125913.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/rift-between-us-and-italian-leaders-deepens-20260621-p608qm.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.7077,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3357797/trump-blames-reflecting-pool-woes-vandalism-offers-no-proof?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6925,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/20/al-jazeera-cameraman-ahmed-wishah-killed-in-israeli-strike-on-gaza"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-journalist-ahmed-wishah-gaza-two-months-after-brother"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5775,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Spain: PM's wife must face corruption trial, judge rules",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3357786/spanish-court-bans-pms-wife-leaving-country?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spanish-pms-wife-must-stand-trial-on-corruption-charges-judge-rules/article71126301.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.5211,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Zelenskyy returns Poland's highest honor as row deepens",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-he-returned-state-decoration-to-polish-president"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/78648"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5025,
+      "mentions": 7,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Ueda’s brace helps Japan knock Tunisia out of World Cup 2026",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/21/japan-tunisia-4-0-fifa-world-cup-2026-ayase-ueda-daichi-kamada-junya-ito?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-21/world-cup-live-blog-ned-swe-ger-civ-ecu-cur-tun-jap/106823222"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/world-cup-japan-tunisia-fans-teamwork-world-cup-sweden-round-32-6198011"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.4929,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Chaotic England fortnight ends with huge defeat in second Test against New Zealand",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/cricket/articles/c1ey0532yevo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-21/england-new-zealand-cricket-test-the-oval-ben-stokes/106824288"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/brilliant-henry-wraps-up-victory-new-zealand-england-collapse-6198331"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4861,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
