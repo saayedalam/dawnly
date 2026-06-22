@@ -1,0 +1,369 @@
+{
+  "published_at": "2026-06-22T15:32:11.230660+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Vance says Iran will allow nuclear inspectors back into the country",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "Vance says Iran will allow nuclear inspectors back into the country"
+        },
+        {
+          "headline": "Iran-US talks to end war beset by tension, mistrust"
+        },
+        {
+          "headline": "Iran leaves note about peace in dressing room after Belgium draw"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-waives-iran-oil-sanctions-as-nuclear-inspectors-to-return/live-77653016?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5141,
+      "mentions": 30,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Why did Starmer resign and what could happen next?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8526,
+      "mentions": 27,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7354,
+      "mentions": 18,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "With no laws on heat in schools, are pupils and teachers at risk?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c202n3ryp7xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/jun/22/weather-tracker-extreme-heat-in-europe-as-typhoon-strengthens-off-philippines"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-could-heatwave-temperatures-hit-40°c/live-77652593?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7084,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6773,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "China adds 10 US firms, including rare-earth miner, to export control list",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/22/nx-s1-5866202/china-sanctions-restricting-exports"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.5516,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3357860/blast-qatar-gas-facility-leaves-least-54-hurt-18-missing?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/indians-killed-in-qatar-explosion/article71133920.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.5375,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Almost three tonnes of cocaine found buried under Sydney property in Australia’s biggest ever seizure, police say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/22/almost-three-tonnes-of-cocaine-found-buried-under-sydney-property-in-australias-biggest-ever-seizure-police-say"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/22/nx-s1-5866207/australian-police-uncover-3-tons-cocaine"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/australasia/article/3357854/australia-makes-record-cocaine-bust-after-27-tonnes-found-buried-sydney?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4739,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "How four weeks in court unravelled 'sinful and deceitful' Jeffrey Donaldson",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/news/articles/c8x2e0pp1exo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/jun/22/incomprehensible-disbelief-after-jeffrey-donaldson-found-guilty-of-historical-sex-charges"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/northern-irelands-donaldson-found-guilty-of-child-sex-offences"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4689,
+      "mentions": 5,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Ex-Wimbledon champion Vondrousova given four-year ban",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.com/sport/tennis/articles/c36yjz55z3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/22/ex-wimbledon-champion-vondrousova-banned-for-refusing-drug-test?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/vondrousova-given-four-year-ban-refusing-anti-doping-test-6201021"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.425,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
