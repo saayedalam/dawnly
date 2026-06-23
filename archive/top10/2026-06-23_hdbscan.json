@@ -1,11 +1,101 @@
 {
-  "published_at": "2026-06-23T12:42:59.346460+00:00",
+  "published_at": "2026-06-23T12:44:24.039040+00:00",
+  "algorithm": "hdbscan",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
+      "headline": "Iran’s President Pezeshkian lands in Pakistan after US deal",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "Iran’s President Pezeshkian lands in Pakistan after US deal"
+        },
+        {
+          "headline": "Iran says technical talks with US in Switzerland conclude successfully"
+        },
+        {
+          "headline": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-iran-deal-pakistan-s-diplomatic-masterstroke/a-77660414?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4932,
+      "mentions": 23,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "China targets US rare earth miners as Pentagon faces restocking rush",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China targets US rare earth miners as Pentagon faces restocking rush"
+        },
+        {
+          "headline": "EU and Hong Kong in talks on new financial services dialogue, envoy says"
+        },
+        {
+          "headline": "Wang Yi calls for India, China to accelerate resumption of stalled dialogue mechanisms"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/japan-france-cooperation-extends-to-rare-earths-seeking-non-china-sources"
+        },
+        {
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/06/22/china-us-rare-earth-export-control-trade/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan"
+      ],
+      "score": 0.2153,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
       "headline": "Who could be the UK's next chancellor?",
-      "summary": "The UK faces a transition in its chancellorship following political shifts at the highest level of government. Multiple candidates are under consideration for the role, with ongoing questions about leadership stability as the country navigates economic and political challenges.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -23,7 +113,7 @@
           "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 16,
+      "source_count": 17,
       "regions": [
         "Africa",
         "Australia",
@@ -34,63 +124,19 @@
         "Hong Kong",
         "India",
         "Middle East",
+        "North Africa",
         "South America",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.7467,
-      "mentions": 27,
+      "score": 0.8306,
+      "mentions": 31,
       "diversity": 10
     },
     {
-      "rank": 2,
-      "headline": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "summary": "Iran clarifies it will not accept additional nuclear restrictions despite signals from U.S. officials that international inspectors may resume monitoring at Iranian nuclear facilities. The statement reflects Tehran's negotiating position as technical discussions with Washington continue, with Iran seeking sanctions relief rather than new commitments on its nuclear program.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates"
-        }
-      ],
-      "source_count": 22,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Germany",
-        "Global",
-        "India",
-        "Indonesia",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US"
-      ],
-      "score": 0.7381,
-      "mentions": 61,
-      "diversity": 8
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "headline": "Can you keep your kids off school or refuse to work during a heatwave?",
-      "summary": "Legal protections for keeping children home from school or skipping work during extreme heat remain limited in most places, with employers and schools generally not required to close unless temperatures reach dangerously high thresholds. The question gains urgency as Europe experiences record-breaking heat that has already caused drowning deaths and child fatalities, prompting people to weigh health risks against potential penalties for absence.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -121,14 +167,13 @@
         "UK",
         "US"
       ],
-      "score": 0.6329,
+      "score": 0.7069,
       "mentions": 20,
       "diversity": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "headline": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "summary": "A United Nations commission of inquiry concludes that Israel is committing genocide in Gaza, citing evidence of deliberate targeting of Palestinian children as part of this pattern. The finding adds to ongoing international scrutiny of civilian casualties in the conflict, though Israel disputes such characterizations of its military conduct.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -146,7 +191,7 @@
           "link": "https://www.scmp.com/news/world/middle-east/article/3358079/israel-purposely-targeted-gaza-children-un?utm_source=rss_feed"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "regions": [
         "Canada",
         "Hong Kong",
@@ -154,14 +199,13 @@
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.473,
-      "mentions": 6,
+      "score": 0.5162,
+      "mentions": 7,
       "diversity": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "headline": "EU to hold migration meeting with Taliban officials in Brussels",
-      "summary": "The European Union is convening a closed-door meeting in Brussels with Taliban officials to discuss migration and the return of Afghan nationals, marking a rare direct engagement between the bloc and Afghanistan's current government. The talks reflect practical coordination efforts on deportation procedures despite the EU's lack of formal diplomatic recognition of the Taliban regime.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -187,14 +231,13 @@
         "Middle East",
         "UK"
       ],
-      "score": 0.4505,
+      "score": 0.4867,
       "mentions": 6,
       "diversity": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "headline": "Reflecting Pool to be drained as Trump again blames 'vandals' for recent troubles",
-      "summary": "The Reflecting Pool in Washington will be drained for repairs following deterioration despite a $14.7 million renovation project completed recently. Trump attributes the pool's poor condition to vandalism rather than maintenance issues, while threatening legal consequences for those responsible.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -221,14 +264,13 @@
         "UK",
         "US"
       ],
-      "score": 0.4118,
-      "mentions": 6,
+      "score": 0.4786,
+      "mentions": 7,
       "diversity": 5
     },
     {
-      "rank": 7,
+      "rank": 8,
       "headline": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
-      "summary": "Maryland, Utah, and New York hold primary elections today, with races determining nominees across federal, state, and local offices in each state. New York's Democratic primary draws particular attention as voters choose among candidates offering different approaches to governance during the current political landscape.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -243,7 +285,7 @@
         },
         {
           "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html"
+          "link": "https://www.nytimes.com/2026/06/22/nyregion/nyc-early-voting.html"
         }
       ],
       "source_count": 3,
@@ -252,14 +294,13 @@
         "UK",
         "US"
       ],
-      "score": 0.3875,
-      "mentions": 3,
+      "score": 0.4744,
+      "mentions": 5,
       "diversity": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "headline": "After a decade, Brexit’s cost to Britain is not only economic",
-      "summary": "A decade after Britain's 2016 referendum vote to leave the European Union, the costs extend beyond economic metrics to reshape the nation's political landscape and social cohesion. The country continues grappling with reduced growth rates, institutional instability, and the broader consequences of its departure from the EU bloc.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -284,14 +325,13 @@
         "Southeast Asia",
         "US"
       ],
-      "score": 0.383,
+      "score": 0.4297,
       "mentions": 6,
       "diversity": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "headline": "Ransom note claims Nancy Guthrie died after abduction",
-      "summary": "A ransom note has surfaced in the case of Nancy Guthrie's disappearance, claiming that she died following her abduction. Authorities are investigating the note's authenticity and circumstances surrounding her case.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -316,41 +356,9 @@
         "India",
         "UK"
       ],
-      "score": 0.3769,
+      "score": 0.4142,
       "mentions": 5,
       "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "The man who knew, but didn't say: Alan Greenspan (1926-2026)",
-      "summary": "Alan Greenspan, who led the Federal Reserve for 18 years and shaped U.S. monetary policy across four presidencies, has died at 100. His tenure spanned multiple economic crises, including the 2008 financial collapse, which prompted scrutiny of his faith in self-regulating markets and his reluctance to regulate derivatives trading.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/the-man-who-knew-but-didn-t-say-alan-greenspan-1926-2026/a-77658667?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/business/Economy/alan-greenspan-champion-of-neoliberal-finance/article71136262.ece"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/video-alan-greenspan-us-federal-reserve-maestro-dies-at-100/"
-        }
-      ],
-      "source_count": 4,
-      "regions": [
-        "Canada",
-        "Germany",
-        "India",
-        "South America"
-      ],
-      "score": 0.375,
-      "mentions": 5,
-      "diversity": 4
     }
   ]
 }
