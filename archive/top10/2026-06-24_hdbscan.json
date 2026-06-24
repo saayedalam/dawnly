@@ -1,0 +1,357 @@
+{
+  "published_at": "2026-06-24T12:28:57.165654+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "is_grouped": true,
+      "angle_count": 9,
+      "angles": [
+        {
+          "headline": "Congress passes war powers measure for first time, breaking with Trump over Iran"
+        },
+        {
+          "headline": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers"
+        },
+        {
+          "headline": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-senate-vote-calls-for-an-end-to-trump-s-iran-war-in-rare-bipartisan-rebuke/a-77684833?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6713,
+      "mentions": 51,
+      "diversity": 18
+    },
+    {
+      "rank": 2,
+      "headline": "The UK's summers are getting hotter - but how prepared are we?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/24/power-outage-in-france-as-europe-bakes-in-record-heat?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.825,
+      "mentions": 26,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/mamdani-backed-candidates-defeat-pro-israel-lawmakers-in-primaries?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6389,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "France confirms first Ebola case",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.5153,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Stanford was their golden ticket - could AI help or hinder that?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3358129/americas-biggest-risk-ai-china-getting-ahead-bessent-says?utm_source=rss_feed"
+        },
+        {
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/06/24/china-premier-urges-ai-governance-to-avoid-losing-control/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5059,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Kenyan Health Minister orders halt of construction of US Ebola facility",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/23/kenya-orders-immediate-halt-to-controversial-us-backed-ebola-facility"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Europe",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4673,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3358223/ukraine-drones-knock-out-power-russia-held-crimeas-biggest-city?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.434,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "How Washington DC's Reflecting Pool became a global talking point",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cy4ed2dkxv1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-six-people-have-been-arrested-for-damaging-the-reflecting-pool/article71139063.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "India",
+        "UK",
+        "US"
+      ],
+      "score": 0.3873,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/ukraine-war/ukraine-eyes-reconstruction-fund-with-japan-to-boost-recovery"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/78865"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Japan",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.3591,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "North Korea commissions warship as Kim eyes nuclear navy",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-should-build-two-warships-a-year-in-next-five-years-kim-says/article71139460.ece"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/78821"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.3578,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
