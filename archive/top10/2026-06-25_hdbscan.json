@@ -1,0 +1,383 @@
+{
+  "published_at": "2026-06-25T12:32:04.496052+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Oil price falls back to pre-Iran war levels",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Oil price falls back to pre-Iran war levels"
+        },
+        {
+          "headline": "Rubio tells Gulf allies that Iran deal will ensure their security"
+        },
+        {
+          "headline": "Iran warns against Hormuz crossings without authorisation"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7539,
+      "mentions": 20,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Death toll climbs to 164 killed, 971 injured in major earthquakes in Venezuela",
+      "is_grouped": true,
+      "angle_count": 8,
+      "angles": [
+        {
+          "headline": "Death toll climbs to 164 killed, 971 injured in major earthquakes in Venezuela"
+        },
+        {
+          "headline": "Venezuela declares state of emergency after deadly twin earthquakes"
+        },
+        {
+          "headline": "Moments of panic as earthquakes strike Venezuela"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/24/nx-s1-5869817/2-major-earthquakes-strike-northern-venezuela-near-caracas"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/venezuela-164-dead-in-devastating-back-to-back-earthquakes/live-77699720?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.694,
+      "mentions": 36,
+      "diversity": 16
+    },
+    {
+      "rank": 3,
+      "headline": "Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Trump describes Burnham as the 'mayor of a town' and 'extremely liberal'"
+        },
+        {
+          "headline": "Reeves urges Burnham to 'stick to what I'm doing' on economy"
+        },
+        {
+          "headline": "Why Britain devours its prime ministers"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c98263dz0mqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3358279/trump-shrugs-britains-incoming-leader-i-hear-hes-extremely-liberal?utm_source=rss_feed"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-describes-extremely-liberal-burnham-mayor-town"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6165,
+      "mentions": 15,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "China-Japan flights to drop 57% in summer travel peak amid geopolitical tensions",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China-Japan flights to drop 57% in summer travel peak amid geopolitical tensions"
+        },
+        {
+          "headline": "How Honda’s Pledge to Go All-Electric Unraveled"
+        },
+        {
+          "headline": "‘Looming dangers’ under China-US ties: AI and rare earths reveal a fragile floor"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/global-economy/article/3358296/china-japan-flights-drop-57-summer-travel-peak-amid-geopolitical-tensions?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-law-enforcement-in-waters-east-of-taiwan-draws-pushback"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/06/china-reopens-a-business-channel-to-japan-while-political-ties-remain-frozen/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "US"
+      ],
+      "score": 0.5326,
+      "mentions": 19,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nato-chief-heads-to-the-white-house-to-soothe-the-president-ahead-of-next-months-summit/article71143321.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Global",
+        "India",
+        "US"
+      ],
+      "score": 0.727,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Mamdani’s Big Wins May Be a Headache for the Governor Who Has Backed Him",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/25/nyregion/mamdani-hochul-new-york-elections.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/if-you-ran-in-new-delhi-youd-win-a-million-votes-giorgia-meloni-recalls-2023-india-visit/article71145838.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-mamdani-slate-sweeps-democratic-primaries-in-new-york/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.6575,
+      "mentions": 12,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/white-house-asks-congress-for-876-billion-for-iran-war-aid-to-us-farmers-tackling-ebola-crisis/article71143693.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2615032/trump-republican-senator-engage-in-shouting-match-over-iran-war"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "Pakistan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.606,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "How hot will it be today?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cn947g4g11no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/jun/25/highest-june-minimum-temperature-record-broken-cardiff-savage-heatwave-continues"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/uk-swelters-on-hottest-june-day-as-france-topples-record-heat-20260625-p609vb.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.594,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Don the Builder",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/25/briefing/trumps-washington-renovations.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3358275/trump-opens-250th-us-birthday-party-campaign-style-rally?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/as-americas-birthday-approaches-its-front-yard-is-a-construction-zone-20260625-p60a1n.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.564,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Magnitude 6.9 earthquake strikes northern Japan",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/japan-earthquake-damage-toll-updates-on-june-25-2026/article71143775.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-japan-earthquake-no-tsunami-threat/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "South Africa"
+      ],
+      "score": 0.5076,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
