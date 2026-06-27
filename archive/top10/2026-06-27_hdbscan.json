@@ -1,0 +1,366 @@
+{
+  "published_at": "2026-06-27T11:45:53.709262+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump foe John Bolton pleads guilty in classified docs case",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump foe John Bolton pleads guilty in classified docs case"
+        },
+        {
+          "headline": "Three Opinion Writers on Trump’s Latest Face-plant"
+        },
+        {
+          "headline": "Trump unveils new US passport with his own face inside"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-foe-john-bolton-pleads-guilty-in-classified-docs-case/a-77728826?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3358563/former-us-national-security-adviser-john-bolton-pleads-guilty-illegally-having-top-secret-info?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-adviser-turned-critic-john-bolton-pleads-guilty-to-mishandling-classified-documents/article71151802.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4719,
+      "mentions": 17,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Venezuelans dig for earthquake survivors as 72-hour rescue window nears end",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Mexico",
+        "Middle East",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8147,
+      "mentions": 39,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "US strikes Iran after attack on cargo ship",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7257,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "How Cape Verde stunned World Cup to set up Argentina tie",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/27/fifa-world-cup-2026-saturday-schedule-round-of-32-standings-predictions?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Indonesia",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.6951,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Plane crashes into Beijing's tallest building; damage reported",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/190beede-1d8b-4a22-8437-ef8c48d01828"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3358600/china-confirms-death-pilot-citic-tower-plane-crash?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6139,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "US, Lebanon, Israel sign framework agreement",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-lebanon-israel-sign-framework-agreement/a-77729374?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/netanyahu-declares-israel-will-stay-in-southern-lebanon-until-hezbollah-disarms/article71153556.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5239,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Body found in search for teenage swimmer in lake",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c74yjm3jdmvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/27/thai-police-arrest-australian-over-killing-of-teenager-found-in-suitcase?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.475,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/27/arab-world-cup-commentators-fuel-fan-passions-language-poetry"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/27/belgium-through-to-world-cup-knockout-stage-as-iran-forced-to-wait"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4685,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-sets-new-june-temperature-record-for-third-day-in-a-row-met-office/article71153223.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "India",
+        "UK"
+      ],
+      "score": 0.4437,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "US allows partial release of Anthropic's Mythos AI model",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropic-s-mythos-ai-model/a-77732252?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3358579/us-eases-ban-ai-model-mythos-feared-aid-cyberattacks?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4124,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
