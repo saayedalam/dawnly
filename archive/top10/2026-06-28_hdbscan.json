@@ -1,0 +1,346 @@
+{
+  "published_at": "2026-06-28T11:53:54.470475+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "US and Iran exchange strikes and accuse each other of violating ceasefire"
+        },
+        {
+          "headline": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit"
+        },
+        {
+          "headline": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7489,
+      "mentions": 28,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "In pictures: Race against time to rescue Venezuela earthquake survivors",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7649,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-drone-strike-kills-two-in-ukraines-dnipropetrovsk-region-governor-says/article71153336.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5875,
+      "mentions": 16,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Murder investigation after man dies on street",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c621d2x966vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3358651/australian-arrested-after-thai-teen-girl-found-dead-suitcase?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5301,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Lebanon-Israel deal may stop war crime victims seeking justice, experts say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hezbollah-chief-calls-us-israel-lebanon-deal-grave-blunder-deems-it-null-and-void/article71155373.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/27/israels-netanyahu-welcomes-us-brokered-lebanon-agreement-as-far-right-condemns-it"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5092,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4289,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "‘Tech firms are losing the public’: social media age bans near tipping point",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/australasia/article/3358615/australia-pm-too-many-children-social-media-ban-too-easy-avoid?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "UK",
+        "US"
+      ],
+      "score": 0.3922,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Europe heat wave: 1,000 excess deaths recorded in France",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/europe-heat-wave-1-000-excess-deaths-recorded-in-france/live-77663026?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3358652/france-sees-1000-excess-deaths-during-record-breaking-heatwave?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2615414/france-records-1000-excess-deaths-during-record-breaking-heatwave"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3824,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Germany and Italy swelter in heatwave as records tumble across Europe",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/germany-denmark-gripped-by-record-temperatures-as-european-heatwave-moves-east/article71156854.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-europe-heat-wave-germany-france-rome/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3633,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Polls open in New Caledonia’s first provincial elections since 2019",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/new-caledonia-heads-to-polls-in-vote-delayed-since-2024/a-77741001?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    }
+  ]
+}
