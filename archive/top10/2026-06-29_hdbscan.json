@@ -1,0 +1,348 @@
+{
+  "published_at": "2026-06-29T14:16:36.562990+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US, Iran agree to halt strikes but broader talks still to begin",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "US, Iran agree to halt strikes but broader talks still to begin"
+        },
+        {
+          "headline": "Escalating US-Iran strikes threaten interim peace agreement"
+        },
+        {
+          "headline": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/trump-warns-us-might-militarily-complete-the-job-in-iran-20260628-p60apu.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.5867,
+      "mentions": 20,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/29/pakistan-deadly-airstrikes-afghanistan-border"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.8287,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Five dead in shooting at youth welfare centre in northern Germany",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3358794/5-die-germany-shooting-welfare-centre-2-people-arrested?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7782,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Henry Zeffman: Andy Burnham offers a blueprint for his premiership",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cpq3yy48zglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7243,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Australia and Vanuatu sign deal to block foreign military bases",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/australia-vanuatu-deal-bars-foreign-bases-in-island-nation/a-77747165?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3358785/2-pla-navy-ships-visit-hong-kong-5-day-port-call?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.6584,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "FIFA World Cup: Round of 32 schedule, predictions and latest news",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-29/world-cup-live-blog-2026-round-of-32-south-africa-vs-canada/106852760"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/28/everything-you-need-to-know-ahead-of-the-world-cup-knockout-stage"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Middle East",
+        "South Africa"
+      ],
+      "score": 0.5532,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Putin admits Ukrainian drone strikes are driving Russian fuel shortages",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraines-drone-assault-ignites-major-oil-refinery-in-russia/article71158775.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5415,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Test Match Special Podcast",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nvn03k?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-06-29/ben-stokes-retirement-main-character-energy/106854166"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/england-crash-series-defeat-against-new-zealand-6218726"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5242,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "China slaps export controls on dozens of Japanese entities",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/china-economy/article/3358686/china-adds-20-japanese-entities-its-export-control-list?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/article71160490.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.5117,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "BT and Verizon to create joint global business in $4bn deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jun/29/bt-verizon-joint-venture-deal-telecoms-international"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a0a56613-b9ac-478d-9e38-f28dbd5097e6"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Global",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5117,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
