@@ -1,0 +1,358 @@
+{
+  "published_at": "2026-06-30T12:20:22.483771+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Starmer unveils extra £15bn for UK defence, with some road and energy projects scrapped to fund rise – politics live",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Starmer unveils extra £15bn for UK defence, with some road and energy projects scrapped to fund rise – politics live"
+        },
+        {
+          "headline": "Another UK heatwave could be on the way"
+        },
+        {
+          "headline": "WWII Polish Ukrainian Dispute Fuels Poland’s 2027 Election Rhetorics, Analysts Say"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3358903/uk-lays-out-defence-plan-drones-self-flying-fighter-jets-no-crew-submarines?utm_source=rss_feed"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-starmer-britain-invest-future-tech-defense-without-hitting-gdp-targets/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4929,
+      "mentions": 20,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "'No rescuers have been sent': Venezuelans accuse government of negligence over earthquake response",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8923,
+      "mentions": 36,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Government promises to act after 'shocking' failings in maternity care in England",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-africa-on-edge-with-anti-migrant-protests-underway/live-77735079?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6531,
+      "mentions": 24,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/burnham-to-create-no-10-north-as-uk-pm-oversee-massive-decentralisation/article71162592.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.6024,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Manhunt under way in France after bomb injures Ukrainian oligarch and family in Monaco",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5994,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/6/30/whatsapp-to-let-users-go-by-usernames-not-phone-numbers?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3358866/whatsapp-popular-hong-kong-set-no-longer-require-sharing-numbers-texts?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.5799,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Peru elects Keiko Fujimori in victory for Latin American right",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.567,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Germany news: Police still to identify Stade attack victims",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-police-still-to-identify-stade-attack-victims/live-77765094?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/few-people-killed-in-a-mass-shooting-at-a-german-youth-welfare-centre-in-northern-city-of-stade/article71161717.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/six-killed-in-mass-shooting-at-german-family-welfare-clinic-20260630-p60bh5.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Thailand"
+      ],
+      "score": 0.5529,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Has the Supreme Court just made Trump the most powerful president in history?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nvtmx4?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jun/30/first-thing-supreme-court-trump-fire-agency-chiefs-rules-against-him-mail-in-ballots"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-supreme-court-vastly-expands-trump-s-presidential-power/a-77759124?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Pakistan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5305,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-self-exiled-chinese-billionaire-sentenced-to-30-years-in-prison/a-77763479?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5305,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
