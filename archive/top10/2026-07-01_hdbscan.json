@@ -1,0 +1,362 @@
+{
+  "published_at": "2026-07-01T12:42:55.732711+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US-Iran negotiations: What’s the latest?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US-Iran negotiations: What’s the latest?"
+        },
+        {
+          "headline": "Araghchi warns Israel of powerful response over Katz's 'death threat' against Mojtaba Khamenei"
+        },
+        {
+          "headline": "West Asia war LIVE: Iran insists on keeping control over Hormuz, senior Iranian sources say"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-updates-iran-us-to-attend-talks-in-qatar/live-77780323?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.719,
+      "mentions": 18,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Venezuela: Death toll nears 2,000 as rescue hopes fade",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Venezuela: Death toll nears 2,000 as rescue hopes fade"
+        },
+        {
+          "headline": "U.S. Mobilizes for Venezuela Despite Trump’s Disdain for Foreign Aid"
+        },
+        {
+          "headline": "Between silence and shouts, rescuers dig for Venezuela twin quake survivors"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/venezuela-death-toll-nears-2-000-as-rescue-hopes-fade/a-77778620?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/who-sounds-alarm-on-disease-outbreaks-in-quake-hit-venezuela/article71167071.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/06/30/death-toll-from-venezuela-earthquakes-climbs-to-1943"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.3794,
+      "mentions": 11,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "‘I did nothing wrong’: Sweden’s migration regime hardens, upending lives",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/1/i-did-nothing-wrong-swedens-migration-regime-hardens-upending-lives?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/06/30/south-african-protesters-call-for-undocumented-migrants-to-leave"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Global",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8078,
+      "mentions": 21,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Chris Mason: Starmer's defence plan leaves crunching trade‑offs for Burnham to confront",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/01/keir-starmer-pmqs-defence-investment-plan-kemi-badenoch"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3359029/mahathir-and-pas-demand-malay-unity-malaysias-johor-poll?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7535,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukrainian-drone-attacks-on-oil-refineries-plunge-russia-into-a-summer-fuel-crisis/article71168818.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-attacks-retail-fuel-stations-in-ukraine-killing-one-official-says"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.617,
+      "mentions": 18,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "At least five killed in fire at Antwerp apartment block, say police",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3359061/belgium-apartment-block-fire-kills-injures-several-people?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5406,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Spain heat wave kills over 1,000 in second-hottest June ever",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-heat-wave-kills-over-1-000-in-second-hottest-june-ever/a-77781523?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3359051/spain-blames-over-1000-excess-deaths-heatwave-second-hottest-june-ever?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spain-records-more-than-1000-heat-related-june-deaths/article71169205.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5177,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Three die in Mexico City World Cup celebrations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/01/three-die-in-mexico-city-world-cup-street-celebrations"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5071,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Nowak case officers face gross misconduct investigation",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/1/two-uk-police-officers-face-misconduct-probe-in-henry-nowak-murder-case?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/uk-police-dying-student-handcuff-probe-stabbing-6224736"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5066,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "US lifts restrictions on Anthropic's advanced AI models",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-lifts-restrictions-on-anthropic-s-advanced-ai-models/a-77779879?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "North Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.49,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
