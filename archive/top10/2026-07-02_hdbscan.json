@@ -1,0 +1,364 @@
+{
+  "published_at": "2026-07-02T12:17:05.518333+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US-Iran talks in Doha: What were the outcomes and what’s next?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US-Iran talks in Doha: What were the outcomes and what’s next?"
+        },
+        {
+          "headline": "Mass Mournings,6 Days and 2 Countries: Iran Prepares to Bury Supreme Leader"
+        },
+        {
+          "headline": "West Asia war LIVE: Iran warns oil tankers to follow its routes in Strait of Hormuz or face action"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-1-2026-trump-israel-west-asia-war/article71168436.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5564,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "'Most massive' Russian attack on Kyiv kills at least 18",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Russia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7925,
+      "mentions": 25,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "In Pictures: Hunger, despair as Venezuela quake death toll rises",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/7/2/in-pictures-hunger-despair-as-venezuela-quake-death-toll-rises?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7257,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Vatican expels members of rebel Catholic group over unapproved ordination",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/2/breakaway-catholic-group-condemned-sacraments-deemed-illicit-by-vatican?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/02/vatican-excommunicates-all-members-of-ultra-conservative-rebels-sspx"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7061,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3359135/gaza-marks-1000-days-war-palestinians-there-face-uncertain-future?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/data/around-2-of-gazas-child-population-killed-by-israeli-security-forces-un-report/article71167425.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5772,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/07/02/couple-climbs-empire-state-building-gets-engaged-then-arrested"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5439,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Third UK heatwave increasingly likely as 30C temperatures forecast",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/02/el-nino-summer-heat-record"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spain-records-more-than-1000-heat-related-june-deaths/article71169205.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "India",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4643,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "China’s new ethnic unity law extends its legal reach overseas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/chinas-ethnic-unity-law-comes-into-force-despite-overseas-criticism/article71171534.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4643,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/02/russias-petrol-crisis-worsens-as-citizens-feel-the-bite-of-moscows-war-in-ukraine"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Global",
+        "Middle East",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4369,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Watch World Cup Day 21: Late goals see England and Belgium reach last 16",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/2026/7/2/video-world-cup-2026-highlights?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-07-02/world-cup-quick-hits-belgium-england-dr-congo-mexico/106868900"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-harry-kane-late-heroics-england-vs-dr-congo-fifa-world-cup/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Middle East"
+      ],
+      "score": 0.4249,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
