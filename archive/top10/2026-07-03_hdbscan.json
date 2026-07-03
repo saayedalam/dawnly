@@ -1,0 +1,367 @@
+{
+  "published_at": "2026-07-03T12:17:03.034634+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Venezuelan man saved from collapsed mall eight days after earthquakes"
+        },
+        {
+          "headline": "Venezuela leader rejects criticism for earthquake response"
+        },
+        {
+          "headline": "Venezuelan man rescued alive 8 days after powerful quakes"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/south-america/survivor-pulled-from-rubble-eight-days-after-venezuela-earthquakes-20260703-p60c7d.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-rescue-teams-free-survivor-stuck-under-rubble-in-venezuela/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.4068,
+      "mentions": 11,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit"
+        },
+        {
+          "headline": "David Hearn, Olympian Canoeist, Is Indicted After Arrest at Trump’s Reflecting Pool"
+        },
+        {
+          "headline": "Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-ridiculous-for-us-to-maintain-current-support-for-nato/article71177388.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-nato-ridiculous-us-continue-along-one-sided-path"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4068,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Iran begins public mourning for Ayatollah killed in February",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7466,
+      "mentions": 21,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Five killed in Ukraine a day after deadliest Russian attacks this year",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-russia-strikes-kill-4-as-kyiv-holds-day-of-mourning/a-77813693?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.6835,
+      "mentions": 13,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/monaco-ids-suspect-in-bomb-attack-on-ukrainian-oligarch/a-77814163?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.645,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "What will guests wear to Taylor Swift's wedding?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c75ykv0k1pzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-new-york"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/taylor-swift-travis-kelce-set-for-star-studded-new-york-wedding/a-77812947?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "UK",
+        "US"
+      ],
+      "score": 0.5322,
+      "mentions": 8,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Germany want Klopp talks as Nagelsmann resigns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/3/nagelsmann-steps-down-germany-coach-klopp-paraguay-world-cup-round-of-32?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/julian-nagelsmann-out-as-germany-coach-the-downfall/a-77797146?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4875,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Man holding Tibetan flag dies after setting himself on fire outside UN",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/man-dies-after-setting-himself-on-fire-outside-un-headquarters-in-new-york/a-77813523?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/tibetan-man-dies-after-self-immolation-near-un-headquarters-activists-say/article71177234.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.484,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Are Europe’s extreme summers the new normal? What the science says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/as-heat-waves-loom-scientists-wonder-how-humans-will-adapt/a-77798828?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/03/climate/heat-wave-us-canada-climate-change.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.4686,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-deaths-rose-by-30-during-heatwave/article71177665.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-excess-deaths-france-belgium-netherlands-heat-wave/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4674,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
