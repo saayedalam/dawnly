@@ -1,0 +1,358 @@
+{
+  "published_at": "2026-07-06T13:59:00.663287+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/england-boss-jokes-trump-could-help-lift-defenders-suspension?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.825,
+      "mentions": 24,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "At least 14 killed as Russian drones and missiles strike Kyiv on eve of Nato summit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7634,
+      "mentions": 20,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-tests-long-range-missile-in-south-pacific/a-77844998?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7218,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Wildfire in southern France forces evacuation of 10,000 people",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/firefighters-battle-wildfires-across-southern-europe/a-77851007?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6981,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Impeachment trial of Philippine Vice President Sara Duterte begins",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/philippine-senate-launches-impeachment-trial-of-sara-duterte/a-77848392?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3359545/sara-dutertes-ally-marcoleta-arrested-hours-her-impeachment-trial?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.6958,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Hamas announces dissolution of Gaza governing body",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hamas-to-dissolve-gaza-governing-body/a-77847836?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3359632/hamas-dissolves-gaza-governing-body?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.6375,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Farage says he's 'done no wrongdoing' after benefits from ally not declared",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cql11kk90zgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/6/uks-farages-gold-deal-tests-his-populist-brand-as-restore-britain-rises?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6301,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6276,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5801,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Super Typhoon Bavi brings destruction to Guam and surrounding Pacific islands",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/very-dangerous-super-typhoon-nears-us-pacific-islands/article71186041.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5776,
+      "mentions": 8,
+      "diversity": 5
+    }
+  ]
+}
