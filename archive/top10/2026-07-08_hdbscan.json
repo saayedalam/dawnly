@@ -1,0 +1,374 @@
+{
+  "published_at": "2026-07-08T11:55:58.296216+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+      "is_grouped": true,
+      "angle_count": 7,
+      "angles": [
+        {
+          "headline": "Trump says ceasefire ‘over’ after US, Iran trade attacks"
+        },
+        {
+          "headline": "US and Iran trade strikes around strait of Hormuz as ceasefire is violated again"
+        },
+        {
+          "headline": "Trump says interim accord with Iran to end war is 'over'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/08/trump-declares-ceasefire-iran-over-broadside-nato-summit"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8856,
+      "mentions": 37,
+      "diversity": 17
+    },
+    {
+      "rank": 2,
+      "headline": "Nigel Farage Resigns As MP",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Nigel Farage Resigns As MP"
+        },
+        {
+          "headline": "Has Harry's war with the press finally run out of road?"
+        },
+        {
+          "headline": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nx5dtz?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-nigel-farage-resigns-as-mp-to-run-again-in-by-election/a-77865626?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/farage-quits-in-right-wing-bombshell-and-says-he-will-run-again-20260707-p60dgi.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Indonesia",
+        "UK"
+      ],
+      "score": 0.5807,
+      "mentions": 15,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-le-pen-vows-to-run-despite-upheld-graft-conviction/a-77859337?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7964,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3359783/barrage-explosions-rocks-kyiv-after-ukraine-says-drones-attacked-russia-shadow-fleet?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-attacks-kill-three-across-ukraine-strike-kyiv-for-second-consecutive-night/article71197566.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.6765,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Search under way after Boeing 737 plane vanishes off Pakistan coast",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6539,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/f73e4763-1a33-45ee-9e22-cca151a16e5e"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/funeral-prayers-in-iraq-for-iranian-supreme-leader-commence-after-body-arrives-in-holy-city/article71197066.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6368,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "European MPs call for probe of FIFA boss Infantino over red card suspension",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/8/european-mps-call-for-probe-of-fifa-boss-infantino-over-red-card-suspension?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/08/arts/television/late-night-trump-world-cup.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Global",
+        "Middle East",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.6093,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "NYC high-rise's possible collapse prompts evacuations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/07/nyregion/midtown-manhattan-building-east-42nd.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359810/new-york-city-races-secure-unstable-skyscraper-after-columns-buckle-and-floors-sag?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "US"
+      ],
+      "score": 0.5618,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "IOC moves to allow more Russian athletes back into the Olympic games",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/07/nx-s1-5884882/ioc-moves-to-allow-more-russian-athletes-back-into-the-olympic-games"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ioc-paves-way-for-russia-s-return-to-olympics/a-77868069?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-07-08/russia-could-compete-at-la-2028-olympics-after-suspension-lifted/106891174"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Russia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.503,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-explosions-rock-damascus-as-french-president-meets-with-syrian/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Global",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5017,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
