@@ -1,0 +1,356 @@
+{
+  "published_at": "2026-07-10T12:34:02.992925+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US-Iran war: Will peace talks resume, and when?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US-Iran war: Will peace talks resume, and when?"
+        },
+        {
+          "headline": "Iran war: Former supreme leader buried amid new escalation"
+        },
+        {
+          "headline": "Tanker transit through Strait of Hormuz plunges as US-Iran ceasefire fractures"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8159,
+      "mentions": 18,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "People’s Daily joins Beijing blitz against Philippines over 2016 South China Sea ruling",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "People’s Daily joins Beijing blitz against Philippines over 2016 South China Sea ruling"
+        },
+        {
+          "headline": "At least 28 dead in China factory fire: state media"
+        },
+        {
+          "headline": "China retrieves booster in reusable rocket breakthrough"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360164/peoples-daily-joins-beijing-blitz-against-philippines-over-2016-south-china-sea-ruling?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/china-signals-new-normal-with-coast-guard-patrols-off-taiwans-east/article71199657.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/south-china-sea/beijing-s-acts-dilute-impact-of-south-china-sea-award-manila-s-lawyer-says"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Thailand"
+      ],
+      "score": 0.5942,
+      "mentions": 20,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/10/bayeux-tapestry-smuggled-into-britain-for-first-visit-in-1000-years?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/10/bayeux-tapestry-arrives-british-museum-exhibition"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8677,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Israel shared intel about ‘new’ Iran plot to kill Trump: reports",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israel-shared-intel-about-new-iran-plot-to-kill-trump-reports/article71205507.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2617482/israel-shares-intelligence-with-us-on-alleged-iranian-plot-to-kill-trump-report"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/israel-says-iran-has-new-plan-to-assassinate-trump-20260710-p60eez.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.7459,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/technology/taiwan-s-top-memory-chip-maker-nanya-tech-to-quadruple-2027-capex"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Global",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7202,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Ukrainian drone strikes ignite fires at Russian oil sites",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/energy/russia-fuel-crisis-spills-over-to-central-asia-as-drone-strikes-bite"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-evades-ukraine-electrical-substation-defences-with-small-unjammable-drones"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Japan",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.68,
+      "mentions": 11,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Labour under Burnham will be faster and bolder, says minister",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgeyx1e4kno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/09/andy-burnham-labour-didnt-get-it-right-stance-gaza-war"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/andy-burnham-poised-to-become-britains-next-pm-after-most-labour-lawmakers-support-him/article71206471.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6632,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "England's Guehi a doubt for Norway game and Rice misses training due to sickness bug",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/heavy-rain-threatens-oslo-world-cup-parties-norway-take-england-6246421"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6076,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "South Africa: Driven home by anti-migrant protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-africa-driven-home-by-anti-migrant-protests/a-77889650?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/07/09/protesters-in-south-africa-pull-undocumented-foreigners-from-their-homes/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/anti-migrant-protests-risk-economic-blowback-for-south-africa"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Germany",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.5942,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/e5afb1d5-d9e9-4b55-951f-6285e01ab716"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5867,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}
