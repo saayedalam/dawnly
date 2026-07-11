@@ -1,0 +1,385 @@
+{
+  "published_at": "2026-07-11T11:15:21.186897+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral"
+        },
+        {
+          "headline": "Trump says US has agreed to continue talks with Iran"
+        },
+        {
+          "headline": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360203/trump-says-missiles-locked-loaded-and-aimed-iran-amid-calls-his-killing?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8082,
+      "mentions": 34,
+      "diversity": 17
+    },
+    {
+      "rank": 2,
+      "headline": "Could AI help al-Qaida and other groups plan terror attacks?",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Could AI help al-Qaida and other groups plan terror attacks?"
+        },
+        {
+          "headline": "China successfully tests sea-based rocket booster recovery system, says state media"
+        },
+        {
+          "headline": "Philippine defence chief says China talks ‘not possible’ as anti-spy laws loom"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3360068/dont-expect-rising-tide-ai-lift-all-boats?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "UK"
+      ],
+      "score": 0.4325,
+      "mentions": 18,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "Trump signals support for Patriot production in Ukraine",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump signals support for Patriot production in Ukraine"
+        },
+        {
+          "headline": "On the Russian front lines, drones are changing the dynamics of war"
+        },
+        {
+          "headline": "Poland to create memorial to victims of Ukrainian nationalist ‘genocide’: PM Tusk"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/80023"
+        },
+        {
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/07/10/dmytro-kuleba-ukraine-russia-war-victory-nato-patriot-missile/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3825,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Ann Widdecombe murder probe: What we know so far",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8775,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Quarter‑final turns into endurance test as England meet heat‑hardened Norway",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-world-cup-quarterfinals?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7561,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/transport/article/3360218/typhoon-bavi-more-130-flights-connecting-hong-kong-region-axed?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.7077,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-wildfire-kills-several-amid-heat-wave/a-77898335?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6871,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Apple sues OpenAI over stealing 'trade secrets'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6486,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/witnesses-to-fatal-houston-ice-shooting-challenge-agencys-account-lawyer-says"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5675,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Nigerian military rescues 46 abducted school children",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202607100450.html"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/nigeria-rescues-schoolchildren-teachers-abducted-in-oyo-presidency-says"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "East Africa",
+        "Germany",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "West Africa"
+      ],
+      "score": 0.5462,
+      "mentions": 12,
+      "diversity": 3
+    }
+  ]
+}
