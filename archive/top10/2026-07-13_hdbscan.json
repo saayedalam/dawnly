@@ -1,0 +1,376 @@
+{
+  "published_at": "2026-07-13T12:40:00.523821+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "UK bans support for Iran's Islamic Revolutionary Guard Corps",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "UK bans support for Iran's Islamic Revolutionary Guard Corps"
+        },
+        {
+          "headline": "US and Iran exchange fire and disagree on whether strait of Hormuz is open | First Thing"
+        },
+        {
+          "headline": "Oil Prices Surge After Iran and U.S. Trade Strikes"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/13/uk-list-iran-islamic-revolutionary-guard-corps-irgc-terrorist-organisation"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-says-an-iran-backed-group-was-behind-attacks-on-jewish-community-bans-revolutionary-guard/article71217203.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.5248,
+      "mentions": 20,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "AI is not enough to arrest China’s decline",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "AI is not enough to arrest China’s decline"
+        },
+        {
+          "headline": "Typhoon Bavi pummels China’s eastern coast"
+        },
+        {
+          "headline": "How Philippines is reshaping South China Sea defence, 10 years after Hague ruling"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/article/3360404/xi-jinping-attend-world-ai-conference-first-time-china-elevates-tech-push?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/spotlight/your-week-in-asia/world-ai-conference-south-korea-monetary-policy-china-economic-data"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4283,
+      "mentions": 17,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "What We Know About Lindsey Graham’s Death",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "What We Know About Lindsey Graham’s Death"
+        },
+        {
+          "headline": "Ukraine updates: 'Coalition of the willing' meeting in Paris"
+        },
+        {
+          "headline": "Ukraine loses key ally in Senator Lindsey Graham’s sudden death"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-senator-lindsey-graham-likely-died-after-aorta-rupture-medical-examiner-says/article71215935.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/us-senator-lindsey-graham-died-of-an-aortic-dissection-what-you-need-to-know-about-it"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.411,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Witness says he crawled for exit as flames swept through Bangkok bar",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8519,
+      "mentions": 18,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-tributes"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.7466,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Counter terrorism police now leading investigation into Ann Widdecombe's death",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3360412/uk-counterterrorism-police-probe-ex-ministers-death?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6388,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/13/wildfires-near-paris-force-evacuations-disrupt-train-lines-and-motorway?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5966,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3360405/eu-eyes-social-media-curbs-children?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5788,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/13/more-than-2700-deaths-in-uk-linked-to-may-june-heatwaves?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/over-2700-may-have-died-due-to-heatwaves-in-england-researchers/article71216945.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4987,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Ukraine to present its anti-ballistic programme at Paris meeting today, Zelenskyy says – Europe live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-ukraine-moscow-drone-strikes-war/article71216103.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Russia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4702,
+      "mentions": 10,
+      "diversity": 2
+    }
+  ]
+}
