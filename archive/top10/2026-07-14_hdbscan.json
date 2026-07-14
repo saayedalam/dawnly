@@ -1,0 +1,341 @@
+{
+  "published_at": "2026-07-14T11:41:28.250081+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?"
+        },
+        {
+          "headline": "UK outlaws support for IRGC, Iran-linked group under new powers"
+        },
+        {
+          "headline": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8,
+      "mentions": 59,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3360444/yemens-houthis-fire-missiles-saudi-arabia-biggest-flare-years?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5562,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/13/us/ice-shooting-maine-guerrero.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.5229,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Fanfare and flyovers as France celebrates Bastille Day",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c0kyk38k6n4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/14/france-bastille-day-emmanuel-macron-volodymyr-zelenskyy-germany-brussels-eu-albania-moldova-montenegro-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4931,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Lindsey Graham's sister, who he adopted as a child, to replace him as senator",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/14/lindsey-graham-south-carolina-autobiography"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/darline-graham-nordone-sister-of-lindsey-graham-chosen-to-fulfill-remainder-of-his-us-senate-term/article71219698.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.444,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Leaders give press conference after ‘coalition of the willing’ meeting in Paris – as it happened",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-ukraine-war-air-defence-aid/"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/videos/80233"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4002,
+      "mentions": 9,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Increased security for England and Argentina tie",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss"
+        },
+        {
+          "name": "MercoPress",
+          "link": "https://en.mercopress.com/2026/07/13/scaloni-plays-down-england-semifinal-it-s-a-football-match-nothing-more?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.3546,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Scott Mills was highest paid BBC star before sacking",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/media/2026/jul/14/bbc-faces-real-jeopardy-as-licence-fee-payments-fall-faster-than-expected"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/business/uks-bbc-warns-its-current-funding-model-not-sustainable-6253316"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Time for Lamine Yamal to ignite? Or another Mbappe masterclass?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction?traffic_source=rss"
+        },
+        {
+          "name": "Premium Times Nigeria",
+          "link": "https://www.premiumtimesng.com/sports/football/895162-world-cup-mbappe-yamal-set-for-semi-final-showdown-as-france-face-spain.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.3485,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/37324f66-7167-4083-a28e-6ffc505c4cda"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "Europe",
+        "Hong Kong",
+        "Japan",
+        "UK"
+      ],
+      "score": 0.3417,
+      "mentions": 8,
+      "diversity": 2
+    }
+  ]
+}
