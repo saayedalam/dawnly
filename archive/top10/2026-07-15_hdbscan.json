@@ -1,0 +1,378 @@
+{
+  "published_at": "2026-07-15T11:44:54.407430+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "A special team beats brilliant individuals - how silky Spain flattened France"
+        },
+        {
+          "headline": "Seven Britons among those killed in Spain wildfires"
+        },
+        {
+          "headline": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-07-15/france-falters-at-first-real-hurdle-as-superstars-fail-to-shine/106916868"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4238,
+      "mentions": 16,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "UK's extreme weather is the new normal, Met Office says",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "UK's extreme weather is the new normal, Met Office says"
+        },
+        {
+          "headline": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated"
+        },
+        {
+          "headline": "UK announces social media curfew for older teens"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/uk-climate-now-hotter-sunnier-weather-agency"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Indonesia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3743,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "China’s economy grows at 4.3%, one of its lowest rates on record",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China’s economy grows at 4.3%, one of its lowest rates on record"
+        },
+        {
+          "headline": "China’s Chip Champion to Raise Billions in Race for A.I. Control"
+        },
+        {
+          "headline": "China's trade expands on AI boom, offsetting weak sectors"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.3645,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz"
+        }
+      ],
+      "source_count": 22,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.7995,
+      "mentions": 70,
+      "diversity": 9
+    },
+    {
+      "rank": 5,
+      "headline": "England's biggest match since 1966 as Three Lions close in on immortality",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.4588,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "New US Ebola patient arrives in Germany for treatment",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ebola-outbreak-much-larger-than-official-figures-who-says/a-77951823?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4215,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/death-toll-in-thai-pub-fire-rises-latest-update-probe-on/article71224192.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4066,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Three killed as Russian bombing of Odesa continues",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-ukraine-strike-odesa-three-dead/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3965,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "T.Rex skeleton sells for $50.1 million at New York auction",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360583/gus-t-rex-fetches-record-us501-million-us-auction?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "Middle East"
+      ],
+      "score": 0.3895,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Hosepipe ban in force for millions of households - is your area affected?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jul/15/thames-water-funding-survive-end-of-year"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "UK"
+      ],
+      "score": 0.382,
+      "mentions": 4,
+      "diversity": 1
+    }
+  ]
+}
