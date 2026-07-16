@@ -1,0 +1,402 @@
+{
+  "published_at": "2026-07-16T11:49:35.465195+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Protests in Ukraine's cities against Zelensky's removal of defence minister"
+        },
+        {
+          "headline": "Ukraine lawmakers approve Koretskyi as new PM amid protests"
+        },
+        {
+          "headline": "France’s Ambitious Arms Package for Ukraine – What’s Known So Far"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8308,
+      "mentions": 38,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "Argentina’s Falklands banner sparks controversy at World Cup",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Argentina’s Falklands banner sparks controversy at World Cup"
+        },
+        {
+          "headline": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain"
+        },
+        {
+          "headline": "In a Patagonia town with an 85-foot Messi statue, Argentines celebrate reaching World Cup final"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/argentinas-falklands-banner-sparks-controversy-at-world-cup?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-calls-for-fifa-investigation-over-argentina-banner/a-77980457?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.6951,
+      "mentions": 24,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "US says latest attack wave on Iran completed – as it happened",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US says latest attack wave on Iran completed – as it happened"
+        },
+        {
+          "headline": "Trump says Iran has freed a detained US woman"
+        },
+        {
+          "headline": "Iran threatens to halt all Middle East energy exports amid renewed US blockade"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/what-is-greater-tunb-island-strategic-point-in-strait-of-hormuz-targeted-by-us-airstrikes/article71228406.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/us-military-turns-away-two-ships-in-strait-of-hormuz-20260716-p60fpk.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4623,
+      "mentions": 15,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "China vows helium-trade policy changes as global tightening squeezes gas supplies",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "China vows helium-trade policy changes as global tightening squeezes gas supplies"
+        },
+        {
+          "headline": "The EU climate policy the world copied is under fire — what's at stake?"
+        },
+        {
+          "headline": "China and Xi favored over U.S. and Trump in many nations: Survey"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/global-economy/article/3360807/china-vows-helium-trade-policy-changes-global-tightening-squeezes-gas-supplies?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/finance/vietnam-seeks-global-capital-for-1.5tn-infrastructure-push"
+        },
+        {
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/07/15/china-says-opposes-us-sanctions-bill-targeting-russia-energy-buyers/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "South Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3781,
+      "mentions": 21,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "More than 500 feared dead after reports of boats capsizing off Myanmar",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/myanmar-more-than-500-feared-dead-in-capsized-refugee-boats-un-says/a-77977875?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7429,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Brazil condemns US move to impose 25% tariffs next week",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6674,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "US military to start screening for testosterone deficiency, Hegseth says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.6352,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Climate funding: Who pays for the transition?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3360506/climate-disasters-compete-wars-markets-distracted-worlds-money?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.584,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "'I must get out into the free world', dissident who fled China on boat tells BBC",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360804/short-haul-tourist-arrivals-fall-15-amid-strong-hong-kong-dollar-fewer-flights?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.5781,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "ICE fatally shoot two men in Maine and Texas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nyzw2n?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-ice-wont-halt-traffic-stops-after-recent-us-fatal-shootings/article71226957.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.529,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
