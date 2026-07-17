@@ -226,7 +226,7 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
                     <span style="font-family: 'Jost', sans-serif; font-size: 8px;
                                  font-weight: 400; letter-spacing: 2px; color: #9a8a70;
                                  text-transform: uppercase;">
-                      Ranked by Global Coverage · 10 Stories · Resets 6AM EST
+                      Ranked by Global Coverage · 10 Stories · One Edition Daily
                     </span>
                   </td>
                   <td align="right">
@@ -236,6 +236,15 @@ def build_html(stories: list[dict], edition: int, published_at: str) -> str:
                               text-transform: uppercase; text-decoration: none;">
                       Dawnly.News →
                     </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2" style="padding-top: 10px;">
+                    <span style="font-family: 'Jost', sans-serif; font-size: 8px;
+                                 line-height: 1.5; color: #9a8a70;">
+                      AI-generated summaries are based on source headlines and may contain errors.
+                      Open the cited sources to verify details.
+                    </span>
                   </td>
                 </tr>
               </table>
