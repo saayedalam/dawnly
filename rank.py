@@ -275,6 +275,11 @@ def group_big_stories(scored: list[dict]) -> list[dict]:
         all_regions  = sorted(set(
             r for a in angles for r in a.get("regions", [])
         ))
+        unique_source_names = {
+            article["source_name"]
+            for angle in angles
+            for article in angle.get("articles", [])
+        }
         seen_sources = set()
         all_sources  = []
         for a in sorted(angles, key=lambda x: x["score"], reverse=True):
@@ -305,7 +310,7 @@ def group_big_stories(scored: list[dict]) -> list[dict]:
             "diversity":     len(all_regions),
             "regions":       all_regions,
             "sources":       all_sources,
-            "source_count":  len(set(s["name"] for s in all_sources)),
+            "source_count":  len(unique_source_names),
         })
 
     # Mark regular stories

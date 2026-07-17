@@ -2,9 +2,7 @@ name: Dawnly Weekly Health Report
 
 on:
   schedule:
-    - cron: '0 12 * * 1'  # Every Monday at 7AM EDT (UTC-5 EST = 12:00 UTC)
-                           # In EST winter (UTC-5), this is 7AM — correct year-round
-                           # Adjust to '0 11 * * 1' when EDT (UTC-4) is in effect Mar–Nov
+    - cron: '0 12 * * 1'  # Every Monday at 12:00 UTC (7AM EST / 8AM EDT)
   workflow_dispatch:       # Manual trigger from GitHub UI for testing
 
 jobs:

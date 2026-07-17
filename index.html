@@ -1165,6 +1165,12 @@
       </div>
     </div>
 
+    <div style="margin-top: 14px; text-align: center; font-family: 'Jost', sans-serif;
+                font-size: 9px; line-height: 1.6; letter-spacing: 0.6px; color: #7d735f;">
+      AI-generated summaries are based on source headlines and may contain errors.
+      Open the cited sources to verify details.
+    </div>
+
     <div class="feedback-toast" id="feedback-toast">Thanks for the feedback.</div>
 
     <!-- Subscribe overlay -->
@@ -1223,9 +1229,9 @@ function getTorontoNowParts() {
 }
 
 function getCountdown() {
-  const p = getTorontoNowParts();
-  const nowMinutes = p.hour * 60 + p.minute;
-  const resetMinutes = 6 * 60;
+  const now = new Date();
+  const nowMinutes = now.getUTCHours() * 60 + now.getUTCMinutes();
+  const resetMinutes = 10 * 60;
 
   let diffMinutes;
   if (nowMinutes < resetMinutes) {
@@ -1236,7 +1242,7 @@ function getCountdown() {
 
   const hours = Math.floor(diffMinutes / 60);
   const minutes = diffMinutes % 60;
-  return `Resets in ${hours}h ${minutes}m`;
+  return `Next edition in ${hours}h ${minutes}m`;
 }
 
 function formatDate(iso) {
@@ -1262,9 +1268,10 @@ function formatDisplayDate() {
 function getEditionNumber() {
   const launchDate = new Date('2026-03-12T00:00:00');
   const p = getTorontoNowParts();
+  const now = new Date();
 
   const currentEditionDate = new Date(p.year, p.month - 1, p.day);
-  if (p.hour < 6) {
+  if ((now.getUTCHours() * 60 + now.getUTCMinutes()) < 10 * 60) {
     currentEditionDate.setDate(currentEditionDate.getDate() - 1);
   }
 
@@ -1372,8 +1379,9 @@ function buildEqualGridWithImage(stories) {
   const statsCard2 = top ? {
     label: "Top Story",
     rows: [
-      { num: top.mentions,  desc: "sources\ncovered it" },
-      { num: top.diversity, desc: "regions\nreached" },
+      { num: top.mentions,  desc: "articles\nin cluster" },
+      { num: Array.isArray(top.regions) ? top.regions.length : top.diversity,
+        desc: "source\nregions" },
     ],
     footer: top.regions ? top.regions.join(" · ") : null,
   } : null;
@@ -1584,8 +1592,8 @@ function openOverlay(story) {
   const statsHTML = `
     <div class="overlay-stats">
       <div class="overlay-stat">Sources <span>${story.source_count || (story.sources || []).length}</span></div>
-      <div class="overlay-stat">Mentions <span>${story.mentions || '—'}</span></div>
-      <div class="overlay-stat">Regions <span>${story.diversity || (Array.isArray(story.regions) ? story.regions.length : '—')}</span></div>
+      <div class="overlay-stat">Articles <span>${story.mentions || '—'}</span></div>
+      <div class="overlay-stat">Regions <span>${Array.isArray(story.regions) ? story.regions.length : (story.diversity || '—')}</span></div>
     </div>`;
 
   let bodyHTML = '';
@@ -1712,7 +1720,7 @@ async function loadStories() {
 
   } catch (err) {
     console.error('Failed to load top10.json:', err);
-    grid.innerHTML = `<div class="loading" style="grid-column:1/-1">Next edition arrives at 6AM EST</div>`;
+    grid.innerHTML = `<div class="loading" style="grid-column:1/-1">The next edition arrives tomorrow morning</div>`;
     buildTicker();
   }
 }
