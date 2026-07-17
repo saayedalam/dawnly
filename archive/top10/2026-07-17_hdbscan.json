@@ -1,42 +1,39 @@
 {
-  "published_at": "2026-07-17T11:28:40.778388+00:00",
+  "published_at": "2026-07-17T11:30:27.198452+00:00",
+  "algorithm": "hdbscan",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "China faces election claims, AI governance debate, natural disaster",
-      "summary": "Trump claims China interfered in the 2020 election and uses those allegations to raise concerns about voting security ahead of the upcoming midterms. His statements reflect ongoing disputes over election integrity that have divided Democrats and Republicans since the 2020 presidential race.",
+      "headline": "China’s Xi says AI ‘should not be a solo performance by a single country’",
       "is_grouped": true,
-      "angle_count": 3,
+      "angle_count": 4,
       "angles": [
         {
-          "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-          "summary": "Trump claims China interfered in the 2020 election and uses those allegations to raise concerns about voting security ahead of the upcoming midterms. His statements reflect ongoing disputes over election integrity that have divided Democrats and Republicans since the 2020 presidential race."
+          "headline": "China’s Xi says AI ‘should not be a solo performance by a single country’"
         },
         {
-          "headline": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-          "summary": "Xi Jinping argues that artificial intelligence development should involve multiple nations working together rather than one country dominating the field. The statement comes as the United States has implemented restrictions on China's access to advanced semiconductor technology, making international cooperation frameworks strategically important to Beijing's tech ambitions."
+          "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms"
         },
         {
-          "headline": "China: Landslide buries buildings, traps people",
-          "summary": "A landslide in southwest China has buried buildings and trapped residents under debris following heavy rainfall in the region. Rescue teams are actively working to extract survivors from the rubble, with at least seven people pulled to safety so far."
+          "headline": "China: Landslide buries buildings, traps people"
         }
       ],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/xi-jinping-calls-for-international-cooperation-in-ai-development-at-waic-in-shanghai/a-77997024?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 23,
+      "source_count": 19,
       "regions": [
         "Africa",
         "Australia",
@@ -56,14 +53,13 @@
         "UK",
         "US"
       ],
-      "score": 0.8146,
-      "mentions": 67,
+      "score": 0.706,
+      "mentions": 33,
       "diversity": 17
     },
     {
       "rank": 2,
       "headline": "US launches new strikes as Iran says civilian infrastructure hit",
-      "summary": "The United States conducts its sixth consecutive night of airstrikes against Iran, targeting infrastructure including bridges and communication towers in the southern region. Iran responds with strikes against Gulf state targets while reporting that civilian areas have sustained damage from the American campaign.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -81,9 +77,8 @@
           "link": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates"
         }
       ],
-      "source_count": 18,
+      "source_count": 16,
       "regions": [
-        "Africa",
         "Canada",
         "Central Asia & Eastern Europe",
         "Europe",
@@ -99,52 +94,46 @@
         "US",
         "West Africa"
       ],
-      "score": 0.7365,
-      "mentions": 48,
+      "score": 0.825,
+      "mentions": 39,
       "diversity": 7
     },
     {
       "rank": 3,
-      "headline": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
-      "summary": "President Zelenskyy dismissed Ukraine's defence minister, triggering a political crisis as supporters of the fired official protest and question whether he has created a powerful rival. The dismissal reflects deeper tensions within Ukraine's government over military strategy and generational divisions in how the country's war effort should be managed.",
+      "headline": "What to know about the Canadian and US wildfires and their impact",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov"
+          "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-wildfire-smoke-northwestern-ontario-us-midwest/"
         }
       ],
-      "source_count": 11,
+      "source_count": 7,
       "regions": [
-        "Africa",
         "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Global",
-        "Middle East",
-        "Russia",
-        "UK",
-        "US",
-        "Ukraine"
+        "Indonesia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.5357,
-      "mentions": 23,
+      "score": 0.5273,
+      "mentions": 11,
       "diversity": 5
     },
     {
       "rank": 4,
       "headline": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "summary": "Japan has revised its imperial succession law to allow daughters of former emperors to establish new branches of the royal family, addressing concerns about the shrinking pool of male heirs. The changes preserve the male-only succession to the throne itself, maintaining a centuries-old restriction that prevents women from becoming emperor.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -172,14 +161,13 @@
         "UK",
         "US"
       ],
-      "score": 0.4427,
+      "score": 0.5228,
       "mentions": 7,
       "diversity": 5
     },
     {
       "rank": 5,
       "headline": "Five headaches Andy Burnham will have to deal with as PM",
-      "summary": "Andy Burnham has assumed the role of UK Prime Minister following Labour's leadership transition, bringing his regional focus and track record from managing Greater Manchester to the national stage. His immediate priorities include addressing inherited policy challenges while adapting the localist approach that shaped his earlier political career to govern across all of Britain.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -207,47 +195,13 @@
         "UK",
         "US"
       ],
-      "score": 0.4373,
-      "mentions": 14,
+      "score": 0.4892,
+      "mentions": 12,
       "diversity": 3
     },
     {
       "rank": 6,
-      "headline": "What to know about the Canadian and US wildfires and their impact",
-      "summary": "Wildfires burning across Canada have sent smoke into the United States, degrading air quality across at least 20 states and prompting health alerts in major cities including New York. The smoke creates immediate health risks for people outdoors, particularly those with respiratory conditions, as temperatures and poor visibility also affect daily activities in affected regions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-wildfire-smoke-northwestern-ontario-us-midwest/"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Canada",
-        "Indonesia",
-        "South Africa",
-        "South America",
-        "UK"
-      ],
-      "score": 0.4173,
-      "mentions": 9,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
       "headline": "China hits out at British Steel nationalisation",
-      "summary": "China expresses displeasure with the UK's decision to take British Steel into public ownership, citing concerns about the move's implications for its interests in the company. The nationalisation represents a significant shift in British industrial policy and marks a point of friction in UK-China relations over control of strategically important assets.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -270,14 +224,13 @@
         "Middle East",
         "UK"
       ],
-      "score": 0.3863,
+      "score": 0.4393,
       "mentions": 4,
       "diversity": 2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "headline": "U.K. urges FIFA to investigate Argentina over Falklands banner at World Cup",
-      "summary": "Argentina's World Cup team displayed a banner referencing the Falkland Islands during their match against England, prompting the U.K. to request FIFA investigate the political statement. The incident revives longstanding territorial tensions between the two nations over the South Atlantic islands, which Argentina claims and Britain administers.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -302,14 +255,46 @@
         "South America",
         "Thailand"
       ],
-      "score": 0.3411,
+      "score": 0.4166,
       "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "U.S. tightens visa regulations for international students, exchange visitors and journalists",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-to-change-visa-regulations-for-foreign-students-journalists/article71230413.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2618631/us-caps-student-visas-limits-chinese-journalist-stays-to-90-days"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-china-warns-of-reciprocal-measures-after-us-cuts-foreign-journalist/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Thailand"
+      ],
+      "score": 0.4005,
+      "mentions": 8,
       "diversity": 4
     },
     {
       "rank": 9,
       "headline": "Texas floods ravage through southwestern areas of state",
-      "summary": "Heavy flooding across southwestern Texas has killed two people and forced rescue operations in multiple communities. Additional storms are expected to bring further rainfall to the region in coming days.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -334,14 +319,13 @@
         "Southeast Asia",
         "US"
       ],
-      "score": 0.322,
+      "score": 0.3893,
       "mentions": 4,
       "diversity": 4
     },
     {
       "rank": 10,
       "headline": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
-      "summary": "Thunderstorms are moving across Europe as an intense heatwave creates unstable atmospheric conditions that fuel severe weather. The prolonged heat has already caused thousands of deaths and widespread damage from wildfires and drought across the continent.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -366,7 +350,7 @@
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.322,
+      "score": 0.3893,
       "mentions": 4,
       "diversity": 4
     }
