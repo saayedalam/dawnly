@@ -1,0 +1,342 @@
+{
+  "published_at": "2026-07-19T11:17:53.290890+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed"
+        }
+      ],
+      "source_count": 23,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.8364,
+      "mentions": 55,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Tate brothers arrested in US as further UK charges take total to 59",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7087,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3361070/cuban-dissident-artist-otero-alcantara-lands-us-exile?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4409,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/senior-merz-ally-resigns-after-coming-under-pressure-in-germany-over-surrogate-baby"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4334,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 5,
+      "headline": "Watch: Highlights as England stun France 6-4 in third-place play-off",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-07-19/world-cup-quick-hits-england-france-kylian-mbappe-bellingham/106932776"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Indonesia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.4072,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Hungary’s president agrees to stand down after law change ends his term",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hungarys-president-signs-constitutional-amendment-ending-his-term/article71240536.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3959,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Ukraine drones target Russian warehouses and oil sites",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/seven-killed-more-than-50-wounded-in-ukrainian-drone-attack-on-russian-regions/article71237647.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ukraine-launches-drone-attack-on-russian-regions/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.3584,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/next-uk-prime-minister-andy-burnham-drops-digital-id-scheme"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/burnham-likely-to-steer-steady-ship-on-british-foreign-policy"
+        },
+        {
+          "name": "MercoPress",
+          "link": "https://en.mercopress.com/2026/07/19/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uk-s-prime-minister-in-waiting?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3252,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/asia/indonesia-boat-sinking-selayar-islands-south-sulawesi-makassar-6263516"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3252,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
