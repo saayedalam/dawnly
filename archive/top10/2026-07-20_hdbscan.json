@@ -1,0 +1,379 @@
+{
+  "published_at": "2026-07-20T12:24:45.747196+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title"
+        },
+        {
+          "headline": "Fire crews battle blaze on Arthur’s Seat in Edinburgh"
+        },
+        {
+          "headline": "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/taking-stock-of-2026-world-cup-football-s-biggest-show-yet/a-78032847?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.82,
+      "mentions": 27,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US renews attacks on Iran after US soldier killed: What’s the latest?"
+        },
+        {
+          "headline": "Trump says US strikes hit Iran in 'honour' of American soldiers killed"
+        },
+        {
+          "headline": "Occupied West Bank World Cup screening halted for funeral"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7766,
+      "mentions": 22,
+      "diversity": 14
+    },
+    {
+      "rank": 3,
+      "headline": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods"
+        },
+        {
+          "headline": "China and US still in contact on Xi summit trip despite Trump’s election claims"
+        },
+        {
+          "headline": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3361233/eu-fines-aliexpress-us630-million-over-illegal-products?utm_source=rss_feed"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/business/aliexpress-hit-629-million-eu-fine-over-sales-illegal-counterfeit-products-6265451"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4111,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "A very quick guide to new prime minister Andy Burnham",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.9456,
+      "mentions": 23,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "How India's 'cockroach' protest movement has grown from hundreds to thousands",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.7221,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "At least 930 people have died in Congo's Ebola outbreak",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/drc-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/at-least-930-people-have-died-in-congos-ebola-outbreak/article71244225.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5494,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3361240/hamas-lead-negotiator-ceasefire-talks-elected-groups-new-chief?utm_source=rss_feed"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/hamas-names-khalil-al-hayya-new-leader"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4794,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/guyana-dozens-feared-dead-after-ferry-capsizes/a-78031852?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4494,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Earthquake in Peru leaves at least six dead",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/19/magnitude-51-earthquake-in-central-peru-leaves-at-least-one-dead-and-ten-injured"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/venezuela-earthquake-death-toll-now-at-5208"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Europe",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4489,
+      "mentions": 5,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Ukraine fires 400 drones at Moscow as Russia steps up ballistic missile attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/20/ukraine-fires-400-drones-at-moscow-as-russia-steps-up-ballistic-missile-attacks"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ukraine-fires-drones-toward-moscow/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-says-ukraine-launched-400-drones-at-moscow-region-two-wounded-buildings-set-ablaze"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4443,
+      "mentions": 9,
+      "diversity": 3
+    }
+  ]
+}
