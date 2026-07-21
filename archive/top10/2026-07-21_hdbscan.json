@@ -1,0 +1,364 @@
+{
+  "published_at": "2026-07-21T11:55:39.278702+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran claims attacks on strait of Hormuz ships amid fresh US strikes – Middle East crisis live",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Iran claims attacks on strait of Hormuz ships amid fresh US strikes – Middle East crisis live"
+        },
+        {
+          "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
+        },
+        {
+          "headline": "US issues ‘worldwide caution’ for American citizens – as it happened"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3361306/iran-and-us-trade-more-attacks-houthis-threaten-blockade?utm_source=rss_feed"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/21/tanker-attacked-in-strait-of-hormuz-as-us-strikes-iran-for-tenth-consecutive-night"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.5419,
+      "mentions": 17,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "VAT to be cut from household electricity bills in October",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "VAT to be cut from household electricity bills in October"
+        },
+        {
+          "headline": "Will the Tate brothers be extradited from the US to the UK?"
+        },
+        {
+          "headline": "The big surprise on Andy Burnham’s first day as UK PM? Trump wants to help him"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-s-new-pm-andy-burnham-cuts-household-electricity-tax/a-78043392?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5332,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8337,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "India's 'cockroach' protest continues a day after police crackdown",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Germany",
+        "Global",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.8144,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Nicaragua’s president says country will not hold any more elections",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3361326/nicaragua-will-no-longer-hold-elections-president-says?utm_source=rss_feed"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-nicaragua-elections-president-daniel-ortega/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Hong Kong",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6008,
+      "mentions": 6,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/andy-burnham-uk-gets-its-seventh-prime-minister-in-10-years-infographics/article71242692.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/andy-burnham-becomes-uk-pm-20260721-p60h19.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "India",
+        "South America",
+        "US"
+      ],
+      "score": 0.5419,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Moment terrifying floodwaters sweep through Afghan village",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/moment-terrifying-floodwaters-sweep-through-afghan-village?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/afghanistan-deadly-flash-floods-hit-nuristan-province/a-78045451?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5101,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2619439/lebanese-army-begins-deployment-in-southern-town-under-framework-agreement-with-israel"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-deploys-southern-town-after-israeli-withdrawal-official"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.509,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-lebanon-president-joseph-aoun-trump-israel-troops/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5085,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/20/yemens-houthis-threaten-bab-el-mandeb-closure-in-embargo-on-saudi-arabia"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Global",
+        "South Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4685,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
