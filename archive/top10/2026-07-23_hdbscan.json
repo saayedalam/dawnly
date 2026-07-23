@@ -1,0 +1,357 @@
+{
+  "published_at": "2026-07-23T11:59:10.008310+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "New EU sanctions will ‘hit Putin where it hurts most’, says foreign policy chief Kallas – Europe live",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "New EU sanctions will ‘hit Putin where it hurts most’, says foreign policy chief Kallas – Europe live"
+        },
+        {
+          "headline": "Russia's businesses under strain from Ukraine's attacks on Wildberries"
+        },
+        {
+          "headline": "Russia strips rights of citizens abroad in sweeping new 'traitor' law"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-agrees-on-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/eu-ambassadors-agree-21st-sanctions-package-against-russia-eu-diplomats-say"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3603,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "US signs landmark nuclear deal with Saudi Arabia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/22/saudi-arabia-would-enrich-uranium-under-reported-deal-with-us"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8369,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.825,
+      "mentions": 26,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Fit checks and fear: Inside India's GenZ 'cockroach' protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/23/cockroach-janta-party-protest-cjp-india-modi-corrupt-officials"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7342,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/jul/23/government-cuts-business-rates-essex-kemi-badenoch-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3361620/new-uk-pm-cut-taxes-struggling-pubs-drop-ocean?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6281,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Women’s Africa Cup of Nations 2026: What to know about the tournament",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/23/womens-africa-cup-of-nations-2026-wafcon-what-to-know-about-the-tournament?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/female-coaches-want-more-representation-in-african-football/a-77951103?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/07/23/burkina-faso-mali-niger-submit-joint-bid-for-2032-afcon/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Middle East"
+      ],
+      "score": 0.6014,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "US judge sets Maduro trial date for June 2027",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-judge-sets-maduro-trial-date-for-june-2027/a-78077318?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/venezuelas-ousted-leader-maduro-back-in-us-court/article71254767.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/22/nicolas-maduro-returns-to-court-in-us-drug-trafficking-case"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.5561,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2619799/around-1300-israeli-occupiers-storm-al-aqsa-mosque-compound-in-occupied-east-jerusalem"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-one-killed-israeli-drone-strike-gaza-hospital-sources-say"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5201,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3361592/younger-singaporean-men-less-averse-spousal-violence-study?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 0.5123,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Who could be the next UN Secretary-General?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/explainers/un-secretary-general-election-race-unga-unsc"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/07/23/his-time-is-up-la-liga-head-javier-tebas-calls-on-fifas-infantino-to-step-down/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5123,
+      "mentions": 7,
+      "diversity": 5
+    }
+  ]
+}
