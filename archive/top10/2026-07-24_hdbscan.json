@@ -1,0 +1,358 @@
+{
+  "published_at": "2026-07-24T11:50:46.729093+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US hits dozens of countries with new wave of tariffs",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US hits dozens of countries with new wave of tariffs"
+        },
+        {
+          "headline": "Philippines accuses China of using water cannon on vessels for second day"
+        },
+        {
+          "headline": "South Korea’s cash-rich winners of AI boom go on US buying spree"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/24/donald-trump-hits-australian-exports-to-us-with-new-higher-trade-tariff-over-claims-of-forced-labour"
+        }
+      ],
+      "source_count": 26,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7484,
+      "mentions": 51,
+      "diversity": 20
+    },
+    {
+      "rank": 2,
+      "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount"
+        },
+        {
+          "headline": "Donald Trump says decision on ‘massive attack’ against Iran is close"
+        },
+        {
+          "headline": "US threatens 'major military punishment' for Houthi attacks"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-launches-new-strikes-on-iran-over-shipping-routes-threat/live-78093040?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3361773/us-iran-fighting-escalates-explosions-heard-near-us-base-iraq-sirens-bahrain?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.3387,
+      "mentions": 14,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4768,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/klopp-named-new-head-coach-of-germany-men-s-football-team/a-78095577?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4184,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 5,
+      "headline": "Indian activist Wangchuk ends 26-day hunger strike",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.418,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "PM to spend first day working from northern branch of No 10",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.3901,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/killing-settler-occupied-west-bank-was-unplanned-israeli-army-says"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3306,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Mathematicians win top prize after solving century-old problems",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvg84gp8xx4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/24/briefing/a-big-day-for-math.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.2963,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "ICC prosecutor Karim Khan faces removal vote: What’s the case about?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-karim-khan-faces-removal-vote-whats-the-case?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/fate-of-icc-chief-prosecutor-heads-to-unprecedented-vote-as-us-sanctions-keep-him-out-of-new-york/article71260792.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/07/23/icc-oversight-body-to-vote-on-fate-of-chief-prosecutor-karim-khan/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.2682,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "'Extremely significant' bomb in car intercepted near NI border, Irish police say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/irish-police-intercept-car-with-bomb-near-northern-ireland-border-rte-reports"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.2625,
+      "mentions": 3,
+      "diversity": 2
+    }
+  ]
+}
