@@ -1,0 +1,352 @@
+{
+  "published_at": "2026-07-26T11:27:49.778219+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate"
+        },
+        {
+          "headline": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?"
+        },
+        {
+          "headline": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.73,
+      "mentions": 24,
+      "diversity": 15
+    },
+    {
+      "rank": 2,
+      "headline": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8658,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.553,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361886/noul-third-closest-typhoon-hong-kong-2000-causes-minor-damage-city?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/typhoon-noul-makes-landfall-in-southern-china-updates-july-26-2026/article71268544.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4764,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/article/3361843/how-americas-250-year-china-dream-became-its-greatest-strategic-challenge?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "Japan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.473,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "The Cockroach Effect: Modi vs India’s Gen Z",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4709,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4513,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "After chaotic return, where does Joshua win leave Fury fight?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/joshua-jitters-fail-dampen-appetite-british-showdown-fury-6278891"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.4184,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "How Trump could undermine the midterms",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3361874/100-days-us-midterms-trump-faces-defeat-amid-voter-anger-over-inflation-iran-war?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4184,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "India’s education minister resigns in victory for Cockroach youth movement protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/25/indias-cockroach-movement-ends-protests-after-education-minister-resigns"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "UK"
+      ],
+      "score": 0.4109,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
