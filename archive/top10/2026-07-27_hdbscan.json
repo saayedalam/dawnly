@@ -1,0 +1,370 @@
+{
+  "published_at": "2026-07-27T13:03:10.543987+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US pauses Iran attacks after Trump advised to halt bombing",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US pauses Iran attacks after Trump advised to halt bombing"
+        },
+        {
+          "headline": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike"
+        },
+        {
+          "headline": "Iran rules out US talks as Hormuz Strait remains closed"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5138,
+      "mentions": 16,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Death toll from Pakistan monsoon rains, floods tops 100",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Death toll from Pakistan monsoon rains, floods tops 100"
+        },
+        {
+          "headline": "Profits in China’s chipmaking sector soar 2,500% in first half amid AI boom"
+        },
+        {
+          "headline": "Chinese chip champion CXMT soars 466% in market debut"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/people-culture/trending-china/article/3361909/farewell-hero-chinese-volunteer-dies-heart-failure-after-helping-flood-victims?utm_source=rss_feed"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/27/10-killed-and-close-to-two-dozen-injured-after-flash-floods-hit-tourist-site-in-northweste"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.435,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "How wildfires in France and Spain may affect your travel plans",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/jul/27/weather-tracker-europe-wildfires-difficult-stop-france-spain"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.86,
+      "mentions": 29,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-islamist-terror-attack-on-berlin-pride-parade-triggers-political-debate/a-78130195?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7674,
+      "mentions": 23,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Netanyahu accuses Mamdani of ‘fomenting hate’ ahead of US visit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/netanyahu-accuses-mamdani-of-fomenting-hate-ahead-of-us-visit?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6419,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Three people killed and one suspect at large in Bite of Seattle food festival shooting",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-at-least-three-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6101,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Moment Ukrainian drones strike Russia’s Belgorod",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/why-is-russia-attacking-ships-in-odessa-explained/article71271599.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russian-attacks-kill-one-damage-vessels-in-ukraines-mykolaiv-region-official-says"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5389,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Tadej Pogacar wins Tour de France for a record-equalling fifth time",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/27/tadej-pogacar-tour-de-france-2026-cycling-record-fifth-title?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-07-27/tour-de-france-tadej-pogacar-wins-fifth-title/106960924"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.5006,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Uganda begins emergency food handouts after 19 die from hunger",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/congo-ebola-death-toll-tops-1-400-as-vaccine-trials-start/a-78124937?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202607270027.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "East Africa",
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4506,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/07/27/transfers-yan-diomande-set-for-real-madrid-move-after-120m-deal/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.45,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
