@@ -1,0 +1,379 @@
+{
+  "published_at": "2026-07-28T12:07:07.717829+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Fourth heatwave grips parts of UK with 35C forecast",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Fourth heatwave grips parts of UK with 35C forecast"
+        },
+        {
+          "headline": "Zinedine Zidane confirmed as new France manager"
+        },
+        {
+          "headline": "US walks out of UN Security Council meeting during France's remarks"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.89,
+      "mentions": 37,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "Zelensky to press Trump on air defences while in Washington",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Zelensky to press Trump on air defences while in Washington"
+        },
+        {
+          "headline": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer"
+        },
+        {
+          "headline": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/zelenskyy-to-meet-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6627,
+      "mentions": 26,
+      "diversity": 12
+    },
+    {
+      "rank": 3,
+      "headline": "Lindsey Graham’s funeral ceremonies to begin with Netanyahu and Zelenskyy in attendance",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Lindsey Graham’s funeral ceremonies to begin with Netanyahu and Zelenskyy in attendance"
+        },
+        {
+          "headline": "Netanyahu to meet Trump in a first encounter since the Iran war began"
+        },
+        {
+          "headline": "A six-point plan to make the US-Japan alliance battle-ready"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/jul/28/lindsey-graham-funeral"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-watch.html"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/trump-zelenskiy-and-netanyahu-to-attend-us-senator-grahams-funeral"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Eastern Europe",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.38,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/japan-strong-earthquake-shakes-kumamoto-injuries-reported/a-78143660?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7749,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "China's new challenge as natural disasters strike - fake AI videos",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Asia-Pacific",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "UK",
+        "US"
+      ],
+      "score": 0.7373,
+      "mentions": 23,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362152/hong-kong-parents-rush-babies-check-ups-over-infant-formula-lead-scare?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5654,
+      "mentions": 6,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "India’s Cockroach movement threatens to restart protests after mass student arrests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/28/india-cockroach-janta-party-cjp-demands-protesters-release"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "North Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.4926,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Chad's government says it's withdrawing from the ICC",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/chad-s-government-says-it-s-withdrawing-from-the-icc/a-78132322?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/chad-announces-intent-to-withdraw-from-international-criminal-court/article71276378.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/07/28/chad-announces-plans-to-withdraw-from-international-criminal-court/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.4901,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Prisoners at Iran’s largest jail sew lips shut in hunger strike as executions soar",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/28/prisoners-iran-largest-jail-sew-lips-shut-hunger-strike-executions-soar"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-two-men-over-charges-related-january-protests"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4591,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Colombia’s president-elect to suspend Palestine embassy",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/colombias-president-elect-vows-to-break-ties-with-cuba-nicaragua/article71274338.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "South America"
+      ],
+      "score": 0.4562,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
