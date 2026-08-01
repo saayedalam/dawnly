@@ -1,0 +1,343 @@
+{
+  "published_at": "2026-08-01T11:28:05.319992+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Germany",
+        "Indonesia",
+        "Japan",
+        "Mexico",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8075,
+      "mentions": 28,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Is Israel really ready to withdraw from Gaza?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6786,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6575,
+      "mentions": 16,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/jul/31/donald-trump-cabinet-camp-david-iran-midterms-gaza-latest-news-updates"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6456,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "India’s Modi says he forgives students who abused him in Cockroach protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-modi-says-he-forgives-children-who-abused-him/a-78200008?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3362631/indias-modi-wants-forgive-cjp-protesters-who-hurled-vile-abuse-him?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5386,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2621494/in-land-of-figs-olives-israeli-occupiers-violence-turns-harvest-season-bitter-for-west-bank-village"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5337,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Omani legend, US novice: Pakistan recovers bodies from Broad Peak",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/coal-mine-blast-in-pakistan-kills-many-miners-traps-people/article71288808.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4513,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/01/on-the-ground-dover-rightwing-influencers-invaded"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/pm-modi-talks-to-uk-pm-andy-burnham-on-a-phone-call/article71290757.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "India",
+        "UK"
+      ],
+      "score": 0.43,
+      "mentions": 5,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "France, Italy tighten borders after 60,000 migrants enter Spain’s Ceuta",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3362625/france-italy-tighten-borders-after-60000-migrants-enter-spains-ceuta?utm_source=rss_feed"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/01/france-and-italy-boost-border-controls-after-migrant-influx-to-spanish-enclave/"
+        },
+        {
+          "name": "MercoPress",
+          "link": "https://en.mercopress.com/2026/07/31/italy-and-france-tighten-borders-with-spain-after-50-000-enter-ceuta?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Hong Kong",
+        "South America",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.405,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4013,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
