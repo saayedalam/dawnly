@@ -1,0 +1,361 @@
+{
+  "published_at": "2026-08-02T11:26:18.459409+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'"
+        },
+        {
+          "headline": "Iran Plotted Wider War With Help of Its Proxies"
+        },
+        {
+          "headline": "Trump holds off Iran strikes after Middle East allies outline deal"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.4748,
+      "mentions": 18,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "How Spain's migrant crisis created a political storm, whipped up by social media",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.84,
+      "mentions": 25,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "At least three dead in Idaho shopping mall mass shooting",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7439,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7314,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6633,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5971,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/spotlight/sports/world-cup-2026/asian-soccer-split-over-infantino-s-world-cup-sell-off-plan"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5948,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Hungary plans to shut down only nuclear power plant amid drought",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3362706/climate-crisis-hungary-closes-nuclear-power-plant-greece-wildfires-spread?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5644,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Heatwave scorching western US ups risk of hazardous fire conditions",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/heat-wave-bringing-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/article71297047.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/emergency-warnings-as-us-west-battles-wildfires-extreme-heat-20260802-p60kq8.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4743,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "What happened to star signings your club never made?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/arteta-says-he-expects-more-reinforcements-arrive-arsenal-6293496"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.41,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
