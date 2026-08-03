@@ -1,0 +1,374 @@
+{
+  "published_at": "2026-08-03T13:01:52.710464+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Ukraine strikes Russia’s biggest retailer again",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Ukraine strikes Russia’s biggest retailer again"
+        },
+        {
+          "headline": "Why Russia Does Not Want Peace – Analysis of the Kremlin’s Latest Statements"
+        },
+        {
+          "headline": "Italian-led EU force boards sanctioned tanker from Russia’s ‘shadow fleet’ in Mediterranean"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/several-killed-as-ukraine-russia-exchange-strikes-august-3-2026/article71299756.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.6264,
+      "mentions": 25,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Iran denies talks with US underway after Trump comments",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Iran denies talks with US underway after Trump comments"
+        },
+        {
+          "headline": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal"
+        },
+        {
+          "headline": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-denies-talks-with-us-underway-after-trump-comments/live-78210315?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-talks-us-trump-halts-strikes-last-minute"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-iran-denies-trumps-claims-of-planned-talks-after-us-calls-off-attacks/"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4849,
+      "mentions": 22,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8308,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Yen hits three-month high after Trump helps prop up currency",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7513,
+      "mentions": 20,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/2-firefighting-helicopters-collide-midair-near-athens-as-europes-wildfire-emergency-rages/article71298781.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.7136,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Washington state wildfires force 60,000 people to evacuate homes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3046g80yj7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6544,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "First moments of Egypt earthquake caught during livestream",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/5-0-magnitude-earthquake-strikes-egypt/a-78210318?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/egypt-earthquake-toll-updates-damage-august-3-2026/article71299726.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.6063,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2621811/israel-conveys-concerns-to-us-on-gaza-plan"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5605,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Grid failure plunges Cuba into nationwide blackout",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3362756/cuba-plunged-darkness-again-power-grid-collapses?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "Thailand"
+      ],
+      "score": 0.5313,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Red Cross visits Aung San Suu Kyi after Myanmar military pushed to prove she is alive",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/03/myanmar-detained-former-leader-aung-san-suu-kyi-red-cross"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/myanmar-aung-san-suu-kyi-meets-red-cross-official-junta-says/a-78211532?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/myanmars-aung-san-suu-kyi-meets-red-cross-official-government-says/article71299861.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "India",
+        "North Africa",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5029,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
