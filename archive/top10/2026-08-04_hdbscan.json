@@ -1,0 +1,375 @@
+{
+  "published_at": "2026-08-04T12:10:36.119958+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price"
+        },
+        {
+          "headline": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says"
+        },
+        {
+          "headline": "US has used ‘virtually all’ of its long-range precision missiles in Iran war, sources say"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/aug/04/donald-trump-oil-companies-war-iran-us-exxonmobil-chevron"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5526,
+      "mentions": 23,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen"
+        },
+        {
+          "headline": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures"
+        },
+        {
+          "headline": "US State Department to close consulates in Canada, Japan and Indonesia, sources say"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/markets/currencies/japan-us-yen-intervention-seen-just-buying-time-against-tokyo-s-loose-stance"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4526,
+      "mentions": 15,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-drone-strikes-kill-five-near-moscow-russia-says/live-78227405?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.86,
+      "mentions": 24,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8225,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3362903/trumps-board-peace-conditions-israels-gaza-withdrawal-hamas-disarmament?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes/article71303717.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.6024,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Coalition of 25 US states sue Trump administration over global tariffs",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-25-states-sue-over-trump-s-new-tariffs/a-78224794?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2622025/25-us-states-sue-trump-administration-over-sweeping-new-tariffs"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5617,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Huw Edwards criticised for entering festival poetry competition",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2ge428md0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5317,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2622011/wildfires-near-spokane-destroy-more-than-700-buildings-force-64000-to-flee"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-firefighters-struggle-to-contain-washington-state-fires-as-60000/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.5267,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Stokes would love to coach England in future",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-08-04/matt-king-named-nsw-blues-state-of-origin-coach/106992160"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5134,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/as-colombia-prepares-for-presidential-inauguration-outgoing-leader-doubles-down-on-fraud-claims/article71303899.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.5134,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
