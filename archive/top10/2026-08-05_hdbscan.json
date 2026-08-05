@@ -1,0 +1,348 @@
+{
+  "published_at": "2026-08-05T12:09:11.763592+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8396,
+      "mentions": 27,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Government is ‘for the people’ says Michigan primary candidate",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/government-is-for-the-people-says-michigan-primary-candidate?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6508,
+      "mentions": 16,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6462,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/fact-check-did-misleading-claims-about-spain-s-migration-law-trigger-the-ceuta-crisis/a-78233161?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.6405,
+      "mentions": 15,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Middle East crisis live: US and Iran signal hope for Hormuz deal but terms unclear",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-strait-of-hormuz-deal-could-be-announced-soon/article71308448.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2622180/trump-says-strait-of-hormuz-to-open-very-soon-warns-iran-of-very-hard-response-if-talks-fail"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6112,
+      "mentions": 18,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Key questions as Infantino faces Fifa executives",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-08-05/football-fifa-boss-infantino-accused-of-blackmail-jordan-prince/106997580"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5414,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3363025/malaysian-politics-heads-reset-malay-nationalism-surge-threatens-reform-experiment?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5367,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "India’s severe monsoon season causes more than 100 deaths since July",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/kashmir-deadly-cloudbursts-devastate-mountain-communities-erratic-weather-climate-change"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-heavy-monsoon-season-claims-more-than-100-lives/live-78240054?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5339,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/480c18a3-e661-4c7c-aaa0-1763887144a2?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Global",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.49,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "As Spain grieves, recurrent heatwaves stir fears of more wildfires",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/5/as-spain-grieves-recurrent-heatwaves-stir-fears-of-more-wildfires?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Eastern Europe",
+        "Germany",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4887,
+      "mentions": 8,
+      "diversity": 4
+    }
+  ]
+}
