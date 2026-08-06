@@ -1,0 +1,341 @@
+{
+  "published_at": "2026-08-06T12:11:19.361158+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/exiled-pm-vows-to-return-sheikh-hasina-bangladesh-despite-execution-threat"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.9601,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Carney curses Infantino as FIFA backs its president",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/what-s-behind-the-algeria-morocco-rivalry/a-78258062?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.8658,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Drone carrying explosives at German airport marks ‘new level of danger’, says interior minister",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-search-for-second-drone-after-leipzig-incident/live-78259460?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8568,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Europe",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7557,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Cambridge professor at centre of plagiarism row resigns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.732,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3363186/gunman-kills-mexican-tiktok-influencer-during-live-stream?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6884,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "What the CJP protests reveal about India’s next generation",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/05/pakistani-authorities-ban-international-media-from-reporting-in-most-of-country"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-student-protests-in-jharkhand-enter-13th-day/live-78260247?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Global",
+        "Middle East",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6818,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – as it happened",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/05/leftist-democrat-abdul-el-sayed-defeats-establishment-candidate-in-shock-michigan-primary-"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6774,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spains-ceuta-seeks-transfer-of-unaccompanied-migrant-minors-to-mainland-spain-after-border-rush/article71311034.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/morocco-has-given-me-nothing-young-people-risking-everything-reach-ceuta"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6291,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Helicopter Carrying Trump Flew Near Passenger Jet in Washington Airspace",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3363102/helicopter-trump-board-came-too-close-passenger-jet?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trumps-marine-one-flies-too-close-to-passenger-airplane-faa-says-us-president-was-not-in-danger/article71311958.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6132,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
