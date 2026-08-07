@@ -1,0 +1,389 @@
+{
+  "published_at": "2026-08-07T11:02:07.693586+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll"
+        },
+        {
+          "headline": "Iran war live: Trump says Iran can’t ‘go on much longer’; Hormuz deal close"
+        },
+        {
+          "headline": "Trump faces calls for windfall tax on big oil’s profits from Iran war"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3363226/iran-seeks-bar-us-ships-hormuz-deal-oman-advances?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say/article71315009.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4221,
+      "mentions": 13,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi"
+        },
+        {
+          "headline": "More than one million affected by floods in India’s Assam state"
+        },
+        {
+          "headline": "India, China discuss LAC situation and border management during diplomatic talks: MEA"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/06/india-bangladesh-relations-exiled-pm-speech-delhi-sheikh-hasina"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/hasina-s-pledge-to-return-tests-bangladesh-s-india-ties-and-political-reset"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/08/was-tarique-rahmans-youth-outreach-more-than-an-election-strategy/"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "India",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3331,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians"
+        },
+        {
+          "headline": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns"
+        },
+        {
+          "headline": "Israel charges West Bank settler over death of renowned Palestinian activist"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2622589/israeli-army-withdraws-from-qalandia-refugee-camp-after-raid-injures-51-palestinians"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.3162,
+      "mentions": 15,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.846,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-judge-orders-meta-to-pay-567-million-over-harm-to-children/a-78272884?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6841,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6218,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2622605/turkish-president-arrives-in-saudi-arabia-for-talks-with-pm-shehbaz-saudi-crown-prince"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.6102,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Arrests in Norfolk town as disorder continues for third night",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/argentina-milei-s-property-bill-triggers-protests-anger/a-78272866?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.5735,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ceuta-leader-says-100-migrants-died-in-border-rush/a-78271067?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5059,
+      "mentions": 14,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Could Russia be involved in German airport drone-bomb?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-officials-deny-reports-of-drone-near-munitions-laden-plane/live-78259460?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4934,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}
