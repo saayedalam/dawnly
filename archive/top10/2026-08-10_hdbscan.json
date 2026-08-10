@@ -1,0 +1,359 @@
+{
+  "published_at": "2026-08-10T11:17:18.019307+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran Guards say won't reopen Hormuz without U.S. meeting Tehran's demands",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran Guards say won't reopen Hormuz without U.S. meeting Tehran's demands"
+        },
+        {
+          "headline": "West Asia war LIVE: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands"
+        },
+        {
+          "headline": "Who is Mohsen Rezaei, and how significant is his appointment?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-tehrans-demands/article71325696.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/iran-holding-firm-to-strait-steers-trump-back-to-june-deal-20260810-p60mvw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-iran-issues-new-demands-to-reopen-strait-of-hormuz/"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4786,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Israeli forces kill one in Gaza as another body recovered from rubble",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.87,
+      "mentions": 24,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.826,
+      "mentions": 25,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7584,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Trump names Will Scharf as White House counsel ahead of midterms",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3363471/trump-announces-staff-secretary-will-scharf-will-be-his-new-white-house-counsel?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5892,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Fifa and Infantino accused of 'deception' in open letter from football confederations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5543,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/alleged-irish-crime-boss-kinahan-charged-with-directing-criminal-organisation/a-78297919?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/daniel-kinahan-ireland-crime-gang-boss-extradition-dubai-dublin-august-9-2026/article71325895.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5292,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3363470/canadian-province-get-federal-help-wildfire-forces-evacuations?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4391,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "June and July hottest on record in Western Europe, monitor says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/my-europe/2026/08/10/western-europe-sets-new-temperature-record-as-heat-waves-continue-to-pummel-region"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4301,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/former-thai-mp-accused-of-shooting-local-official-and-driver-police/article71327647.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4299,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
