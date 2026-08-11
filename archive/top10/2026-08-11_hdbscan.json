@@ -1,0 +1,388 @@
+{
+  "published_at": "2026-08-11T10:58:26.149356+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia: Top court bans opposition anti-war party from vote",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Russia: Top court bans opposition anti-war party from vote"
+        },
+        {
+          "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13"
+        },
+        {
+          "headline": "Ottawa sanctions Canadian company whose armoured vehicles are used by Russian military"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/11/russias-supreme-court-bars-anti-war-party-yabloko-from-parliamentary-elections"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.3837,
+      "mentions": 20,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "China's courts side with workers displaced by AI, but job anxiety persists",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China's courts side with workers displaced by AI, but job anxiety persists"
+        },
+        {
+          "headline": "China’s aviation regulator steps up safety communication with foreign carriers"
+        },
+        {
+          "headline": "Chinese nostalgia makes 'Kung Fu Soccer' a hit but will it score overseas?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-kids-turn-to-ai-powered-tutors-over-summer-break"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Mexico",
+        "South Africa",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.3811,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says"
+        },
+        {
+          "headline": "Ukraine’s 40-day campaign has not brought the war closer to an end"
+        },
+        {
+          "headline": "One year after Putin-Trump summit, ‘spirit of Anchorage’ dissipated"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/11/russia-fired-north-korean-missiles-in-attack-that-killed-six-in-zaporizhzhia-zelenskyy-say"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/82099"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.3188,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Watch: Family escapes home during Colombia earthquake",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.8476,
+      "mentions": 23,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7647,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-jharkhand-student-leader-hospitalized-after-police-use-force/live-78314106?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5548,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-11-2026-hormuz-strait-reopen-us-iran-talks/article71330825.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5347,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Trump pushes overhaul of US policy on vaccines for children",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-pushes-overhaul-of-us-policy-on-vaccines-for-children/a-78313546?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3363587/trump-signs-order-revamp-childhood-vaccines-against-medical-groups-guidance?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-signs-order-calling-for-spacing-out-childhood-vaccines-against-medical-groups-guidance/article71331362.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.517,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "What to know about the US primaries in Connecticut, Vermont, and Alabama",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4931,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Which country is the new Mecca defense pact targeting?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3363675/islamic-nato-why-pakistans-new-defence-pact-has-india-edge?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-saudi-pakistan-turkey-deal-shows-change-in-perception-towards-us/article71329795.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.48,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
