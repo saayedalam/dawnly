@@ -1,0 +1,367 @@
+{
+  "published_at": "2026-08-12T11:07:39.107592+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump confirms he switched planes after Nato summit because of possible threat"
+        },
+        {
+          "headline": "Can Turkey's new PKK law bring peace?"
+        },
+        {
+          "headline": "Turkey-Pakistan-Saudi pact a 'Muslim NATO'?: 5 things to know"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.8425,
+      "mentions": 37,
+      "diversity": 18
+    },
+    {
+      "rank": 2,
+      "headline": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia"
+        },
+        {
+          "headline": "Four killed in overnight attacks in southern Russia, Ukraine"
+        },
+        {
+          "headline": "Former U.S. Marine held in Russia on disputed charges has been released"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2623458/zelenskyy-says-ukraine-has-given-proposals-to-us-for-ending-war"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/zelenskiy-ukraine-has-given-us-negotiators-proposals-for-ending-the-war-with-russia"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4761,
+      "mentions": 24,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "Earthquake response strains Colombia's new government and rescuers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/colombia-earthquake-rescuers-race-to-find-thousands-missing/a-78324580?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "US"
+      ],
+      "score": 0.5978,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5696,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Burnham says disposable BBQ ban under consideration",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/opinion/burnham-new-captain-hes-charting-same-course-israel"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5433,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/capsized-ferry-in-zimbabwe-death-toll-injured-updates/article71335562.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5409,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "North Korea tests missile ahead of US-South Korea drills",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3363744/north-korea-missile-launch-hints-upgraded-weapons-exports-russia-ukraine-war?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-launches-another-missile-towards-sea-ahead-of-us-south-korean-military-drills/article71335042.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Ukraine"
+      ],
+      "score": 0.5159,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sport/football/cristiano-ronaldo-and-georgina-rodriguez-tie-the-knot-after-10-years/article71334860.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4792,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Woman rescued after 36 hours under rubble in Colombia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3363727/colombian-woman-pulled-alive-rubble-earthquake-death-toll-tops-200?utm_source=rss_feed"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/08/12/colombia-quake-rescuers-save-woman-after-36-hours-trapped-in-rubble"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4777,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Why have several nations raised red flags over Indian farm exports?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/11/civil-society-groups-warn-against-congo-referendum/"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202608120049.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Middle East"
+      ],
+      "score": 0.4748,
+      "mentions": 9,
+      "diversity": 2
+    }
+  ]
+}
