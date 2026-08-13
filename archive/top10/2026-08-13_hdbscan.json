@@ -1,0 +1,372 @@
+{
+  "published_at": "2026-08-13T11:07:54.232022+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97"
+        },
+        {
+          "headline": "Anthropic investors bet on $2tn valuation in record IPO"
+        },
+        {
+          "headline": "Has the U.S. lost its dominance to China?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3363913/11-key-achievements-chinas-iron-premier-zhu-rongji-his-own-words?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6424,
+      "mentions": 28,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack"
+        },
+        {
+          "headline": "Short on US Patriot missiles, Ukraine looks for alternatives"
+        },
+        {
+          "headline": "Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363837/russia-warns-chaos-global-food-market-after-ukraine-pummels-grain-terminals?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4769,
+      "mentions": 14,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8605,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/programmes/p0p45qvs?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/13/first-thing-leavitt-departs-white-house-press-secretary-trump-ratings-historic-low"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8525,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Japan protests as Russia’s Putin visits disputed Kuril Islands",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.825,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Wisconsin Democrats chose a middle path – will it lead to victory in November?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/12/wisconsin-primary-democrats-david-crowley"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "UK",
+        "US"
+      ],
+      "score": 0.6799,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-zambia-presidential-elections-2026/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/13/meet-the-main-contenders-in-zambias-presidential-vote/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Global",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6335,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/08/13/rare-eclipse-plunges-parts-of-europe-into-darkness"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Europe",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.6097,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Polls open in Clacton by-election",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/polls-open-clacton-contest-between-nigel-farage-and-count-binface"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6079,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Gulf states scramble for Strait of Hormuz alternatives",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternatives/a-78336679?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-us-war-west-asia-live-updates-donald-trump-august-13-2026/article71339299.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2623640/irans-araghchi-slams-france-other-western-nations-hypocrisy-over-human-rights"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5844,
+      "mentions": 9,
+      "diversity": 4
+    }
+  ]
+}
