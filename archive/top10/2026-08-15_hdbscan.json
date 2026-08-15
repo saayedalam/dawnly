@@ -1,0 +1,358 @@
+{
+  "published_at": "2026-08-15T10:32:14.442795+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Israeli strike kills seven in south Lebanon as attacks intensify"
+        },
+        {
+          "headline": "Israeli forces fire tear gas canisters at Palestinian homes in Ramallah"
+        },
+        {
+          "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-airstrike-on-southern-lebanon-kills-7-people-lebanese-state-media-say/article71348904.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2624014/israeli-airstrike-kills-7-injures-3-in-southern-lebanon-despite-ceasefire"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4744,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.9029,
+      "mentions": 25,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/luigi-mangione-pleads-guilty-to-federal-stalking-charges-in-brian-thompson-death/a-78375740?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8321,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.8004,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Five years after the Taliban swept to power, does the West have any influence?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Asia-Pacific",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7863,
+      "mentions": 16,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "What we know about the crisis aboard the USS Lincoln",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7405,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.5599,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5543,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "French court blocks Macron’s social media ban for under-15s",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-top-watchdog-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/frances-constitutional-authority-strikes-down-social-media-ban-for-under-15/article71346180.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5343,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Zambia vote count resumes after suspension amid reports of violence",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/zambia-vote-count-resumes-after-suspension-amid-reports-of-violence/a-78368601?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-zambia-suspends-vote-counting-in-election-after-reports-of-violence/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/14/zambia-resumes-counting-after-violence-disrupts-election-process/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany"
+      ],
+      "score": 0.4843,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
