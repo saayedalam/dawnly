@@ -1,0 +1,370 @@
+{
+  "published_at": "2026-08-17T10:40:35.326691+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "China Wants Its Data to Power the World’s A.I.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China Wants Its Data to Power the World’s A.I."
+        },
+        {
+          "headline": "China’s economy cools amid debate about risks of global crisis"
+        },
+        {
+          "headline": "China’s Xi praises former president Jiang’s contribution in show of party unity"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3364296/can-china-follow-its-own-technological-path-amid-growing-ai-rivalry-us?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Brazil",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4962,
+      "mentions": 15,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
+        }
+      ],
+      "source_count": 21,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8553,
+      "mentions": 23,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8212,
+      "mentions": 24,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Ukrainian strikes kill six in Russia, acting governor says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7547,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "In pictures: Hayden Panettiere's life and career, from child actor to Scream star",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c75g0n2wy6lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6701,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3364239/far-right-ben-gvir-urges-israel-kill-30-40-every-night-gaza?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.6665,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Global",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6129,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.6029,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Lala weakens to tropical storm as it lashes Hawaii with heavy wind and rain",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/hawaii-hit-by-tropical-storm-20260817-p60ov9.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-days-of-storms-and-record-setting-flooding-in-indiana-kills-at-least-6/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5201,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Can the AU make its current Sudan mission count?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202608160007.html"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/opinion/82280"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "East Africa",
+        "Indonesia",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.4799,
+      "mentions": 9,
+      "diversity": 4
+    }
+  ]
+}
