@@ -1,0 +1,366 @@
+{
+  "published_at": "2026-08-18T10:38:20.746801+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia warns UK will pay for supplying drones to Ukraine",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia warns UK will pay for supplying drones to Ukraine"
+        },
+        {
+          "headline": "Russia summons Japan ambassador over disputed Kuril Islands row after Putin visit"
+        },
+        {
+          "headline": "Russia upholds Yabloko party's election ban and jails its deputy chair"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-warns-britain-of-consequences-for-supplying-drones-to-ukraine"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "Russia",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.553,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?"
+        },
+        {
+          "headline": "China’s economy showing signs that slowdown may be extending"
+        },
+        {
+          "headline": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/science/article/3364286/why-siberias-warming-landscape-could-shatter-trumps-arctic-ambitions?utm_source=rss_feed"
+        },
+        {
+          "name": "EUobserver",
+          "link": "https://euobserver.com/232571/greek-billionaires-ships-carried-e2-35bn-of-russian-arctic-gas-to-europe-this-year/"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Brazil",
+        "Europe",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.3053,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Trump Threatens To Bomb \"The S*** Out Of\" Oman",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p4z0hg?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3364348/trump-lets-60-day-deadline-iran-peace-deal-expire-threatens-bomb-oman?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7586,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3364352/trumps-decision-scale-back-south-korea-drills-unsettles-asian-allies-makes-no-sense?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7182,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Videos show deadly school shooting in Philippines",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364359/least-2-hit-philippine-school-shooting?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa"
+      ],
+      "score": 0.6576,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/meta-trial-over-social-media-harm-to-children-begins/a-78408050?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6435,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6406,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Zambia's election marred by irregularities and 'militia' arrests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/zambia-president-hichilema-re-elected-for-second-term-following-contentious-polls/article71359521.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/18/zambias-hakainde-hichilema-wins-re-election-with-60-of-vote-officials-say"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.6368,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Watch: What we learned from opening statements in Tupac murder trial",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tupac-shakur-murder-trial-opens-as-prosecutors-say-keffe-d-ordered-1996-killing/a-78407221?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5685,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Williams sisters lose on doubles return",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-08-18/alex-de-minaur-defeats-arthur-fery-at-cincinnati-open/107049642"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5644,
+      "mentions": 5,
+      "diversity": 5
+    }
+  ]
+}
