@@ -1,14 +1,24 @@
 {
-  "published_at": "2026-08-19T10:37:26.218789+00:00",
+  "published_at": "2026-08-19T10:38:42.306670+00:00",
+  "algorithm": "hdbscan",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
       "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Ukraine's newly dismissed defence minister publicly advocates for holding presidential elections despite the ongoing war with Russia. The call breaks with the wartime convention of postponing electoral contests and raises questions about political instability within Ukraine's leadership during active conflict.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Sacked Ukrainian defence minister calls for presidential election"
+        },
+        {
+          "headline": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village"
+        },
+        {
+          "headline": "Zelensky’s office faces corruption probe a day after fired defence minister called for wartime elections"
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
@@ -16,38 +26,35 @@
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss"
         },
         {
           "name": "The Guardian",
           "link": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election"
         }
       ],
-      "source_count": 16,
+      "source_count": 13,
       "regions": [
         "Australia",
         "Canada",
         "Central Asia & Eastern Europe",
         "Europe",
         "Germany",
-        "Global",
         "India",
         "Middle East",
         "North Africa",
-        "Russia",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7625,
-      "mentions": 28,
-      "diversity": 7
+      "score": 0.6913,
+      "mentions": 20,
+      "diversity": 12
     },
     {
       "rank": 2,
       "headline": "Scaling back US-South Korea drills may fail to woo Kim away from China",
-      "summary": "The United States and South Korea are reducing the scale and duration of their joint military exercises following Trump's directive to pursue negotiations with North Korea. Analysts suggest the move may not shift Kim Jong-un's alignment away from China, while South Korean officials express concern about maintaining alliance credibility despite their president's previous interest in scaled-back drills.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -65,8 +72,9 @@
           "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut"
         }
       ],
-      "source_count": 14,
+      "source_count": 15,
       "regions": [
+        "Asia-Pacific",
         "Australia",
         "Europe",
         "Germany",
@@ -80,50 +88,49 @@
         "US",
         "Ukraine"
       ],
-      "score": 0.7592,
-      "mentions": 21,
+      "score": 0.8775,
+      "mentions": 22,
       "diversity": 6
     },
     {
       "rank": 3,
-      "headline": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-      "summary": "The UAE has suspended all commercial and financial transactions with Iran indefinitely, citing alleged missile strikes against the Gulf state. The embargo represents a significant escalation in tensions between the two nations and signals the UAE's shift away from its recent efforts toward regional diplomacy.",
+      "headline": "Middle East: No talks or conversations with Iran, Trump says",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html"
         },
         {
           "name": "Financial Times",
-          "link": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3364490/uae-says-iran-fired-2-missiles-country-war-drags?utm_source=rss_feed"
+          "link": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1"
         }
       ],
-      "source_count": 10,
+      "source_count": 9,
       "regions": [
-        "Central Asia & Eastern Europe",
-        "Europe",
+        "Africa",
+        "Canada",
+        "Germany",
         "Hong Kong",
-        "India",
         "Middle East",
-        "Pakistan",
+        "North Africa",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.5923,
-      "mentions": 16,
-      "diversity": 5
+      "score": 0.7185,
+      "mentions": 12,
+      "diversity": 6
     },
     {
       "rank": 4,
       "headline": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "summary": "Trump delays implementing threatened tariffs on Canada for three days while both countries pursue negotiations aimed at resolving trade disputes. The pause suggests movement toward an agreement, though the specifics of any potential deal remain unclear.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -152,85 +159,13 @@
         "UK",
         "US"
       ],
-      "score": 0.5816,
-      "mentions": 13,
+      "score": 0.6793,
+      "mentions": 15,
       "diversity": 4
     },
     {
       "rank": 5,
-      "headline": "Middle East: No talks or conversations with Iran, Trump says",
-      "summary": "Trump rules out diplomatic engagement with Iran while pursuing economic pressure as tensions remain high over the Strait of Hormuz, a critical waterway that handles roughly one-third of global maritime oil trade. Regional mediators like Oman and Qatar are attempting to broker negotiations despite the stated absence of direct U.S.-Iran talks, amid reports of incidents affecting ships in the strait.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3364501/why-trump-threatening-bomb-oman-iran-mediator-trying-clear-hormuz?utm_source=rss_feed"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "North Africa",
-        "Southeast Asia",
-        "US"
-      ],
-      "score": 0.5622,
-      "mentions": 9,
-      "diversity": 6
-    },
-    {
-      "rank": 6,
-      "headline": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "summary": "Israel conducted airstrikes on a Syrian airbase, reportedly targeting infrastructure to prevent Turkish troop deployments in the region. The United States has publicly criticized the strikes as unnecessarily escalating tensions, with officials warning the action risked direct military confrontation between Israel and Turkey.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
-        },
-        {
-          "name": "Euronews",
-          "link": "http://www.euronews.com/2026/08/19/us-criticises-israel-over-unnecessary-escalation-after-strikes-on-syrian-airbase"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Middle East",
-        "North Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.545,
-      "mentions": 9,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
       "headline": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
-      "summary": "US prosecutors argue in a landmark trial that Meta deliberately designed its platforms to be addictive to children while misrepresenting the harms to the public. Multiple states united their legal efforts to present evidence that the company prioritized youth engagement to increase profits.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -258,14 +193,13 @@
         "South Africa",
         "Southeast Asia"
       ],
-      "score": 0.5437,
+      "score": 0.6473,
       "mentions": 8,
       "diversity": 6
     },
     {
-      "rank": 8,
+      "rank": 6,
       "headline": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-      "summary": "Nick Kyrgios has been provisionally suspended from tennis following a positive cocaine test result. The suspension prevents him from competing while the governing body conducts a formal investigation into the positive finding.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -292,14 +226,13 @@
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.5386,
+      "score": 0.6093,
       "mentions": 6,
       "diversity": 5
     },
     {
-      "rank": 9,
+      "rank": 7,
       "headline": "Musiala collapses in match for second time in four days",
-      "summary": "Jamal Musiala collapsed during a Bayern Munich match for the second time in four days, prompting medical evaluation and concern about his ability to continue playing. The German star has since attributed the incidents to a diagnosed neurological issue, raising questions about his availability for upcoming club and international fixtures.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -325,14 +258,46 @@
         "Middle East",
         "UK"
       ],
-      "score": 0.53,
+      "score": 0.5722,
       "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "headline": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3364490/uae-says-iran-fired-2-missiles-country-war-drags?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5655,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
       "headline": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "summary": "The Democratic Republic of Congo's Ebola outbreak has surpassed 5,000 confirmed cases, with the virus spreading faster than containment measures can address. Insecurity and attacks on health workers and ambulances are hampering vaccination and treatment efforts, allowing the disease to continue circulating in affected communities.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -358,8 +323,39 @@
         "Thailand",
         "US"
       ],
-      "score": 0.4386,
-      "mentions": 6,
+      "score": 0.5263,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/a-78411972?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/firefighters-push-to-encircle-belgian-wildfire/article71360083.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5068,
+      "mentions": 4,
       "diversity": 4
     }
   ]
