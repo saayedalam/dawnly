@@ -1,0 +1,353 @@
+{
+  "published_at": "2026-08-20T10:41:05.855743+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump vows ‘economic warfare’ on countries helping Iran",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump vows ‘economic warfare’ on countries helping Iran"
+        },
+        {
+          "headline": "Iran mocks Trump’s ‘economic warfare’ threat as more ‘failed policies’"
+        },
+        {
+          "headline": "UAE halts all trade and financial dealings with Iran"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-threatens-economic-punishment-on-any-country-helping-iran/article71367586.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6324,
+      "mentions": 13,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "ICC slams US sanctions on court as 'flagrant attack'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2624793/uns-guterres-seriously-concerned-by-us-sanctions-on-icc"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.8125,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "New personalised vaccine breakthrough stops cancer returning in trial",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8078,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7574,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7542,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "US national debt passes $40tn after doubling in a decade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3364613/us-debt-hits-us40-trillion-high-raising-doom-loop-risk?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7449,
+      "mentions": 7,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Burnham announces plans to clean up worst three illegal waste dumps",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7024,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Harry and Meghan moving back to Britain: reports",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/prince-harry-and-meghan-to-move-back-to-britain"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "North Africa",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.7,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 9,
+      "headline": "Kim Jong-un’s sister casts doubt on Trump’s claims of secret US-North Korea talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/d15d68d5-291b-44d2-8fdf-3afc95308e9e?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/article/3364612/trump-says-he-plans-meet-kim-jong-un-year-citing-excellent-relationship?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6812,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6452,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
