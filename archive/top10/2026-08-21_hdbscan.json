@@ -1,0 +1,346 @@
+{
+  "published_at": "2026-08-21T10:39:30.026009+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud"
+        },
+        {
+          "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech"
+        },
+        {
+          "headline": "Thai, Myanmar military chiefs meet as post-coup thaw progresses"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/business/companies/article/3364786/chinese-court-accepts-evergrande-liquidation-petition-1-day-after-founders-life-sentence?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/chinese-court-sentences-founder-of-troubled-property-developer-evergrande-to-life-in-prison/article71370604.ece"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6926,
+      "mentions": 31,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "Meghan could return to acting once back in UK",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/21/california-montecito-prince-harry-meghan"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8765,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Hong Kong Tiananmen activists found guilty of national security charges",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8216,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7247,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-unidentified-projectile-off-its-east-coast-south-korea/article71368494.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "India",
+        "Japan",
+        "UK",
+        "US"
+      ],
+      "score": 0.6591,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Eight killed in plane crash at remote Alaskan military site, US air force says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/alaska-charter-flight-crash-kills-8/a-78453258?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/alaska-charter-plane-crash-several-onboard-updates/article71372075.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6261,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Bangladesh lawmakers elect BNP's Alamgir as president",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/bnps-mirza-fakhrul-islam-alamgir-elected-as-bangladeshs-new-president/article71369253.ece"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/08/mirza-fakhrul-islam-alamgir-elected-bangladeshs-new-president/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "India"
+      ],
+      "score": 0.6253,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.6117,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-vows-collapse-iran-new-sanctions-energy-prices-spike"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-us-iran-war-trump-sanctions/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.602,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/first-group-of-deportees-arrives-in-troubled-haiti-after-us-ends-tps-programme/article71372228.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/21/first-20-migrants-deported-from-us-arrives-in-liberia-under-new-entirely-humanitarian-deal"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5767,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
