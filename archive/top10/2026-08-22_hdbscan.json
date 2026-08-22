@@ -1,0 +1,339 @@
+{
+  "published_at": "2026-08-22T10:33:11.733445+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8715,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364896/russian-drone-strikes-ukraine-shopping-centre-kill-16-injure-130?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8128,
+      "mentions": 22,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Iranian president says time to end war with US from ‘position of strength’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6594,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/aug/21/tiktok-settlement-children-privacy"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tiktok-agrees-to-pay-400m-to-settle-us-children-s-privacy-case/a-78466204?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6509,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3364905/us-court-strikes-down-trump-visa-ban-affecting-south-asian-nations?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5882,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "The Papers: 'Fiscal worries mount' and 'Meghan in Guy Ritchie talks'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c935r6vr135o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3364881/prince-harry-and-others-ordered-pay-initial-us13-million-failed-lawsuit?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/prince-harry-celebrities-ordered-to-pay-18m-but-final-court-bill-could-be-higher-20260822-p60qjf.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5644,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/many-tunisians-missing-after-migrant-boat-sinks-off-tunisia-group-says/article71376441.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/21/more-than-300-migrants-including-40-children-rescued-off-mauritania-coastguard-says"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5168,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Sweden: One killed in school sword attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3364889/man-armed-sword-injures-several-swedish-high-school?utm_source=rss_feed"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-sweden-sword-attack-wounded-school/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5044,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ceuta-begins-burials-for-migrants-who-died-attempting-to-cross-into/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/22/ceuta-authorities-bury-migrants-who-died-in-border-rush-from-morocco/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Southeast Asia"
+      ],
+      "score": 0.4776,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/girl-dies-in-hospital-days-after-family-drowned-off-english-coast-police-say"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.47,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
