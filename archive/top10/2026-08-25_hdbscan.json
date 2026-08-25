@@ -1,0 +1,371 @@
+{
+  "published_at": "2026-08-25T10:42:04.214916+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US threatens severe sanctions against countries with economic ties to Iran",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "US threatens severe sanctions against countries with economic ties to Iran"
+        },
+        {
+          "headline": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran"
+        },
+        {
+          "headline": "Pakistan says significant progress made in talks on Iran-US war"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.719,
+      "mentions": 26,
+      "diversity": 15
+    },
+    {
+      "rank": 2,
+      "headline": "What Is Andy Burnham's Missile Offer To Ukraine?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "What Is Andy Burnham's Missile Offer To Ukraine?"
+        },
+        {
+          "headline": "Warehouse burns near St Petersburg as Ukraine targets Ozon sites"
+        },
+        {
+          "headline": "Britain and France pledge stronger support as Ukraine marks Independence Day"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p62njt?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.654,
+      "mentions": 15,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Beyond China's humanoid robots, a quieter machine revolution is unfolding"
+        },
+        {
+          "headline": "Gold price hits three-month high amid fears over Iran war and Trump economy"
+        },
+        {
+          "headline": "Trump moves toward levying new tariff on China for flooding market with cheap goods"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3365204/deepseek-leads-surge-low-cost-chinese-open-weight-models-us-platform?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.594,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8667,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b89d51c9-2206-4213-b0d3-8a826262c9d8?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2625741/us-supreme-court-hands-a-win-to-trump-over-mail-in-ballot-restrictions"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "East Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7167,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Tottenham sign Savinho for £75m - what will he bring to club?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/rogers-says-theres-more-come-after-starting-life-chelsea-goal-6339691"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6823,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Haiti: Gang members kill dozens near Port-au-Prince",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/haiti-gang-members-kill-dozens-near-port-au-prince/a-78491117?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3365138/gang-attack-haiti-leaves-least-47-dead-anger-mounts-over-police-failures?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/many-dead-in-gang-attack-near-haitis-capital/article71386361.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India"
+      ],
+      "score": 0.669,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-threatens-50-tariff-on-canadian-automobiles-car-parts-steel-starting-january-1/article71385281.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "UK"
+      ],
+      "score": 0.549,
+      "mentions": 5,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Lockerbie bombing trial postponed days before it was due to start",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3365118/judge-postpones-us-trial-libyan-man-charged-1988-lockerbie-bombing?utm_source=rss_feed"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/25/new-evidence-prompts-trial-delay-for-libyan-charged-in-1988-bombing-of-pan-am-flight-103"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5365,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "What would justice look like if there were no Rohingya left in Myanmar?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/myanmar-why-rohingya-refugees-can-t-return/a-78485340?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/08/ending-the-cycle-of-flight-for-the-rohingya-requires-a-political-reckoning/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Asia-Pacific",
+        "Eastern Europe",
+        "Germany",
+        "Middle East"
+      ],
+      "score": 0.5365,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
