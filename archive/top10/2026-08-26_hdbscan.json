@@ -1,0 +1,376 @@
+{
+  "published_at": "2026-08-26T10:43:51.126798+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran, Oman agree on new temporary route in Hormuz",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran, Oman agree on new temporary route in Hormuz"
+        },
+        {
+          "headline": "China denounces US threat of sanctions over trade with Iran"
+        },
+        {
+          "headline": "Netanyahu says no diplomatic deal possible with Iran ‘savages’"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-oman-hold-talks-on-managing-strait-of-hormuz/article71390541.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/08/26/iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5801,
+      "mentions": 16,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’"
+        },
+        {
+          "headline": "Seven killed, nine Chinese workers missing in Russia gas complex fire"
+        },
+        {
+          "headline": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365304/monk-remanded-after-alleged-theft-monkey-king-statue-hong-kong-temple?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4664,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7989,
+      "mentions": 16,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "At least 14 babies killed in Pakistan hospital nursery fire",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/26/newborn-babies-die-fire-pakistan-hospital-maternity-ward"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7817,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/deadly-flash-flood-wipes-away-villages-in-nepal-tibet/a-78505576?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7339,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Lindsey Graham’s sister up for election to his US Senate seat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/lindsey-grahams-sister-up-for-election-to-his-us-senate-seat?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6676,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Canada's retaliation tests the limit of American power under Trump",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "UK",
+        "US"
+      ],
+      "score": 0.6531,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.6449,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6149,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Man City complete £85.6m Bouaddi signing from Lille",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/26/manchester-united-sign-cameroon-midfielder-carlos-baleba-from-brighton/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.5826,
+      "mentions": 8,
+      "diversity": 4
+    }
+  ]
+}
