@@ -1,0 +1,364 @@
+{
+  "published_at": "2026-08-27T20:20:01.856421+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran endures 6 months of US strikes as Trump’s war goals hit ‘dangerous impasse’",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Iran endures 6 months of US strikes as Trump’s war goals hit ‘dangerous impasse’"
+        },
+        {
+          "headline": "Could new US sanctions tear China and Iran apart?"
+        },
+        {
+          "headline": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3365483/iran-endures-6-months-us-strikes-trumps-war-goals-hit-dangerous-impasse?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2626057/after-six-months-the-iran-war-has-reached-its-endgame-a-costly-stalemate"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/opinion/how-will-iran-respond-trumps-economic-d-day"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4439,
+      "mentions": 22,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "What the Meta settlement means for the UK, and other questions after the deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/8/27/parents-who-lost-children-to-social-media-harms-question-meta?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8443,
+      "mentions": 20,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8144,
+      "mentions": 28,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Trump signs order to rename Lake Ontario to Lake America",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7377,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-flash-floods-increasing-death-toll-many-missing-rescuers-search-for-survivors-live-updates-august-27-2026/article71394802.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.6846,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.6636,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Uefa preparing criminal legal action against Infantino",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5416,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Australian officials ‘working around the clock’ to check welfare of tourists missing in Nepal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/thirty-four-australians-missing-in-nepal-flash-floods-pm-albanese/article71394796.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/asia/families-desperate-wait-for-news-of-loved-ones-after-devastating-nepal-flash-flood-20260827-p60s7l.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "India",
+        "UK"
+      ],
+      "score": 0.4713,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/zambian-opposition-leader-in-police-custody-state-media/a-78531338?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/08/27/opposition-urges-african-union-to-intervene-in-zambias-disputed-election/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4642,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Time is running out for cyber security, warn top tech firms",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/science/japan-sees-surge-in-research-co-authored-with-entities-flagged-for-security-risks"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4557,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
