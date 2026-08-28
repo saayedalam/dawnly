@@ -1,0 +1,372 @@
+{
+  "published_at": "2026-08-28T21:13:37.035469+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Norway’s King Harald dies aged 89",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Norway’s King Harald dies aged 89"
+        },
+        {
+          "headline": "Norway mourns king Harald V as crown prince Haakon becomes king"
+        },
+        {
+          "headline": "Who is King Haakon? What to know about Norway’s new monarch"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8727,
+      "mentions": 22,
+      "diversity": 15
+    },
+    {
+      "rank": 2,
+      "headline": "US Treasury imposes limits on Egyptian bank for doing business with Iran",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US Treasury imposes limits on Egyptian bank for doing business with Iran"
+        },
+        {
+          "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree"
+        },
+        {
+          "headline": "After 6 months of war, Iran's battered regime remains entrenched"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/40d1e3df-f220-4740-8c57-cf5e78890bb3?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2626193/irans-parliament-speaker-hits-back-at-us-treasury-secretary-on-foreign-spending"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/us-cuts-major-egyptian-bank-global-financial-system"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Brazil",
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6246,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "'Terrorist connection' included in charges over vandalism at Trump's Scottish golf resort",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "'Terrorist connection' included in charges over vandalism at Trump's Scottish golf resort"
+        },
+        {
+          "headline": "President Donald Trump signs order creating US Space Academy"
+        },
+        {
+          "headline": "US judge denies injunction against Trump’s new birthright citizenship order"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4gk2lqgkeno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/prosecutors-say-seven-charged-with-damaging-trump-scottish-golf-course-had-terrorism-connection"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.45,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7074,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Can Trump really rename Lake Ontario, ‘Lake America’?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-signs-order-renaming-lake-ontario-as-lake-america-in-us/article71397955.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.6113,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5961,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Violence breaks out in Ceuta as migrant crisis continues",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/video/2026/08/28/spain-clashes-erupt-in-ceuta-as-anti-migrant-protesters-confront-police"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5375,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/austria-museum-heist-thieves-snatch-diamond-necklace/a-78552889?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5137,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-drones-batter-ukraines-kyiv-region-hitting-apartments-and-warehouses-for-a-second-day/article71401853.ece"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/83282"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Russia",
+        "Ukraine"
+      ],
+      "score": 0.4979,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "World's youngest reigning traditional monarch dies aged 34",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uganda-world-s-youngest-monarch-dies-aged-34/a-78549208?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202608280116.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "East Africa",
+        "Germany",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.485,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}
