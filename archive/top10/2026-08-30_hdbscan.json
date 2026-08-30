@@ -1,0 +1,348 @@
+{
+  "published_at": "2026-08-30T14:49:02.283721+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/30/renee-gyirong-port-flood-nepal-family-australia-help-search"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8444,
+      "mentions": 57,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Iceland votes against restarting EU membership talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6033,
+      "mentions": 16,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Three rescued, two still missing as French fishing vessel sinks in Channel",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5887,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russian-strike-on-ammunition-depot-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5755,
+      "mentions": 15,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/manhunt-underway-after-woman-killed-in-swiss-rave-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3365736/shooting-erupts-rave-party-switzerland?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.505,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5948708/the-trump-administration-claims-america-will-soon-get-a-majority-of-its-oil-from-venezuela-with-new-deal"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3365737/furore-grows-venezuela-defends-us-oil-deal-trump?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4557,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Dementia patient's deportation from Sweden delayed",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1wx7rjpjz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3365722/far-right-activist-milo-yiannopoulos-deported-after-immigration-arrest-us?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/milo-yiannopoulos-detained-by-ice-in-louisiana-20260829-p60skw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4274,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Barcelona close to deal for Arsenal's Jesus",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/30/chelsea-sign-argentina-goalkeeper-emiliano-martinez-from-aston-villa?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/chelsea-sign-goalkeeper-martinez-villa-three-year-deal-6350296"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.41,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "How has life changed for Iranians six months into the war?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iranian-supreme-leader-calls-for-unity-among-muslim-countries/article71407523.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2626541/irans-khamenei-urges-gulf-rulers-in-written-message-to-confront-real-enemy"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3911,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/aug/30/treasury-city-real-life-proof-blocking-dirty-money"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/spotlight/society/crime/cambodia-claims-to-have-eradicated-all-online-scam-compounds"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Japan",
+        "South America",
+        "UK"
+      ],
+      "score": 0.3859,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
