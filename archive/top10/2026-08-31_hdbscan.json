@@ -1,0 +1,368 @@
+{
+  "published_at": "2026-08-31T17:33:34.536474+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US and Iran trade strikes for first time in weeks",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US and Iran trade strikes for first time in weeks"
+        },
+        {
+          "headline": "Iran could face economic collapse in months, US Treasury’s Bessent warns"
+        },
+        {
+          "headline": "Vance says Trump ‘sending a message’ to Iran with AI-generated video"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7038,
+      "mentions": 28,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8404,
+      "mentions": 39,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Messi retires from Argentina duty with 'nothing left to give'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.6847,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5893,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Why has Greece signed a $3.5bn missile deal with Israel?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-signs-€3-billion-arms-export-deal-with-greece/a-78572062?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3365876/israel-and-greece-sign-us35-billion-defence-deal-largest-ever-between-two?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5838,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/italy-extends-schengen-suspension-with-spain/a-78573029?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3365881/spain-pm-blames-russia-israel-ceuta-migrant-crisis-disinformation?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.572,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Putin-Modi meeting at SCO: Can Russia-India ties hold?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/putin-modi-meeting-at-sco-can-russia-india-ties-hold/a-78575121?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5459,
+      "mentions": 15,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Barcola joins Liverpool from PSG in £123m move",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/liverpool-sign-france-forward-barcola-psg-6352441"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4357,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/google-maps-now-shows-lake-america-in-us-not-lake-ontario/article71409535.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.4258,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/business/2026/08/31/what-we-know-about-trumps-deal-giving-the-us-access-to-venezuelas-oil"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/trump-speaks-on-venezuela-oil-deal-20260831-p60sw7.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Europe",
+        "US"
+      ],
+      "score": 0.4179,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
