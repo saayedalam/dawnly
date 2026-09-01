@@ -1,0 +1,352 @@
+{
+  "published_at": "2026-09-01T14:44:42.078300+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?"
+        },
+        {
+          "headline": "Iran would 'immediately' reciprocate if U.S. returns to June deal: President Pezeshkian"
+        },
+        {
+          "headline": "Iran urges U.S. to honour June interim deal, says it would reciprocate"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/donald-trump-vows-to-hit-iran-hard-after-first-exchange-of-fire-in-weeks/article71413458.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5894,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Could Tupac verdict inspire new efforts to also find killer of his rap rival?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cdx0np90lx4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7913,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-persons-missing-rescue-relief-september-1-2026/article71413472.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 0.7851,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Keir Starmer announces he is standing down as MP",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/61c9b686-2db7-4f24-80a0-8b75a144c7b6?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7429,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-09-01/messi-leaves-argentina/107030934"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "South America",
+        "US"
+      ],
+      "score": 0.7147,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Israeli attacks on Gaza kill at least four, including children",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-three-in-operation-to-seize-hamas-figure-officials/article71415288.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2626896/israeli-strikes-kill-four-in-gaza-as-military-says-it-arrests-hamas-fighter"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.7089,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Times Square stabbing in NYC leaves 1 dead, assailant killed",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/times-square-stabbing-in-nyc-leaves-1-dead-assailant-killed/a-78582543?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/woman-stabs-two-times-square-new-york-usa/article71413469.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.7064,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/court-says-india-must-uphold-pakistan-water-treaty/a-78579010?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/palestinian-foreign-minister-interview-india-israel-west-bank-situation-trump-gaza-peace-plan/article71415131.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.6082,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.6079,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Trump says US position on Falklands 'one of many' under review",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/days-after-netanyahus-son-backs-argentina-falklands-trump-signals-us-may-review-uks-claim"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Middle East",
+        "South America",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.601,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
