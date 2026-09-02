@@ -1,0 +1,347 @@
+{
+  "published_at": "2026-09-02T14:17:46.524432+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Watch: What we know about reported strike on Iran wedding celebrations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8542,
+      "mentions": 30,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "What we know about jailed HK activist Joshua Wong’s latest charge",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.61,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Video: Chinese President Xi makes first visit to Egypt in a decade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/china-opinion/article/3365853/china-egypt-joint-drills-show-beijings-military-reach?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "US"
+      ],
+      "score": 0.6092,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.5569,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5487,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Tiger Woods gets five-year driving ban after reckless driving plea",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/tiger-woods-pleads-guilty-to-lesser-charge-in-dui-rollover-case-20260902-p60txe.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5354,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.4866,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-rescue-operations-relief-death-toll-missing-persons-news-september-2-2026/article71417912.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "India",
+        "UK"
+      ],
+      "score": 0.4788,
+      "mentions": 7,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/02/timidity-is-a-virus-paul-keating-fights-the-fading-of-the-light-as-he-seeks-to-enshrine-his-legacy"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/new-british-pm-makes-first-address-to-mps-20260902-p60tlj.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Canada",
+        "UK"
+      ],
+      "score": 0.4616,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Congo's Ebola caseload tops 6,000 as concerns grow",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ebola-deaths-cross-2000-in-democratic-republic-of-congo/article71331674.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/as-schools-re-open-congo-drops-remote-learning-plan-in-ebola-red-zone"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "West Africa"
+      ],
+      "score": 0.458,
+      "mentions": 10,
+      "diversity": 4
+    }
+  ]
+}
