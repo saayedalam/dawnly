@@ -1,0 +1,373 @@
+{
+  "published_at": "2026-09-03T14:22:05.775010+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270"
+        },
+        {
+          "headline": "Families perform symbolic funerals for missing Nepal flood victims"
+        },
+        {
+          "headline": "‘Nepal is not closed’: tour operators battle flood fallout, urge visitors to return"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-rescue-operations-missing-persons-helpline-number-september-3-2026/article71422150.ece"
+        },
+        {
+          "name": "Bangkok Post",
+          "link": "https://www.bangkokpost.com/world/3313360/delivering-aid-to-nepal-flood-survivors-very-very-difficult-un"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.4022,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding"
+        },
+        {
+          "headline": "Iran targets US bases in Kuwait despite warnings from Trump"
+        },
+        {
+          "headline": "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-un-action-over-deadly-us-attack-wedding"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.3968,
+      "mentions": 15,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-tributes"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.8812,
+      "mentions": 22,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/supersized-el-nino-could-be-strongest-on-record-un-says/a-78841246?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6616,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3366178/venezuelas-maduro-seeks-dismissal-us-charges-citing-immunity?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ex-venezuelan-president-nicolas-maduro-wife-seek-to-end-drug-charges-case-on-immunity-grounds/article71422276.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "South America",
+        "US"
+      ],
+      "score": 0.5473,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "The US and Venezuela: a century-old relationship drenched in oil",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals"
+        },
+        {
+          "name": "Euronews",
+          "link": "http://www.euronews.com/2026/09/03/us-energy-firms-significantly-expand-operations-in-venezuela-after-washingtons-oil-deal-wi"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5288,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/malta-businessman-acquitted-of-journalist-s-murder/a-78814305?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3366185/businessman-acquitted-murder-malta-journalist-brought-down-government?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5113,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "China's Xi visits Egypt for the first time in a decade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3366206/xi-jinpings-call-mideast-build-own-security-framework-message-us-expert?utm_source=rss_feed"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/09/mohan-malik-on-trump-asia-and-the-legacy-of-the-global-war-on-terror/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "US"
+      ],
+      "score": 0.5032,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "US: 3 dead including suspect in Minneapolis shooting",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/several-people-dead-multiple-injured-in-minneapolis-shooting/article71422143.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4905,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Ukraine takes the war to Russia’s space programme in tactical shift",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-strikes-kill-two-ukrainian-civilians-as-moscow-and-kyiv-threaten-to-raise-stakes/article71421037.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Eastern Europe",
+        "India",
+        "Middle East",
+        "Russia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4748,
+      "mentions": 12,
+      "diversity": 4
+    }
+  ]
+}
