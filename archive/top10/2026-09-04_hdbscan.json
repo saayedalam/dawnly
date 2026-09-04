@@ -1,0 +1,373 @@
+{
+  "published_at": "2026-09-04T14:11:39.303445+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "JD Vance accused of ‘gaslighting’ after saying he is ‘skeptical’ US struck Iranian wedding | First Thing",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "JD Vance accused of ‘gaslighting’ after saying he is ‘skeptical’ US struck Iranian wedding | First Thing"
+        },
+        {
+          "headline": "Iran war: Why US midterms could be a pivotal moment"
+        },
+        {
+          "headline": "U.S. Diesel Prices Set New High"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/04/first-thing-jd-vance-gaslighting-skeptical-us-struck-iran-wedding"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3366297/us-probes-deadly-strike-iran-wedding-experts-link-us-munition?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2627398/deadly-strike-on-iranian-wedding-was-likely-a-direct-hit-by-a-us-munition-analysis-shows"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4542,
+      "mentions": 14,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision"
+        },
+        {
+          "headline": "China arrests 52 Singaporeans in Guangxi pyramid scheme crackdown"
+        },
+        {
+          "headline": "Moment three-storey building collapses amid flooding in China"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/plus/economy/china-economy/article/3366300/how-china-works-author-data-economy-robots-and-ai?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3238,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8641,
+      "mentions": 26,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.7532,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Chris Mason: 'This is not what Farage wanted today to look like'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6196,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5091,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Stock up on food to prepare for extreme weather, minister says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5944344/as-el-nino-intensifies-rio-turns-to-science-and-a-spiritual-advisor"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/el-nino-could-be-strongest-in-decades-un-warns/article71425407.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Japan",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.4963,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/03/nyregion/jewish-new-yorkers-israel-gaza.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4906,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Indonesia",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.4774,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3366370/south-korea-weighs-contributions-hormuz-us-pressure-mounts?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.4737,
+      "mentions": 8,
+      "diversity": 5
+    }
+  ]
+}
