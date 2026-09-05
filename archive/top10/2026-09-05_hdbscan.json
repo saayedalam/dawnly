@@ -1,0 +1,360 @@
+{
+  "published_at": "2026-09-05T13:24:40.186058+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia"
+        },
+        {
+          "headline": "Indonesia's Mount Anak Krakatau erupts, spews rocks, volcanic ash"
+        },
+        {
+          "headline": "‘Worried’ and ‘confused’: Sarawakians grapple with worst haze since 2019"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss"
+        },
+        {
+          "name": "Bangkok Post",
+          "link": "https://www.bangkokpost.com/world/3314523/more-orangutans-rescued-from-indonesian-wildfire"
+        },
+        {
+          "name": "Antara News",
+          "link": "https://en.antaranews.com/news/430029/mother-infant-orangutan-rescued-from-fires-in-west-kalimantan"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.1999,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 2,
+      "headline": "How big is Africa really? Why the UN voted to change the world map",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/5/how-big-is-africa-really-why-the-un-voted-to-change-the-world-map?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8325,
+      "mentions": 17,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-announces-three-day-halt-in-strikes-as-trump-envoys-visit-for-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6938,
+      "mentions": 20,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6678,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Rescuers in Nepal find two more people alive after flood disaster",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3366486/chinese-man-nepali-woman-found-alive-10-days-after-flood?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6605,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Bolivian military barracks explosion kills at least 10",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3366452/least-10-dead-62-injured-after-explosion-bolivian-army-base?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5716,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.551,
+      "mentions": 8,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/why-many-syrians-feel-assad-s-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/09/public-scrutiny-really-does-help-the-unjustly-detained/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.513,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Iran war: Explosions reported near Kharg Island",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/explosions-in-kharg-island-area-of-gulf/article71431525.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2627565/high-ranking-us-military-officials-subjected-to-polygraph-tests-over-information-leaks-cbs"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4902,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/more-than-120-killed-in-yemens-worst-clashes-in-years-sources/article71429714.ece"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.4781,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
