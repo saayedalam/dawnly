@@ -1,0 +1,334 @@
+{
+  "published_at": "2026-09-06T13:34:23.531680+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3366530/indonesias-anak-krakatoa-volcano-erupts-disrupting-flights-6-airports?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8147,
+      "mentions": 41,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5967,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Israeli air attacks on Lebanon kill at least four",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/1b46baac-10e7-444f-99c5-c661c164b2f1?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2627739/4-killed-20-injured-in-israeli-airstrikes-in-southern-lebanon-despite-us-deal"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5903,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/people/article/3366408/hired-then-what-malaysias-deaf-workers-push-past-entry-level-jobs?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Indonesia",
+        "UK"
+      ],
+      "score": 0.5553,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.5466,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3366511/argentina-threatens-sanction-oil-projects-around-falkland-islands?utm_source=rss_feed"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/explainers/falklands-dispute-uk-argentina-us-israel"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.536,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Far-right AfD predicted to win big in crucial German state election",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5023,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Jovic moved to tears after beating ‘incredible’ friend Eala in US Open epic",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/9/6/jovic-moved-to-tears-after-beating-incredible-friend-eala-in-us-open-epic?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-09-06/tennis-naomi-osaka-apologises-children-us-open-victory/107121698"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/zverev-reaches-us-open-fourth-round-win-over-tabilo-6365421"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.4917,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Police slow to respond to Dover protest, says council boss",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/masked-anti-migrant-protesters-block-uk-s-dover-terminal/a-79046929?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Germany",
+        "UK"
+      ],
+      "score": 0.4784,
+      "mentions": 5,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Fifa president Infantino will stand for re-election",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/president-infantino-will-seek-re-election-in-march-fifa-says-6365691"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4494,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
