@@ -1,0 +1,361 @@
+{
+  "published_at": "2026-09-07T15:44:31.555892+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia and North Korea open first road bridge across their shared border",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia and North Korea open first road bridge across their shared border"
+        },
+        {
+          "headline": "Russia announces it is closing Germany's consulate in St. Petersburg"
+        },
+        {
+          "headline": "At least 11 killed after avalanche hits climbers in Russia's North Caucasus"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3366679/north-korea-russia-open-first-road-bridge-new-symbol-friendship?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4768,
+      "mentions": 13,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8667,
+      "mentions": 37,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Probe begins into why cargo plane overran Miami runway",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.8335,
+      "mentions": 20,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-zelenskyy-says-war-looks-set-to-go-on-into-winter/live-79135930?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8272,
+      "mentions": 26,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6491,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3366681/hong-kongs-nepalis-gather-prayers-13th-day-flood-mourning?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-floods-death-toll-climbs-to-1355-as-rescue-efforts-continue-nearly-5000-still-missing/article71437815.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.5761,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Why Jamaica is seeking $10bn in reparations from the UK",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/7/why-jamaica-is-seeking-10bn-in-reparations-from-the-uk?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jamaica-to-petition-king-charles-over-slavery-reparations/a-79123536?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5712,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Middle East: Israeli strikes kill several in Lebanon",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2627957/israeli-strikes-on-southern-lebanese-town-kill-11-state-news-agency-says"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/israel-strikes-kill-eleven-and-two-infants-lebanon"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5417,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "What connects the Dover and Portsmouth anti-migrant protests?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-government-condemns-thuggish-anti-migrant-protests-in-portsmouth/a-79134048?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3366644/uk-minister-slams-thuggish-anti-migrant-protests-portsmouth?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5413,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3366662/germany-urges-uns-top-court-dismiss-gaza-genocide-case?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/germany-fights-gaza-genocide-claims-at-the-uns-top-court/article71437625.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.486,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
