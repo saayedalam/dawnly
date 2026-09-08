@@ -1,0 +1,372 @@
+{
+  "published_at": "2026-09-08T14:24:26.651016+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "UK announces sanctions on illegal Israeli settlements",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "UK announces sanctions on illegal Israeli settlements"
+        },
+        {
+          "headline": "As fuel prices rise again, Iran’s government urges citizens to cut back"
+        },
+        {
+          "headline": "The firms turning recruitment into X Factor-style competitions"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Brazil",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5603,
+      "mentions": 16,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China’s Surging Exports Loom Over Trump’s Talks With Xi"
+        },
+        {
+          "headline": "Openness must not be sacrificed in US science and tech policy on China"
+        },
+        {
+          "headline": "China’s Xi Jinping urges deeper UK ties in first call with Andy Burnham"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/asia-opinion/article/3366626/match-chinas-economy-india-must-accept-its-investment?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/trade/china-s-exports-soar-25-in-august-trade-surplus-tops-800bn-for-year"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Mexico",
+        "US"
+      ],
+      "score": 0.2468,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7996,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Three paintings worth $10m stolen from Renoir Museum in southern France",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/8/three-paintings-worth-10m-stolen-from-renoir-museum-in-southern-france?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/renoir-museum-robbery-2-paintings-missing/a-79154458?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7564,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Indonesia airports reopen after volcanic ash disrupts thousands of flights",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/health-environment/article/3366801/indonesia-knew-volcano-was-erupting-could-it-have-prepared-it?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/indonesias-ring-of-fire-key-facts-about-the-worlds-most-volcanic-nation/article71441216.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.623,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-hindu-group-apologizes-over-eiffel-tower-row/live-79153937?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/paris-investigates-claim-of-women-being-removed-during-hindu-delegation-visit-at-eiffel-tower/article71440426.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5444,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Canadian counter-tariffs come into force as US trade dispute escalates",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5435,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Kenya offers amnesty for migrants after Burundians rush to leave",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kenya-crackdown-on-foreign-traders-prompts-xenophobia-fears/a-79143847?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/09/08/kenya-temporary-amnesty-eases-fears-among-east-african-migrants/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5332,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Australia to force social media platforms to allow users to opt out of algorithms",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/australia-targets-big-tech-with-algorithm-opt-out-bill/a-79154108?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Global",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5228,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Sudan’s healthcare system on brink of collapse, MSF warns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/08/nx-s1-5951962/world-food-programmes-carl-skau-discusses-yemens-food-insecurity-crisis"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-un-investigators-find-evidence-of-uae-links-to-sudan-war/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
+        "Middle East",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.521,
+      "mentions": 10,
+      "diversity": 3
+    }
+  ]
+}
