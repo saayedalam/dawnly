@@ -1,0 +1,376 @@
+{
+  "published_at": "2026-09-10T14:16:38.337761+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "At least 25 dead after cargo ship catches fire in China",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "At least 25 dead after cargo ship catches fire in China"
+        },
+        {
+          "headline": "Huawei denies stealing secrets, violating Iran sanctions as US trial begins"
+        },
+        {
+          "headline": "Senior Pentagon official for China to lead US delegation to Xiangshan Forum"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-cargo-ship-fire-kills-at-least-25/a-79212704?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3367049/heavy-casualties-after-foreign-cargo-ship-catches-fire-chinas-qingdao?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5483,
+      "mentions": 13,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "IAEA accuses Iran of ‘noncompliance’",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "IAEA accuses Iran of ‘noncompliance’"
+        },
+        {
+          "headline": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say"
+        },
+        {
+          "headline": "Trump's Iran campaign echoes the post-9/11 'forever wars'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/un-nuclear-watchdog-board-reports-iran-to-un-security-council-for-the-first-time-in-20-years/article71449985.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-un-nuclear-watchdog-board-iran-security-council-uranium/"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3482,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/10/donald-trump-republican-midterm-convention-dividend-offer-5000-vance-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.8096,
+      "mentions": 25,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cdr76legmevo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Japan",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6991,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Is This The Biggest Row Between Israel And The UK?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p8r4wp?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/10/labor-palestine-criticise-australias-decision-sanctions-israeli-settlements-in-west-bank-ntwnfb"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6235,
+      "mentions": 14,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "August joint-hottest month on record as climate change and El Niño drive heat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/august-hottest-month-ever-recorded-says-eu-monitor/a-79208462?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5743,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "ECB raises interest rates to fight off inflation jump",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/10/business/european-central-bank-interest-rates.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5331,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Hong Kong court rules Dow Jones tried to stop journalist taking union role",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367085/wall-street-journal-publisher-convicted-blocking-reporters-bid-lead-union?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.5238,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Why some experts increasingly fear AI will take over",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/could-kill-us-all-anthropic-insiders-say-ai-has-more-than-10-percent-chance-of-ending-humanity-soon-20260910-p60vzq.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/business/technology/article-anthropic-researcher-resigns-ai-danger/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Global",
+        "North Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.4854,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 10,
+      "headline": "Thursday briefing: 68 facts about the Bayeux tapestry as it goes on display",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/10/thursday-briefing-68-facts-about-the-bayeux-tapestry-as-it-goes-on-display"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bayeux-tapestry-goes-on-display-at-sold-out-london-exhibit/a-79211449?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4801,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}
