@@ -1,0 +1,338 @@
+{
+  "published_at": "2026-09-12T13:32:14.437901+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "'BRICS' forum brings together emerging economies, aimed at countering western dominance"
+        },
+        {
+          "headline": "BRICS summit leaders urge 'maximum restraint' in Middle East"
+        },
+        {
+          "headline": "Internal splits threaten to slow Brics’ progress as bloc looks back on 20 years of growth"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc/article71459222.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/brics-summit-begins-in-india-iran-uae-dynamic-key-to-joint-statement"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.4159,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8205,
+      "mentions": 15,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6956,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Reform receives second £36m donation in two days as crypto investor matches record",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/sep/12/christopher-harborne-matches-36m-reform-donation-of-ben-zelo"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/billionaire-delo-gives-record-ps36-million-to-farages-reform-uk"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5607,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 5,
+      "headline": "What did US intelligence know before the 9/11 attacks?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/cia-releases-dozens-of-presidential-daily-briefs-on-laden-and-al-qaeda/article71458038.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5342,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Calls for Democrats to be shot go unchallenged at Republican convention",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/12/democrats-republican-midterm-convention"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/trump-got-the-headlines-he-wanted-inside-the-republican-midterm-convention-20260911-p60wfx.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5041,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3367262/brazils-flavio-bolsonaro-under-investigation-over-alleged-corruption?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4953,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Hong Kong jails Tiananmen vigil activists for seven years",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367291/no-red-line-approving-assemblies-security-threats-remain-police-chief?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international//article71454950.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa"
+      ],
+      "score": 0.4809,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3367295/bodies-philippine-ferry-arrive-port-after-fire-killed-least-35?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/philippines-begins-identifying-victims-from-ferry-fire-as-dozens-still-missing/article71459549.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4809,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "North Korea fires multiple ballistic missiles day after trilateral drills end",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3367279/foie-gras-puppies-water-parks-north-korea-gets-glow?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea-after-military-drill-it-sees-as-threat/article71458990.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan"
+      ],
+      "score": 0.4749,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}
