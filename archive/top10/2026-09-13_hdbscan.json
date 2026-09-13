@@ -1,0 +1,322 @@
+{
+  "published_at": "2026-09-13T14:16:33.387814+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Voting under way in Sweden election that could see far right in government",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.875,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8375,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3367329/houthis-hit-saudi-base-after-renewed-fighting-yemen-government-forces?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/yemen-govt-forces-say-hit-houthis-in-red-sea-city/article71461361.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 0.775,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3367321/farages-reform-uk-gets-second-record-ps36-million-donation-48-hours?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 0.6408,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Israeli attack on Gaza kills two Palestinians",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-strike-kills-two-people-in-gaza-medics-say/article71463083.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2629054/2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5549,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic/article71462444.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/feather-in-everybody-s-cap-trump-says-he-d-love-to-see-a-unified-ireland-20260913-p60wve.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "India",
+        "South America",
+        "UK"
+      ],
+      "score": 0.5377,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "A kingdom within a republic: Inside Uganda’s Buganda",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-kandy-lingering-in-sri-lanka-s-sacred-city"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Japan",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5167,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Renewed fighting worsens Yemen’s humanitarian crisis",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-2000-flee-yemen-fighting-djibouti"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/09/13/thousands-forced-to-flee-as-houthis-advance-on-bab-el-mandeb-strait/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4627,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/indonesia-rescuers-search-for-130-people-after-ferry-sinks/a-79248600?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3367333/indonesian-ship-240-passengers-aboard-loses-contact-java-sea?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "US"
+      ],
+      "score": 0.425,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Nepal flood survivor says rescue efforts must continue",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3367346/nepal-flood-survivor-says-rescue-efforts-must-continue?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-flash-floods-rescue-teams-clear-70-metres-of-debris-in-tunnel-as-they-close-in-on-six-trapped-workers/article71462802.ece"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/asia/nepal-china-disaster-tunnel-survivor-ordeal-6381081"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.3877,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
