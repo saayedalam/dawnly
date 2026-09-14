@@ -1,0 +1,398 @@
+{
+  "published_at": "2026-09-14T16:20:21.665281+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – Europe live",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – Europe live"
+        },
+        {
+          "headline": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?"
+        },
+        {
+          "headline": "Zelenskiy wants swift exit of Ukraine's prosecutor general as graft clashes plague government"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-drone-hits-train-near-ukraine-poland-border-soon-after-boris-johnson-other-visiting-dignitaries-passed-through/article71464480.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8662,
+      "mentions": 20,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Temporary Hormuz solution deferred as Iran-Arab summit falls through"
+        },
+        {
+          "headline": "US blocks Iran’s nuclear chief from Vienna meeting"
+        },
+        {
+          "headline": "Trump says he will decide if US will work towards deal with Iran"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7805,
+      "mentions": 20,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide"
+        },
+        {
+          "headline": "Why are there concerns AI could threaten humanity, and how real are they?"
+        },
+        {
+          "headline": "Why AI leaders are suddenly talking about slowing down"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-dismisses-concerns-over-ai-dangers/a-79264523?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3367503/trump-dismisses-ai-concerns-says-us-has-tools-keep-it-safe?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7601,
+      "mentions": 21,
+      "diversity": 10
+    },
+    {
+      "rank": 4,
+      "headline": "Why Saudi Arabia’s East-West pipeline matters for global oil",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Why Saudi Arabia’s East-West pipeline matters for global oil"
+        },
+        {
+          "headline": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?"
+        },
+        {
+          "headline": "Saudi Leader Meets U.S. Commander as Widening Conflict Threatens Oil Markets"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/saudi-oil-pipeline-hit-in-strikes-will-be-mostly-out-of-service-for-several-weeks-for-repair/article71466140.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/14/saudi-pipeline-shutdown-threatens-oil-exports-to-europe-and-asia-as-kingdom-relies-on-stor"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.7495,
+      "mentions": 19,
+      "diversity": 10
+    },
+    {
+      "rank": 5,
+      "headline": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea"
+        },
+        {
+          "headline": "Southeast Asia weighs energy transition amid LNG supply crunch"
+        },
+        {
+          "headline": "Indonesia’s Prabowo appoints third finance minister in under 2 years"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/09/14/indonesia-races-to-find-129-missing-after-java-sea-ferry-capsizes"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/search-for-indonesian-ferry-passengers-20260914-p60x0b.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.6895,
+      "mentions": 21,
+      "diversity": 9
+    },
+    {
+      "rank": 6,
+      "headline": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/sep/14/westminster-first-ministers-uk-celtic-nations-wales-northern-ireland-scotland"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/scottish-northern-irish-welsh-leaders-assert-right-to-self-determination/article71465923.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6017,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3367426/himalayan-glacier-bankruptcy-threatens-water-security-2-billion-asia?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "UK"
+      ],
+      "score": 0.6017,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "China rejects AI ‘threat narratives’, urges global cooperation",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.5647,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/14/us/politics/trump-mail-ballot-nichols-supreme-court.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3367478/trumps-mail-voting-restrictions-blocked-second-judge?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/second-federal-judge-freezes-trump-mail-ballot-order-with-us-supreme-court-poised-to-weigh-in/article71465531.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.5441,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367477/brics-leaders-act-hedge-not-revolt-against-us-dollar-dominance?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "East Africa",
+        "Hong Kong",
+        "India",
+        "US"
+      ],
+      "score": 0.5046,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
