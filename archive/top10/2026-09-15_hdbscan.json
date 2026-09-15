@@ -1,0 +1,407 @@
+{
+  "published_at": "2026-09-15T14:51:35.391023+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "What are ‘space weapons’, which US says it has deployed into orbit?",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "What are ‘space weapons’, which US says it has deployed into orbit?"
+        },
+        {
+          "headline": "China tightens travel rules over tech security"
+        },
+        {
+          "headline": "China's 'red tourism' boom draws families to Communist Party landmarks"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8127,
+      "mentions": 26,
+      "diversity": 17
+    },
+    {
+      "rank": 2,
+      "headline": "Newscast",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Newscast"
+        },
+        {
+          "headline": "EU to propose curbing social media, online games for under 15s"
+        },
+        {
+          "headline": "Anthropic co-founder says slowing AI is a 'collective action problem'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/technology/trump-dismisses-new-ai-guardrails-says-there-is-a-sick-conspiracy-against-ai-and-data-centers/article71466257.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/i-am-the-hoax-buster-trump-takes-on-america-with-seven-post-rant-promoting-ai-data-centres-20260915-p60xfp.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4114,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump says Ukraine and Russia agreed to stop attacks on energy sites"
+        },
+        {
+          "headline": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure"
+        },
+        {
+          "headline": "Drone Attacks in the Ukrainian-Polish Border Region"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/14/trump-says-ukraine-and-russia-agree-to-halt-strikes-on-energy-targets"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.3749,
+      "mentions": 14,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "UN experts say Belarus justice system used to target Lukashenko opponents",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "UN experts say Belarus justice system used to target Lukashenko opponents"
+        },
+        {
+          "headline": "Trump's envoy meets Lukashenko for new talks on Belarus prisoner releases"
+        },
+        {
+          "headline": "Battle for Belarus"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/belarus-using-justice-system-to-silence-lukashenko-critics-say-un-experts"
+        },
+        {
+          "name": "Daily Maverick",
+          "link": "https://www.dailymaverick.co.za/article/2026-09-15-belarus-using-justice-system-to-silence-lukashenko-critics-say-un-experts/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Global",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.295,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran"
+        },
+        {
+          "headline": "US military says it is facing a shortfall in ammunition as a result of Iran war"
+        },
+        {
+          "headline": "Treasury Secretary is set to defend Iran war strategy as $4 gas, inflation loom over hearing"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2629383/13-injured-in-houthi-missile-and-drone-attacks-on-3-saudi-cities"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-attacks-gulf-harm-peace-efforts-must-stop-immediately"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Global",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.295,
+      "mentions": 9,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8727,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Denmark says Russian warship fired flares at military helicopter",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6697,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5843,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "NATO jets shoot down a drone in Lithuanian airspace",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nato-fighter-jet-shoots-down-drone-in-lithuania/article71466476.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5843,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "US repeals pollution limits for fossil fuel power plants",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/us-repeals-pollution-limits-for-fossil-fuel-power-plants?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/15/private-equity-firms-energy-assets-greenhouse-gas"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.528,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
