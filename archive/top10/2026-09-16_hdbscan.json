@@ -1,0 +1,369 @@
+{
+  "published_at": "2026-09-16T14:50:01.748846+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US accuses Russia of trying to kill Ukrainian allies overseas"
+        },
+        {
+          "headline": "Russian drones hit Ukrainian bus and train, killing five, officials say"
+        },
+        {
+          "headline": "U.S. Democrats probe Russian oligarch’s financing of wedding parties for Donald Trump Jr."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-charges-5-people-over-russia-backed-plots/a-79285863?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/indictment-says-fbi-shut-down-russian-plot-to-kill-us-individuals-target-ukraine-supporters/article71470877.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.3497,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "EU chief backs plan for Canada to become 'associate member'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8644,
+      "mentions": 25,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Kosovo's former president sentenced to 25 years for war crimes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7576,
+      "mentions": 19,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "TV reporter and pilot who died in Los Angeles helicopter crash were covering a story",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/16/tv-journalist-pilot-los-angeles-helicopter-crash"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/news-helicopter-crashes-in-la-killing-3/a-79285216?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7341,
+      "mentions": 16,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.6458,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "US to bar some South Africans over claims of anti-white discrimination",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-announces-south-africa-visa-curbs-over-race-claims/a-79288287?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6149,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Maresca criticises focus on controversial Manchester derby winner",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/9/16/maresca-defends-var-while-lamenting-row-dominating-win-at-manchester-united?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-09-16/sanfl-2026-grand-final-sturt-norwood-1978-controversial-goal/107155750"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5431,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/global-development/2026/sep/16/iran-killing-torture-sexual-abuse-protesters-amnesty"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-activists-sound-alarm-as-regime-seizes-baha-i-assets/a-79291138?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5372,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367738/china-affirms-support-iran-warns-against-yemen-spillover?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iranian-fm-araghchi-to-visit-beijing-for-talks-with-wang-yi/article71470974.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5252,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/duterte-makes-first-appearance-before-icc-judges/a-79288207?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-former-philippine-president-rodrigo-duterte-appears-in-icc-court/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.519,
+      "mentions": 5,
+      "diversity": 5
+    }
+  ]
+}
