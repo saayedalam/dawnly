@@ -1,0 +1,354 @@
+{
+  "published_at": "2026-09-18T14:20:49.516704+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russians begin voting in parliamentary election in shadow of war",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Russians begin voting in parliamentary election in shadow of war"
+        },
+        {
+          "headline": "Russia, China veto U.S. proposal for UN experts to keep monitoring sanctions on Iran"
+        },
+        {
+          "headline": "Ukraine fires drone barrage as Russia launches elections"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3367960/russians-begin-voting-parliamentary-election-shadow-war?utm_source=rss_feed"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-voting-begins-in-three-day-russian-parliamentary-election/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/voting-begins-in-russian-parliamentary-election-which-putin-has-cast-as-barometer-of-support-for-war"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.5035,
+      "mentions": 22,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Why does Canada want to join the Europe-led JEF military partnership?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8525,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3367993/south-koreas-president-rejects-us-request-iran-war-support?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Pakistan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7635,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Video: Students flee deadly school shooting in the Philippines",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/philippines-at-least-3-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3367979/philippine-police-report-injuries-high-school-shooting?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "West Africa"
+      ],
+      "score": 0.7546,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "New wild cat species discovered - with only one known living member",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bolivia-new-cat-species-discovered-by-scientists/a-79320205?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.718,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-serial-killer-south-africa/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Middle East",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.6917,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Malaysia: Jailed ex-leader Najib allowed house arrest",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/malaysia-jailed-ex-leader-najib-allowed-house-arrest/a-79318399?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/people/article/3367950/malaysias-najib-razak-granted-house-arrest-pardons-board?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/malaysias-king-allows-former-leader-najib-to-serve-rest-of-his-graft-sentence-under-house-arrest/article71479473.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.6613,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/poland-warns-russia-planning-drone-or-rocket-strikes-on-nato-territory-says-attacks-will-be-called-accidental/article71478396.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-ukraine-nato-poland-drone-tusk/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.648,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Nigeria: Protests erupt over deaths of 37 miners in custody",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nigeria-illegal-mining-suspects-death-toll-suspected-disease-outbreak/article71478385.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/09/18/at-least-37-illegal-mining-suspects-found-dead-in-nigerian-custody/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.641,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.6185,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
