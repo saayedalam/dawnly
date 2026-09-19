@@ -1,0 +1,391 @@
+{
+  "published_at": "2026-09-19T13:52:31.893804+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump’s battle to rename the Kennedy Center has put its future at risk",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump’s battle to rename the Kennedy Center has put its future at risk"
+        },
+        {
+          "headline": "US court rejects Trump policy on third-country deportations"
+        },
+        {
+          "headline": "Top U.S., China negotiators to hold final preparatory talks ahead of Trump-Xi summit"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5542,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Trump signs broad Russia sanctions bill",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Trump signs broad Russia sanctions bill"
+        },
+        {
+          "headline": "Russia holds parliamentary vote in areas it seized from Ukraine in the war"
+        },
+        {
+          "headline": "Putin says Russia has no aggressive intentions toward Europe, ready to restore relations"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3368081/indias-modi-caught-between-much-needed-russian-oil-and-us-trade-threats?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5515,
+      "mentions": 29,
+      "diversity": 13
+    },
+    {
+      "rank": 3,
+      "headline": "Iran stages show of force during mobilisation campaign in Tehran",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran stages show of force during mobilisation campaign in Tehran"
+        },
+        {
+          "headline": "How much has Iran war cost US? Pentagon estimates US$43.6 billion so far"
+        },
+        {
+          "headline": "Iran executes man accused of providing missile info to Israel: judiciary"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hundreds-of-thousands-attend-irans-biggest-government-organised-rally-since-the-war-began/article71482094.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/09/18/iran-tehran-stages-largest-demonstration-since-start-of-conflict/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.3482,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.8664,
+      "mentions": 28,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7383,
+      "mentions": 14,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3368092/31-dead-pakistan-after-suicide-bomber-gunmen-attack-police-complex?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5679,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Nigerian forces fire at protesters rallying over deaths of detained miners",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nigeria-police-fire-tear-gas-at-protesters-over-deaths-of-miners-in-custody/article71480444.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.5623,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/disruptions-at-riyadh-airport-flights-cancelled-delayed-aramco-fuel-tank-fire/article71484937.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2630185/un-security-council-condemns-houthi-attacks-on-saudi-arabia"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5072,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Google's Gemini AI hacked three companies in security test",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4901,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Millions without power as Cuba hit by latest major blackout",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-cubas-electrical-grid-collapses-again-leaving-millions-without-power/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.437,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
