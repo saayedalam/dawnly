@@ -1,0 +1,340 @@
+{
+  "published_at": "2026-09-20T14:07:02.830851+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8875,
+      "mentions": 26,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Journalists locked out of the White House after Trump ban",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.771,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "German elections under way which could decide fate of Chancellor Merz",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7106,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Trump announces new 'AI force' amid mounting pressure",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6406,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Trump’s Greenland deal: A triumph of optics?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3368126/denmark-cautiously-optimistic-over-trumps-greenland-deal?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/greenland-denmark-say-trump-deal-wont-compromise-sovereignty/article71485651.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.6123,
+      "mentions": 6,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3368131/houthis-claim-attacks-saudi-capital-after-flames-seen-near-riyadh-airport?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital-20260920-p60yve.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 0.5373,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3368155/uk-media-cancerous-harry-and-meghan-dianas-brother-says?utm_source=rss_feed"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/harry-and-meghans-battle-to-be-accepted-into-cotswolds-high-society-20260920-p60yww.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5078,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3368169/trumps-arch-would-be-military-complex-hosting-drones-snipers?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4716,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Dutch riot police break up violent far-right protest in The Hague",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/09/19/police-clash-with-far-right-protesters-at-anti-immigration-rally-in-the-hague"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3966,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "France’s Macron visits Atlantic territory as EU embraces Canada",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3368165/frances-macron-visits-atlantic-territory-eu-embraces-canada?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2630369/macron-carney-to-meet-in-french-atlantic-archipelago-in-signal-to-trump"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/canada/article-carney-heading-to-saint-pierre-et-miquelon-for-meeting-with-macron/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3966,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
