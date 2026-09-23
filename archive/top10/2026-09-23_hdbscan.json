@@ -1,0 +1,339 @@
+{
+  "published_at": "2026-09-23T14:53:33.592893+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-xi-summit-washington-visit-2026-key-agenda-itinerary-everything-to-know/article71494934.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-president-en-route-to-us"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6889,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/this-years-el-nino-driven-heat-could-cause-nearly-half-a-million-more-deaths-group-says/article71498323.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.674,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "US justice department defends Trump banning journalists from White House ahead of court hearing – live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house/article71482414.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Global",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5883,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Russian attacks injure 7 across Ukraine and damage structures",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russian-attacks-injure-several-across-ukraine-and-damage-structures/article71499075.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2630970/russia-kills-eight-in-strikes-on-ukraine-as-trump-meets-zelenskiy"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-attacks-kyiv-zelensky-un/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5643,
+      "mentions": 15,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/23/tigray-rebels-seize-airport-and-clash-with-federal-forces-as-fighting-in-ethiopia-reignite"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.5618,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/22/kyiv-and-washington-want-war-in-ukraine-to-end-before-winter-zelenskyy-says"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/video-were-going-to-make-a-deal-trump-says-during-zelensky-meeting/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5439,
+      "mentions": 13,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "South Africa mass shooting leaves 11 dead, 3 wounded",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/africa/article/3368504/south-africa-mass-shooting-leaves-11-dead-3-wounded?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/south-africa-house-party-shooting-leaves-11-dead-3-wounded-police-say/article71498806.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2630963/at-least-11-killed-in-mass-shooting-in-south-african-township"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5257,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "China’s swimming prodigy Yu Zidi bags third gold in Asian Games record",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-s-13-year-old-swimming-star-raises-questions-on-child-athletes/a-79394183?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/presented/news/hong-kong/topics/constructing-careers-through-worldskills/article/3368323/skills-new-generation?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5126,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "ICC convicts former Central African Republic militia leader",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/23/icc-convicts-central-african-militia-leader-of-crimes-against-humanity?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/icc-convicts-car-ex-rebel-leader-of-crimes-against-humanity/a-79387178?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/09/23/icc-convicts-former-car-militia-commander-of-crimes-against-humanity/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5007,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "UN General Assembly: Leaders discuss AI, global conflicts",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/un-general-assembly-leaders-discuss-ai-global-conflicts/live-79366211?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/23/killer-robots-or-super-intelligence-trump-and-world-leaders-clash-over-ai"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-un-general-assembly-ai-executives-technology-dangers/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Southeast Asia"
+      ],
+      "score": 0.4507,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
