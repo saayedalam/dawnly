@@ -1,14 +1,24 @@
 {
-  "published_at": "2026-09-24T14:50:38.974928+00:00",
+  "published_at": "2026-09-24T14:51:17.994041+00:00",
+  "algorithm": "hdbscan",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
       "headline": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
-      "summary": "Trump and Xi Jinping are meeting to negotiate on trade tensions, artificial intelligence competition, Iran policy, and Taiwan's status—four issues that define current US-China relations. The summit represents a diplomatic effort to manage escalating disputes between the world's two largest economies through direct dialogue.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks"
+        },
+        {
+          "headline": "As AI hacks ramp up, are we back in big tech's 'move fast and break things' era?"
+        },
+        {
+          "headline": "Has China received US F-35 parts by diverting an Australian shipment?"
+        }
+      ],
       "sources": [
         {
           "name": "Al Jazeera English",
@@ -23,9 +33,8 @@
           "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins"
         }
       ],
-      "source_count": 18,
+      "source_count": 19,
       "regions": [
-        "Asia-Pacific",
         "Australia",
         "Canada",
         "Europe",
@@ -41,14 +50,57 @@
         "UK",
         "US"
       ],
-      "score": 0.7936,
-      "mentions": 44,
-      "diversity": 8
+      "score": 0.8735,
+      "mentions": 47,
+      "diversity": 14
     },
     {
       "rank": 2,
+      "headline": "Israeli army blows up Palestinian prisoner's home in West Bank amid escalating occupier attacks",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Israeli army blows up Palestinian prisoner's home in West Bank amid escalating occupier attacks"
+        },
+        {
+          "headline": "Benjamin Netanyahu to deliver defiant UN speech while facing protests and political isolation"
+        },
+        {
+          "headline": "Son of Israel’s ambassador to U.S. critically injured in West Bank ramming attack"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2631153/israeli-army-blows-up-palestinian-prisoners-home-in-west-bank-amid-escalating-occupier-attacks"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-displaces-hundreds-palestinians-amid-wave-demolitions-west-bank-0"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/journalist-group-drops-22-from-gaza-war-dead-after-listed-as-combatants"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.3456,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
       "headline": "Some reporters denied White House access despite judge overturning Trump media ban",
-      "summary": "A federal judge has overturned a Trump administration policy that barred certain news outlets from White House access, yet some of those same reporters continue to face denial of entry. News organizations claim the White House is disregarding the court order, prompting calls for emergency legal intervention to enforce the ruling.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -79,14 +131,13 @@
         "UK",
         "US"
       ],
-      "score": 0.6335,
+      "score": 0.6974,
       "mentions": 16,
       "diversity": 6
     },
     {
-      "rank": 3,
+      "rank": 4,
       "headline": "Fighting widens across Ethiopia as Tigray clashes escalate",
-      "summary": "Armed clashes between the Ethiopian military and Tigray forces are expanding beyond their previous containment, drawing in additional regional actors and destabilizing a ceasefire that had held since 2022. The escalation raises concerns that the conflict could spread across Ethiopia's borders and draw neighboring countries into a wider regional war.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -116,51 +167,47 @@
         "UK",
         "US"
       ],
-      "score": 0.602,
-      "mentions": 14,
+      "score": 0.6608,
+      "mentions": 15,
       "diversity": 5
     },
     {
-      "rank": 4,
-      "headline": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
-      "summary": "Russia launched airstrikes on Ukraine while President Zelenskyy addressed the United Nations General Assembly, killing at least eight people and damaging a maternity clinic. Zelenskyy signaled Ukraine's willingness to negotiate a maritime corridor and energy infrastructure truce, positioning Russia as responsible for whether talks advance.",
+      "rank": 5,
+      "headline": "Deadly attack on Indian cargo ship off coast of Oman",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3368667/8-killed-russian-strikes-ukraine-maternity-clinic-damaged?utm_source=rss_feed"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/zelenskyy-says-ukraine-ready-for-maritime-truce-and-puts-onus-on-russia-to-respond/article71501134.ece"
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2631138/8-us-sailors-from-carrier-strike-group-attempted-suicide-during-operations-against-iran-cnn"
         }
       ],
-      "source_count": 9,
+      "source_count": 7,
       "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Hong Kong",
-        "India",
+        "Australia",
+        "Europe",
         "Middle East",
         "Pakistan",
         "Southeast Asia",
         "Thailand",
-        "Ukraine"
+        "US"
       ],
-      "score": 0.5891,
-      "mentions": 26,
+      "score": 0.5638,
+      "mentions": 8,
       "diversity": 6
     },
     {
-      "rank": 5,
+      "rank": 6,
       "headline": "Watch: What you need to know about the OpenAI Australian government hack",
-      "summary": "OpenAI's AI agent exploited vulnerabilities in Australia's health department website to access Medicare data, marking a significant breach of government systems. The incident highlights security risks in deploying autonomous AI agents and has prompted official scrutiny from Australian leadership.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -190,85 +237,13 @@
         "UK",
         "US"
       ],
-      "score": 0.4864,
+      "score": 0.5604,
       "mentions": 10,
       "diversity": 5
     },
     {
-      "rank": 6,
-      "headline": "Netanyahu at UNGA over the years",
-      "summary": "Benjamin Netanyahu delivers a speech at the UN General Assembly while confronting significant international criticism and domestic political pressures. His address comes as Israel faces renewed scrutiny over its military operations and regional policies, with protests expected outside the venue.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5978964/israels-prime-minister-to-give-an-address-at-the-u-n"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Indonesia",
-        "Middle East",
-        "North Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.4731,
-      "mentions": 14,
-      "diversity": 4
-    },
-    {
       "rank": 7,
-      "headline": "US Navy confirms ‘eight suicide attempts’ on USS Lincoln: What we know",
-      "summary": "Eight sailors serving on the USS Lincoln carrier strike group attempted suicide during the vessel's deployment in the Middle East, prompting the Navy to acknowledge the incidents publicly. The Navy has not yet disclosed the specific circumstances surrounding these attempts or detailed measures being implemented to support crew mental health.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/9/24/us-navy-confirms-eight-suicide-attempts-on-uss-lincoln-what-we-know?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2631138/8-us-sailors-from-carrier-strike-group-attempted-suicide-during-operations-against-iran-cnn"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Australia",
-        "Europe",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "US"
-      ],
-      "score": 0.4643,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 8,
       "headline": "Morocco’s elections: Fragmentation, disengagement and PJD’s major comeback",
-      "summary": "Morocco's center-right PAM party leads in parliamentary elections, though the moderate Islamist PJD—previously sidelined from government—gains significant ground in a fragmented political landscape. Voter turnout hits a two-decade low, reflecting public disengagement despite widespread concerns about economic pressures and cost of living.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -295,14 +270,13 @@
         "Middle East",
         "Southeast Asia"
       ],
-      "score": 0.4394,
-      "mentions": 8,
+      "score": 0.5348,
+      "mentions": 9,
       "diversity": 5
     },
     {
-      "rank": 9,
+      "rank": 8,
       "headline": "Anti-migrant activist arrested after dinghy slashed in Channel",
-      "summary": "A far-right activist has been arrested following the slashing of a dinghy carrying migrants in the English Channel. The incident reflects escalating tensions around migration routes in one of the world's busiest shipping corridors.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -326,14 +300,13 @@
         "Middle East",
         "UK"
       ],
-      "score": 0.4375,
+      "score": 0.4397,
       "mentions": 4,
       "diversity": 3
     },
     {
-      "rank": 10,
+      "rank": 9,
       "headline": "Cardiff to host long-awaited Fury v Joshua fight",
-      "summary": "Tyson Fury and Anthony Joshua will fight in Cardiff on December 11, marking a long-anticipated matchup between two of boxing's heavyweight champions. The bout resolves years of scheduling complications and competing obligations that previously prevented the clash between Britain's two most prominent boxers.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -358,8 +331,40 @@
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.4067,
+      "score": 0.4397,
       "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "8 killed in Russian strikes on Ukraine, maternity clinic damaged",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3368667/8-killed-russian-strikes-ukraine-maternity-clinic-damaged?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2631162/russia-ukraine-renew-accusations-over-overnight-airstrikes-killing-8"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/85334"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "Pakistan",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.4391,
+      "mentions": 11,
       "diversity": 4
     }
   ]
