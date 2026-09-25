@@ -1,0 +1,391 @@
+{
+  "published_at": "2026-09-25T15:10:37.362517+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?"
+        },
+        {
+          "headline": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?"
+        },
+        {
+          "headline": "China helping Iran would be ‘totally unacceptable,’ Trump told Xi during visit: US ambassador"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 0.5429,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "U.S., China must steer clear of conflict and confrontation: Xi at White House",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "U.S., China must steer clear of conflict and confrontation: Xi at White House"
+        },
+        {
+          "headline": "China and EU deadlocked on medical devices, still talking on PHEV curbs: source"
+        },
+        {
+          "headline": "Donald Trump hosts China president at White House"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/usa-china-summit-donald-trump-xi-jinping-meeting-white-house-september-24-2026/article71504791.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/24/trump-and-xi-vow-cooperation-amid-healthy-competition-at-the-white-house"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/white-house-blocks-journalists-from-trump-xi-meeting-despite-court-order-20260925-p610df.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "South Africa",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.3937,
+      "mentions": 15,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?"
+        },
+        {
+          "headline": "Swedish, Finnish fighter jets intercept Russian military aircraft"
+        },
+        {
+          "headline": "Ukraine: Russian drone barrage on Kyiv kills teenage boy and wounds 20 residents"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-full-results-russian-parliamentary-election/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/kremlin-hails-election-of-nearly-50-ukraine-war-veterans-to-russian-parliament"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3719,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit"
+        },
+        {
+          "headline": "Pope Leo heads to France amid assisted dying, abuse debates"
+        },
+        {
+          "headline": "Pope warns against 'losing humanity' to AI machines"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3368852/paris-pope-warns-against-losing-humanity-paradise-machines?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pope-leo-warns-paradise-of-machines-could-undermine-humanity-as-he-opens-france-trip/article71508923.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.3375,
+      "mentions": 13,
+      "diversity": 9
+    },
+    {
+      "rank": 5,
+      "headline": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8484,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "India’s ‘cockroach’ movement demands election chief’s resignation",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/dw-shows-solidarity-with-georgians-commitment-to-democracy/a-79432731?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/25/insider/nyt-175-youth-culture.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.7091,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "CNN and CBS Will Resume White House Coverage After Standoff",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/25/business/media/trump-white-house-tv-pool-ban.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/why-did-a-us-court-stay-trumps-ban-on-media-outlets/article71507112.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/white-house-reinstates-access-to-cnn-ms-now-and-politico"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Global",
+        "India",
+        "Japan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6654,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Xi wraps up US visit with trip to National Archives",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/xi-wraps-up-us-visit-with-trip-to-national-archives/live-79404511?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3368793/xi-and-trump-cap-summit-tour-through-shared-us-and-chinese-history?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2631321/trump-to-wrap-up-xi-summit-with-a-tour-of-us-archives"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.6092,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Nepal PM says global order is broken in fighting climate crisis",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nepal-s-leader-says-his-country-is-paying-the-price-of-climate-change/a-79421807?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3368779/flood-ravaged-nepal-pushes-climate-deal-india-china?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Pakistan"
+      ],
+      "score": 0.5779,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bundesliga-and-three-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-09-25/football-fifa-boss-gianni-infantino-calls-for-culture-dialogue/107194408"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Mexico",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5744,
+      "mentions": 5,
+      "diversity": 5
+    }
+  ]
+}
