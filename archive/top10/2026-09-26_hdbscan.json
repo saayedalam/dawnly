@@ -1,0 +1,346 @@
+{
+  "published_at": "2026-09-26T14:20:57.330535+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "China, US to open AI ‘communication channel’ after summit, White House says",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China, US to open AI ‘communication channel’ after summit, White House says"
+        },
+        {
+          "headline": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit: Beijing"
+        },
+        {
+          "headline": "China and the US can make nice, if not peace"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-china-us-to-set-up-new-ai-safety-channel-after-summit/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/us-china-to-set-up-communication-channel-for-ai-incidents"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.3375,
+      "mentions": 10,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "White House blocks CNN from Air Force One in latest escalation with news media",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7063,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3368872/iran-offers-us-plan-reopen-hormuz-within-7-days?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6355,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "At least 7 dead as Russia, Ukraine exchange strikes and aerial war intensifies",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/several-people-dead-as-russia-and-ukraine-exchange-strikes-and-aerial-war-intensifies/article71512611.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-kramatorsk-ukraine-russia-war-donbas-drones/"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/analysis/85426"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "India",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.6225,
+      "mentions": 20,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Bangkok declares disaster as heavy rains spark flooding",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "UK"
+      ],
+      "score": 0.5938,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Asia-Pacific",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "US"
+      ],
+      "score": 0.5846,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "British national among six dead in building explosion close to Acropolis in Athens",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/deadly-blast-rips-through-athens-building-near-acropolis/a-79441931?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3368903/2-dead-4-missing-after-explosion-destroys-building-athens?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5563,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/09/25/macron-and-pope-leo-xiv-unite-on-ai-risks-and-nuclear-weapons/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.5192,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Pro-Palestine Action group to rally at Labour conference led by Burnham",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/26/palestine-action-protest-labour-conference?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2631415/5-netanyahu-claims-at-un-that-clash-with-documented-findings"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5093,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-encourages-catholics-in-france-to-persevere-as-paris-shuts-down/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4492,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
