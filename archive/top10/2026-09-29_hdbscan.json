@@ -1,0 +1,355 @@
+{
+  "published_at": "2026-09-29T16:29:41.703582+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Mideast Oil Exports Rebound Even as Prices Remain Elevated",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Mideast Oil Exports Rebound Even as Prices Remain Elevated"
+        },
+        {
+          "headline": "US-Iran talks in New York: What’s the latest?"
+        },
+        {
+          "headline": "Trump claims Iran war 'one of the most important things we've done'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/business/oil-exports-strait-of-hormuz.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/is-the-us-taking-the-upper-hand-in-the-battle-of-hormuz/article71523843.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/29/middle-east-oil-exports-rise-as-lng-traffic-through-hormuz-picks-up"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "US"
+      ],
+      "score": 0.4911,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Why has Putin added 15,000 new soldiers to Russia’s army?"
+        },
+        {
+          "headline": "Russia's ballistic missile, jet-propelled drone blitz keeps Kyiv on edge"
+        },
+        {
+          "headline": "Russian nuclear-capable bomber plane crashes, killing six people"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/09/29/new-russian-mobilisation-putin-signs-decree-adding-15500-troops-to-army"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/85667"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Ukraine"
+      ],
+      "score": 0.3454,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Watch: How did Burnham's speech go down in the conference hall?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8775,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Journalist ascends to throne in Uganda kingdom after succession dispute",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tv-journalist-is-crowned-king-of-uganda-s-tooro-kingdom/a-79475911?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202609290160.html"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "East Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.6988,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6358,
+      "mentions": 11,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Estonia says Russia ordered August arson attack on defence company",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3369227/estonia-blames-russia-arson-attack-company-supplying-vehicles-ukraine?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6354,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "OpenAI scraps rollout of new model over safety concerns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "North Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.5979,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/4f5680c7-8c87-4e1f-99b2-beaa6655a2ec?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5762,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Satirist launches site naming Cornell students accused in gang-rape lawsuit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/satirist-launches-site-naming-cornell-students-accused-in-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-prosecutors-reopen-cornell-gang-rape-case-after-outcry/article71521578.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "US"
+      ],
+      "score": 0.5436,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/people/article/3369167/malaysia-begins-sending-thousands-myanmar-nationals-back-war-torn-homeland?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Middle East"
+      ],
+      "score": 0.506,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
