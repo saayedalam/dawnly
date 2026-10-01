@@ -1,0 +1,397 @@
+{
+  "published_at": "2026-10-01T17:02:26.522702+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?"
+        },
+        {
+          "headline": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'"
+        },
+        {
+          "headline": "Flydubai incident: altercation, emergency landing and investigation | Explained"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/people/article/3369424/indian-pride-swells-flydubai-pilot-who-saved-174-lives-hailed-absolute-hero?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/smit-machchhar-flydubai-pilot-who-is-he/article71531666.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4749,
+      "mentions": 15,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?"
+        },
+        {
+          "headline": "Crude oil exports from strait of Hormuz largely return to pre-war levels"
+        },
+        {
+          "headline": "Trump claims 'annihilation of Iran' possible, will create 'peace'"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-pm-says-strong-indications-iran-involved-in-airbase-incident/article71530409.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-summons-uk-envoy-over-false-accusations-suspected-raf-fairford-plot"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Global",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4626,
+      "mentions": 13,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "China has cracked down on AI relationships. Is it ahead of the game?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China has cracked down on AI relationships. Is it ahead of the game?"
+        },
+        {
+          "headline": "US military cuts generals, admirals by 20%, Hegseth says"
+        },
+        {
+          "headline": "China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html"
+        },
+        {
+          "name": "Foreign Policy",
+          "link": "https://foreignpolicy.com/2026/10/01/artificial-intelligence-existential-anxiety-extremism-violence-united-states-china-policy/"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.3396,
+      "mentions": 14,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "Russia expels Hungarian diplomats as Budapest breaks with Orbán era",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia expels Hungarian diplomats as Budapest breaks with Orbán era"
+        },
+        {
+          "headline": "Sledgehammer for Putin"
+        },
+        {
+          "headline": "How Europe can stall Russia’s hybrid war"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/01/g20-russia-criticises-us-and-warns-of-trade-order-disintegration/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-expels-hungarian-diplomats-in-tit-for-tat-move"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Global",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.2266,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/tennessee-halts-woman-s-execution-after-failed-attempt/a-79496561?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8765,
+      "mentions": 20,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.7607,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Fires break out at French schools as students protest nationwide",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3369482/french-school-protests-spread-fires-blockades-deepen-unrest?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6497,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "'I'm very shocked' - College students react to Cornell University rape investigation",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cmdx0x928999o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/a-brutal-assault-reignites-fears-over-women-s-safety-in-india/a-79501471?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5651,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "New Google Maps images reveal massive scale of devastation in Gaza",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-wounds-following-israeli-raid-village-central"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5615,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/01/ethiopia-federal-forces-advance-in-tigray-as-52-civilians-reported-killed/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Global",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5328,
+      "mentions": 7,
+      "diversity": 5
+    }
+  ]
+}
