@@ -1,0 +1,362 @@
+{
+  "published_at": "2026-10-02T16:14:49.051346+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Taiwan: first new F-16V fighters arrive amid China threat",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Taiwan: first new F-16V fighters arrive amid China threat"
+        },
+        {
+          "headline": "AI got smarter. The bills got harder to control"
+        },
+        {
+          "headline": "How the US went from ‘a position of strength’ to ‘gung-ho’ on China"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/china-economy/article/3369588/chinas-c919-jet-faces-further-delivery-delays-amid-us-export-chill-analysts?utm_source=rss_feed"
+        },
+        {
+          "name": "Bangkok Post",
+          "link": "https://www.bangkokpost.com/world/3330328/china-widens-military-footprint-with-laos-air-base"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Asia-Pacific",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3844,
+      "mentions": 18,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "School protests send shivers down French government's spine",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7963,
+      "mentions": 14,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7106,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/africa/article/3369512/ethiopia-and-eritrea-sever-diplomatic-ties-northern-fighting-escalates?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.675,
+      "mentions": 19,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3369503/christa-pike-life-saving-care-after-botched-tennessee-execution?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.6655,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.561,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3369533/lula-and-bolsonaro-clash-final-scramble-brazil-presidency?utm_source=rss_feed"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/netanyahus-candidate-how-israel-betting-bolsonaro-comeback-brazil"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5607,
+      "mentions": 7,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "Man City confirm appeal against guilty verdict",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5541,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ebola-treatment-centre-was-burned-down-as-death-toll-in-congo-passes-4000/article71537063.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/02/ebola-goes-after-congos-children-killing-seven-daily-on-average-ngo-says/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4919,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spanish-lawmakers-reject-government-housing-measure-amid-protests/article71537529.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4732,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
