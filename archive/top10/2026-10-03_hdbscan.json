@@ -1,0 +1,347 @@
+{
+  "published_at": "2026-10-03T14:41:25.782210+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.815,
+      "mentions": 29,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3369626/trump-says-europe-agrees-release-diesel-stocks?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.6954,
+      "mentions": 13,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Why has Brazil accused the US of election interference?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Europe",
+        "Global",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6214,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "The double standards of a failed execution",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5955,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "French high school engulfed in flames as student protests continue",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-student-protests-over-school-conditions-and-funding/article71536574.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5639,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Protesters across Spain demand action over housing crisis",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5465,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-03/max-verstappen-claims-pole-bahrain-grand-prix-malaysia-formula-1/107225410"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5194,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/oct/03/green-party-conference-zack-polanski-uk-politics-latest-news-updates-labour-conservatives-reform"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Germany",
+        "UK"
+      ],
+      "score": 0.4944,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Polls open in Latvia against backdrop of perceived Russia threat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3369655/latvia-holds-election-concerns-over-russia-inflation-dominate?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4861,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Boy, 6, who died in van crash was 'loved more deeply than words could ever express'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr86zl7z50ppo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4819,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}
