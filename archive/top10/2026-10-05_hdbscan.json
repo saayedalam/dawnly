@@ -1,0 +1,393 @@
+{
+  "published_at": "2026-10-05T19:14:23.001523+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "California woman arrested and accused of spying on Taiwan president’s son for China",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "California woman arrested and accused of spying on Taiwan president’s son for China"
+        },
+        {
+          "headline": "Medvedev disqualified from Djokovic match for hitting spectator with ball"
+        },
+        {
+          "headline": "Merz, Macron seek tougher EU measures against unfair trade"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/article71545758.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4491,
+      "mentions": 11,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Hundreds of French schools shut, teen loses hand in protests",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Hundreds of French schools shut, teen loses hand in protests"
+        },
+        {
+          "headline": "Euro plummets against US dollar: has the next financial crisis begun?"
+        },
+        {
+          "headline": "Hundreds of schools to shut on October 5 as student protests rock France"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2633133/teenagers-hand-blown-off-as-french-school-protests-enter-third-week"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-france-school-student-protests/"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4395,
+      "mentions": 11,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8438,
+      "mentions": 24,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "King's funding for Andrew not to be used for legal action against police",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7984,
+      "mentions": 15,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "What prompted the US bombers to leave RAF Fairford?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.797,
+      "mentions": 15,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "Spain calls snap election amid housing crisis",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.7664,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Nobel medicine prize honours US and German scientists for optogenetics work",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.7488,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "US closely monitoring case of lab worker who ‘possibly’ died of plague in Siberia, says Rubio",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7349,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 9,
+      "headline": "Nigeria launches rescue after military plane crashes with 32 aboard",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/05/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.4972,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Japan",
+        "UK"
+      ],
+      "score": 0.4902,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
