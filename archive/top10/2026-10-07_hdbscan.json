@@ -1,0 +1,350 @@
+{
+  "published_at": "2026-10-07T17:25:51.563064+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "‘All I want to do is cry’: trauma of 7 October survivors three years after the attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8807,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3369997/russian-barrage-hits-kyiv-hours-after-zelensky-warns-impending-attack?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7314,
+      "mentions": 21,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7248,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Ex-German spy chief arrested: A history of spooks working for enemy powers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/mr-security-led-germany-s-top-spy-agency-for-years-he-s-now-suspected-of-selling-state-secrets-20261007-p613dw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.668,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Watch: Why French police have stopped using stun grenades on student protesters",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r9811n9jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.605,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/6a2dc960-c9fd-4795-b5ea-78f9bb77309d?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3370080/yemens-houthis-attack-aden-airport-fighting-intensifies?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5986,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/07/christa-pike-lawyers-live-updates-tennessee-execution"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/07/us/texas-execution-lethal-injection.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "UK",
+        "US"
+      ],
+      "score": 0.5624,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/germanys-merz-warns-extremism-entering-parliaments-after-afd-wins-key-state-post"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5604,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-paris-student-protests-updates-october-7-2026/article71554062.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/07/tear-gas-and-fireworks-as-student-protests-turn-violent-in-paris"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5481,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Ebola death recorded in Kenya after victim travelled from DRC | Explained",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/health/ebola-death-recorded-in-kenya-after-victim-travelled-from-drc-explained/article71554368.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/07/i-got-so-scared-nairobi-residents-worried-after-kenyas-first-ebola-death/"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202610070181.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "India",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.5175,
+      "mentions": 13,
+      "diversity": 3
+    }
+  ]
+}
