@@ -1,0 +1,365 @@
+{
+  "published_at": "2026-10-09T16:58:26.010220+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Two men deny Iran-backed surveillance of Jewish and Israeli sites in London",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Two men deny Iran-backed surveillance of Jewish and Israeli sites in London"
+        },
+        {
+          "headline": "Putin offers help to end Iran war while Russia continues its own in Ukraine"
+        },
+        {
+          "headline": "Iran attacks tankers beyond Strait of Hormuz"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6n041dq7qd4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2633896/two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/two-men-deny-carrying-out-surveillance-for-iran-of-israeli-embassy-in-uk"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.33,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.9094,
+      "mentions": 32,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8152,
+      "mentions": 19,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "US imposes sanctions on International Criminal Court",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7734,
+      "mentions": 18,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/09/nyregion/ice-shooting-nyc-bronx.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6231,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Global",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5653,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Mexico",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5487,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/oct/09/zack-polanski-future-as-green-party-leader-holborn-st-pancras-byelection-defeat"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-pm-burnhams-labour-fends-off-left-wing-greens-in-local-election/article71562547.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.539,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "What reception awaits Man City at Anfield?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/man-united-boss-carrick-urges-quick-resolution-man-city-charges-case-6446866"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5253,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Ethiopia and Eritrea accuse one another of launching war",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/09/ethiopia-and-eritrea-trade-war-accusations-as-regional-conflict-threatens-to-escalate/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.5193,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
