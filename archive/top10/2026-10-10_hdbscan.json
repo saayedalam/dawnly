@@ -1,0 +1,353 @@
+{
+  "published_at": "2026-10-10T15:51:57.962758+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Global",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8425,
+      "mentions": 23,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7407,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/10/us/executions-death-penalty-culture-war.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6228,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Mexican judge sentences three men for murders of Australian, US surfers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5518,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5485,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Trump names new press secretary to succeed Karoline Leavitt",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370413/trump-picks-truth-socials-katie-zacharia-white-house-press-secretary?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/katie-zacharia-picked-as-white-house-press-secretary/article71565837.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5477,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Arsenal have issues to address despite Guimaraes' rescue act",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/rayo-bilbao-match-abandoned-after-fans-protest-against-club-owner-6448951"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4961,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/09/weather/ai-models-hurricane-isaias.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Mexico",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.481,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370418/trump-slams-norway-and-nobel-committee-after-missing-out-peace-prize?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-norway-has-indelible-stain-for-not-awarding-him-nobel-peace-prize/article71566988.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4769,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3370411/panama-rocked-2-powerful-earthquakes-multiple-aftershocks?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "South America",
+        "UK"
+      ],
+      "score": 0.4712,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
