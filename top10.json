@@ -1,30 +1,31 @@
 {
-  "published_at": "2026-10-10T15:51:15.591428+00:00",
+  "published_at": "2026-10-11T16:16:03.834272+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "The Trump administration has announced a deal to purchase Russian diesel fuel despite existing sanctions on Moscow, a move Ukraine's president characterizes as financially supporting Russia's ongoing war effort. Russian forces simultaneously conducted a deadly airstrike on the Ukrainian city of Zaporizhzhia that killed at least 15 people, including three children.",
+      "headline": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "summary": "Trump announces that Ukraine and Russia have agreed to an \"energy ceasefire,\" though Zelenskyy initially responds with surprise, suggesting limited prior coordination on the announcement. The proposed arrangement would reportedly protect energy infrastructure from military strikes, addressing civilian heating and power needs amid the ongoing conflict.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
+          "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 21,
+      "source_count": 17,
       "regions": [
+        "Africa",
         "Australia",
         "Canada",
         "Central Asia & Eastern Europe",
@@ -32,91 +33,89 @@
         "Germany",
         "Hong Kong",
         "India",
-        "Indonesia",
-        "Japan",
         "Middle East",
-        "Pakistan",
+        "North Africa",
         "Russia",
-        "South America",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7667,
+      "mentions": 50,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Attack on Saudi Arabian airport is another dangerous moment in already tense conflict",
+      "summary": "Houthi forces attacked Riyadh's airport, killing at least 12 people and damaging infrastructure in what Saudi Arabia characterizes as a war crime. The strike demonstrates vulnerabilities in Saudi air defenses and escalates the ongoing conflict between the Iranian-backed Houthis and the Saudi-led coalition.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
         "Southeast Asia",
         "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7333,
-      "mentions": 64,
-      "diversity": 8
-    },
-    {
-      "rank": 2,
-      "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "summary": "South African human rights lawyer Navi Pillay, who won the 2026 Nobel Peace Prize for her work advancing international law, has criticized US sanctions imposed on the International Criminal Court as contrary to the rule of law. The sanctions reflect tensions between the United States and the ICC over the court's independence and its investigations into matters involving American interests.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
-        }
-      ],
-      "source_count": 15,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Global",
-        "India",
-        "Indonesia",
-        "Japan",
-        "Middle East",
-        "South Africa",
-        "South America",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.6679,
-      "mentions": 22,
-      "diversity": 10
+      "score": 0.6818,
+      "mentions": 42,
+      "diversity": 6
     },
     {
       "rank": 3,
-      "headline": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "Police in New Delhi have detained hundreds of protesters, including leaders of a youth movement called \"Cockroach,\" ahead of a planned anti-government march. The crackdown occurs amid growing public anger over governance issues and reflects heightened security measures in the capital.",
+      "headline": "India’s crackdown on youth protesters: What next?",
+      "summary": "India's youth-led \"Cockroach\" movement has escalated demonstrations in Delhi following the release of detained protest leaders. The movement indicates plans to continue organizing protests, signaling sustained momentum despite government pressure on the demonstrations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
         }
       ],
-      "source_count": 13,
+      "source_count": 11,
       "regions": [
         "Australia",
         "Canada",
-        "Europe",
         "Germany",
         "Hong Kong",
+        "Indonesia",
         "Middle East",
         "Pakistan",
         "Southeast Asia",
@@ -124,249 +123,248 @@
         "UK",
         "US"
       ],
-      "score": 0.6275,
+      "score": 0.5901,
       "mentions": 14,
       "diversity": 7
     },
     {
       "rank": 4,
-      "headline": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "summary": "A 7.7-magnitude earthquake strikes Panama, causing widespread damage to buildings and infrastructure across the country. The powerful tremor triggers tsunami warnings in the region and prompts evacuations in the capital and surrounding areas.",
+      "headline": "Pope Leo to have surgery after lump found on lung",
+      "summary": "Pope Leo XIV will undergo surgery this week to remove a nodule discovered in his lung during a routine medical examination. The procedure is scheduled as a precautionary measure to address the growth that doctors identified.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3370411/panama-rocked-2-powerful-earthquakes-multiple-aftershocks?utm_source=rss_feed"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "regions": [
-        "Africa",
         "Australia",
+        "Brazil",
         "Canada",
-        "Europe",
         "Germany",
         "Hong Kong",
-        "India",
+        "Middle East",
+        "North Africa",
         "South America",
         "Southeast Asia",
-        "Thailand",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.5722,
-      "mentions": 12,
-      "diversity": 8
+      "score": 0.5875,
+      "mentions": 14,
+      "diversity": 7
     },
     {
       "rank": 5,
-      "headline": "Mexican judge sentences three men for murders of Australian, US surfers",
-      "summary": "Three men receive convictions in Mexico for the 2020 murders of Australian brothers Jake and Callum Robinson and their American friend, crimes that drew international attention to violence in the country's coastal regions. The case closes a significant chapter in a killing that prompted questions about safety for foreigners traveling to Mexico's popular surf destinations.",
+      "headline": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+      "summary": "Polish authorities have detained a suspect in connection with an alleged plot to assassinate Prime Minister Donald Tusk and the defence minister. The investigation represents a significant security concern for Poland's government and remains active as police gather evidence.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb"
+          "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 6,
+      "source_count": 10,
       "regions": [
-        "Australia",
-        "Germany",
-        "Middle East",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.4886,
-      "mentions": 7,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
-      "summary": "The Trump administration is considering whether to livestream the execution of a Fort Hood shooter, a proposal that would mark the first public execution in the United States since the 1930s. Both Trump and Vice President Vance have expressed reservations about the Pentagon's plan, leaving the decision uncertain as it faces bipartisan opposition.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370431/trump-casts-doubt-pentagon-plan-live-stream-fort-hood-shooters-execution?utm_source=rss_feed"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Australia",
         "Canada",
         "Germany",
         "Hong Kong",
         "India",
-        "Indonesia",
+        "Middle East",
+        "Pakistan",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.4757,
-      "mentions": 11,
+      "score": 0.5714,
+      "mentions": 10,
       "diversity": 6
     },
     {
-      "rank": 7,
-      "headline": "Saudi capital airport hit again, sparking evacuations, reports say",
-      "summary": "A blast at Riyadh's main airport has prompted evacuations and flight cancellations, with authorities reporting three people killed and dozens injured. Houthi fighters have claimed responsibility for the attack, marking another strike on the Saudi capital's critical infrastructure.",
+      "rank": 6,
+      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "summary": "A migrant boat capsized off the coast of Djibouti, killing at least 139 people including children, according to UN reports. The vessel was carrying migrants when it sank, leaving dozens more unaccounted for in what represents one of the deadliest recent maritime incidents in the region.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights?utm_source=rss_feed"
+          "link": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 7,
       "regions": [
+        "Africa",
+        "Europe",
         "Germany",
-        "Hong Kong",
         "India",
-        "Indonesia",
         "Middle East",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.4377,
-      "mentions": 10,
+      "score": 0.5221,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Shooter kills 8 people and himself in Pennsylvania — police",
+      "summary": "A shooting in Erie, Pennsylvania leaves eight people dead, including children and a pregnant woman from the same family, before the shooter takes his own life. The incident marks one of the deadliest mass shootings in the state's recent history.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370464/9-dead-including-children-and-pregnant-woman-shooting-erie-pennsylvania?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nine-killed-in-shooting-at-pennsylvania-home-local-media/article71569174.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.4421,
+      "mentions": 7,
       "diversity": 5
     },
     {
       "rank": 8,
-      "headline": "Trump names new press secretary to succeed Karoline Leavitt",
-      "summary": "Trump has selected Katie Zacharia, a Truth Social executive, as his new White House press secretary, replacing Karoline Leavitt. Zacharia brings experience from both the Trump Media platform and Fox News to the role.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370413/trump-picks-truth-socials-katie-zacharia-white-house-press-secretary?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/katie-zacharia-picked-as-white-house-press-secretary/article71565837.ece"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.4302,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 9,
-      "headline": "Verstappen beats Ferraris to Singapore pole",
-      "summary": "Max Verstappen secures pole position for the Singapore Grand Prix, edging out Ferrari's drivers in qualifying. The Red Bull driver now holds 50 career poles as he prepares for a race known for its demanding night-circuit conditions and frequent incidents.",
+      "headline": "Wildlife park remains closed after fatal tiger attack",
+      "summary": "A man dies after entering a tiger enclosure at a UK wildlife park, prompting authorities to close the facility while they investigate the circumstances. The park has announced it will not euthanize the tiger involved in the fatal attack.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo"
         },
         {
-          "name": "ABC News Australia",
-          "link": "https://www.abc.net.au/news/2026-10-10/verstappen-pips-russell-to-sprint-pole-singapore-f1/107250972"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3370465/tiger-kills-man-who-entered-big-cat-enclosure-uk-wildlife-park?utm_source=rss_feed"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "regions": [
-        "Australia",
-        "Middle East",
+        "Hong Kong",
+        "India",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.4246,
-      "mentions": 4,
+      "score": 0.4202,
+      "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-      "summary": "Trump's Board of Peace has struggled to implement the commitments made during Gaza's ceasefire agreement over the past year, with reconstruction efforts and humanitarian aid falling short of initial pledges. The ceasefire itself has largely held, though the promised reconstruction and political settlements that were central to the peace framework remain largely unrealized.",
+      "rank": 9,
+      "headline": "Thousands without power in Florida and Alabama as Isaias moves north",
+      "summary": "Hurricane Isaias moves northward through the Southeast, knocking out power to hundreds of thousands of residents across Florida and Alabama as it brings destructive winds and heavy rain. The storm has caused at least four deaths and continues advancing toward the Appalachian and mid-Atlantic regions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4196,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "summary": "Eliud Kipchoge, the 41-year-old Kenyan distance runner, wins the Melbourne Marathon and establishes a new course record in the process. The victory marks his return to the winner's circle after a three-year gap since his last marathon triumph.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life"
-        },
-        {
-          "name": "Bangkok Post",
-          "link": "https://www.bangkokpost.com/world/3334868/gaza-ceasefire-promises-mostly-unfulfilled"
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768"
         }
       ],
       "source_count": 3,
       "regions": [
+        "Australia",
         "Middle East",
-        "Thailand",
-        "US"
+        "UK"
       ],
-      "score": 0.4167,
+      "score": 0.4,
       "mentions": 3,
       "diversity": 3
     }

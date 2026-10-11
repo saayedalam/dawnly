@@ -1,0 +1,363 @@
+{
+  "published_at": "2026-10-11T16:16:49.627080+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump says Ukraine and Russia agree to ‘energy ceasefire’"
+        },
+        {
+          "headline": "Trump slams Zelenskyy, says Ukraine should elect new president"
+        },
+        {
+          "headline": "Ukraine will hold elections if Russia agrees to 60-day ceasefire, Zelensky says"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6166,
+      "mentions": 19,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Pope Leo to have surgery after lump found on lung",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7958,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7891,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.775,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.627,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Shooter kills 8 people and himself in Pennsylvania — police",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370464/9-dead-including-children-and-pregnant-woman-shooting-erie-pennsylvania?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nine-killed-in-shooting-at-pennsylvania-home-local-media/article71569174.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.5792,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/smith-sets-catching-record-australia-take-firm-grip-test-6450166"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5562,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Thousands without power in Florida and Alabama as Isaias moves north",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5408,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3370476/indias-cockroach-party-leaders-freed-election-chief-protests-mount?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5395,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Buildings swept away as flash floods hit central Nepal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/villages-evacuated-as-flash-flood-from-budhi-gandaki-river-hits-northern-nepal/article71570887.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 0.5325,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
