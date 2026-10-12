@@ -1,0 +1,403 @@
+{
+  "published_at": "2026-10-12T19:46:41.054004+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia escalates amid international tensions and sanctions",
+      "summary": "Russia has struck six Ukrainian energy facilities since Trump announced an energy ceasefire agreement, undermining the stated terms of the proposed deal. The attacks suggest Russia may be unwilling to commit to protecting Ukraine's power infrastructure as winter approaches and energy demand peaks.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "summary": "Russia has struck six Ukrainian energy facilities since Trump announced an energy ceasefire agreement, undermining the stated terms of the proposed deal. The attacks suggest Russia may be unwilling to commit to protecting Ukraine's power infrastructure as winter approaches and energy demand peaks."
+        },
+        {
+          "headline": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
+          "summary": "UK Prime Minister Burnham asserts that Russian interference in the 2016 Brexit referendum is highly probable, though he offers no new evidence to support the claim. He extends his concern to potential Russian meddling in upcoming elections in France and Germany, signaling a broader anxiety about foreign interference in European democratic processes."
+        },
+        {
+          "headline": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+          "summary": "The European Union has implemented its largest sanctions package since Russia's 2022 invasion of Ukraine, targeting over 1,600 Russian defense firms and executives involved in missile and drone production. German politician Wadephul characterizes the measure as an unprecedented economic pressure point intended to disrupt Russia's military-industrial capacity."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates"
+        }
+      ],
+      "source_count": 22,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7256,
+      "mentions": 76,
+      "diversity": 18
+    },
+    {
+      "rank": 2,
+      "headline": "France faces multiple security incidents amid ongoing tensions",
+      "summary": "French authorities recovered stolen Renoir paintings concealed behind a wall after arrests in a case that prosecutors say involved concern about an imminent second museum theft. Police moved quickly to apprehend suspects before additional artworks could be targeted, according to statements from prosecutors involved in the investigation.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Stolen Renoir paintings found behind wall in France following arrests",
+          "summary": "French authorities recovered stolen Renoir paintings concealed behind a wall after arrests in a case that prosecutors say involved concern about an imminent second museum theft. Police moved quickly to apprehend suspects before additional artworks could be targeted, according to statements from prosecutors involved in the investigation."
+        },
+        {
+          "headline": "France school shooting: Police detain pupil after two injured",
+          "summary": "A student opened fire at a school in southern France, injuring a headmaster and a teacher with a hunting rifle before police detained them. The incident marks another outbreak of school violence in France, where such events remain rare but periodically surface."
+        },
+        {
+          "headline": "France braces for fresh student demonstrations as Macron calls for ‘respect’",
+          "summary": "French high school students plan new protests as President Macron appeals for civility during ongoing demonstrations. The unrest reflects broader tensions over education policy or working conditions that have persisted despite government calls for dialogue."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/culture/art-and-architecture/article-police-renoir-paintings-museum-heist-suspects/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/police-swooped-on-renoir-theft-suspects-fearing-second-museum-heist-prosecutor-says"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.2959,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "Saudi Arabia's defense minister has pledged a strong response following repeated Houthi missile and drone strikes on the country's airports, which have disrupted civilian and commercial flight operations. The attacks reflect the Houthis' capabilities to strike deep into Saudi territory and their stated goal of pressuring the kingdom over its military involvement in Yemen's civil war.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6898,
+      "mentions": 40,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
+      "summary": "US Immigration and Customs Enforcement agents conducted a search of Democratic congresswoman Ilhan Omar's home, an action that has drawn sharp criticism from fellow Democrats who characterize it as an abuse of federal power. The congresswoman has stated she will not be deterred by the raid, while details about the specific reason for the search remain limited in initial reporting.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5974,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+      "summary": "British Foreign Secretary David Miliband has summoned Iran's ambassador after UK officials determined Iranian forces likely coordinated threats against RAF Fairford airbase. The government has sanctioned two Iranian nationals in response and views the incidents as part of a coordinated campaign against British military infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.552,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "India’s voter list changes sparks fresh protests",
+      "summary": "Opposition parties in India are protesting changes to the voter registration list, which they claim affects electoral fairness and representation. The demonstrations have escalated to marches at the Supreme Court, where police have established barricades to manage the gatherings.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.5128,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Pope Leo to undergo surgery to remove lung nodule in Rome",
+      "summary": "Pope Leo undergoes surgery in Rome to remove a nodule discovered on his lung. The Vatican has not disclosed whether the growth is benign or malignant, and the pontiff continues his regular duties while preparing for the procedure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pope-leo-to-undergo-surgery-for-growth-on-lung/article71572904.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4863,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+      "summary": "Robert Hall and Michael Woodford receive the 2026 Nobel Prize in Economics for developing models that explain how policymakers can moderate economic fluctuations during crises. Their research has shaped modern approaches to managing recessions and financial instability through better understanding of how consumption and investment respond to shocks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4828,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 9,
+      "headline": "French supermarket fridges heated up in 'unprecedented' cyber attack",
+      "summary": "Attackers gained control of refrigeration systems at hundreds of French supermarkets and raised temperatures to dangerous levels, causing food spoilage and creating fire hazards across multiple locations. The incident demonstrates a vulnerability in connected infrastructure that retailers rely on to maintain operations and food safety.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4623,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Burnham to push for new post-Brexit deals at EU summit",
+      "summary": "UK Prime Minister Andy Burnham plans to open negotiations with the EU to revise the trade arrangements established after Brexit. The initiative signals a shift toward closer economic cooperation and suggests the government views the current post-Brexit framework as requiring adjustment.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.3929,
+      "mentions": 3,
+      "diversity": 2
+    }
+  ]
+}

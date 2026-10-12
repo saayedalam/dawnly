@@ -1,0 +1,381 @@
+{
+  "published_at": "2026-10-12T19:47:40.826590+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "is_grouped": true,
+      "angle_count": 7,
+      "angles": [
+        {
+          "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says"
+        },
+        {
+          "headline": "After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine"
+        },
+        {
+          "headline": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7885,
+      "mentions": 47,
+      "diversity": 15
+    },
+    {
+      "rank": 2,
+      "headline": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "UK PM says RAF base incidents ‘likely coordinated’ by Iran"
+        },
+        {
+          "headline": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?"
+        },
+        {
+          "headline": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6266,
+      "mentions": 22,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "France school shooting: Police detain pupil after two injured",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "France school shooting: Police detain pupil after two injured"
+        },
+        {
+          "headline": "Stolen Renoir paintings found behind wall in France following arrests"
+        },
+        {
+          "headline": "France braces for fresh student demonstrations as Macron calls for ‘respect’"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3370635/french-police-detain-pupil-14-suspected-shooting-principal-and-teacher?utm_source=rss_feed"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/pupil-shoots-at-teachers-with-hunting-rifle-in-southern-france"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.3333,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8177,
+      "mentions": 15,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Egypt’s press union chief rejects pressure over detained journalists",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.7297,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Pope pulls out of controversial Afghanistan T20 league",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6989,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6722,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ethiopian-govt-forces-enter-key-tigray-town-near-eritrea-border/article71576602.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/12/ethiopia-adwa-recaptured-amid-tensions-with-eritrea-africanews-today/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5047,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "The ICJ’s Rohingya ruling will test the OIC’s promises",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-evening"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/12/pix-of-the-day-12-october-2026-across-the-world/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Brazil",
+        "Eastern Europe",
+        "Europe",
+        "Middle East"
+      ],
+      "score": 0.475,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Burnham to push for new post-Brexit deals at EU summit",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4545,
+      "mentions": 4,
+      "diversity": 2
+    }
+  ]
+}

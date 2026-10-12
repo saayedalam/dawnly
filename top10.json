@@ -1,29 +1,136 @@
 {
-  "published_at": "2026-10-11T16:16:03.834272+00:00",
+  "published_at": "2026-10-12T19:46:41.054004+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-      "summary": "Trump announces that Ukraine and Russia have agreed to an \"energy ceasefire,\" though Zelenskyy initially responds with surprise, suggesting limited prior coordination on the announcement. The proposed arrangement would reportedly protect energy infrastructure from military strikes, addressing civilian heating and power needs amid the ongoing conflict.",
+      "headline": "Russia escalates amid international tensions and sanctions",
+      "summary": "Russia has struck six Ukrainian energy facilities since Trump announced an energy ceasefire agreement, undermining the stated terms of the proposed deal. The attacks suggest Russia may be unwilling to commit to protecting Ukraine's power infrastructure as winter approaches and energy demand peaks.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "summary": "Russia has struck six Ukrainian energy facilities since Trump announced an energy ceasefire agreement, undermining the stated terms of the proposed deal. The attacks suggest Russia may be unwilling to commit to protecting Ukraine's power infrastructure as winter approaches and energy demand peaks."
+        },
+        {
+          "headline": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
+          "summary": "UK Prime Minister Burnham asserts that Russian interference in the 2016 Brexit referendum is highly probable, though he offers no new evidence to support the claim. He extends his concern to potential Russian meddling in upcoming elections in France and Germany, signaling a broader anxiety about foreign interference in European democratic processes."
+        },
+        {
+          "headline": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+          "summary": "The European Union has implemented its largest sanctions package since Russia's 2022 invasion of Ukraine, targeting over 1,600 Russian defense firms and executives involved in missile and drone production. German politician Wadephul characterizes the measure as an unprecedented economic pressure point intended to disrupt Russia's military-industrial capacity."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates"
+        }
+      ],
+      "source_count": 22,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7256,
+      "mentions": 76,
+      "diversity": 18
+    },
+    {
+      "rank": 2,
+      "headline": "France faces multiple security incidents amid ongoing tensions",
+      "summary": "French authorities recovered stolen Renoir paintings concealed behind a wall after arrests in a case that prosecutors say involved concern about an imminent second museum theft. Police moved quickly to apprehend suspects before additional artworks could be targeted, according to statements from prosecutors involved in the investigation.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Stolen Renoir paintings found behind wall in France following arrests",
+          "summary": "French authorities recovered stolen Renoir paintings concealed behind a wall after arrests in a case that prosecutors say involved concern about an imminent second museum theft. Police moved quickly to apprehend suspects before additional artworks could be targeted, according to statements from prosecutors involved in the investigation."
+        },
+        {
+          "headline": "France school shooting: Police detain pupil after two injured",
+          "summary": "A student opened fire at a school in southern France, injuring a headmaster and a teacher with a hunting rifle before police detained them. The incident marks another outbreak of school violence in France, where such events remain rare but periodically surface."
+        },
+        {
+          "headline": "France braces for fresh student demonstrations as Macron calls for ‘respect’",
+          "summary": "French high school students plan new protests as President Macron appeals for civility during ongoing demonstrations. The unrest reflects broader tensions over education policy or working conditions that have persisted despite government calls for dialogue."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/culture/art-and-architecture/article-police-renoir-paintings-museum-heist-suspects/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/police-swooped-on-renoir-theft-suspects-fearing-second-museum-heist-prosecutor-says"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.2959,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "Saudi Arabia's defense minister has pledged a strong response following repeated Houthi missile and drone strikes on the country's airports, which have disrupted civilian and commercial flight operations. The attacks reflect the Houthis' capabilities to strike deep into Saudi territory and their stated goal of pressuring the kingdom over its military involvement in Yemen's civil war.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
         }
       ],
-      "source_count": 17,
+      "source_count": 20,
       "regions": [
         "Africa",
         "Australia",
@@ -33,89 +140,46 @@
         "Germany",
         "Hong Kong",
         "India",
+        "Indonesia",
         "Middle East",
-        "North Africa",
-        "Russia",
+        "Pakistan",
+        "South Africa",
         "Southeast Asia",
+        "Thailand",
         "UK",
-        "US",
-        "Ukraine"
+        "US"
       ],
-      "score": 0.7667,
-      "mentions": 50,
+      "score": 0.6898,
+      "mentions": 40,
       "diversity": 8
     },
     {
-      "rank": 2,
-      "headline": "Attack on Saudi Arabian airport is another dangerous moment in already tense conflict",
-      "summary": "Houthi forces attacked Riyadh's airport, killing at least 12 people and damaging infrastructure in what Saudi Arabia characterizes as a war crime. The strike demonstrates vulnerabilities in Saudi air defenses and escalates the ongoing conflict between the Iranian-backed Houthis and the Saudi-led coalition.",
+      "rank": 4,
+      "headline": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
+      "summary": "US Immigration and Customs Enforcement agents conducted a search of Democratic congresswoman Ilhan Omar's home, an action that has drawn sharp criticism from fellow Democrats who characterize it as an abuse of federal power. The congresswoman has stated she will not be deterred by the raid, while details about the specific reason for the search remain limited in initial reporting.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates"
+          "link": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump"
         }
       ],
-      "source_count": 19,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Germany",
-        "India",
-        "Indonesia",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.6818,
-      "mentions": 42,
-      "diversity": 6
-    },
-    {
-      "rank": 3,
-      "headline": "India’s crackdown on youth protesters: What next?",
-      "summary": "India's youth-led \"Cockroach\" movement has escalated demonstrations in Delhi following the release of detained protest leaders. The movement indicates plans to continue organizing protests, signaling sustained momentum despite government pressure on the demonstrations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
-        }
-      ],
-      "source_count": 11,
+      "source_count": 13,
       "regions": [
         "Australia",
         "Canada",
         "Germany",
         "Hong Kong",
-        "Indonesia",
         "Middle East",
         "Pakistan",
         "Southeast Asia",
@@ -123,71 +187,32 @@
         "UK",
         "US"
       ],
-      "score": 0.5901,
-      "mentions": 14,
-      "diversity": 7
-    },
-    {
-      "rank": 4,
-      "headline": "Pope Leo to have surgery after lump found on lung",
-      "summary": "Pope Leo XIV will undergo surgery this week to remove a nodule discovered in his lung during a routine medical examination. The procedure is scheduled as a precautionary measure to address the growth that doctors identified.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Australia",
-        "Brazil",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "North Africa",
-        "South America",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.5875,
+      "score": 0.5974,
       "mentions": 14,
       "diversity": 7
     },
     {
       "rank": 5,
-      "headline": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-      "summary": "Polish authorities have detained a suspect in connection with an alleged plot to assassinate Prime Minister Donald Tusk and the defence minister. The investigation represents a significant security concern for Poland's government and remains active as police gather evidence.",
+      "headline": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+      "summary": "British Foreign Secretary David Miliband has summoned Iran's ambassador after UK officials determined Iranian forces likely coordinated threats against RAF Fairford airbase. The government has sanctioned two Iranian nationals in response and views the incidents as part of a coordinated campaign against British military infrastructure.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.theguardian.com/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats"
         }
       ],
-      "source_count": 10,
+      "source_count": 11,
       "regions": [
         "Canada",
         "Germany",
@@ -196,177 +221,183 @@
         "Middle East",
         "Pakistan",
         "Southeast Asia",
-        "UK",
-        "Ukraine"
+        "UK"
       ],
-      "score": 0.5714,
-      "mentions": 10,
+      "score": 0.552,
+      "mentions": 12,
       "diversity": 6
     },
     {
       "rank": 6,
-      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "summary": "A migrant boat capsized off the coast of Djibouti, killing at least 139 people including children, according to UN reports. The vessel was carrying migrants when it sank, leaving dozens more unaccounted for in what represents one of the deadliest recent maritime incidents in the region.",
+      "headline": "India’s voter list changes sparks fresh protests",
+      "summary": "Opposition parties in India are protesting changes to the voter registration list, which they claim affects electoral fairness and representation. The demonstrations have escalated to marches at the Supreme Court, where police have established barricades to manage the gatherings.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Germany",
-        "India",
-        "Middle East",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5221,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
-      "headline": "Shooter kills 8 people and himself in Pennsylvania — police",
-      "summary": "A shooting in Erie, Pennsylvania leaves eight people dead, including children and a pregnant woman from the same family, before the shooter takes his own life. The incident marks one of the deadliest mass shootings in the state's recent history.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370464/9-dead-including-children-and-pregnant-woman-shooting-erie-pennsylvania?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/nine-killed-in-shooting-at-pennsylvania-home-local-media/article71569174.ece"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Australia",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Southeast Asia"
-      ],
-      "score": 0.4421,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 8,
-      "headline": "Wildlife park remains closed after fatal tiger attack",
-      "summary": "A man dies after entering a tiger enclosure at a UK wildlife park, prompting authorities to close the facility while they investigate the circumstances. The park has announced it will not euthanize the tiger involved in the fatal attack.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo"
+          "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3370465/tiger-kills-man-who-entered-big-cat-enclosure-uk-wildlife-park?utm_source=rss_feed"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
         }
       ],
-      "source_count": 5,
-      "regions": [
-        "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4202,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 9,
-      "headline": "Thousands without power in Florida and Alabama as Isaias moves north",
-      "summary": "Hurricane Isaias moves northward through the Southeast, knocking out power to hundreds of thousands of residents across Florida and Alabama as it brings destructive winds and heavy rain. The storm has caused at least four deaths and continues advancing toward the Appalachian and mid-Atlantic regions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed"
-        }
-      ],
-      "source_count": 6,
+      "source_count": 8,
       "regions": [
         "Canada",
         "Europe",
         "Germany",
         "Hong Kong",
-        "Thailand",
-        "UK"
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
       ],
-      "score": 0.4196,
-      "mentions": 6,
-      "diversity": 4
+      "score": 0.5128,
+      "mentions": 9,
+      "diversity": 5
     },
     {
-      "rank": 10,
-      "headline": "Kipchoge, 41, breaks course record at Melbourne Marathon",
-      "summary": "Eliud Kipchoge, the 41-year-old Kenyan distance runner, wins the Melbourne Marathon and establishes a new course record in the process. The victory marks his return to the winner's circle after a three-year gap since his last marathon triumph.",
+      "rank": 7,
+      "headline": "Pope Leo to undergo surgery to remove lung nodule in Rome",
+      "summary": "Pope Leo undergoes surgery in Rome to remove a nodule discovered on his lung. The Vatican has not disclosed whether the growth is benign or malignant, and the pontiff continues his regular duties while preparing for the procedure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pope-leo-to-undergo-surgery-for-growth-on-lung/article71572904.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4863,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+      "summary": "Robert Hall and Michael Woodford receive the 2026 Nobel Prize in Economics for developing models that explain how policymakers can moderate economic fluctuations during crises. Their research has shaped modern approaches to managing recessions and financial instability through better understanding of how consumption and investment respond to shocks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4828,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 9,
+      "headline": "French supermarket fridges heated up in 'unprecedented' cyber attack",
+      "summary": "Attackers gained control of refrigeration systems at hundreds of French supermarkets and raised temperatures to dangerous levels, causing food spoilage and creating fire hazards across multiple locations. The incident demonstrates a vulnerability in connected infrastructure that retailers rely on to maintain operations and food safety.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4623,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Burnham to push for new post-Brexit deals at EU summit",
+      "summary": "UK Prime Minister Andy Burnham plans to open negotiations with the EU to revise the trade arrangements established after Brexit. The initiative signals a shift toward closer economic cooperation and suggests the government views the current post-Brexit framework as requiring adjustment.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss"
         },
         {
-          "name": "ABC News Australia",
-          "link": "https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset"
         }
       ],
       "source_count": 3,
       "regions": [
-        "Australia",
         "Middle East",
         "UK"
       ],
-      "score": 0.4,
+      "score": 0.3929,
       "mentions": 3,
-      "diversity": 3
+      "diversity": 2
     }
   ]
 }
