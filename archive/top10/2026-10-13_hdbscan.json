@@ -1,0 +1,370 @@
+{
+  "published_at": "2026-10-13T17:31:46.129740+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "French fridge fright: Why supermarkets have become target for hackers",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "French fridge fright: Why supermarkets have become target for hackers"
+        },
+        {
+          "headline": "Greta Thunberg says French students are being “robbed” amid nationwide prot"
+        },
+        {
+          "headline": "Teenager shoots headmaster, teacher at French school"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food/article71577848.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7851,
+      "mentions": 19,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Russia hits no energy targets in Ukraine for first time since Trump's 'truce'",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Russia hits no energy targets in Ukraine for first time since Trump's 'truce'"
+        },
+        {
+          "headline": "France seizes tanker suspected of belonging to Russia’s shadow fleet"
+        },
+        {
+          "headline": "Chris Mason: Why the prime minister wants to talk about Brexit again"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce/article71580880.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/ukrainian-energy-sites-hit-after-trump-ceasefire-20261013-p614ye.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-ukraine-trump-energy-ceasefire/"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4844,
+      "mentions": 22,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8775,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "US ambassador to Greece resigns amid misconduct allegations",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8499,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/f1-set-to-return-to-africa-for-first-time-in-three-decades?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8171,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Rusty or something more? South Africa's concern after Australia loss",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-13/south-africa-australia-carey-hazlewood-cummins-markram/107262042"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7776,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3370741/bulgaria-seeks-nato-support-after-black-sea-drone-strikes-hit-merchant-ships-sinking-1?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7589,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/13/german-nationals-among-those-airlifted-to-safety-as-storms-kill-five-in-mexico"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Brazil",
+        "Europe",
+        "Mexico",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6491,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Pope admitted to hospital for surgery to remove lump on his lung",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2634634/pope-leo-admitted-to-rome-hospital-for-lung-surgery"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "North Africa",
+        "Pakistan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6242,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Pakistan imposes emergency rule in former prime minister's stronghold",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/why-pakistan-declared-emergency-in-khyber-pakhtunkhwa-explained/article71576216.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Japan",
+        "US"
+      ],
+      "score": 0.5549,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}

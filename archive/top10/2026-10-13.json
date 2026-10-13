@@ -1,0 +1,373 @@
+{
+  "published_at": "2026-10-13T17:30:43.923082+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia faces accusations of interference and covert operations globally",
+      "summary": "French naval forces seized an oil tanker in the Indian Ocean suspected of operating as part of Russia's shadow fleet, which circumvents international sanctions through obscured ownership and flag registrations. Russia has condemned the seizure as a violation of international law, characterizing it as piracy.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
+          "summary": "French naval forces seized an oil tanker in the Indian Ocean suspected of operating as part of Russia's shadow fleet, which circumvents international sanctions through obscured ownership and flag registrations. Russia has condemned the seizure as a violation of international law, characterizing it as piracy."
+        },
+        {
+          "headline": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
+          "summary": "The head of MI5 has confirmed that Russia attempted to interfere in the 2016 Brexit referendum, though he assesses that such efforts had minimal impact on the outcome. The acknowledgment comes as UK politicians including Andy Burnham have raised questions about Russian involvement and its role in the vote."
+        },
+        {
+          "headline": "Russia detains Japanese journalist on suspicion of spying",
+          "summary": "Russia has detained a Japanese journalist on allegations of espionage, marking an escalation in tensions between the two countries amid strained diplomatic relations. Such detentions of foreign press workers raise concerns about press freedom and complicate already difficult bilateral ties."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/13/moment-french-navy-boards-shadow-fleet-oil-tanker-in-the-indian-ocean"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.274,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "summary": "Ukraine's military strikes on Russian data centers have disrupted some bot networks used for disinformation, though cybersecurity analysts debate how significantly these operations have degraded Russia's overall information warfare capabilities. The strikes represent part of Ukraine's broader strategy to target Russian infrastructure supporting both military operations and information campaigns, even as diplomatic tensions rise over ceasefire negotiations and fuel deals involving the Trump administration.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.79,
+      "mentions": 43,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
+      "summary": "Houthi forces have declared intentions to target Saudi Arabia's oil infrastructure and aviation assets, escalating their ongoing conflict with the kingdom. Saudi Arabia responds with military strikes against Houthi positions in Yemen as both sides continue their cycle of attacks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6781,
+      "mentions": 24,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "US ambassador to Greece resigns amid misconduct allegations",
+      "summary": "Kimberly Guilfoyle has resigned from her position as US ambassador to Greece following allegations of misconduct in her conduct of the role. The resignation removes her from a diplomatic post she held during a period of heightened attention to workplace conduct standards across government agencies.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6097,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+      "summary": "Formula 1 will return to Africa for the first time in over 30 years when Rwanda hosts a Grand Prix in the early 2030s, marking a significant expansion of the sport into new markets. Rwanda's selection reflects the country's rapid development, improved infrastructure, and growing global profile, positioning it as a strategic location for F1's continued global growth.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/f1-set-to-return-to-africa-for-first-time-in-three-decades?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5801,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "summary": "Britain's security agency identifies Russia and Iran as active threats conducting operations on UK territory, alongside emerging risks from artificial intelligence systems. Iran is intensifying efforts to target military installations and pursue higher-value objectives abroad, while Russia continues hybrid warfare campaigns.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5777,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Spain’s King Felipe makes first visit to Ceuta amid migrant crisis",
+      "summary": "King Felipe visits the Spanish enclave of Ceuta as the territory faces sustained pressure from migrant crossings and strained relations with Morocco over maritime borders. The royal visit underscores Spain's commitment to maintaining control of the North African territory while addressing the humanitarian and security concerns that shape life there.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/spains-king-felipe-makes-first-visit-to-ceuta-amid-migrant-crisis?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-s-king-felipe-and-queen-letizia-visit-ceuta/a-79649468?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3370760/spanish-royals-visit-ceuta-back-enclave-amid-border-migration-strain-morocco?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East"
+      ],
+      "score": 0.5051,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Greta Thunberg says French students are being “robbed” amid nationwide prot",
+      "summary": "Greta Thunberg joins French students protesting government policies, arguing they are being deprived of educational opportunities and a viable future. The demonstrations have drawn at least 160,000 participants across France and are entering their third week as organizers plan additional actions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-braces-for-fresh-nationwide-student-demonstrations/article71577853.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4735,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Pakistan imposes emergency rule in former prime minister's stronghold",
+      "summary": "Pakistan has invoked emergency powers in Khyber-Pakhtunkhwa province, suspending the provincial government led by supporters of former prime minister Imran Khan. The move follows escalating tensions and security concerns in the northwestern region, which has long served as Khan's political base.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/why-pakistan-declared-emergency-in-khyber-pakhtunkhwa-explained/article71576216.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Japan",
+        "US"
+      ],
+      "score": 0.4735,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "French fridge fright: Why supermarkets have become target for hackers",
+      "summary": "Hackers have remotely compromised refrigeration systems at French supermarkets, causing units to malfunction and spoil perishable goods. The attacks highlight vulnerabilities in connected infrastructure that food retailers depend on, though investigators have not yet identified those responsible or their motives.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food/article71577848.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4404,
+      "mentions": 8,
+      "diversity": 6
+    }
+  ]
+}
