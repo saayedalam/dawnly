@@ -1,0 +1,377 @@
+{
+  "published_at": "2026-10-14T15:03:05.204696+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says"
+        },
+        {
+          "headline": "Burnham careful before Zelensky meeting but promises Ukraine won't leave 'empty handed'"
+        },
+        {
+          "headline": "Big scorelines, one-sided games - are Women's World Cup play-offs working?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5727,
+      "mentions": 21,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Russia arrests Japanese journalist on suspicion of ‘espionage’"
+        },
+        {
+          "headline": "Ukraine and the US: What's next after Trump's diesel deal with Russia?"
+        },
+        {
+          "headline": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3370854/chinese-business-visit-kuril-islands-will-do-nothing-ease-tensions-tokyo?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5664,
+      "mentions": 18,
+      "diversity": 12
+    },
+    {
+      "rank": 3,
+      "headline": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8275,
+      "mentions": 21,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "What we know about the Pope's lung cancer diagnosis",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8258,
+      "mentions": 19,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7339,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Trump plans for ‘massive’ resource exploration in Greenland",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370906/trump-says-massive-oil-gas-and-mineral-exploration-begin-greenland?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.6724,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/russell-brand-behaved-as-a-ruthless-sexual-predator-prosecutors-allege-20261014-p615b1.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5687,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Two scenarios for the Yemen war",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/red-cross-calls-for-urgent-de-escalation-in-west-asia/article71580786.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5547,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "What we know about OpenAI engineer arrested over office spying",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5359,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370911/ukrainian-accused-nord-stream-pipeline-sabotage-goes-trial-germany?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Russia",
+        "UK"
+      ],
+      "score": 0.5197,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}

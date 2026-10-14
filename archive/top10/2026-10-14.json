@@ -1,0 +1,396 @@
+{
+  "published_at": "2026-10-14T15:02:00.332232+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia shifts resources toward military amid international tensions",
+      "summary": "The U.S. is negotiating increased diesel imports from Russia, a move aimed at addressing domestic fuel costs but one that faces skepticism from analysts who doubt it will meaningfully lower global prices. European allies, particularly Italy, have criticized the deal as strategically risky amid ongoing tensions over Ukraine and sanctions policy.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "How will a diesel deal with Russia impact the U.S. market?",
+          "summary": "The U.S. is negotiating increased diesel imports from Russia, a move aimed at addressing domestic fuel costs but one that faces skepticism from analysts who doubt it will meaningfully lower global prices. European allies, particularly Italy, have criticized the deal as strategically risky amid ongoing tensions over Ukraine and sanctions policy."
+        },
+        {
+          "headline": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+          "summary": "Russia has detained a Japanese journalist in Sakhalin on espionage charges, marking a rare arrest of foreign press in the country. Japan's government is seeking clarification on the circumstances and legal basis for the detention amid broader tensions between the two nations."
+        },
+        {
+          "headline": "Russia funnels nearly half its budget into defence, cutting social spending",
+          "summary": "Russia allocates approximately 45 percent of its federal budget to defense spending, a shift that reduces funding for healthcare, education, and social welfare programs. This reallocation reflects the country's prioritization of military operations and weapons development over domestic economic growth and public services."
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-russia-deal-on-diesel-is-very-risky-choice-says-italy-pm-giorgia-meloni/article71583478.ece"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Japan",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5368,
+      "mentions": 20,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "China's economic leverage grows amid geopolitical tensions",
+      "summary": "China's exports jumped 36.3% in September, driven largely by semiconductor shipments that surged 136% as global demand for AI chips intensifies. The country's trade surplus reached a record $133.5 billion, reflecting both strong overseas appetite for its electronics and persistent import weakness at home.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China’s exports surge amid AI-driven demand",
+          "summary": "China's exports jumped 36.3% in September, driven largely by semiconductor shipments that surged 136% as global demand for AI chips intensifies. The country's trade surplus reached a record $133.5 billion, reflecting both strong overseas appetite for its electronics and persistent import weakness at home."
+        },
+        {
+          "headline": "EU leaders to ‘urgently’ call for new trade weapons to tackle China shock",
+          "summary": "European leaders are preparing to request new trade tools to address competitive pressures from Chinese manufacturing and exports. The response reflects concerns about China's dominance in electric vehicles and other sectors, prompting a debate over tariffs, quotas, and other protective measures within EU trade policy."
+        },
+        {
+          "headline": "China and North Korea to open border bridge after unexplained 12-year delay",
+          "summary": "China and North Korea open a border bridge in Dandong after a twelve-year delay since its completion in 2012. The reopening increases cross-border infrastructure connectivity between the two countries, though officials have not publicly explained the extended closure."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push?utm_source=rss_feed"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/trade/china-s-export-engine-hits-fastest-pace-since-february-with-36-growth"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.3611,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "summary": "A Ukrainian aide attributes recent restrictions on Starlink access during military operations to political considerations rather than technical limitations. The incident occurs amid broader tensions over international support for Ukraine, including warnings from the Trump administration about potential cuts to intelligence sharing.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
+        }
+      ],
+      "source_count": 21,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8214,
+      "mentions": 56,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "What we know about the Pope's lung cancer diagnosis",
+      "summary": "Pope Leo has been diagnosed with lung cancer, marking a significant health challenge for the Catholic Church during a papacy still in its early stages. The diagnosis raises questions about papal succession and the Church's leadership continuity in the coming months.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6977,
+      "mentions": 19,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "summary": "A missile fired by Yemen's Houthi movement toward Riyadh was intercepted by Saudi-led coalition air defenses, though related reports indicate at least one projectile struck near Saudi Aramco's headquarters, causing a fire and injuring four people. The escalation reflects an intensifying cycle of attacks and counterattacks, with the Houthis signaling plans for further strikes on Saudi oil and aviation targets while the coalition conducts bombing raids on Yemeni fuel storage sites.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6847,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Trump plans for ‘massive’ resource exploration in Greenland",
+      "summary": "Trump has announced plans to expand oil, gas, and mineral exploration across Greenland, framing the initiative as a significant economic opportunity for the Danish territory. The expansion faces practical and political obstacles, including Greenland's limited infrastructure, environmental concerns, and Denmark's sovereignty over the autonomous region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370906/trump-says-massive-oil-gas-and-mineral-exploration-begin-greenland?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.637,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
+      "summary": "Leaders of India's Cockroach movement have been detained after entering a protest site that authorities had restricted, part of a broader crackdown on demonstrations against alleged irregularities in voter registration. The movement has focused on challenging what its supporters view as manipulation of electoral rolls ahead of elections.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.637,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+      "summary": "Russell Brand's rape and sexual assault trial has begun, with prosecutors alleging he systematically exploited women through deception and coercion over several years. The prosecution characterizes his conduct as deliberate and calculated rather than spontaneous, establishing a pattern they say demonstrates predatory behavior.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/russell-brand-behaved-as-a-ruthless-sexual-predator-prosecutors-allege-20261014-p615b1.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5529,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "What we know about OpenAI engineer arrested over office spying",
+      "summary": "OpenAI dismissed an engineer and law enforcement arrested him after the company discovered a concealed recording device in a conference room. The incident raises questions about workplace security and internal trust within the artificial intelligence company.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/technology/openai-fires-employee-after-finding-recording-device-in-conference-room/article71582204.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5344,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Albanian students clash with police as they protest over education and jobs",
+      "summary": "Albanian students are protesting against what they see as inadequate education quality and limited job prospects, with demonstrations in Tirana escalating to clashes with police and a fire at the Education Ministry building. The movement, known as the Flamingo Revolution, reflects broader frustration among young people over economic opportunities in the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5013,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
