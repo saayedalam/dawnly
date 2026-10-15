@@ -1,0 +1,368 @@
+{
+  "published_at": "2026-10-15T14:51:45.675502+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "summary": "Russia claims Ukraine struck one of its oil refineries, following President Zelensky's announcement that Ukraine would resume attacks on energy infrastructure. The accusation reflects escalating tensions over military strikes as negotiations involving the United States remain contested between the two sides.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+        }
+      ],
+      "source_count": 21,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8844,
+      "mentions": 63,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "summary": "A school roof collapsed in Peshawar, Pakistan, killing at least 33 pupils and one teacher, with the incident occurring during school hours when the building was occupied. The collapse adds to concerns about structural safety in Pakistan's educational infrastructure, where aging buildings and inadequate maintenance remain persistent problems in many regions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7035,
+      "mentions": 14,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+      "summary": "Donald Trump reverses his plan to livestream the execution of the Fort Hood shooter following bipartisan opposition to the unprecedented move. The decision reflects concerns from lawmakers across party lines about the implications of broadcasting a capital punishment case.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6598,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
+      "summary": "Albanian students have launched sustained protests against Prime Minister Edi Rama, citing grievances over education policy and broader governance concerns that have escalated to include property damage at government buildings. Rama has refused to step down despite the demonstrations now in their third day, signaling his intention to remain in office despite the pressure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5245,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Photos: China and North Korea open new border bridge amid deepening ties",
+      "summary": "China and North Korea have officially opened a new bridge across the Yalu River after a 12-year delay, marking a symbolic strengthening of their bilateral relationship. The infrastructure project is expected to increase cross-border trade and facilitate closer economic ties between the two neighboring countries.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3371000/china-keen-strengthen-north-korea-trade-ties-new-yalu-river-bridge-opening?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.5245,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+      "summary": "A woman testifying in Russell Brand's rape trial describes the psychological aftermath of the alleged assault, including fear about potential pregnancy. The trial has opened with prosecutors characterizing Brand as a predatory offender while the defendant denies the charges against him.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/15/russell-brand-jury-alleged-rape-woman-1999-crown-court"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/russell-brand-leaves-court-on-first-day-of-trial-for-rape-and-sexual-assault-20261015-p615pu.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4903,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "White House defends new press secretary after questions about her legal credentials",
+      "summary": "The White House has defended newly appointed press secretary Katie Zacharia after questions emerged about whether she actually holds legal credentials despite her background suggesting legal expertise. The scrutiny centers on discrepancies between her professional history and her claimed qualifications as an attorney.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-white-house-press-secretary-katie-zacharias-legal-career-draws-scrutiny/article71586662.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.4566,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "EU must curb energy prices to prevent people turning to populists, commissioner warns – Europe live",
+      "summary": "An EU commissioner warns that unchecked energy prices risk driving voters toward populist parties across Europe, signaling concern about the political consequences of sustained economic strain. The warning reflects broader anxiety among EU leadership that economic hardship could reshape European politics if member states fail to manage cost-of-living pressures.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/commercial-ship-catches-fire-in-romanian-waters-in-latest-black-sea-incident/article71586456.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4308,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+      "summary": "The Houthis, an Iran-backed militant group, continue to strike Saudi infrastructure despite years of coalition air defense efforts, most recently targeting the oil company Aramco's headquarters. Saudi Arabia's difficulty in preventing these attacks stems from the Houthis' access to advanced missiles and drones, combined with the vast territory and distributed nature of their launch sites.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/videos/houthi-attack-on-saudi-oil-giant-raises-global-energy-concerns/article71587462.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2634972/saudi-led-coalition-intercepts-and-destroys-drone-in-eastern-saudi-arabia"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4308,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Russia’s top security agency says it arrested a Swedish man on suspicion of sabotage",
+      "summary": "Russia's Federal Security Service has detained a Swedish citizen on accusations of planning sabotage and terrorist acts in support of Ukraine. The arrest occurs amid a pattern of Russian detentions of foreign nationals, which analysts suggest may serve as leverage for future prisoner exchanges.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russias-top-security-agency-says-it-arrested-a-swedish-man-on-suspicion-of-sabotage/article71587787.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/tokyo-seeks-information-on-russia-s-detention-of-japanese-reporter"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/15/russia-detains-swedish-citizen-as-moscow-eyes-future-prisoner-swaps"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "India",
+        "Japan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3799,
+      "mentions": 9,
+      "diversity": 5
+    }
+  ]
+}
