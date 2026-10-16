@@ -1,0 +1,373 @@
+{
+  "published_at": "2026-10-16T14:45:53.446954+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S."
+        },
+        {
+          "headline": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’"
+        },
+        {
+          "headline": "Ukraine unveils flying ambulance drone that could save lives in minutes"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-abandons-truce-and-attacks-russian-oil-refinery-as-zelenskyy-says-he-feels-betrayed-by-trump/article71591412.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-talks-up-refinery-attack-as-trump-blames-ukraine-for-expensive-fuel"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4851,
+      "mentions": 13,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Former Sale Shark lock Andrews dies at team hotel in La Rochelle",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Former Sale Shark lock Andrews dies at team hotel in La Rochelle"
+        },
+        {
+          "headline": "France's Macron warns EU leaders they need budget deal before year-end, say diplomats"
+        },
+        {
+          "headline": "Hundreds of schools to shut on October 5 as student protests rock France"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-16/ben-austin-cricket-death-coronial-directions-hearing/107274262"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/lions-lock-andrews-dies-champions-cup-fixture-in-france-6466161"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Eastern Europe",
+        "Europe",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4025,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "The EU wants an AI revolution. But on whose terms?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "The EU wants an AI revolution. But on whose terms?"
+        },
+        {
+          "headline": "China’s R&D spending keeps up steady rise as No 1 US seeks further funding cuts"
+        },
+        {
+          "headline": "China invites Trump press secretary Katie Zacharia to visit after ‘proper toilets’ slur"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/business/imf-chief-urges-cooperation-ai-and-war-risks-us-hails-economic-momentum-6466246"
+        },
+        {
+          "name": "Rest of World",
+          "link": "https://restofworld.org/2026/china-open-weight-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Southeast Asia"
+      ],
+      "score": 0.3876,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "India police detain ‘Cockroach’ party founder ahead of protest",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.8517,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8063,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Shooter kills three children and one teacher at Oregon elementary school",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.75,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "NRL gap a factor in France's heavy defeat by Samoa, says boss",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c50me81r74n7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-16/rugby-league-world-cup-live-australia-vs-fetu-samoa/107260412"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/hazlewood-says-reverse-swing-may-be-factor-in-south-africa-test-series-6466116"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5892,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "UK",
+        "US"
+      ],
+      "score": 0.558,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Watch: Did Tesla really just unveil a flying car?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/business/international-business/article-tesla-new-roadster-turns-in-air-with-spacex-thrusters/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Global",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5532,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-albania-anti-government-protests-prime-minister-edi-rama-resign/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Southeast Asia"
+      ],
+      "score": 0.5117,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}

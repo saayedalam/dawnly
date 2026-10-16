@@ -1,0 +1,358 @@
+{
+  "published_at": "2026-10-16T14:44:44.319737+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Ukraine navigates military support amid shifting US political dynamics",
+      "summary": "Ukrainian President Zelensky defends his country's military strikes on Russian oil refineries as a legitimate act of self-defense, responding to Trump's criticism of the attacks as counterproductive. The exchange reflects a widening disagreement between the incoming U.S. administration and Kyiv over military strategy in the ongoing conflict.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+          "summary": "Ukrainian President Zelensky defends his country's military strikes on Russian oil refineries as a legitimate act of self-defense, responding to Trump's criticism of the attacks as counterproductive. The exchange reflects a widening disagreement between the incoming U.S. administration and Kyiv over military strategy in the ongoing conflict."
+        },
+        {
+          "headline": "Ukraine unveils flying ambulance drone that could save lives in minutes",
+          "summary": "Ukraine has developed a drone called StarGate designed to evacuate wounded soldiers from active combat zones, dramatically reducing the time needed to reach medical care. The aircraft represents an adaptation of drone technology to address the critical challenge of rapid casualty evacuation in modern warfare."
+        },
+        {
+          "headline": "Order to restrict Ukraine’s Starshield defence system came from White House, officials say",
+          "summary": "The White House ordered restrictions on Ukraine's access to Starshield, a satellite-based defense system used to counter drone attacks, according to officials familiar with the decision. The move has drawn criticism from Republican lawmakers and prompted calls for investigation into how the restrictions affect Ukraine's ability to defend against Russian military operations."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.764,
+      "mentions": 58,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "summary": "Israeli settlers have attacked Palestinians in the West Bank during the olive harvest season, with some incidents involving damage to olive groves and trees. The attacks occur against the backdrop of ongoing tensions over land and resources in the occupied territory.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.582,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 3,
+      "headline": "India police detain ‘Cockroach’ party founder ahead of protest",
+      "summary": "Police in India have detained Dipke, the founder of the \"Cockroach\" movement, before a planned protest in New Delhi. The detainment reflects escalating tensions as crowds gather in the capital to demonstrate, signaling authorities' effort to restrict the movement's organization.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "US"
+      ],
+      "score": 0.5815,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Shooter kills three children and one teacher at Oregon elementary school",
+      "summary": "A shooting at an Oregon elementary school leaves three children and one teacher dead, with the incident marking another instance of gun violence in an American school setting. A community member fatally shot the gunman, preventing further casualties at the scene.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2635168/shooter-kills-four-at-oregon-elementary-school-before-being-shot-dead-by-community-member"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.481,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Wildfire kills 4 firefighters in Indonesia's Mount Bromo national park",
+      "summary": "Four firefighters die while battling a wildfire in Mount Bromo national park, part of a broader crisis of Indonesian fires that have spread toxic haze across Southeast Asia. The smoke affects neighboring countries including Singapore and Malaysia, where governments face pressure to coordinate stronger responses to the recurring seasonal fires.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3371188/singapore-targets-7-companies-over-wildfires-indonesia-toxic-haze-worsens?utm_source=rss_feed"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/four-killed-in-indonesia-battling-fires-causing-toxic-haze/article71591244.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Thailand"
+      ],
+      "score": 0.4519,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Norwegian teen 'hitman' detained for UK murder plot",
+      "summary": "A Norwegian teenager has been detained after being recruited online to carry out a murder in the UK, allegedly by an Iran-backed crime gang. The case highlights how criminal networks exploit minors through digital channels to commit violence across international borders.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/norwegian-teen-sentenced-to-20-years-for-uk-murder-plot-tied-to-iran-linked-group"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Pakistan orders school inspections following deadly roof collapse",
+      "summary": "Pakistan's government has ordered nationwide school inspections after a roof collapsed at a school in Rawalpindi, killing at least 34 children and a teacher. The incident has prompted families of the victims to seek accountability, highlighting concerns about building safety standards in educational institutions across the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/16/families-of-32-children-killed-in-pakistan-school-roof-collapse-demand-justice"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/asia/at-least-27-students-killed-in-school-roof-collapse-in-pakistan-20261015-p615z4.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.3991,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Watch: Did Tesla really just unveil a flying car?",
+      "summary": "Tesla has unveiled a redesigned Roadster featuring rocket thrusters developed with SpaceX that enable the vehicle to briefly lift off and maneuver in the air. The car is not expected to reach consumers until 2028, and the \"flying\" capability represents a dramatic but limited addition to the sports car rather than a fully airborne vehicle.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/business/international-business/article-tesla-new-roadster-turns-in-air-with-spacex-thrusters/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3831,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+      "summary": "Albanian students are leading widespread protests demanding Prime Minister Edi Rama's resignation and broader political reforms across the country. The demonstrations have grown to include thousands of participants and have persisted for multiple days in the capital Tirana.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-albania-anti-government-protests-prime-minister-edi-rama-resign/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Southeast Asia"
+      ],
+      "score": 0.3675,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "How prepared is Kenya for an Ebola outbreak?",
+      "summary": "Kenya has detected cases of Ebola and faces heightened risk given an active outbreak spreading across provinces in neighboring Democratic Republic of Congo. The country's health system is implementing border surveillance and enhanced monitoring protocols, though questions remain about readiness across all regions, particularly those near outbreak areas.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202610160014.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany"
+      ],
+      "score": 0.3542,
+      "mentions": 5,
+      "diversity": 2
+    }
+  ]
+}
