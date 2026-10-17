@@ -1,115 +1,108 @@
 {
-  "published_at": "2026-10-16T14:44:44.319737+00:00",
+  "published_at": "2026-10-17T13:35:36.855651+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Ukraine navigates military support amid shifting US political dynamics",
-      "summary": "Ukrainian President Zelensky defends his country's military strikes on Russian oil refineries as a legitimate act of self-defense, responding to Trump's criticism of the attacks as counterproductive. The exchange reflects a widening disagreement between the incoming U.S. administration and Kyiv over military strategy in the ongoing conflict.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-          "summary": "Ukrainian President Zelensky defends his country's military strikes on Russian oil refineries as a legitimate act of self-defense, responding to Trump's criticism of the attacks as counterproductive. The exchange reflects a widening disagreement between the incoming U.S. administration and Kyiv over military strategy in the ongoing conflict."
-        },
-        {
-          "headline": "Ukraine unveils flying ambulance drone that could save lives in minutes",
-          "summary": "Ukraine has developed a drone called StarGate designed to evacuate wounded soldiers from active combat zones, dramatically reducing the time needed to reach medical care. The aircraft represents an adaptation of drone technology to address the critical challenge of rapid casualty evacuation in modern warfare."
-        },
-        {
-          "headline": "Order to restrict Ukraine’s Starshield defence system came from White House, officials say",
-          "summary": "The White House ordered restrictions on Ukraine's access to Starshield, a satellite-based defense system used to counter drone attacks, according to officials familiar with the decision. The move has drawn criticism from Republican lawmakers and prompted calls for investigation into how the restrictions affect Ukraine's ability to defend against Russian military operations."
-        }
-      ],
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The Trump administration has suspended several sanctions on Russia while tensions escalate with Ukrainian President Zelensky over military aid and peace negotiations. Russia continues strikes on Ukrainian civilian areas as winter approaches, intensifying pressure on both Ukraine's infrastructure and diplomatic discussions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 20,
+      "source_count": 19,
       "regions": [
-        "Africa",
         "Australia",
+        "Brazil",
         "Canada",
         "Central Asia & Eastern Europe",
         "Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
+        "Middle East",
+        "North Africa",
         "Pakistan",
         "Russia",
-        "South Africa",
         "Southeast Asia",
+        "Thailand",
         "UK",
-        "US",
         "Ukraine"
       ],
-      "score": 0.764,
-      "mentions": 58,
-      "diversity": 16
+      "score": 0.65,
+      "mentions": 67,
+      "diversity": 8
     },
     {
       "rank": 2,
-      "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "summary": "Israeli settlers have attacked Palestinians in the West Bank during the olive harvest season, with some incidents involving damage to olive groves and trees. The attacks occur against the backdrop of ongoing tensions over land and resources in the occupied territory.",
+      "headline": "Pope to be discharged days after lung cancer surgery",
+      "summary": "The Pope is being discharged from the hospital within days after undergoing lung cancer surgery, marking a rapid recovery from the procedure. His swift return to public duties, including delivering Sunday prayers, reflects the Vatican's confidence in his condition, though the limited disclosure of medical details continues to raise questions about institutional transparency.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-recovering-from-surgery-will-deliver-sunday-prayer/a-79682540?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html"
         }
       ],
-      "source_count": 6,
+      "source_count": 11,
       "regions": [
-        "Middle East",
-        "Pakistan",
+        "Africa",
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
         "Southeast Asia",
-        "UK"
+        "Thailand",
+        "UK",
+        "US"
       ],
-      "score": 0.582,
-      "mentions": 9,
-      "diversity": 4
+      "score": 0.5454,
+      "mentions": 13,
+      "diversity": 7
     },
     {
       "rank": 3,
-      "headline": "India police detain ‘Cockroach’ party founder ahead of protest",
-      "summary": "Police in India have detained Dipke, the founder of the \"Cockroach\" movement, before a planned protest in New Delhi. The detainment reflects escalating tensions as crowds gather in the capital to demonstrate, signaling authorities' effort to restrict the movement's organization.",
+      "headline": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+      "summary": "Protesters across French cities are clashing with police during demonstrations focused on cost-of-living concerns, with participants describing a shift in the atmosphere of the movement. The unrest has spread nationwide and involves multiple protest groups, including the yellow vest movement, as tensions escalate between demonstrators and law enforcement.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/india-cjp-s-dipke-detained-amid-call-for-fresh-delhi-demo/live-79675849?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 6,
@@ -118,240 +111,248 @@
         "Germany",
         "Hong Kong",
         "Middle East",
-        "Pakistan",
-        "US"
+        "Thailand",
+        "UK"
       ],
-      "score": 0.5815,
-      "mentions": 6,
+      "score": 0.5199,
+      "mentions": 7,
       "diversity": 5
     },
     {
       "rank": 4,
-      "headline": "Shooter kills three children and one teacher at Oregon elementary school",
-      "summary": "A shooting at an Oregon elementary school leaves three children and one teacher dead, with the incident marking another instance of gun violence in an American school setting. A community member fatally shot the gunman, preventing further casualties at the scene.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2635168/shooter-kills-four-at-oregon-elementary-school-before-being-shot-dead-by-community-member"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "India",
-        "Pakistan",
-        "South Africa",
-        "UK"
-      ],
-      "score": 0.481,
-      "mentions": 10,
-      "diversity": 5
-    },
-    {
-      "rank": 5,
-      "headline": "Wildfire kills 4 firefighters in Indonesia's Mount Bromo national park",
-      "summary": "Four firefighters die while battling a wildfire in Mount Bromo national park, part of a broader crisis of Indonesian fires that have spread toxic haze across Southeast Asia. The smoke affects neighboring countries including Singapore and Malaysia, where governments face pressure to coordinate stronger responses to the recurring seasonal fires.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3371188/singapore-targets-7-companies-over-wildfires-indonesia-toxic-haze-worsens?utm_source=rss_feed"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/four-killed-in-indonesia-battling-fires-causing-toxic-haze/article71591244.ece"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Thailand"
-      ],
-      "score": 0.4519,
-      "mentions": 11,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Norwegian teen 'hitman' detained for UK murder plot",
-      "summary": "A Norwegian teenager has been detained after being recruited online to carry out a murder in the UK, allegedly by an Iran-backed crime gang. The case highlights how criminal networks exploit minors through digital channels to commit violence across international borders.",
+      "headline": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "A shooting at an Oregon school left a teacher dead after she engaged the attacker while an armed father on campus fired multiple shots at the suspect. The incident involved a former special-needs student and prompted police to commend the interventions of those present for preventing further casualties.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/norwegian-teen-sentenced-to-20-years-for-uk-murder-plot-tied-to-iran-linked-group"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 3,
+      "source_count": 7,
       "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.4,
-      "mentions": 3,
-      "diversity": 2
+      "score": 0.5026,
+      "mentions": 8,
+      "diversity": 5
     },
     {
-      "rank": 7,
-      "headline": "Pakistan orders school inspections following deadly roof collapse",
-      "summary": "Pakistan's government has ordered nationwide school inspections after a roof collapsed at a school in Rawalpindi, killing at least 34 children and a teacher. The incident has prompted families of the victims to seek accountability, highlighting concerns about building safety standards in educational institutions across the country.",
+      "rank": 5,
+      "headline": "Child, four women among Palestinians injured in West Bank pogroms",
+      "summary": "Israeli settlers attacked Palestinians conducting olive harvests in the West Bank, injuring a four-year-old child, four women, and a U.S. photojournalist. The incidents reflect ongoing tensions over land access and agricultural activities in the occupied territory.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss"
         },
         {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/10/16/families-of-32-children-killed-in-pakistan-school-roof-collapse-demand-justice"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/asia/at-least-27-students-killed-in-school-roof-collapse-in-pakistan-20261015-p615z4.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Global",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4534,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Wildfire prompts thousands of evacuation orders in Orange County",
+      "summary": "A rapidly spreading wildfire in Orange County forces thousands of residents to evacuate their homes as hot, dry winds push flames across the region. Firefighters work to contain the blaze while power outages and destroyed structures compound the crisis affecting the county.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
         }
       ],
       "source_count": 4,
       "regions": [
         "Australia",
-        "Europe",
+        "Germany",
         "Middle East",
-        "Thailand"
+        "US"
       ],
-      "score": 0.3991,
+      "score": 0.4068,
       "mentions": 4,
       "diversity": 4
     },
     {
-      "rank": 8,
-      "headline": "Watch: Did Tesla really just unveil a flying car?",
-      "summary": "Tesla has unveiled a redesigned Roadster featuring rocket thrusters developed with SpaceX that enable the vehicle to briefly lift off and maneuver in the air. The car is not expected to reach consumers until 2028, and the \"flying\" capability represents a dramatic but limited addition to the sports car rather than a fully airborne vehicle.",
+      "rank": 7,
+      "headline": "White House press secretary Zacharia exiting role after short tenure",
+      "summary": "Katie Zacharia departs from her role as White House press secretary after fewer than five days in the position. The abrupt exit follows controversy during her brief tenure in the high-profile communications role.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "Financial Times",
-          "link": "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1"
+          "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/business/international-business/article-tesla-new-roadster-turns-in-air-with-spacex-thrusters/"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/who-is-katie-zacharia-white-house-press-secretary-who-exited-after-five-days-in-office/article71595641.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3941,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "summary": "Three men receive 158-year prison sentences in Mexico for murdering an Australian surfer and a U.S. surfer whose deaths drew international attention to violence in the country. The convictions close a case that highlighted the risks faced by foreign travelers in regions affected by organized crime and gang activity.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3371227/3-mexican-men-jailed-over-158-years-australian-us-surfer-murders?utm_source=rss_feed"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Canada",
+        "Australia",
+        "Germany",
+        "Hong Kong",
         "Southeast Asia",
-        "Thailand",
         "UK"
       ],
-      "score": 0.3831,
-      "mentions": 6,
-      "diversity": 3
-    },
-    {
-      "rank": 9,
-      "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-      "summary": "Albanian students are leading widespread protests demanding Prime Minister Edi Rama's resignation and broader political reforms across the country. The demonstrations have grown to include thousands of participants and have persisted for multiple days in the capital Tirana.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-albania-anti-government-protests-prime-minister-edi-rama-resign/"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Eastern Europe",
-        "Europe",
-        "Germany",
-        "Southeast Asia"
-      ],
-      "score": 0.3675,
-      "mentions": 6,
+      "score": 0.3867,
+      "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "How prepared is Kenya for an Ebola outbreak?",
-      "summary": "Kenya has detected cases of Ebola and faces heightened risk given an active outbreak spreading across provinces in neighboring Democratic Republic of Congo. The country's health system is implementing border surveillance and enhanced monitoring protocols, though questions remain about readiness across all regions, particularly those near outbreak areas.",
+      "rank": 9,
+      "headline": "Houthis strike Yemen’s Aden: What that means",
+      "summary": "Houthi forces have launched attacks on Aden, a port city held by Saudi-backed government forces, as part of their broader campaign in Yemen's ongoing civil war. The strikes reflect the group's continued military capability and willingness to target strategic locations despite Saudi-led coalition airstrikes that reportedly destroyed over 100 Houthi positions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-destroyed-more-than-100-houthi-targets/article71569265.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3863,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "summary": "Deforestation in Brazil's Amazon region reached its lowest level in nearly four decades, reflecting efforts to curb forest loss under President Luiz Inácio Lula da Silva's administration. The achievement comes as Brazil prepares for a significant policy vote that could shape future environmental protections in the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+        },
+        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/"
-        },
-        {
-          "name": "The Star Kenya",
-          "link": "https://allafrica.com/stories/202610160014.html"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/deforestation-in-brazil-amazon-hits-nearly-four-decade-low"
         }
       ],
       "source_count": 3,
       "regions": [
-        "Africa",
-        "East Africa",
-        "Germany"
+        "Germany",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.3542,
-      "mentions": 5,
+      "score": 0.35,
+      "mentions": 3,
       "diversity": 2
     }
   ]
