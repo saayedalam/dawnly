@@ -1,0 +1,332 @@
+{
+  "published_at": "2026-10-18T13:56:04.661090+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8404,
+      "mentions": 38,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "European diplomats attacked by Israeli settlers in West Bank",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6513,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Watch: Pope thanks well-wishers in first event after cancer surgery",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5927,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Major fire breaks out in Alberta after deadly incident at military base",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/major-fire-breaks-out-in-alberta-casualties-reported/article71599017.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Germany",
+        "India",
+        "US"
+      ],
+      "score": 0.4313,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "New Zealand avoid World Cup shock against Fiji",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/boland-strikes-twice-rain-disrupts-second-test-6469401"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4078,
+      "mentions": 12,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-parliament-discuss-defensive-aid-saudi-arabia"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Middle East"
+      ],
+      "score": 0.3897,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/87400"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "'No Kings' rallies push early voting ahead of US midterm elections",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3438,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/delhi-crackdown-fosters-gen-z-defenders-of-indian-democracy"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "India",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.2833,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Two people, including child, killed after person drives through soccer game in Kansas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2635513/two-killed-including-6-year-old-when-truck-drives-through-kansas-youth-soccer-game-police-say"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/vehicle-drives-through-kansas-soccer-game-killing-two-including-a-child-police-say"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.2833,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "published_at": "2026-10-18T13:55:16.038896+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "summary": "Protests in Paris escalated into riots overnight, leaving burned vehicles and broken storefronts across multiple neighborhoods as looting spread through the city. Authorities have made around 1,800 arrests, and residents report widespread damage to their streets and businesses.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.809,
+      "mentions": 37,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "Ukrainian drones struck oil refineries in St Petersburg overnight, killing at least one person and disrupting energy infrastructure in Russia's second-largest city. The attack reflects intensifying Ukrainian strikes on Russian energy targets as the conflict expands beyond traditional front-line combat zones.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6727,
+      "mentions": 42,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "Israeli settlers attacked European diplomats and a French mayor in the West Bank during a confrontation that highlights rising tensions between settler groups and international observers in the region. The incident coincides with the olive harvest season, when disputes over land access and agricultural resources have intensified clashes between settlers and Palestinians.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6375,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Several dead or injured in major fire at Canada military base",
+      "summary": "A major fire has broken out at Canadian Forces Base Wainwright in Alberta, resulting in multiple deaths and injuries. Emergency responders continue to assess the situation at the facility, with officials describing the event as a serious incident.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6066,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Watch: Pope thanks well-wishers in first event after cancer surgery",
+      "summary": "Pope Leo XIV addresses well-wishers following his recent release from the hospital after undergoing lung cancer surgery. The pontiff indicates he will resume his papal duties gradually as he continues his recovery.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5692,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+      "summary": "Egypt's government signals willingness to support Saudi Arabia's military efforts against Houthi attacks, potentially including direct involvement if requested by Riyadh. The support comes as Saudi Arabia faces ongoing threats from Houthi strikes, including a recent helicopter crash that killed two pilots operating near Yemen.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3371307/saudi-closes-riyadh-skyscraper-chopper-pilots-killed-near-yemen?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5248,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "summary": "Secretary of State Marco Rubio confirms that Ukraine currently lacks access to Starshield, the U.S. military's secure satellite communications system. Whether Ukraine will gain access to the technology remains under review within the Trump administration.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/87400"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "India news: Kolkata stampede dampens Durga Puja festivities",
+      "summary": "A stampede during Durga Puja celebrations in Kolkata kills at least 19 people and injures 25 others, disrupting one of India's most significant religious festivals. The incident highlights ongoing safety concerns at large religious gatherings where crowd management remains inadequate.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3371278/19-dead-25-hurt-stampede-india-religious-festival?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2635534/12-killed-as-truck-runs-over-devotees-near-temple-in-central-india-police"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3291,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "'No Kings' rallies push early voting ahead of US midterm elections",
+      "summary": "A coalition called \"No Kings\" organizes rallies across the United States to encourage voters to cast ballots early ahead of the midterm elections. The movement frames early voting as a way to increase participation and counter efforts it opposes politically.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3291,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Two people, including child, killed after person drives through soccer game in Kansas",
+      "summary": "A vehicle drove through a youth soccer game in Kansas, killing two people including a 6-year-old child. Authorities are investigating the incident, though details about the driver's identity and circumstances remain unclear.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2635513/two-killed-including-6-year-old-when-truck-drives-through-kansas-youth-soccer-game-police-say"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/united-states/vehicle-drives-through-kansas-soccer-game-killing-two-including-a-child-police-say"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.2727,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
