@@ -1,0 +1,358 @@
+{
+  "published_at": "2026-10-19T16:57:47.690185+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says"
+        },
+        {
+          "headline": "Putin proposes summit with Trump and Xi to discuss Ukraine deal: report"
+        },
+        {
+          "headline": "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/zelenskyy-says-ukraine-got-no-early-warning-from-partners-as-russia-hits-power-grid-again/article71602862.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-ukraine-power-grid-zelensky-intelligence-partners/"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Russia",
+        "South Africa",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.4284,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Trump endorses Netanyhu ahead of elections",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.825,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Australian MP critically injured after being hit by car in apparent attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7675,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7247,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Gaza faces worsening hunger as WFP announces food aid cuts",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7101,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Watch: The father and son on opposite sides of Alberta’s separation vote",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.57,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/grass-fire-at-canadian-military-base-kills-4-soldiers-critically-injures-19-other-people/article71601996.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/massive-fire-at-canada-military-base-kills-service-members-dozens-injured-20261019-p616jj.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5086,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3371411/frances-pm-calls-curfews-nation-grapples-unrest?utm_source=rss_feed"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2635698/french-pm-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.501,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "France protests escalate with riots, looting and 2,400 arrests – The Latest",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/french-authorities-struggle-regain-control-after-deadly-weekend-protests"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.501,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3371343/lula-and-bolsonaro-trade-barbs-fiery-brazil-run-debate?utm_source=rss_feed"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Brazil",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "South Africa",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.4676,
+      "mentions": 9,
+      "diversity": 5
+    }
+  ]
+}

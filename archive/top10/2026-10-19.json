@@ -1,0 +1,370 @@
+{
+  "published_at": "2026-10-19T16:56:47.457508+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Watch: Are the French riots a warning of an intense election to come?",
+      "summary": "France faces deepening social turmoil as protests over police violence intersect with rising political polarization ahead of an election cycle. The unrest has exposed fractures within Macron's government and provided momentum to far-right opposition parties seeking to capitalize on public discontent.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.815,
+      "mentions": 51,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Australian MP critically injured after being hit by car in apparent attack",
+      "summary": "Independent MP Helen Haines was struck by a car in what authorities are treating as an apparent deliberate attack, leaving her in critical condition. The incident follows a period of escalating threats against Australian politicians, raising concerns about the safety environment in which elected officials operate.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6427,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "summary": "A Kenyan court has convicted cult leader Paul Mackenzie of murdering 191 people, mostly children, whom he instructed parents to starve as part of his religious teachings. The convictions conclude a high-profile case that exposed a network of followers who followed his directives to withhold food from their families.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5891,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Gaza faces worsening hunger as WFP announces food aid cuts",
+      "summary": "The World Food Programme is reducing aid to roughly half a million Palestinians in Gaza due to funding constraints and operational difficulties. The cutbacks occur as existing food shortages intensify, leaving vulnerable populations with fewer resources to meet basic nutritional needs.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5832,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Dozens killed after Houthi strike on military camp in Shabwa",
+      "summary": "Houthi forces struck a military camp in Shabwa province, Yemen, killing at least 50 people in what appears to be one of the deadliest single attacks since the civil war intensified. The attack underscores the ongoing territorial and military conflict between Yemen's government-aligned forces and the Iran-backed Houthi movement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5827,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+      "summary": "Ukraine and Russia continue exchanging military strikes as tensions rise between President Trump and President Zelenskyy over the direction of peace negotiations. Zelenskyy has accused Trump of pressuring Ukraine toward surrender while expressing frustration over the lack of advance warning on Russian attacks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.573,
+      "mentions": 46,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Trump endorses Netanyhu ahead of elections",
+      "summary": "Former President Trump publicly endorsed Benjamin Netanyahu's reelection bid nine days before Israel's election, ending months without public commentary on Israeli politics. Netanyahu has recently signaled concerns about potential future U.S. hostility and sought to strengthen diplomatic relationships with other nations like India and Latin America.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "Middle East",
+        "US"
+      ],
+      "score": 0.5032,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Watch: The father and son on opposite sides of Alberta’s separation vote",
+      "summary": "Albertans are voting on whether to hold a formal referendum on provincial independence, a decision that reflects growing frustration with federal policies and resource management. The campaign has created divisions even within families and among separatist groups themselves, as voters weigh whether to pursue a path toward autonomy or remain in Canada.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4975,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
+      "summary": "Al Jazeera's investigation questions Israel's official explanation of an incident involving photojournalist Heidi Levine, presenting evidence that contradicts the stated Israeli account. Israeli authorities have arrested multiple settlers in connection with attacks on Levine and European diplomats in the West Bank.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4571,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "summary": "A rapidly spreading grass fire at a Canadian military base in Alberta has killed four people and sent 39 others to hospitals, with at least 19 in critical condition. The flames advanced approximately one kilometre in less than a minute, overwhelming the base's ability to respond quickly to the emergency.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/grass-fire-at-canadian-military-base-kills-4-soldiers-critically-injures-19-other-people/article71601996.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/massive-fire-at-canada-military-base-kills-service-members-dozens-injured-20261019-p616jj.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3997,
+      "mentions": 8,
+      "diversity": 5
+    }
+  ]
+}
