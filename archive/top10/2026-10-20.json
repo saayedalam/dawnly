@@ -1,0 +1,365 @@
+{
+  "published_at": "2026-10-20T14:55:22.769100+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+      "summary": "Ukrainian President Zelensky meets with U.S. envoys in Oslo to discuss potential paths toward ending the conflict with Russia, as Secretary of State Rubio addresses accusations that intelligence sharing has been withheld. The talks occur amid broader tensions over U.S. support for Ukraine's defense and the Trump administration's stated interest in negotiating a settlement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7147,
+      "mentions": 43,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go",
+      "summary": "Albania's youth-led protest movement, called a \"horizontal revolt\" for its decentralized structure without formal leadership, demands Prime Minister Edi Rama's resignation over concerns about governance and corruption. The demonstrations reflect broader discontent among young Europeans with establishment politics and institutional accountability.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6973,
+      "mentions": 31,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Albertans reject referendum on independence from Canada",
+      "summary": "Alberta voters reject a referendum question that would have authorized their government to pursue independence from Canada. The result reflects continued support for Canadian unity among the province's electorate despite ongoing tensions over federal policies and resource management.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6732,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "summary": "A man has been charged with attacking Australian MP Helen Haines in Wangaratta, leaving her critically injured and requiring amputation of one leg. The suspect's family states that Haines has been a close family friend for over two decades, adding complexity to the circumstances surrounding the alleged assault.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.594,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "summary": "The UK is deploying Typhoon fighter jets to Saudi Arabia to help intercept attacks from Houthi forces operating in Yemen. The move responds to repeated missile and drone strikes that the Iran-aligned group has launched against Saudi infrastructure and shipping in the Red Sea region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4932,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+      "summary": "U.S. Secretary of State Rubio visits Reliance's massive refinery in India to discuss potential processing of Venezuelan crude oil and explore energy security partnerships between the two nations. The visit coincides with broader U.S.-India trade negotiations and reflects American efforts to reshape global energy sourcing away from traditional suppliers.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.455,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "summary": "Aung San Suu Kyi, Myanmar's ousted civilian leader held in military detention since the 2021 coup, received a package from Britain's King Charles III, marking a rare public acknowledgment of her continued confinement. The Myanmar junta released photographs of her receiving the gift, offering one of the few glimpses into her status in recent months.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/detained-suu-kyi-receives-uk-royal-package-myanmar-government/article71602992.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Asia-Pacific",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4459,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "summary": "A Kenyan court has convicted cult leader Paul Mackenzie of murdering 190 children and one adult through deliberate starvation at his compound in Shakahola. The guilty verdict concludes a case that exposed the dangers of unregulated religious movements and brings some measure of justice to families who lost relatives during what authorities have characterized as one of Kenya's deadliest cult incidents.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/africa/kenyan-cult-leader-convicted-of-starving-190-children-to-death-20261020-p616y8.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "East Africa",
+        "Germany",
+        "UK"
+      ],
+      "score": 0.4177,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Israeli attacks kill at least four Palestinians in Gaza",
+      "summary": "Israeli military operations in Gaza have resulted in at least four Palestinian deaths, according to local medical personnel. The incident contributes to ongoing casualties in the territory amid the broader Israeli-Palestinian conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2635901/israeli-fire-kills-four-people-in-gaza-medics-say"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-four-people-gaza"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3063,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Japan probe sets course for Mars moon",
+      "summary": "Japan has launched a probe aimed at reaching Phobos, one of Mars's two moons, marking the country's first dedicated mission to the Martian system. The spacecraft is designed to study Phobos and collect samples that will eventually return to Earth, advancing scientific understanding of how Mars's moons formed.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-mission-to-mars-moon-phobos-5-things-to-know"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Japan"
+      ],
+      "score": 0.3063,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}

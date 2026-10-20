@@ -1,0 +1,380 @@
+{
+  "published_at": "2026-10-20T14:56:08.155895+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "is_grouped": true,
+      "angle_count": 6,
+      "angles": [
+        {
+          "headline": "France to Extend Curfews After Calm Night Follows Days of Riots"
+        },
+        {
+          "headline": "Macron increasingly isolated amid unrest across France"
+        },
+        {
+          "headline": "Trump warns Kansans that U.S. will ‘burn’ like France if Democrats win"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-to-impose-new-curfews-where-necessary-pm-sebastien-lecornu/article71603703.ece"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4954,
+      "mentions": 30,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "In the Kill Zone",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "In the Kill Zone"
+        },
+        {
+          "headline": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine"
+        },
+        {
+          "headline": "Ukraine carries out first drone airlift of wounded soldier from front line"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/20/briefing/ukraine-kill-zone.html"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-midday"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/87565"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Europe",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.3305,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "US bans use of China’s DeepSeek AI tools by government agencies",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US bans use of China’s DeepSeek AI tools by government agencies"
+        },
+        {
+          "headline": "PLA Navy followed US vessel on patrol in South China Sea hotspot, Beijing says"
+        },
+        {
+          "headline": "Trump says he is ready to meet Putin and Xi in China"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-debuts-improved-low-cost-ai-as-tech-doubts-swirl"
+        },
+        {
+          "name": "Hong Kong Free Press",
+          "link": "https://hongkongfp.com/2026/10/20/us-bans-use-of-chinas-deepseek-by-govt-agencies/"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3169,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Albertans reject referendum on independence from Canada",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.86,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.7689,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7078,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/africa/kenyan-cult-leader-convicted-of-starving-190-children-to-death-20261020-p616y8.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "East Africa",
+        "Germany",
+        "UK"
+      ],
+      "score": 0.5011,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/detained-suu-kyi-receives-uk-royal-package-myanmar-government/article71602992.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Asia-Pacific",
+        "India",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.491,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202610200507.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "East Africa",
+        "Germany"
+      ],
+      "score": 0.4709,
+      "mentions": 7,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Why Israeli Gen Z voters are drawn to the far right",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/20/us/israel-election-netanyahu-voters.html"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/trumps-endorsement-of-netanyahu-falls-flat-with-israeli-voters"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Global",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4034,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
