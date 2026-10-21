@@ -1,0 +1,353 @@
+{
+  "published_at": "2026-10-21T15:02:56.347275+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "summary": "Stephen Hubbard, a U.S. citizen held in Russian detention, has been released following a request from President Trump, who is engaging directly with Russian leadership through diplomatic envoys. The release reflects the Trump administration's shift toward direct negotiations with Russia, a departure from the previous U.S. approach to Moscow.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7846,
+      "mentions": 45,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+      "summary": "French President Emmanuel Macron has pledged to prevent protesters from disrupting public order, positioning security as a priority amid ongoing unrest. Macron has also criticized foreign leaders, including Donald Trump, for making what he characterizes as inflammatory or unfounded comments about the demonstrations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6335,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "A woman who traveled from Uganda to Nigeria's capital, Abuja, has tested positive for Ebola, marking the country's first confirmed case of the virus. The detection represents the outbreak's expansion westward into a major regional hub with significant international travel connections.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.5731,
+      "mentions": 18,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+      "summary": "A drone strike hit a market in Abyei, a disputed border territory between Sudan and South Sudan, killing at least 153 people according to South Sudanese officials. The attack's attribution remains contested, with Sudan's military claiming responsibility for a strike that killed around 53 in the area.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/africa/article/3371608/drone-strike-market-disputed-sudan-border-region-kills-least-153"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa"
+      ],
+      "score": 0.5226,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Protests as UK approves new gas drilling in North Sea",
+      "summary": "The UK government has approved development of the Jackdaw gas field in the North Sea, reversing years of regulatory delays despite opposition from environmental groups. The decision has drawn criticism from lawmakers, including the Commons speaker who objected to how the energy secretary handled the announcement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5057,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+      "summary": "Britain is deploying fighter jets to Saudi Arabia, continuing a military relationship that spans over a century and encompasses conflicts from World War One to current Houthi attacks. The move reflects ongoing regional tensions as Saudi Arabia faces repeated strikes from Yemen's Houthi forces, which have prompted the cancellation of major economic events.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.4996,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Australian MP loses both legs after alleged car attack, husband says",
+      "summary": "Australian MP Helen Haines underwent amputation of both legs following a vehicle attack, with authorities apprehending a suspect who appeared in court. Her husband describes her condition as stable and characterizes her as resilient as she begins recovery from the incident.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.4987,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "US congressional candidate Brad Lander freed after West Bank detention",
+      "summary": "Brad Lander, a Democratic candidate for Congress in New York, was detained by Israeli military forces while volunteering in the West Bank and has since been released. The detention occurred alongside approximately 80 other Israeli and American volunteers who were in the area.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4822,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Singapore hits back over claims it rigged Indonesia’s stock market crash",
+      "summary": "Singapore denies allegations from Indonesian officials that it manipulated the recent stock market decline, rejecting claims that external actors orchestrated the sell-off. The dispute reflects tensions between the two nations over market volatility and capital flows, with Indonesia's leadership seeking to attribute the downturn to outside interference rather than domestic economic factors.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3371626/singapore-hits-back-over-claims-it-rigged-indonesias-stock-market-crash"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Indonesia",
+        "Southeast Asia"
+      ],
+      "score": 0.361,
+      "mentions": 25,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
+      "summary": "Elon Musk ordered a reduction in Starlink service speeds in Ukraine, according to reports, affecting the country's ability to operate military drones in certain operations. The decision highlights how a private company's infrastructure has become critical to Ukraine's defense capabilities, leaving military coordination dependent on choices made by a single individual rather than government policy.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/starlink-access-in-ukraine-a-decision-for-musk-not-white-house-rubio-says"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3442,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
