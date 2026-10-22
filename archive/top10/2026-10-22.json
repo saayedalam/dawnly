@@ -1,0 +1,379 @@
+{
+  "published_at": "2026-10-22T15:03:17.963395+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia and Ukraine exchange prisoners as peace talks resume",
+      "summary": "Russia has agreed to resume peace talks with Ukraine while simultaneously continuing military operations and signaling skepticism about diplomatic prospects. The contrast between Moscow's diplomatic posture and its ongoing bombardment suggests that talks may proceed without either side expecting substantive progress toward a settlement.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+          "summary": "Russia has agreed to resume peace talks with Ukraine while simultaneously continuing military operations and signaling skepticism about diplomatic prospects. The contrast between Moscow's diplomatic posture and its ongoing bombardment suggests that talks may proceed without either side expecting substantive progress toward a settlement."
+        },
+        {
+          "headline": "Germany arrests Ukrainian man accused of spying for Russia",
+          "summary": "German authorities have arrested a Ukrainian man on suspicion of conducting espionage activities on behalf of Russia. The arrest reflects ongoing concerns about foreign intelligence operations within Germany as the conflict in Ukraine continues."
+        },
+        {
+          "headline": "Ukraine receives 252 bodies in swop with Russia",
+          "summary": "Ukraine receives 252 bodies of fallen soldiers returned by Russia as part of a prisoner and remains exchange between the two countries. Identification of the deceased is expected to follow as families await confirmation of their loved ones' fates."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
+        }
+      ],
+      "source_count": 22,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7864,
+      "mentions": 61,
+      "diversity": 19
+    },
+    {
+      "rank": 2,
+      "headline": "French weekend protests to be limited to union demos only, says Macron",
+      "summary": "French authorities will restrict weekend protests to officially organized union demonstrations, barring spontaneous or unaffiliated gatherings in certain areas. Macron frames the measure as a response to violence he attributes to far-left agitators during recent unrest in Paris.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6663,
+      "mentions": 15,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "summary": "Iran has adopted a more assertive military posture following recent Israeli strikes, while the United States has heightened its alert status and advised some diplomatic staff to relocate from Saudi Arabia due to Houthi missile threats. Military planners in Washington and Israel are preparing contingency options for potential strikes on Iranian targets, though no imminent action has been confirmed.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6057,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "summary": "A critical security vulnerability in PHP, the programming language that powers roughly 70 percent of websites, has triggered emergency patching efforts globally as organizations rush to close the flaw before attackers exploit it. The widespread nature of PHP installations means even brief delays in applying the fix leave large portions of the internet exposed to potential compromise.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5974,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "First human case of Shamonda virus detected in France, officials say",
+      "summary": "A person in France has died from Shamonda virus, marking the first confirmed human case of infection with this pathogen. French health authorities characterize the risk to the general population as minimal, noting the deceased individual was severely immunocompromised.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5312,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "summary": "North Korea is preparing to resume loudspeaker broadcasts directed at South Korea as diplomatic relations deteriorate, with officials indicating the system will be operational within days. The move follows recent warnings from Kim Jong-un's sister and reflects escalating tensions over unspecified border grievances.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3371730/what-kim-yo-jongs-border-warnings-reveal-about-inter-korean-escalation-risk"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4669,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Africa CDC calls crisis meeting as Ebola spreads",
+      "summary": "The Africa CDC convenes an emergency meeting as Ebola cases emerge across multiple countries, including Nigeria and Kenya, following transmission from Uganda. Health authorities are tracing contacts and investigating transmission chains, with officials indicating that coordinated response measures can contain the outbreak's spread.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ebola-cases-reported-in-nigeria-and-kenya-as-virus-continues-to-spread/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
+        "Germany",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.4133,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
+      "summary": "Israeli settlers establish unauthorized outposts on Palestinian land in the West Bank using violence to drive out residents, often facing minimal legal consequences despite documented attacks on Palestinians and international observers. The pattern reflects a broader pattern of olive harvest disruptions and settler assaults that proceed with limited accountability from Israeli authorities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/israeli-settlers-suspected-attacking-us-journalist-and-european-diplomats-released-press"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4047,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "summary": "U.S. Representative Ilhan Omar describes a pre-dawn federal raid on her Washington home as \"bizarre\" and says the incident is prompting her to relocate. The search appears connected to an ongoing federal investigation, though specific details about the raid's purpose remain unclear.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202610220179.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "East Africa",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Yemenis face severe shortages in Taiz amid Houthi blockade",
+      "summary": "Houthi forces maintain a blockade around Taiz that has cut off food, fuel, and medicine supplies to hundreds of thousands of civilians in the city. The restriction intensifies an existing humanitarian crisis as fighting continues on the city's perimeter and displacement accelerates across the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Middle East"
+      ],
+      "score": 0.3277,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}

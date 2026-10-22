@@ -1,0 +1,366 @@
+{
+  "published_at": "2026-10-22T15:04:17.833695+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine"
+        },
+        {
+          "headline": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push"
+        },
+        {
+          "headline": "Putin releases American Stephen Hubbard from Russian prison"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3371739/russia-and-ukraine-trade-major-attacks-trump-touts-progress"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6591,
+      "mentions": 30,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport"
+        },
+        {
+          "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks"
+        },
+        {
+          "headline": "Oil prices jump to five-month high as attacks threaten global supply"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/attack-on-king-fahd-international-airport-in-dammam-saudi-arabia/article71609156.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam"
+        },
+        {
+          "name": "Daily Maverick",
+          "link": "https://www.dailymaverick.co.za/article/2026-10-22-two-killed-8-injured-in-attack-on-airport-in-saudi-oil-city-dammam/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3131,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "French weekend protests to be limited to union demos only, says Macron",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Brazil",
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7973,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3371730/what-kim-yo-jongs-border-warnings-reveal-about-inter-korean-escalation-risk"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7297,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "First human case of Shamonda virus detected in France, officials say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7155,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Africa CDC calls crisis meeting as Ebola spreads",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ebola-cases-reported-in-nigeria-and-kenya-as-virus-continues-to-spread/"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
+        "Germany",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.6647,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6284,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "South Africa complete famous win over Australia",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.5419,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3371793/indonesia-haze-why-jakarta-wont-declare-wildfires-national-disaster"
+        },
+        {
+          "name": "Bangkok Post",
+          "link": "https://www.bangkokpost.com/world/3341704/solution-from-the-heavens-indonesians-pray-for-rain-as-fires-burn"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Indonesia",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.5271,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "East Africa",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4937,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}

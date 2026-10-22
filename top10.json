@@ -1,31 +1,45 @@
 {
-  "published_at": "2026-10-21T15:02:56.347275+00:00",
+  "published_at": "2026-10-22T15:03:17.963395+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "summary": "Stephen Hubbard, a U.S. citizen held in Russian detention, has been released following a request from President Trump, who is engaging directly with Russian leadership through diplomatic envoys. The release reflects the Trump administration's shift toward direct negotiations with Russia, a departure from the previous U.S. approach to Moscow.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Russia and Ukraine exchange prisoners as peace talks resume",
+      "summary": "Russia has agreed to resume peace talks with Ukraine while simultaneously continuing military operations and signaling skepticism about diplomatic prospects. The contrast between Moscow's diplomatic posture and its ongoing bombardment suggests that talks may proceed without either side expecting substantive progress toward a settlement.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+          "summary": "Russia has agreed to resume peace talks with Ukraine while simultaneously continuing military operations and signaling skepticism about diplomatic prospects. The contrast between Moscow's diplomatic posture and its ongoing bombardment suggests that talks may proceed without either side expecting substantive progress toward a settlement."
+        },
+        {
+          "headline": "Germany arrests Ukrainian man accused of spying for Russia",
+          "summary": "German authorities have arrested a Ukrainian man on suspicion of conducting espionage activities on behalf of Russia. The arrest reflects ongoing concerns about foreign intelligence operations within Germany as the conflict in Ukraine continues."
+        },
+        {
+          "headline": "Ukraine receives 252 bodies in swop with Russia",
+          "summary": "Ukraine receives 252 bodies of fallen soldiers returned by Russia as part of a prisoner and remains exchange between the two countries. Identification of the deceased is expected to follow as families await confirmation of their loved ones' fates."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia"
+          "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
         }
       ],
-      "source_count": 18,
+      "source_count": 22,
       "regions": [
         "Africa",
+        "Australia",
         "Canada",
         "Central Asia & Eastern Europe",
         "Europe",
@@ -33,321 +47,333 @@
         "Global",
         "Hong Kong",
         "India",
+        "Middle East",
+        "North Africa",
         "Pakistan",
         "Russia",
         "South Africa",
         "Southeast Asia",
+        "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7846,
-      "mentions": 45,
-      "diversity": 7
+      "score": 0.7864,
+      "mentions": 61,
+      "diversity": 19
     },
     {
       "rank": 2,
-      "headline": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
-      "summary": "French President Emmanuel Macron has pledged to prevent protesters from disrupting public order, positioning security as a priority amid ongoing unrest. Macron has also criticized foreign leaders, including Donald Trump, for making what he characterizes as inflammatory or unfounded comments about the demonstrations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.6335,
-      "mentions": 14,
-      "diversity": 6
-    },
-    {
-      "rank": 3,
-      "headline": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-      "summary": "A woman who traveled from Uganda to Nigeria's capital, Abuja, has tested positive for Ebola, marking the country's first confirmed case of the virus. The detection represents the outbreak's expansion westward into a major regional hub with significant international travel connections.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Africa",
-        "Canada",
-        "East Africa",
-        "Germany",
-        "India",
-        "South Africa",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "West Africa"
-      ],
-      "score": 0.5731,
-      "mentions": 18,
-      "diversity": 5
-    },
-    {
-      "rank": 4,
-      "headline": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-      "summary": "A drone strike hit a market in Abyei, a disputed border territory between Sudan and South Sudan, killing at least 153 people according to South Sudanese officials. The attack's attribution remains contested, with Sudan's military claiming responsibility for a strike that killed around 53 in the area.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/africa/article/3371608/drone-strike-market-disputed-sudan-border-region-kills-least-153"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "North Africa"
-      ],
-      "score": 0.5226,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "Protests as UK approves new gas drilling in North Sea",
-      "summary": "The UK government has approved development of the Jackdaw gas field in the North Sea, reversing years of regulatory delays despite opposition from environmental groups. The decision has drawn criticism from lawmakers, including the Commons speaker who objected to how the energy secretary handled the announcement.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Germany",
-        "India",
-        "Middle East",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.5057,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "summary": "Britain is deploying fighter jets to Saudi Arabia, continuing a military relationship that spans over a century and encompasses conflicts from World War One to current Houthi attacks. The move reflects ongoing regional tensions as Saudi Arabia faces repeated strikes from Yemen's Houthi forces, which have prompted the cancellation of major economic events.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Germany",
-        "Middle East",
-        "UK",
-        "US"
-      ],
-      "score": 0.4996,
-      "mentions": 6,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "Australian MP loses both legs after alleged car attack, husband says",
-      "summary": "Australian MP Helen Haines underwent amputation of both legs following a vehicle attack, with authorities apprehending a suspect who appeared in court. Her husband describes her condition as stable and characterizes her as resilient as she begins recovery from the incident.",
+      "headline": "French weekend protests to be limited to union demos only, says Macron",
+      "summary": "French authorities will restrict weekend protests to officially organized union demonstrations, barring spontaneous or unaffiliated gatherings in certain areas. Macron frames the measure as a response to violence he attributes to far-left agitators during recent unrest in Paris.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6663,
+      "mentions": 15,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "summary": "Iran has adopted a more assertive military posture following recent Israeli strikes, while the United States has heightened its alert status and advised some diplomatic staff to relocate from Saudi Arabia due to Houthi missile threats. Military planners in Washington and Israel are preparing contingency options for potential strikes on Iranian targets, though no imminent action has been confirmed.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb"
+          "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6057,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "summary": "A critical security vulnerability in PHP, the programming language that powers roughly 70 percent of websites, has triggered emergency patching efforts globally as organizations rush to close the flaw before attackers exploit it. The widespread nature of PHP installations means even brief delays in applying the fix leave large portions of the internet exposed to potential compromise.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5974,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "First human case of Shamonda virus detected in France, officials say",
+      "summary": "A person in France has died from Shamonda virus, marking the first confirmed human case of infection with this pathogen. French health authorities characterize the risk to the general population as minimal, noting the deceased individual was severely immunocompromised.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 6,
       "regions": [
         "Canada",
         "Germany",
+        "India",
         "Middle East",
-        "South Africa",
+        "Southeast Asia",
         "UK"
       ],
-      "score": 0.4987,
+      "score": 0.5312,
       "mentions": 7,
-      "diversity": 4
+      "diversity": 5
     },
     {
-      "rank": 8,
-      "headline": "US congressional candidate Brad Lander freed after West Bank detention",
-      "summary": "Brad Lander, a Democratic candidate for Congress in New York, was detained by Israeli military forces while volunteering in the West Bank and has since been released. The detention occurred alongside approximately 80 other Israeli and American volunteers who were in the area.",
+      "rank": 6,
+      "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "summary": "North Korea is preparing to resume loudspeaker broadcasts directed at South Korea as diplomatic relations deteriorate, with officials indicating the system will be operational within days. The move follows recent warnings from Kim Jong-un's sister and reflects escalating tensions over unspecified border grievances.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss"
-        },
-        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest"
+          "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
+          "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3371730/what-kim-yo-jongs-border-warnings-reveal-about-inter-korean-escalation-risk"
         }
       ],
-      "source_count": 5,
+      "source_count": 7,
       "regions": [
-        "Middle East",
-        "Southeast Asia",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.4822,
-      "mentions": 5,
-      "diversity": 4
+      "score": 0.4669,
+      "mentions": 7,
+      "diversity": 6
     },
     {
-      "rank": 9,
-      "headline": "Singapore hits back over claims it rigged Indonesia’s stock market crash",
-      "summary": "Singapore denies allegations from Indonesian officials that it manipulated the recent stock market decline, rejecting claims that external actors orchestrated the sell-off. The dispute reflects tensions between the two nations over market volatility and capital flows, with Indonesia's leadership seeking to attribute the downturn to outside interference rather than domestic economic factors.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/politics/article/3371626/singapore-hits-back-over-claims-it-rigged-indonesias-stock-market-crash"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities"
-        },
-        {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Europe",
-        "Hong Kong",
-        "Indonesia",
-        "Southeast Asia"
-      ],
-      "score": 0.361,
-      "mentions": 25,
-      "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
-      "summary": "Elon Musk ordered a reduction in Starlink service speeds in Ukraine, according to reports, affecting the country's ability to operate military drones in certain operations. The decision highlights how a private company's infrastructure has become critical to Ukraine's defense capabilities, leaving military coordination dependent on choices made by a single individual rather than government policy.",
+      "rank": 7,
+      "headline": "Africa CDC calls crisis meeting as Ebola spreads",
+      "summary": "The Africa CDC convenes an emergency meeting as Ebola cases emerge across multiple countries, including Nigeria and Kenya, following transmission from Uganda. Health authorities are tracing contacts and investigating transmission chains, with officials indicating that coordinated response measures can contain the outbreak's spread.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ebola-cases-reported-in-nigeria-and-kenya-as-virus-continues-to-spread/"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/starlink-access-in-ukraine-a-decision-for-musk-not-white-house-rubio-says"
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "regions": [
+        "Africa",
+        "Canada",
+        "East Africa",
         "Germany",
-        "India",
-        "South Africa",
         "Southeast Asia",
-        "Ukraine"
+        "West Africa"
       ],
-      "score": 0.3442,
-      "mentions": 6,
+      "score": 0.4133,
+      "mentions": 13,
       "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
+      "summary": "Israeli settlers establish unauthorized outposts on Palestinian land in the West Bank using violence to drive out residents, often facing minimal legal consequences despite documented attacks on Palestinians and international observers. The pattern reflects a broader pattern of olive harvest disruptions and settler assaults that proceed with limited accountability from Israeli authorities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/israeli-settlers-suspected-attacking-us-journalist-and-european-diplomats-released-press"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4047,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "summary": "U.S. Representative Ilhan Omar describes a pre-dawn federal raid on her Washington home as \"bizarre\" and says the incident is prompting her to relocate. The search appears connected to an ongoing federal investigation, though specific details about the raid's purpose remain unclear.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump"
+        },
+        {
+          "name": "The Star Kenya",
+          "link": "https://allafrica.com/stories/202610220179.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "East Africa",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Yemenis face severe shortages in Taiz amid Houthi blockade",
+      "summary": "Houthi forces maintain a blockade around Taiz that has cut off food, fuel, and medicine supplies to hundreds of thousands of civilians in the city. The restriction intensifies an existing humanitarian crisis as fighting continues on the city's perimeter and displacement accelerates across the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Middle East"
+      ],
+      "score": 0.3277,
+      "mentions": 4,
+      "diversity": 3
     }
   ]
 }
