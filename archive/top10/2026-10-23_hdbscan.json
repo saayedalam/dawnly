@@ -1,0 +1,374 @@
+{
+  "published_at": "2026-10-23T14:56:01.636697+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line"
+        },
+        {
+          "headline": "First tanker of Russian diesel sets sail for the U.S. despite Ukraine’s protests"
+        },
+        {
+          "headline": "Austria expels four Russian diplomats on security grounds"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7162,
+      "mentions": 27,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin"
+        },
+        {
+          "headline": "Romania blames Russia for ship attack in the Black Sea"
+        },
+        {
+          "headline": "American detained in Russia arrives in U.S.: lawyer"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.4572,
+      "mentions": 16,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7893,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7429,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Brazil’s election and the battle for the Amazon – podcast",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Brazil",
+        "India",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7302,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3371976/meghan-markle-distressed-philippines-probes-father-over-child-sexual-abuse-images"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7076,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6913,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.661,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-6-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6463,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/spotlight/cybersecurity/ai-detected-php-security-flaws-disrupt-websites-spark-warnings-across-asia"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6376,
+      "mentions": 10,
+      "diversity": 6
+    }
+  ]
+}
