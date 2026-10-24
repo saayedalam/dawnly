@@ -1,189 +1,316 @@
 {
-  "published_at": "2026-10-23T14:55:15.435168+00:00",
+  "published_at": "2026-10-24T13:57:32.643111+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Peace negotiations advance as diplomatic tensions persist over aid",
-      "summary": "Ukraine confirms that Starlink access restrictions remain in place despite Donald Trump's public statements claiming the limitations have been removed. The discrepancy suggests that either the restrictions have not been fully implemented or communication between Trump, SpaceX, and Ukrainian officials has not resolved the underlying technical or policy issues.",
+      "headline": "Escalating attacks reshape military conflict across Eastern Europe",
+      "summary": "Ukraine has launched drone strikes targeting Moscow's airports as part of an effort to disrupt Russian military and logistical operations from the capital region. The broader campaign includes simultaneous strikes on industrial and military facilities across western Russia, including petrochemical plants and manufacturing sites.",
       "is_grouped": true,
       "angle_count": 3,
       "angles": [
         {
-          "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "summary": "Ukraine confirms that Starlink access restrictions remain in place despite Donald Trump's public statements claiming the limitations have been removed. The discrepancy suggests that either the restrictions have not been fully implemented or communication between Trump, SpaceX, and Ukrainian officials has not resolved the underlying technical or policy issues."
+          "headline": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+          "summary": "Ukraine has launched drone strikes targeting Moscow's airports as part of an effort to disrupt Russian military and logistical operations from the capital region. The broader campaign includes simultaneous strikes on industrial and military facilities across western Russia, including petrochemical plants and manufacturing sites."
         },
         {
-          "headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-          "summary": "Melania Trump has facilitated a ceasefire agreement for Oleshky, a Russian-occupied Ukrainian city facing severe humanitarian conditions, according to White House statements. The truce represents an unusual diplomatic intervention by the former first lady in an active conflict zone."
+          "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+          "summary": "Russian military strikes on Kyiv have increased in frequency and intensity, forcing residents to navigate daily life amid air raid warnings and damaged infrastructure. Civilians describe adapting routines around shelter access and supply availability while the broader conflict raises questions about regional security across Eastern Europe."
         },
         {
-          "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-          "summary": "Russian, Ukrainian, and American officials plan to resume negotiations in Abu Dhabi during November, marking a potential restart of diplomatic discussions after months of active conflict. Russia has signaled willingness to discuss a comprehensive settlement rather than a temporary ceasefire, though the talks' likelihood of success remains uncertain."
+          "headline": "Romania blames Russia for ship attack in the Black Sea",
+          "summary": "Romania accuses Russia of launching a drone strike that sank a cargo ship in the Black Sea, resulting in casualties among the crew. The incident reflects escalating attacks on commercial shipping in the region, which has intensified since Russia's invasion of Ukraine."
         }
       ],
       "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
-        }
-      ],
-      "source_count": 13,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Germany",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.717,
-      "mentions": 35,
-      "diversity": 11
-    },
-    {
-      "rank": 2,
-      "headline": "Russia pursues military and diplomatic offensives amid international tensions",
-      "summary": "Russia is using cluster munitions against Ukrainian positions while Ukraine responds with drone and missile strikes targeting Russian military and civilian infrastructure including airports and data centers. Both sides are intensifying attacks across conventional and cyber domains as Ukraine attempts to consolidate its front-line positions against sustained Russian pressure.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
-          "summary": "Russia is using cluster munitions against Ukrainian positions while Ukraine responds with drone and missile strikes targeting Russian military and civilian infrastructure including airports and data centers. Both sides are intensifying attacks across conventional and cyber domains as Ukraine attempts to consolidate its front-line positions against sustained Russian pressure."
-        },
-        {
-          "headline": "First tanker of Russian diesel sets sail for the U.S. despite Ukraine’s protests",
-          "summary": "A Russian diesel tanker has departed for the United States, marking the first shipment under a new trade arrangement that follows recent diplomatic discussions between the Trump administration and Moscow. Ukraine has objected to the arrangement, viewing it as benefiting Russia during ongoing tensions between the two countries."
-        },
-        {
-          "headline": "Austria expels four Russian diplomats on security grounds",
-          "summary": "Austria has removed four Russian diplomats from Vienna, citing unspecified security concerns that prompted the Foreign Ministry to take action. Russia has indicated it plans to respond with retaliatory measures of its own."
-        }
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss"
-        },
         {
           "name": "Deutsche Welle",
           "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russia-pounds-kyiv-with-missiles-as-moscow-says-808-drones-downed-in-russian-cities/article71612964.ece"
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-plant-hit"
         }
       ],
-      "source_count": 10,
+      "source_count": 6,
       "regions": [
-        "Canada",
+        "Central Asia & Eastern Europe",
         "Europe",
         "Germany",
-        "India",
-        "Middle East",
         "Russia",
-        "South Africa",
         "Southeast Asia",
-        "Thailand",
         "Ukraine"
       ],
-      "score": 0.5909,
-      "mentions": 22,
-      "diversity": 10
+      "score": 0.4304,
+      "mentions": 21,
+      "diversity": 6
     },
     {
-      "rank": 3,
-      "headline": "Reader Q&A: what’s next for France? Ask our Europe columnists – live",
-      "summary": "France is deploying significant police forces across the country as authorities prepare for fresh protests, reflecting ongoing tensions following recent civil unrest. The situation has prompted questions about the government's direction and has begun affecting tourism patterns, including travel decisions among international visitors.",
+      "rank": 2,
+      "headline": "France protests live: 135 arrested as marches held under tight security",
+      "summary": "Thousands of people march across France under heavy police presence, resulting in 135 arrests as authorities deploy 70,000 officers to manage the demonstrations. The widespread protests reflect ongoing tensions that officials expect could escalate into further confrontations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
+        },
+        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
+          "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html"
+          "link": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "regions": [
-        "Africa",
-        "Australia",
+        "Brazil",
         "Canada",
-        "Europe",
         "Germany",
         "Hong Kong",
         "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
         "Southeast Asia",
         "Thailand",
-        "UK",
-        "US"
+        "UK"
       ],
-      "score": 0.8545,
-      "mentions": 19,
+      "score": 0.7958,
+      "mentions": 21,
       "diversity": 7
     },
     {
+      "rank": 3,
+      "headline": "Who was behind the deadly church shooting in Jordan?",
+      "summary": "Gunmen opened fire at a church in Karak, Jordan during a funeral service, killing at least seven people and wounding dozens of others. King Abdullah has ordered a firm response to the attack, though the identity and motives of the perpetrators remain under investigation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7327,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
       "rank": 4,
-      "headline": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "summary": "Two Israeli soldiers are killed in a shooting attack in the West Bank, prompting Israeli leadership to order a significant military response in the territory. The incident escalates tensions in a region where violence between Israeli forces and Palestinian armed groups continues to create cycles of retaliation.",
+      "headline": "How Brazil's changing working class is reshaping the presidential race",
+      "summary": "Brazil's working class has shifted its voting patterns and priorities, forcing presidential candidates to adjust their campaign strategies and policy proposals. This demographic realignment is reshaping the competitive dynamics of the election as candidates make their final appeals to voters.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/brazil-debate-leaves-lula-and-bolsonaro-tied-as-polls-tighten-ahead-of-sundays-runoff/article71619106.ece"
         }
       ],
-      "source_count": 11,
+      "source_count": 7,
       "regions": [
+        "Africa",
         "Canada",
-        "Germany",
-        "Hong Kong",
         "India",
         "Middle East",
+        "South America",
         "Southeast Asia",
-        "UK",
-        "US"
+        "UK"
       ],
-      "score": 0.828,
-      "mentions": 17,
-      "diversity": 6
+      "score": 0.7143,
+      "mentions": 9,
+      "diversity": 7
     },
     {
       "rank": 5,
+      "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "A fire has broken out at the Eagle's Nest, Hitler's former mountaintop retreat in the Bavarian Alps, prompting German police to arrest a suspect in connection with the incident. The arrest suggests authorities are investigating the fire as potentially deliberate rather than accidental.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6888,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+      "summary": "Russia and Ukraine have agreed to a localized ceasefire in the occupied city of Oleshky, brokered through US diplomatic efforts and set to begin on October 27. The agreement permits humanitarian access to the city's civilian population, though fighting continues elsewhere across the broader conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6292,
+      "mentions": 21,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "summary": "Israel has launched a military operation in the occupied West Bank following the deaths of two soldiers, marking an escalation in tensions in the region. The operation includes actions such as razing neighborhoods in Hebron and displacing families, which authorities characterize as a response to the soldiers' deaths.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372010/israel-launches-major-operation-west-bank-after-soldiers-killed"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.616,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Is Iran planning attacks on Americans; why is the US on alert?",
+      "summary": "U.S. intelligence officials have assessed that Iran is in advanced stages of planning attacks targeting Americans, primarily in the Middle East region. The alert reflects heightened tensions and has prompted the U.S. military to increase its readiness posture in response to the perceived threat.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6098,
+      "mentions": 12,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
       "headline": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "summary": "A confirmed Ebola case in Nigeria lacks a clear origin, raising questions about whether the virus traveled from recent outbreaks in neighboring countries or emerged through an unknown transmission chain. The uncertainty has prompted health authorities across the region to investigate potential connections between cases and intensified surveillance efforts to contain further spread.",
+      "summary": "An Ebola case in Nigeria is being traced to contact with Kenya's initial outbreak, raising questions about how the virus crossed borders and whether additional transmission chains remain undetected. Health officials across the region are investigating the extent of exposure among contacts and healthcare workers to assess the risk of further spread.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
@@ -193,200 +320,61 @@
           "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak"
-        },
-        {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Germany",
-        "Hong Kong",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.6446,
-      "mentions": 8,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-      "summary": "Meghan Markle states she learned in 2018 about serious allegations involving her father, which were subsequently reported to police. The allegations relate to child sexual abuse material and have prompted investigations in the Philippines, creating significant personal distress for the Duchess of Sussex.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+          "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3371976/meghan-markle-distressed-philippines-probes-father-over-child-sexual-abuse-images"
+          "link": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient"
         }
       ],
-      "source_count": 7,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Hong Kong",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.624,
-      "mentions": 9,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
-      "headline": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-      "summary": "Gunmen opened fire during a funeral service at a church in Karak, Jordan, killing six to seven people and injuring dozens of worshippers. The attack represents a rare incident of mass violence targeting a Christian gathering in the country.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-6-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 7,
+      "source_count": 6,
       "regions": [
         "Germany",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5846,
-      "mentions": 8,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-      "summary": "A magnitude-7 earthquake struck Tibet, killing at least 16 people and destroying hundreds of homes while injuring dozens more. Authorities have evacuated over 12,000 residents from the affected region as relief efforts mobilize in response to the damage.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/politics/article/3371850/chinas-xi-jinping-orders-urgent-relief-after-tibet-earthquake-leaves-16-dead"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/tibet-earthquake-nagqu-updates-october-22-2026/article71612585.ece"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Europe",
         "Hong Kong",
         "India",
-        "UK"
-      ],
-      "score": 0.5812,
-      "mentions": 9,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
-      "summary": "A critical vulnerability discovered in PHP, the programming language powering roughly 70 percent of websites globally, has triggered an urgent wave of patches and defensive measures from IT teams. The flaw enables attackers to compromise affected sites, prompting security agencies across Asia and beyond to issue immediate patching alerts.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
-        },
-        {
-          "name": "Nikkei Asia",
-          "link": "https://asia.nikkei.com/spotlight/cybersecurity/ai-detected-php-security-flaws-disrupt-websites-spark-warnings-across-asia"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Global",
-        "Hong Kong",
-        "Indonesia",
-        "Japan",
-        "South Africa",
         "Southeast Asia",
         "UK",
-        "US"
+        "West Africa"
       ],
-      "score": 0.565,
-      "mentions": 9,
-      "diversity": 6
+      "score": 0.5274,
+      "mentions": 7,
+      "diversity": 5
     },
     {
       "rank": 10,
-      "headline": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-      "summary": "Typhoon Champi generates large waves and dangerous surf conditions along Taiwan's coastline as the storm system moves across the region. The typhoon has disrupted hundreds of flights across Taiwan, Hong Kong, and neighboring areas while authorities prepare for potential impacts on Japan and Shanghai.",
+      "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "Ukraine's military confirms that Starlink internet restrictions imposed last week have been fully removed, restoring normal service speeds. The temporary throttling had disrupted drone operations and other military communications, making the restoration of full bandwidth capacity operationally significant.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-says-starlink-back-to-normal-after-week-of-throttling/article71619764.ece"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "regions": [
-        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
         "Europe",
-        "Germany",
-        "Hong Kong",
         "India",
-        "Middle East",
-        "South Africa"
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.5588,
-      "mentions": 8,
-      "diversity": 5
+      "score": 0.524,
+      "mentions": 16,
+      "diversity": 4
     }
   ]
 }

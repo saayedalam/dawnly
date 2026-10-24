@@ -1,0 +1,362 @@
+{
+  "published_at": "2026-10-24T13:58:31.558422+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia, Ukraine agree to US-brokered, 1 city ceasefire"
+        },
+        {
+          "headline": "Russia says drone attack damages Togliatti facilities, Ukraine says petrochemical plant hit"
+        },
+        {
+          "headline": "Romania blames Russia for ship attack in the Black Sea"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5553,
+      "mentions": 20,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "France protests live: 135 arrested as marches held under tight security",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7991,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "How Brazil's changing working class is reshaping the presidential race",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/brazil-debate-leaves-lula-and-bolsonaro-tied-as-polls-tighten-ahead-of-sundays-runoff/article71619106.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "India",
+        "Japan",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7488,
+      "mentions": 12,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6778,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Who was behind the deadly church shooting in Jordan?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6716,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-says-starlink-back-to-normal-after-week-of-throttling/article71619764.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5651,
+      "mentions": 16,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Trump eases Canada tariffs ahead of US midterms",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-lifts-some-canada-tariffs-ahead-of-midterms/article71618930.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.536,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/suspect-arrested-after-one-killed-several-wounded-in-paris-suburb-shooting/article71616087.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5196,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Kim Jong-un crosses newly opened bridge into China",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4982,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sport/asian-football-endorses-infantino-re-election-in-apparent-u-turn/article71617950.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4852,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
