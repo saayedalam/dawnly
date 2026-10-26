@@ -1,380 +1,385 @@
 {
-  "published_at": "2026-10-24T13:57:32.643111+00:00",
+  "published_at": "2026-10-26T16:47:53.366935+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Escalating attacks reshape military conflict across Eastern Europe",
-      "summary": "Ukraine has launched drone strikes targeting Moscow's airports as part of an effort to disrupt Russian military and logistical operations from the capital region. The broader campaign includes simultaneous strikes on industrial and military facilities across western Russia, including petrochemical plants and manufacturing sites.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-          "summary": "Ukraine has launched drone strikes targeting Moscow's airports as part of an effort to disrupt Russian military and logistical operations from the capital region. The broader campaign includes simultaneous strikes on industrial and military facilities across western Russia, including petrochemical plants and manufacturing sites."
-        },
-        {
-          "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-          "summary": "Russian military strikes on Kyiv have increased in frequency and intensity, forcing residents to navigate daily life amid air raid warnings and damaged infrastructure. Civilians describe adapting routines around shelter access and supply availability while the broader conflict raises questions about regional security across Eastern Europe."
-        },
-        {
-          "headline": "Romania blames Russia for ship attack in the Black Sea",
-          "summary": "Romania accuses Russia of launching a drone strike that sank a cargo ship in the Black Sea, resulting in casualties among the crew. The incident reflects escalating attacks on commercial shipping in the region, which has intensified since Russia's invasion of Ukraine."
-        }
-      ],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-plant-hit"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Germany",
-        "Russia",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.4304,
-      "mentions": 21,
-      "diversity": 6
-    },
-    {
-      "rank": 2,
-      "headline": "France protests live: 135 arrested as marches held under tight security",
-      "summary": "Thousands of people march across France under heavy police presence, resulting in 135 arrests as authorities deploy 70,000 officers to manage the demonstrations. The widespread protests reflect ongoing tensions that officials expect could escalate into further confrontations.",
+      "headline": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+      "summary": "Luiz Inácio Lula da Silva won Brazil's presidential runoff election with 50.9 percent of the vote, defeating incumbent Jair Bolsonaro despite trailing in the first round by securing support from centrist voters in the decisive second ballot. The victory marks Lula's return to office after his 2018 electoral loss and imprisonment on corruption charges that were later annulled.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Brazil",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.7958,
-      "mentions": 21,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "Who was behind the deadly church shooting in Jordan?",
-      "summary": "Gunmen opened fire at a church in Karak, Jordan during a funeral service, killing at least seven people and wounding dozens of others. King Abdullah has ordered a firm response to the attack, though the identity and motives of the perpetrators remain under investigation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
+          "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan"
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
         }
       ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "North Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.7327,
-      "mentions": 12,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "How Brazil's changing working class is reshaping the presidential race",
-      "summary": "Brazil's working class has shifted its voting patterns and priorities, forcing presidential candidates to adjust their campaign strategies and policy proposals. This demographic realignment is reshaping the competitive dynamics of the election as candidates make their final appeals to voters.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/brazil-debate-leaves-lula-and-bolsonaro-tied-as-polls-tighten-ahead-of-sundays-runoff/article71619106.ece"
-        }
-      ],
-      "source_count": 7,
+      "source_count": 22,
       "regions": [
         "Africa",
+        "Australia",
+        "Brazil",
         "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
         "India",
+        "Indonesia",
         "Middle East",
+        "Pakistan",
+        "South Africa",
         "South America",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US",
+        "Ukraine"
       ],
-      "score": 0.7143,
-      "mentions": 9,
-      "diversity": 7
+      "score": 0.7864,
+      "mentions": 60,
+      "diversity": 9
     },
     {
-      "rank": 5,
-      "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "A fire has broken out at the Eagle's Nest, Hitler's former mountaintop retreat in the Bavarian Alps, prompting German police to arrest a suspect in connection with the incident. The arrest suggests authorities are investigating the fire as potentially deliberate rather than accidental.",
+      "rank": 2,
+      "headline": "Israel and the US are both going to the polls. The consequences will be global",
+      "summary": "Israel and the United States are holding elections within weeks of each other, creating a period of political uncertainty that will shape foreign policy on Middle East conflicts and other global priorities. The timing means both nations' leadership transitions could substantially alter diplomatic relationships and international responses to ongoing regional tensions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria"
+          "link": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
         }
       ],
-      "source_count": 9,
+      "source_count": 20,
       "regions": [
+        "Africa",
+        "Australia",
         "Canada",
-        "Germany",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.6888,
-      "mentions": 10,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
-      "summary": "Russia and Ukraine have agreed to a localized ceasefire in the occupied city of Oleshky, brokered through US diplomatic efforts and set to begin on October 27. The agreement permits humanitarian access to the city's civilian population, though fighting continues elsewhere across the broader conflict.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "North Africa",
-        "Russia",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.6292,
-      "mentions": 21,
-      "diversity": 6
-    },
-    {
-      "rank": 7,
-      "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-      "summary": "Israel has launched a military operation in the occupied West Bank following the deaths of two soldiers, marking an escalation in tensions in the region. The operation includes actions such as razing neighborhoods in Hebron and displacing families, which authorities characterize as a response to the soldiers' deaths.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3372010/israel-launches-major-operation-west-bank-after-soldiers-killed"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
+        "Europe",
         "Global",
-        "Hong Kong",
         "India",
         "Indonesia",
         "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.616,
-      "mentions": 12,
-      "diversity": 6
-    },
-    {
-      "rank": 8,
-      "headline": "Is Iran planning attacks on Americans; why is the US on alert?",
-      "summary": "U.S. intelligence officials have assessed that Iran is in advanced stages of planning attacks targeting Americans, primarily in the Middle East region. The alert reflects heightened tensions and has prompted the U.S. military to increase its readiness posture in response to the perceived threat.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "India",
-        "Middle East",
+        "North Africa",
         "Pakistan",
         "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.6098,
-      "mentions": 12,
-      "diversity": 5
+      "score": 0.7007,
+      "mentions": 37,
+      "diversity": 8
     },
     {
-      "rank": 9,
-      "headline": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "summary": "An Ebola case in Nigeria is being traced to contact with Kenya's initial outbreak, raising questions about how the virus crossed borders and whether additional transmission chains remain undetected. Health officials across the region are investigating the extent of exposure among contacts and healthcare workers to assess the risk of further spread.",
+      "rank": 3,
+      "headline": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+      "summary": "A high-level delegation from the Mecca-based defense alliance visits Tehran to seek de-escalation amid rising tensions between Iran and the United States, as well as ongoing conflict in Yemen. The mission occurs as hardline factions within Iran's government resist diplomatic engagement, while cross-border missile strikes between Houthi forces and Saudi-led coalition forces continue.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss"
+        },
+        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
+          "link": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
         }
       ],
-      "source_count": 6,
+      "source_count": 15,
       "regions": [
-        "Germany",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
         "Hong Kong",
         "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
         "Southeast Asia",
+        "Thailand",
         "UK",
-        "West Africa"
+        "US"
       ],
-      "score": 0.5274,
-      "mentions": 7,
-      "diversity": 5
+      "score": 0.6052,
+      "mentions": 28,
+      "diversity": 7
     },
     {
-      "rank": 10,
-      "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-      "summary": "Ukraine's military confirms that Starlink internet restrictions imposed last week have been fully removed, restoring normal service speeds. The temporary throttling had disrupted drone operations and other military communications, making the restoration of full bandwidth capacity operationally significant.",
+      "rank": 4,
+      "headline": "The movement of students that brought down Serbia's Vučić",
+      "summary": "Serbian students spearheaded a protest movement that forced President Aleksandar Vučić from power following widespread dissatisfaction with his governance. The ousting marks a significant political shift in Serbia and raises questions about who will lead the country's next government and when it will be formed.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/ukraine-says-starlink-back-to-normal-after-week-of-throttling/article71619764.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates"
         }
       ],
-      "source_count": 8,
+      "source_count": 18,
       "regions": [
+        "Africa",
         "Canada",
         "Central Asia & Eastern Europe",
+        "Eastern Europe",
         "Europe",
+        "Germany",
         "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
         "Southeast Asia",
         "UK",
         "Ukraine"
       ],
-      "score": 0.524,
-      "mentions": 16,
-      "diversity": 4
+      "score": 0.5784,
+      "mentions": 36,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "Anthropic has disclosed in its public filing that advanced artificial intelligence systems pose catastrophic risks to humanity, a statement made as the company prepares for a major public share offering. The AI safety concern appears designed to signal the company's commitment to responsible development while simultaneously highlighting the significance of its work to potential investors.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5085,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+      "summary": "Jordanian security forces arrested three suspects during a dawn raid in connection with a deadly attack on a church. The arrests follow a shootout and represent authorities' initial response to identifying those responsible for the violence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372198/jordan-arrests-3-relatives-over-deadly-church-attack-after-shoot-out"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.5061,
+      "mentions": 7,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Macron vows 'strong measures' to combat protests that rocked France",
+      "summary": "President Macron announces measures to address widespread protests that have disrupted France, with concerns centering on social grievances rather than a single issue. The government signals its intent to respond to demonstrator demands while warning that further unrest carries risks for public safety.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372201/frances-macron-promises-strong-measures-ease-protests"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4926,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "summary": "China's Communist Party convenes its fifth plenum with emphasis on party discipline and governance, as Xi Jinping's anti-corruption campaign remains central to discussions about leadership priorities. The gathering reflects Xi's focus on consolidating control through stricter enforcement of loyalty and institutional oversight within the party.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3372134/chinas-communist-party-opens-fifth-plenum-focus-discipline-and-loyalty-xi"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4633,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Crowds welcome Venezuela's María Machado after months in exile",
+      "summary": "Venezuelan opposition leader María Corina Machado has returned to Venezuela after spending ten months in exile, drawing large crowds upon her arrival. Her return occurs amid ongoing political tensions and questions about the country's democratic institutions following recent electoral disputes.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "South Africa",
+        "South America",
+        "UK"
+      ],
+      "score": 0.4403,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Russia says it will open humanitarian corridor to Ukrainian town",
+      "summary": "Russia announces plans to establish a humanitarian corridor into a Ukrainian town, though the specific location and timing remain unclear from available reports. Simultaneous Russian strikes across multiple Ukrainian regions including Zaporizhzhia and Odesa have resulted in civilian injuries, complicating efforts to move aid and people to safety.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/26/ukraine-russian-strikes-hit-odesa-and-zaporizhzhia-injuring-four"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4192,
+      "mentions": 10,
+      "diversity": 5
     }
   ]
 }
