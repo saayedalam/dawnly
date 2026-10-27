@@ -1,0 +1,380 @@
+{
+  "published_at": "2026-10-27T15:52:23.078399+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Israelis vote amid regional tensions and international scrutiny",
+      "summary": "Israelis are voting at historically high rates in an election that will shape the country's political direction and its approach to ongoing conflicts. The elevated turnout reflects widespread public engagement with decisions on issues ranging from governance to military policy in the region.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Turnout so far highest on record as Israelis vote in pivotal election",
+          "summary": "Israelis are voting at historically high rates in an election that will shape the country's political direction and its approach to ongoing conflicts. The elevated turnout reflects widespread public engagement with decisions on issues ranging from governance to military policy in the region."
+        },
+        {
+          "headline": "UN sounds the alarm over Israel's West Bank military operation",
+          "summary": "The UN has raised concerns about Israel's military operations in the West Bank, citing documented instances of age-based persecution targeting Palestinian children in the territory. A separate UN inquiry concludes that Israeli forces have continued conduct consistent with genocide in Gaza even following a ceasefire agreement."
+        },
+        {
+          "headline": "Netherlands pulls out of Eurovision over Israel participation",
+          "summary": "The Netherlands has withdrawn from Eurovision 2027, citing concerns about Israel's participation in the contest. The Dutch broadcaster's decision reflects ongoing tensions surrounding Israel's involvement in the international song competition."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+        }
+      ],
+      "source_count": 21,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8375,
+      "mentions": 53,
+      "diversity": 16
+    },
+    {
+      "rank": 2,
+      "headline": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "Norwegian and Finnish leaders speak directly with Vladimir Putin in an unusual diplomatic engagement as regional tensions remain high. The call occurs amid a localized ceasefire in the Ukrainian city of Oleshky and continued Russian strikes on Kyiv, suggesting parallel diplomatic and military efforts.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7907,
+      "mentions": 40,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "summary": "Lula won Brazil's presidential runoff in a close contest against far-right incumbent Jair Bolsonaro, with grassroots mobilization across streets and social media playing a significant role in his comeback. The election result drew international congratulations despite Bolsonaro's refusal to concede, while legal pressures mounted on Bolsonaro allies including his son Flávio, who was ordered to surrender his passports.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Mexico",
+        "North Africa",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.7008,
+      "mentions": 23,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Families of victims killed in Jordanian strike deny links to church attack",
+      "summary": "Jordan conducted airstrikes against militant targets in Syria following a church bombing that killed civilians, with the government citing Islamic State involvement. Families of those killed in the Jordanian strikes dispute claims that their relatives were connected to the attack, raising questions about civilian casualties in the retaliation operation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5914,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "summary": "Chinese stock markets have declined significantly as investors reassess valuations amid intensifying competition with the United States over artificial intelligence development and dominance. The losses reflect broader concerns about China's ability to achieve technological self-sufficiency while facing US-led restrictions on advanced chip exports and talent competition from well-funded American AI companies like Anthropic.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "UK"
+      ],
+      "score": 0.5346,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+      "summary": "The Democratic Republic of Congo has recorded more than 10,000 Ebola cases in its current outbreak, marking the fastest-growing epidemic of the disease on record. The spread has crossed into neighboring Kenya and other countries, while limited treatment options and public mistrust complicate containment efforts.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Germany",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.4783,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "Kylian Mbappé apologized after making a remark about Mao Zedong that prompted criticism from Chinese fans and caused multiple Chinese brands to end sponsorship deals with the football star. The player characterized his comment as ill-judged, responding to backlash over what observers described as an offensive reference to China's political history.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/china-economy/article/3372298/football-star-kylian-mbappe-faces-huge-china-backlash-over-unacceptable-remark"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.472,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+      "summary": "Two men have been charged with national security offences in connection with an alleged plot to assist Iran following an incident at RAF Fairford, a U.S.-operated military base in England. British authorities suspect Iranian state involvement in the incident, marking a significant escalation in security concerns around the base.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4521,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+      "summary": "Harry Kane becomes the first English footballer to win the Ballon d'Or in 25 years, ending a lengthy drought since Gianfranco Zola's era and placing himself among England's most decorated individual award winners. His achievement as a Bayern Munich striker reflects his sustained performance at club level and marks a significant recognition of English talent in European football's most prestigious individual honor.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-27/harry-kane-wins-ballon-d-or/107312914"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Germany",
+        "UK"
+      ],
+      "score": 0.4223,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Carrick to stay in charge of Man Utd for Chelsea game",
+      "summary": "Michael Carrick remains Manchester United's manager for the upcoming Chelsea match following crisis talks at the club. His continued leadership suggests the club has decided against an immediate managerial change despite recent difficulties.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/carrick-stays-man-united-manager-takes-training-after-crisis-talks-6496496"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}

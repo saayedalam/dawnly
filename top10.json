@@ -1,33 +1,45 @@
 {
-  "published_at": "2026-10-26T16:47:53.366935+00:00",
+  "published_at": "2026-10-27T15:52:23.078399+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-      "summary": "Luiz Inácio Lula da Silva won Brazil's presidential runoff election with 50.9 percent of the vote, defeating incumbent Jair Bolsonaro despite trailing in the first round by securing support from centrist voters in the decisive second ballot. The victory marks Lula's return to office after his 2018 electoral loss and imprisonment on corruption charges that were later annulled.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Israelis vote amid regional tensions and international scrutiny",
+      "summary": "Israelis are voting at historically high rates in an election that will shape the country's political direction and its approach to ongoing conflicts. The elevated turnout reflects widespread public engagement with decisions on issues ranging from governance to military policy in the region.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Turnout so far highest on record as Israelis vote in pivotal election",
+          "summary": "Israelis are voting at historically high rates in an election that will shape the country's political direction and its approach to ongoing conflicts. The elevated turnout reflects widespread public engagement with decisions on issues ranging from governance to military policy in the region."
+        },
+        {
+          "headline": "UN sounds the alarm over Israel's West Bank military operation",
+          "summary": "The UN has raised concerns about Israel's military operations in the West Bank, citing documented instances of age-based persecution targeting Palestinian children in the territory. A separate UN inquiry concludes that Israeli forces have continued conduct consistent with genocide in Gaza even following a ceasefire agreement."
+        },
+        {
+          "headline": "Netherlands pulls out of Eurovision over Israel participation",
+          "summary": "The Netherlands has withdrawn from Eurovision 2027, citing concerns about Israel's participation in the contest. The Dutch broadcaster's decision reflects ongoing tensions surrounding Israel's involvement in the international song competition."
+        }
+      ],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
         }
       ],
-      "source_count": 22,
+      "source_count": 21,
       "regions": [
         "Africa",
         "Australia",
-        "Brazil",
         "Canada",
         "Europe",
         "Germany",
@@ -35,351 +47,334 @@
         "India",
         "Indonesia",
         "Middle East",
+        "North Africa",
         "Pakistan",
         "South Africa",
-        "South America",
-        "Southeast Asia",
+        "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7864,
-      "mentions": 60,
-      "diversity": 9
+      "score": 0.8375,
+      "mentions": 53,
+      "diversity": 16
     },
     {
       "rank": 2,
-      "headline": "Israel and the US are both going to the polls. The consequences will be global",
-      "summary": "Israel and the United States are holding elections within weeks of each other, creating a period of political uncertainty that will shape foreign policy on Middle East conflicts and other global priorities. The timing means both nations' leadership transitions could substantially alter diplomatic relationships and international responses to ongoing regional tensions.",
+      "headline": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "Norwegian and Finnish leaders speak directly with Vladimir Putin in an unusual diplomatic engagement as regional tensions remain high. The call occurs amid a localized ceasefire in the Ukrainian city of Oleshky and continued Russian strikes on Kyiv, suggesting parallel diplomatic and military efforts.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
         }
       ],
-      "source_count": 20,
+      "source_count": 17,
       "regions": [
         "Africa",
-        "Australia",
         "Canada",
+        "Central Asia & Eastern Europe",
         "Europe",
-        "Global",
+        "Germany",
+        "Hong Kong",
         "India",
-        "Indonesia",
         "Middle East",
-        "North Africa",
-        "Pakistan",
+        "Russia",
         "Southeast Asia",
+        "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7007,
-      "mentions": 37,
-      "diversity": 8
-    },
-    {
-      "rank": 3,
-      "headline": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-      "summary": "A high-level delegation from the Mecca-based defense alliance visits Tehran to seek de-escalation amid rising tensions between Iran and the United States, as well as ongoing conflict in Yemen. The mission occurs as hardline factions within Iran's government resist diplomatic engagement, while cross-border missile strikes between Houthi forces and Saudi-led coalition forces continue.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
-        }
-      ],
-      "source_count": 15,
-      "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "South Africa",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US"
-      ],
-      "score": 0.6052,
-      "mentions": 28,
+      "score": 0.7907,
+      "mentions": 40,
       "diversity": 7
     },
     {
-      "rank": 4,
-      "headline": "The movement of students that brought down Serbia's Vučić",
-      "summary": "Serbian students spearheaded a protest movement that forced President Aleksandar Vučić from power following widespread dissatisfaction with his governance. The ousting marks a significant political shift in Serbia and raises questions about who will lead the country's next government and when it will be formed.",
+      "rank": 3,
+      "headline": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "summary": "Lula won Brazil's presidential runoff in a close contest against far-right incumbent Jair Bolsonaro, with grassroots mobilization across streets and social media playing a significant role in his comeback. The election result drew international congratulations despite Bolsonaro's refusal to concede, while legal pressures mounted on Bolsonaro allies including his son Flávio, who was ordered to surrender his passports.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro"
         },
         {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Mexico",
+        "North Africa",
+        "South America",
+        "UK",
+        "US"
+      ],
+      "score": 0.7008,
+      "mentions": 23,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Families of victims killed in Jordanian strike deny links to church attack",
+      "summary": "Jordan conducted airstrikes against militant targets in Syria following a church bombing that killed civilians, with the government citing Islamic State involvement. Families of those killed in the Jordanian strikes dispute claims that their relatives were connected to the attack, raising questions about civilian casualties in the retaliation operation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates"
+          "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 18,
+      "source_count": 8,
       "regions": [
-        "Africa",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Eastern Europe",
         "Europe",
         "Germany",
+        "Hong Kong",
         "India",
         "Middle East",
-        "North Africa",
-        "Pakistan",
-        "Russia",
         "Southeast Asia",
-        "UK",
-        "Ukraine"
+        "UK"
       ],
-      "score": 0.5784,
-      "mentions": 36,
-      "diversity": 6
+      "score": 0.5914,
+      "mentions": 11,
+      "diversity": 5
     },
     {
       "rank": 5,
-      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "Anthropic has disclosed in its public filing that advanced artificial intelligence systems pose catastrophic risks to humanity, a statement made as the company prepares for a major public share offering. The AI safety concern appears designed to signal the company's commitment to responsible development while simultaneously highlighting the significance of its work to potential investors.",
+      "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "summary": "Chinese stock markets have declined significantly as investors reassess valuations amid intensifying competition with the United States over artificial intelligence development and dominance. The losses reflect broader concerns about China's ability to achieve technological self-sufficiency while facing US-led restrictions on advanced chip exports and talent competition from well-funded American AI companies like Anthropic.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "UK"
+      ],
+      "score": 0.5346,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+      "summary": "The Democratic Republic of Congo has recorded more than 10,000 Ebola cases in its current outbreak, marking the fastest-growing epidemic of the disease on record. The spread has crossed into neighboring Kenya and other countries, while limited treatment options and public mistrust complicate containment efforts.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece"
         }
       ],
       "source_count": 6,
       "regions": [
-        "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.5085,
-      "mentions": 14,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-      "summary": "Jordanian security forces arrested three suspects during a dawn raid in connection with a deadly attack on a church. The arrests follow a shootout and represent authorities' initial response to identifying those responsible for the violence.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3372198/jordan-arrests-3-relatives-over-deadly-church-attack-after-shoot-out"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Canada",
+        "Africa",
         "Germany",
-        "Hong Kong",
         "India",
         "Middle East",
         "South Africa",
         "Southeast Asia"
       ],
-      "score": 0.5061,
-      "mentions": 7,
-      "diversity": 7
-    },
-    {
-      "rank": 7,
-      "headline": "Macron vows 'strong measures' to combat protests that rocked France",
-      "summary": "President Macron announces measures to address widespread protests that have disrupted France, with concerns centering on social grievances rather than a single issue. The government signals its intent to respond to demonstrator demands while warning that further unrest carries risks for public safety.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3372201/frances-macron-promises-strong-measures-ease-protests"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Brazil",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia",
-        "Thailand"
-      ],
-      "score": 0.4926,
-      "mentions": 9,
-      "diversity": 7
-    },
-    {
-      "rank": 8,
-      "headline": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
-      "summary": "China's Communist Party convenes its fifth plenum with emphasis on party discipline and governance, as Xi Jinping's anti-corruption campaign remains central to discussions about leadership priorities. The gathering reflects Xi's focus on consolidating control through stricter enforcement of loyalty and institutional oversight within the party.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/politics/article/3372134/chinas-communist-party-opens-fifth-plenum-focus-discipline-and-loyalty-xi"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Hong Kong",
-        "India",
-        "Japan",
-        "Thailand",
-        "UK",
-        "US"
-      ],
-      "score": 0.4633,
+      "score": 0.4783,
       "mentions": 7,
       "diversity": 5
     },
     {
-      "rank": 9,
-      "headline": "Crowds welcome Venezuela's María Machado after months in exile",
-      "summary": "Venezuelan opposition leader María Corina Machado has returned to Venezuela after spending ten months in exile, drawing large crowds upon her arrival. Her return occurs amid ongoing political tensions and questions about the country's democratic institutions following recent electoral disputes.",
+      "rank": 7,
+      "headline": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "Kylian Mbappé apologized after making a remark about Mao Zedong that prompted criticism from Chinese fans and caused multiple Chinese brands to end sponsorship deals with the football star. The player characterized his comment as ill-judged, responding to backlash over what observers described as an offensive reference to China's political history.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/china-economy/article/3372298/football-star-kylian-mbappe-faces-huge-china-backlash-over-unacceptable-remark"
         }
       ],
-      "source_count": 9,
+      "source_count": 7,
       "regions": [
-        "Canada",
-        "Europe",
-        "Germany",
+        "Hong Kong",
         "India",
-        "South Africa",
-        "South America",
+        "Indonesia",
+        "Japan",
+        "Middle East",
         "UK"
       ],
-      "score": 0.4403,
-      "mentions": 9,
+      "score": 0.472,
+      "mentions": 7,
       "diversity": 5
     },
     {
-      "rank": 10,
-      "headline": "Russia says it will open humanitarian corridor to Ukrainian town",
-      "summary": "Russia announces plans to establish a humanitarian corridor into a Ukrainian town, though the specific location and timing remain unclear from available reports. Simultaneous Russian strikes across multiple Ukrainian regions including Zaporizhzhia and Odesa have resulted in civilian injuries, complicating efforts to move aid and people to safety.",
+      "rank": 8,
+      "headline": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+      "summary": "Two men have been charged with national security offences in connection with an alleged plot to assist Iran following an incident at RAF Fairford, a U.S.-operated military base in England. British authorities suspect Iranian state involvement in the incident, marking a significant escalation in security concerns around the base.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/video/2026/10/26/ukraine-russian-strikes-hit-odesa-and-zaporizhzhia-injuring-four"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident"
         }
       ],
-      "source_count": 7,
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4521,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+      "summary": "Harry Kane becomes the first English footballer to win the Ballon d'Or in 25 years, ending a lengthy drought since Gianfranco Zola's era and placing himself among England's most decorated individual award winners. His achievement as a Bayern Munich striker reflects his sustained performance at club level and marks a significant recognition of English talent in European football's most prestigious individual honor.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-27/harry-kane-wins-ballon-d-or/107312914"
+        }
+      ],
+      "source_count": 4,
       "regions": [
         "Africa",
-        "Europe",
-        "India",
-        "Russia",
-        "Southeast Asia",
-        "US",
-        "Ukraine"
+        "Australia",
+        "Germany",
+        "UK"
       ],
-      "score": 0.4192,
-      "mentions": 10,
-      "diversity": 5
+      "score": 0.4223,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Carrick to stay in charge of Man Utd for Chelsea game",
+      "summary": "Michael Carrick remains Manchester United's manager for the upcoming Chelsea match following crisis talks at the club. His continued leadership suggests the club has decided against an immediate managerial change despite recent difficulties.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/carrick-stays-man-united-manager-takes-training-after-crisis-talks-6496496"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4,
+      "mentions": 3,
+      "diversity": 3
     }
   ]
 }
