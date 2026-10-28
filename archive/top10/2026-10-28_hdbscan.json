@@ -1,0 +1,367 @@
+{
+  "published_at": "2026-10-28T16:36:36.325656+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "What is the controversy between Real Madrid’s Kylian Mbappe and China?"
+        },
+        {
+          "headline": "Hegseth pitches US-Asean defence framework but will it be a hard sell?"
+        },
+        {
+          "headline": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3372485/real-madrid-issues-apology-china-over-mbappes-mao-remarks"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sport/football/real-madrid-apologises-to-china-after-mbappes-mao-dictator-comment-sparks-backlash/article71635558.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Eastern Europe",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5609,
+      "mentions": 20,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Israel's voter turnout soars as Netanyahu faces a tight election",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Israel's voter turnout soars as Netanyahu faces a tight election"
+        },
+        {
+          "headline": "The fear factor giving Netanyahu the edge"
+        },
+        {
+          "headline": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/israels-high-turnout-vote-brushed-aside-in-rest-of-the-middle-east"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.3125,
+      "mentions": 12,
+      "diversity": 11
+    },
+    {
+      "rank": 3,
+      "headline": "Bolsonaro turns up in Florida after vanishing from public view",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.825,
+      "mentions": 37,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/travel/2026/oct/28/cruise-passengers-stranded-cambodia-suspends-operations"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "UK",
+        "US"
+      ],
+      "score": 0.5037,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Dozens are dead in a high-speed train crash in Spain",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372446/least-10-dead-spain-after-high-speed-trains-collide"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.4512,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Kremlin says European countries not included in next Ukraine talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4498,
+      "mentions": 11,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372460/assailant-outside-israeli-embassy-serbia-killed-after-attacking-police-officer"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.443,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Russell Brand tells court allegations made friends and colleagues turn against him",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/thomas-markle-s-granddaughter-something-was-always-off-about-grandpa-20261028-p6198s.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4012,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-28/we-havent-got-it-right-collingwood-to-review-aflw/107320818"
+        },
+        {
+          "name": "Daily Maverick",
+          "link": "https://www.dailymaverick.co.za/article/2026-10-27-starc-masterclass-and-proteas-mistakes-give-australia-an-edge-at-newlands/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "South Africa"
+      ],
+      "score": 0.3781,
+      "mentions": 9,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Russia in Africa: What is Putin hoping to achieve?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3372483/russias-putin-woos-african-leaders-summit-slams-colonial-west"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/28/putin-hosts-counterparts-from-mozambique-libya-and-equatorial-guinea/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.3716,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}

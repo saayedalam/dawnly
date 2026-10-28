@@ -1,48 +1,36 @@
 {
-  "published_at": "2026-10-27T15:52:23.078399+00:00",
+  "published_at": "2026-10-28T16:35:28.000338+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Israelis vote amid regional tensions and international scrutiny",
-      "summary": "Israelis are voting at historically high rates in an election that will shape the country's political direction and its approach to ongoing conflicts. The elevated turnout reflects widespread public engagement with decisions on issues ranging from governance to military policy in the region.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Turnout so far highest on record as Israelis vote in pivotal election",
-          "summary": "Israelis are voting at historically high rates in an election that will shape the country's political direction and its approach to ongoing conflicts. The elevated turnout reflects widespread public engagement with decisions on issues ranging from governance to military policy in the region."
-        },
-        {
-          "headline": "UN sounds the alarm over Israel's West Bank military operation",
-          "summary": "The UN has raised concerns about Israel's military operations in the West Bank, citing documented instances of age-based persecution targeting Palestinian children in the territory. A separate UN inquiry concludes that Israeli forces have continued conduct consistent with genocide in Gaza even following a ceasefire agreement."
-        },
-        {
-          "headline": "Netherlands pulls out of Eurovision over Israel participation",
-          "summary": "The Netherlands has withdrawn from Eurovision 2027, citing concerns about Israel's participation in the contest. The Dutch broadcaster's decision reflects ongoing tensions surrounding Israel's involvement in the international song competition."
-        }
-      ],
+      "headline": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "Israel faces difficulty forming a government coalition after elections produced no clear majority, leaving multiple political paths theoretically possible. The composition of any future coalition will depend on which parties prove willing to negotiate and which remain opposed to working together.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+          "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb"
         }
       ],
-      "source_count": 21,
+      "source_count": 22,
       "regions": [
         "Africa",
         "Australia",
         "Canada",
         "Europe",
         "Germany",
+        "Global",
         "Hong Kong",
         "India",
         "Indonesia",
@@ -50,331 +38,330 @@
         "North Africa",
         "Pakistan",
         "South Africa",
-        "Thailand",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.8375,
-      "mentions": 53,
-      "diversity": 16
-    },
-    {
-      "rank": 2,
-      "headline": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "Norwegian and Finnish leaders speak directly with Vladimir Putin in an unusual diplomatic engagement as regional tensions remain high. The call occurs amid a localized ceasefire in the Ukrainian city of Oleshky and continued Russian strikes on Kyiv, suggesting parallel diplomatic and military efforts.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
-        }
-      ],
-      "source_count": 17,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Russia",
         "Southeast Asia",
         "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7907,
-      "mentions": 40,
-      "diversity": 7
+      "score": 0.7826,
+      "mentions": 68,
+      "diversity": 9
     },
     {
-      "rank": 3,
-      "headline": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
-      "summary": "Lula won Brazil's presidential runoff in a close contest against far-right incumbent Jair Bolsonaro, with grassroots mobilization across streets and social media playing a significant role in his comeback. The election result drew international congratulations despite Bolsonaro's refusal to concede, while legal pressures mounted on Bolsonaro allies including his son Flávio, who was ordered to surrender his passports.",
+      "rank": 2,
+      "headline": "Overturned carriages and makeshift medical tents at crash site",
+      "summary": "A high-speed train collision in Spain has resulted in numerous fatalities and injuries, with emergency responders establishing medical tents at the scene to treat survivors among the wreckage. The incident marks the second major fatal train accident in Spain this year, prompting questions about safety protocols across the country's rail network.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss"
+        },
+        {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro"
+          "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+        }
+      ],
+      "source_count": 18,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine",
+        "West Africa"
+      ],
+      "score": 0.7172,
+      "mentions": 26,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Bolsonaro turns up in Florida after vanishing from public view",
+      "summary": "Jair Bolsonaro's son Flávio has surfaced in Miami following Brazil's recent presidential election loss and a period out of public sight. His arrival in Florida comes as the Bolsonaro family faces legal and political challenges in Brazil after losing power.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
         }
       ],
-      "source_count": 14,
+      "source_count": 18,
       "regions": [
         "Africa",
+        "Canada",
         "Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
-        "Mexico",
-        "North Africa",
+        "Indonesia",
+        "Middle East",
+        "South Africa",
         "South America",
+        "Southeast Asia",
+        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.7008,
-      "mentions": 23,
+      "score": 0.6556,
+      "mentions": 37,
       "diversity": 8
     },
     {
       "rank": 4,
-      "headline": "Families of victims killed in Jordanian strike deny links to church attack",
-      "summary": "Jordan conducted airstrikes against militant targets in Syria following a church bombing that killed civilians, with the government citing Islamic State involvement. Families of those killed in the Jordanian strikes dispute claims that their relatives were connected to the attack, raising questions about civilian casualties in the retaliation operation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5914,
-      "mentions": 11,
-      "diversity": 5
-    },
-    {
-      "rank": 5,
-      "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "summary": "Chinese stock markets have declined significantly as investors reassess valuations amid intensifying competition with the United States over artificial intelligence development and dominance. The losses reflect broader concerns about China's ability to achieve technological self-sufficiency while facing US-led restrictions on advanced chip exports and talent competition from well-funded American AI companies like Anthropic.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "North Africa",
-        "UK"
-      ],
-      "score": 0.5346,
-      "mentions": 8,
-      "diversity": 6
-    },
-    {
-      "rank": 6,
-      "headline": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-      "summary": "The Democratic Republic of Congo has recorded more than 10,000 Ebola cases in its current outbreak, marking the fastest-growing epidemic of the disease on record. The spread has crossed into neighboring Kenya and other countries, while limited treatment options and public mistrust complicate containment efforts.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Africa",
-        "Germany",
-        "India",
-        "Middle East",
-        "South Africa",
-        "Southeast Asia"
-      ],
-      "score": 0.4783,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
-      "headline": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "summary": "Kylian Mbappé apologized after making a remark about Mao Zedong that prompted criticism from Chinese fans and caused multiple Chinese brands to end sponsorship deals with the football star. The player characterized his comment as ill-judged, responding to backlash over what observers described as an offensive reference to China's political history.",
+      "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "A luxury cruise ship has halted its global voyage in Cambodia after fuel costs made continuing economically unviable, leaving hundreds of passengers stranded. The ship's operator is arranging travel arrangements for those on board, who had paid for an extended journey that the rising price of fuel has now cut short.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/travel/2026/oct/28/cruise-passengers-stranded-cambodia-suspends-operations"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "UK",
+        "US"
+      ],
+      "score": 0.4697,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+      "summary": "Kylian Mbappé drew criticism after referring to Chinese leader Mao Zedong as a \"dictator\" during a Real Madrid event, prompting the club to issue a formal apology to Chinese people. Several Chinese brands have since ended their endorsement deals with the footballer in response to the remarks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/economy/china-economy/article/3372298/football-star-kylian-mbappe-faces-huge-china-backlash-over-unacceptable-remark"
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3372485/real-madrid-issues-apology-china-over-mbappes-mao-remarks"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sport/football/real-madrid-apologises-to-china-after-mbappes-mao-dictator-comment-sparks-backlash/article71635558.ece"
         }
       ],
       "source_count": 7,
       "regions": [
+        "Africa",
+        "Australia",
         "Hong Kong",
         "India",
-        "Indonesia",
         "Japan",
-        "Middle East",
-        "UK"
+        "Middle East"
       ],
-      "score": 0.472,
-      "mentions": 7,
+      "score": 0.4052,
+      "mentions": 8,
       "diversity": 5
     },
     {
-      "rank": 8,
-      "headline": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
-      "summary": "Two men have been charged with national security offences in connection with an alleged plot to assist Iran following an incident at RAF Fairford, a U.S.-operated military base in England. British authorities suspect Iranian state involvement in the incident, marking a significant escalation in security concerns around the base.",
+      "rank": 6,
+      "headline": "Kremlin says European countries not included in next Ukraine talks",
+      "summary": "The Kremlin has excluded European nations from upcoming Ukraine negotiations, focusing instead on discussions involving the United States, Russia, and other parties. This move comes as Ukraine's president expresses frustration over being sidelined from major talks, while various proposals for security arrangements and territorial settlements circulate among the negotiating powers.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1"
         }
       ],
-      "source_count": 6,
+      "source_count": 9,
       "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
         "Germany",
-        "Hong Kong",
         "India",
+        "Middle East",
+        "Russia",
         "Southeast Asia",
-        "Thailand",
-        "UK"
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.4521,
-      "mentions": 6,
+      "score": 0.3705,
+      "mentions": 19,
       "diversity": 4
     },
     {
-      "rank": 9,
-      "headline": "Ranking England's Ballon d'Or winners - how does Kane compare?",
-      "summary": "Harry Kane becomes the first English footballer to win the Ballon d'Or in 25 years, ending a lengthy drought since Gianfranco Zola's era and placing himself among England's most decorated individual award winners. His achievement as a Bayern Munich striker reflects his sustained performance at club level and marks a significant recognition of English talent in European football's most prestigious individual honor.",
+      "rank": 7,
+      "headline": "Tommy Robinson guilty of harassing two Daily Mail journalists",
+      "summary": "A UK court has found anti-Islam activist Tommy Robinson guilty of harassing two Daily Mail journalists through repeated contact and intimidation. The conviction carries a potential prison sentence of up to 10 years, marking another legal consequence for Robinson following previous convictions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists"
         },
         {
-          "name": "ABC News Australia",
-          "link": "https://www.abc.net.au/news/2026-10-27/harry-kane-wins-ballon-d-or/107312914"
-        }
-      ],
-      "source_count": 4,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Germany",
-        "UK"
-      ],
-      "score": 0.4223,
-      "mentions": 5,
-      "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "Carrick to stay in charge of Man Utd for Chelsea game",
-      "summary": "Michael Carrick remains Manchester United's manager for the upcoming Chelsea match following crisis talks at the club. His continued leadership suggests the club has decided against an immediate managerial change despite recent difficulties.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss"
-        },
-        {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/sport/carrick-stays-man-united-manager-takes-training-after-crisis-talks-6496496"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/uk-anti-islam-activist-robinson-convicted-of-harassing-two-journalists"
         }
       ],
       "source_count": 3,
       "regions": [
-        "Middle East",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.4,
+      "score": 0.35,
       "mentions": 3,
-      "diversity": 3
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary": "King Charles III begins a Caribbean tour where he directly acknowledges historical suffering, signaling a shift in how the monarchy addresses its colonial past. The visit includes discussions with Commonwealth leaders about slavery's legacy and engagement with local youth, reflecting an effort to strengthen relationships across the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/10/28/britains-king-charles-iii-attends-youth-rally-in-the-bahamas/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "A man armed with a knife attacked a police officer stationed outside the Israeli embassy in Serbia and was fatally shot during the confrontation. The officer sustained injuries in the encounter, which ended with the assailant's death.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372460/assailant-outside-israeli-embassy-serbia-killed-after-attacking-police-officer"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3403,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Russell Brand tells court allegations made friends and colleagues turn against him",
+      "summary": "Russell Brand testified in court that accusations of sexual misconduct caused his social and professional relationships to deteriorate significantly. He acknowledged using his celebrity status recklessly but disputed the criminal allegations against him.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russell-brand-gives-evidence-in-uk-sex-crimes-trial"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3239,
+      "mentions": 4,
+      "diversity": 2
     }
   ]
 }
