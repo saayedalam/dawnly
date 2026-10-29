@@ -1,29 +1,112 @@
 {
-  "published_at": "2026-10-28T16:35:28.000338+00:00",
+  "published_at": "2026-10-29T16:51:09.391364+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "Israel faces difficulty forming a government coalition after elections produced no clear majority, leaving multiple political paths theoretically possible. The composition of any future coalition will depend on which parties prove willing to negotiate and which remain opposed to working together.",
+      "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "Audio recordings from the control centre have surfaced showing communications between dispatchers and train operators before the collision that killed multiple people in Spain. Investigators are examining these exchanges to understand what warnings or instructions were given and whether they reveal any failures in coordination or safety procedures.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb"
+          "link": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking"
         }
       ],
-      "source_count": 22,
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8191,
+      "mentions": 36,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Israel's election deadlock is a sign of the country's deep divisions",
+      "summary": "Israel's recent election results leave no single political bloc with a clear majority, reflecting persistent disagreements over security policy, judicial reform, and Palestinian issues that have fractured the country's political landscape. The fragmented outcome suggests any governing coalition will require compromises among ideologically diverse parties, complicating efforts to form a stable government.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8,
+      "mentions": 43,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "summary": "Flávio Bolsonaro, the son of defeated former president Jair Bolsonaro, has declared himself \"leader of Brazil\" while based in Miami following his father's electoral loss. His claim to leadership challenges Brazil's elected government and suggests a continuation of opposition efforts from outside the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami"
+        }
+      ],
+      "source_count": 17,
       "regions": [
         "Africa",
         "Australia",
@@ -34,334 +117,251 @@
         "Hong Kong",
         "India",
         "Indonesia",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "South Africa",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.7826,
-      "mentions": 68,
-      "diversity": 9
-    },
-    {
-      "rank": 2,
-      "headline": "Overturned carriages and makeshift medical tents at crash site",
-      "summary": "A high-speed train collision in Spain has resulted in numerous fatalities and injuries, with emergency responders establishing medical tents at the scene to treat survivors among the wreckage. The incident marks the second major fatal train accident in Spain this year, prompting questions about safety protocols across the country's rail network.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
-        }
-      ],
-      "source_count": 18,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
         "South Africa",
         "South America",
         "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US",
-        "Ukraine",
-        "West Africa"
-      ],
-      "score": 0.7172,
-      "mentions": 26,
-      "diversity": 9
-    },
-    {
-      "rank": 3,
-      "headline": "Bolsonaro turns up in Florida after vanishing from public view",
-      "summary": "Jair Bolsonaro's son Flávio has surfaced in Miami following Brazil's recent presidential election loss and a period out of public sight. His arrival in Florida comes as the Bolsonaro family faces legal and political challenges in Brazil after losing power.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
-        }
-      ],
-      "source_count": 18,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Middle East",
-        "South Africa",
-        "South America",
-        "Southeast Asia",
-        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.6556,
-      "mentions": 37,
-      "diversity": 8
+      "score": 0.7119,
+      "mentions": 22,
+      "diversity": 9
     },
     {
       "rank": 4,
-      "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "summary": "A luxury cruise ship has halted its global voyage in Cambodia after fuel costs made continuing economically unviable, leaving hundreds of passengers stranded. The ship's operator is arranging travel arrangements for those on board, who had paid for an extended journey that the rising price of fuel has now cut short.",
+      "headline": "Europe’s central bank chief Christine Lagarde steps down for ‘freedom of speech’",
+      "summary": "Christine Lagarde is resigning as president of the European Central Bank on February 7, nine months before her term ends. Her departure comes as Europe faces economic pressures and political tensions, though her stated reason centers on concerns about freedom of speech.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5833,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "summary": "A Russian drone strike on a train station in Dnipro, Ukraine has killed at least 14 people, according to Ukrainian officials. The attack targeted a civilian facility during what appears to have been a period of passenger activity at the station.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/travel/2026/oct/28/cruise-passengers-stranded-cambodia-suspends-operations"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Australia",
-        "Hong Kong",
-        "UK",
-        "US"
-      ],
-      "score": 0.4697,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 5,
-      "headline": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-      "summary": "Kylian Mbappé drew criticism after referring to Chinese leader Mao Zedong as a \"dictator\" during a Real Madrid event, prompting the club to issue a formal apology to Chinese people. Several Chinese brands have since ended their endorsement deals with the footballer in response to the remarks.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3372485/real-madrid-issues-apology-china-over-mbappes-mao-remarks"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sport/football/real-madrid-apologises-to-china-after-mbappes-mao-dictator-comment-sparks-backlash/article71635558.ece"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "Middle East"
-      ],
-      "score": 0.4052,
-      "mentions": 8,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Kremlin says European countries not included in next Ukraine talks",
-      "summary": "The Kremlin has excluded European nations from upcoming Ukraine negotiations, focusing instead on discussions involving the United States, Russia, and other parties. This move comes as Ukraine's president expresses frustration over being sidelined from major talks, while various proposals for security arrangements and territorial settlements circulate among the negotiating powers.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html"
         }
       ],
-      "source_count": 9,
+      "source_count": 13,
       "regions": [
+        "Canada",
         "Central Asia & Eastern Europe",
         "Europe",
         "Germany",
         "India",
-        "Middle East",
+        "North Africa",
         "Russia",
         "Southeast Asia",
+        "Thailand",
         "UK",
+        "US",
         "Ukraine"
       ],
-      "score": 0.3705,
-      "mentions": 19,
-      "diversity": 4
+      "score": 0.5565,
+      "mentions": 30,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "summary": "King Charles III is visiting Caribbean nations where historical slavery and colonial ties remain contentious issues, with local leaders and activists renewing demands for reparations from Britain. The tour includes cultural engagements such as dancing with residents, juxtaposing ceremonial visits against the backdrop of conversations about addressing past harms.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/king-charles-dances-in-the-bahamas-as-calls-for-slavery-reparations-grow-louder-20261029-p619o7.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Middle East",
+        "South America"
+      ],
+      "score": 0.4889,
+      "mentions": 8,
+      "diversity": 5
     },
     {
       "rank": 7,
-      "headline": "Tommy Robinson guilty of harassing two Daily Mail journalists",
-      "summary": "A UK court has found anti-Islam activist Tommy Robinson guilty of harassing two Daily Mail journalists through repeated contact and intimidation. The conviction carries a potential prison sentence of up to 10 years, marking another legal consequence for Robinson following previous convictions.",
+      "headline": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+      "summary": "China has promoted General Zhang Shengmin, who led a sweeping anti-corruption campaign in the People's Liberation Army, to the Politburo's inner decision-making circle. The move reflects the Communist Party's efforts to reinforce loyalty among its ranks while removing officials deemed unreliable or corrupt.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/uk-anti-islam-activist-robinson-convicted-of-harassing-two-journalists"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/military/article/3372591/china-promotes-general-zhang-shengmin-politburo"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "regions": [
+        "Germany",
+        "Hong Kong",
+        "Japan",
         "Southeast Asia",
-        "UK"
+        "US"
       ],
-      "score": 0.35,
-      "mentions": 3,
-      "diversity": 2
+      "score": 0.4496,
+      "mentions": 5,
+      "diversity": 4
     },
     {
       "rank": 8,
-      "headline": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "summary": "King Charles III begins a Caribbean tour where he directly acknowledges historical suffering, signaling a shift in how the monarchy addresses its colonial past. The visit includes discussions with Commonwealth leaders about slavery's legacy and engagement with local youth, reflecting an effort to strengthen relationships across the region.",
+      "headline": "What the Budget means for your money",
+      "summary": "The UK budget delivers modest tax and spending changes while deferring major decisions on defence and welfare spending to future years. The package offers some relief for households and businesses, though critics question whether it adequately addresses the finances of the wealthiest or tackles the government's structural budget challenges.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart"
         },
         {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/10/28/britains-king-charles-iii-attends-youth-rally-in-the-bahamas/"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-uk-budget-relief-puts-off-big-decisions-on-defence-welfare/"
         }
       ],
       "source_count": 3,
       "regions": [
-        "Africa",
+        "Canada",
         "UK"
       ],
-      "score": 0.35,
-      "mentions": 3,
+      "score": 0.4253,
+      "mentions": 4,
       "diversity": 2
     },
     {
       "rank": 9,
-      "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "summary": "A man armed with a knife attacked a police officer stationed outside the Israeli embassy in Serbia and was fatally shot during the confrontation. The officer sustained injuries in the encounter, which ended with the assailant's death.",
+      "headline": "Hong Kong’s John Lee apologises for Tai Po fire, unveils reforms as housing chief resigns",
+      "summary": "Hong Kong Chief Executive John Lee apologizes for the Tai Po fire that killed seven people and announces regulatory reforms after an investigation finds lax inspections and inter-departmental failures enabled safety risks to go unchecked. The housing minister resigns following the incident, though Lee indicates he will remain in his position while the security chief commits to overhauling fire department procedures.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-xml-mrss"
-        },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3372460/assailant-outside-israeli-embassy-serbia-killed-after-attacking-police-officer"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Eastern Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "South Africa",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.3403,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 10,
-      "headline": "Russell Brand tells court allegations made friends and colleagues turn against him",
-      "summary": "Russell Brand testified in court that accusations of sexual misconduct caused his social and professional relationships to deteriorate significantly. He acknowledged using his celebrity status recklessly but disputed the criminal allegations against him.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3372634/hong-kongs-john-lee-apologises-tai-po-fire-unveils-reforms-housing-chief-resigns"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hong-kongs-housing-minister-resigns-after-fire-investigation-finds-inadequate-oversight/article71639735.ece"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/russell-brand-gives-evidence-in-uk-sex-crimes-trial"
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/fires/hong-kong-government-apologizes-for-deadly-fire-as-housing-chief-resigns"
         }
       ],
       "source_count": 4,
       "regions": [
-        "Southeast Asia",
-        "Thailand",
-        "UK"
+        "Hong Kong",
+        "India",
+        "Japan"
       ],
-      "score": 0.3239,
-      "mentions": 4,
+      "score": 0.423,
+      "mentions": 18,
       "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "North Korea fires around 10 ballistic missiles into sea",
+      "summary": "North Korea launches approximately 10 ballistic missiles into the East Sea, continuing a pattern of weapons testing that has accelerated in recent months. The action follows Pyongyang's rejection of South Korea's proposal for border talks, reflecting heightened tensions on the peninsula.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3372537/north-korea-fires-missile-barrage-days-after-rejecting-souths-border-talks"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.3911,
+      "mentions": 6,
+      "diversity": 5
     }
   ]
 }

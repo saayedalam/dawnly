@@ -1,0 +1,367 @@
+{
+  "published_at": "2026-10-29T16:51:09.391364+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "Audio recordings from the control centre have surfaced showing communications between dispatchers and train operators before the collision that killed multiple people in Spain. Investigators are examining these exchanges to understand what warnings or instructions were given and whether they reveal any failures in coordination or safety procedures.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8191,
+      "mentions": 36,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Israel's election deadlock is a sign of the country's deep divisions",
+      "summary": "Israel's recent election results leave no single political bloc with a clear majority, reflecting persistent disagreements over security policy, judicial reform, and Palestinian issues that have fractured the country's political landscape. The fragmented outcome suggests any governing coalition will require compromises among ideologically diverse parties, complicating efforts to form a stable government.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8,
+      "mentions": 43,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "summary": "Flávio Bolsonaro, the son of defeated former president Jair Bolsonaro, has declared himself \"leader of Brazil\" while based in Miami following his father's electoral loss. His claim to leadership challenges Brazil's elected government and suggests a continuation of opposition efforts from outside the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7119,
+      "mentions": 22,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "Europe’s central bank chief Christine Lagarde steps down for ‘freedom of speech’",
+      "summary": "Christine Lagarde is resigning as president of the European Central Bank on February 7, nine months before her term ends. Her departure comes as Europe faces economic pressures and political tensions, though her stated reason centers on concerns about freedom of speech.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5833,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "summary": "A Russian drone strike on a train station in Dnipro, Ukraine has killed at least 14 people, according to Ukrainian officials. The attack targeted a civilian facility during what appears to have been a period of passenger activity at the station.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5565,
+      "mentions": 30,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "summary": "King Charles III is visiting Caribbean nations where historical slavery and colonial ties remain contentious issues, with local leaders and activists renewing demands for reparations from Britain. The tour includes cultural engagements such as dancing with residents, juxtaposing ceremonial visits against the backdrop of conversations about addressing past harms.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/king-charles-dances-in-the-bahamas-as-calls-for-slavery-reparations-grow-louder-20261029-p619o7.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Middle East",
+        "South America"
+      ],
+      "score": 0.4889,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+      "summary": "China has promoted General Zhang Shengmin, who led a sweeping anti-corruption campaign in the People's Liberation Army, to the Politburo's inner decision-making circle. The move reflects the Communist Party's efforts to reinforce loyalty among its ranks while removing officials deemed unreliable or corrupt.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/military/article/3372591/china-promotes-general-zhang-shengmin-politburo"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4496,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "What the Budget means for your money",
+      "summary": "The UK budget delivers modest tax and spending changes while deferring major decisions on defence and welfare spending to future years. The package offers some relief for households and businesses, though critics question whether it adequately addresses the finances of the wealthiest or tackles the government's structural budget challenges.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-uk-budget-relief-puts-off-big-decisions-on-defence-welfare/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "UK"
+      ],
+      "score": 0.4253,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Hong Kong’s John Lee apologises for Tai Po fire, unveils reforms as housing chief resigns",
+      "summary": "Hong Kong Chief Executive John Lee apologizes for the Tai Po fire that killed seven people and announces regulatory reforms after an investigation finds lax inspections and inter-departmental failures enabled safety risks to go unchecked. The housing minister resigns following the incident, though Lee indicates he will remain in his position while the security chief commits to overhauling fire department procedures.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3372634/hong-kongs-john-lee-apologises-tai-po-fire-unveils-reforms-housing-chief-resigns"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hong-kongs-housing-minister-resigns-after-fire-investigation-finds-inadequate-oversight/article71639735.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/fires/hong-kong-government-apologizes-for-deadly-fire-as-housing-chief-resigns"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan"
+      ],
+      "score": 0.423,
+      "mentions": 18,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "North Korea fires around 10 ballistic missiles into sea",
+      "summary": "North Korea launches approximately 10 ballistic missiles into the East Sea, continuing a pattern of weapons testing that has accelerated in recent months. The action follows Pyongyang's rejection of South Korea's proposal for border talks, reflecting heightened tensions on the peninsula.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3372537/north-korea-fires-missile-barrage-days-after-rejecting-souths-border-talks"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.3911,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "published_at": "2026-10-29T16:52:23.621384+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Spain reckons with 2nd deadly train crash of the year ahead of national election"
+        },
+        {
+          "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash"
+        },
+        {
+          "headline": "Day after Spain train accident, rescuers search crash site for survivors"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/spain-train-crash-high-speed-rail-safety-record-under-scrutiny-explained/article71639891.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/more-than-60-people-killed-in-spanish-rail-disaster-20261029-p619jm.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4531,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8147,
+      "mentions": 24,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Europe’s central bank chief Christine Lagarde steps down for ‘freedom of speech’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6312,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Faisal Islam: This Budget was micro and that was deliberate",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-uk-budget-relief-puts-off-big-decisions-on-defence-welfare/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Canada",
+        "UK"
+      ],
+      "score": 0.472,
+      "mentions": 7,
+      "diversity": 2
+    },
+    {
+      "rank": 5,
+      "headline": "Hong Kong’s John Lee apologises for Tai Po fire, unveils reforms as housing chief resigns",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3372634/hong-kongs-john-lee-apologises-tai-po-fire-unveils-reforms-housing-chief-resigns"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hong-kongs-housing-minister-resigns-after-fire-investigation-finds-inadequate-oversight/article71639735.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/fires/hong-kong-government-apologizes-for-deadly-fire-as-housing-chief-resigns"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan"
+      ],
+      "score": 0.4663,
+      "mentions": 18,
+      "diversity": 2
+    },
+    {
+      "rank": 6,
+      "headline": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4413,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/military/article/3372591/china-promotes-general-zhang-shengmin-politburo"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4352,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Duckett and Dawson deliver in England's consolation win",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-10-29/test-cricket-live-updates-south-africa-vs-australia-cape-town/107324412"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.4289,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/decoy-dan-dirty-trick-has-sent-trump-on-the-warpath-in-alaska-20261029-p619nk.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.4165,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "North Korea fires around 10 ballistic missiles into sea",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3372537/north-korea-fires-missile-barrage-days-after-rejecting-souths-border-talks"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.4099,
+      "mentions": 6,
+      "diversity": 5
+    }
+  ]
+}
