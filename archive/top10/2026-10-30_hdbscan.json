@@ -1,0 +1,347 @@
+{
+  "published_at": "2026-10-30T16:41:23.420798+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "What we know about Binance's $6.3bn hack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.8337,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6739,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "UK",
+        "US"
+      ],
+      "score": 0.6324,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "What's at stake for Trump in the US midterms?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Japan",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.6284,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/scottish-police-probe-andrew-epstein-stay-at-royal-castle-uk-media/article71646328.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2637781/police-investigate-former-prince-andrews-stays-with-epstein-maxwell-at-balmoral"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.621,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6015,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5723,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Trump reverses course, reinstates cancelled campaign rallies",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/30/you-look-like-hell-trump-berates-reporter-who-asks-if-he-is-tired-of-campaigning"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5414,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Saudi Arabia says Houthis-launched drone destroyed near Mecca, group denies",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372733/saudi-arabia-says-houthis-launched-drone-destroyed-near-mecca-group-denies"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2637742/saudi-led-coalition-says-it-downed-houthi-drone-in-mecca-region"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-drone-near-riyadh"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.5102,
+      "mentions": 6,
+      "diversity": 6
+    },
+    {
+      "rank": 10,
+      "headline": "Italy tightens security as students, unions launch nationwide protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/thousands-of-students-workers-protest-in-italy-under-heavy-security/article71646419.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5078,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
