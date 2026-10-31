@@ -1,0 +1,361 @@
+{
+  "published_at": "2026-10-31T15:43:27.456280+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Burnham 'open' to calls for slavery apology but not reparations",
+      "summary": "UK Prime Minister Andy Burnham signals willingness to offer a formal apology for Britain's historical role in the slave trade. He simultaneously rules out providing financial reparations to affected communities or nations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3372842/uk-pm-burnham-open-slavery-apology-not-reparations"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7851,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Protests outside Poland’s constitutional court: What’s the crisis about?",
+      "summary": "Poland faces a constitutional crisis after its government suspended the Constitutional Tribunal's chief judge, prompting large protests outside the court and leading authorities to deploy riot police to maintain order. The dispute centers on competing claims about judicial authority and government power, with demonstrators opposing what they view as an attack on judicial independence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7292,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "summary": "Iran's leadership has declared it will respond to any attack without geographical or strategic constraints, signaling a readiness to expand beyond its borders if provoked. International mediators continue diplomatic efforts to de-escalate tensions even as both Iran and its adversaries prepare for potential military confrontation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7117,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "North Korean state-linked hacking groups are considered the leading suspects in a major breach of Binance, the world's largest cryptocurrency exchange, based on the technical sophistication and patterns investigators have identified. Cryptocurrency theft has become a significant funding mechanism for North Korea's isolated economy and nuclear weapons program, making such large-scale hacks particularly attractive targets for the country's cyber operations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Global",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7046,
+      "mentions": 13,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+      "summary": "The US has canceled the traditional G20 family photograph after several Western nations, including Australia and the UK, refused to appear alongside Russia's foreign minister at the gathering in Atlanta. The move reflects deepening divisions within the group, with European diplomats actively avoiding Russian representatives while the US pursues separate bilateral discussions to manage tensions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3372805/g20-talks-expose-deep-rift-russia-stays-defiant-while-rubio-pursues-sideline-diplomacy"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6733,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The US authorizes a $2.1 billion sale of 500 Patriot air-defense missiles to Ukraine, expanding its arsenal against Russian aerial attacks. Ukrainian President Zelenskyy acknowledges the approval while cautioning that the weapons may not arrive for several years due to manufacturing and delivery timelines.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2637907/us-approves-21-billion-patriot-missile-sale-to-ukraine"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5917,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "summary": "Residents of Oleshky, a Russian-occupied city in southern Ukraine where food shortages forced some people to forage for weeds, have begun evacuating to Ukrainian-controlled territory via Belarus. The evacuation reflects deteriorating humanitarian conditions in occupied areas and suggests a shift in movement patterns across the region's conflict lines.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5777,
+      "mentions": 16,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+      "summary": "Demonstrations are taking place across Germany and France on Halloween, with authorities concerned that masks could obstruct identification during potential disorder. A government minister has publicly cautioned against wearing masks during the protests, as officials prepare for possible confrontations between demonstrators and police.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article71649225.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2637908/france-braces-for-fresh-unrest-government-vows-tough-response"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5597,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Canada and EU announce new alliance open to like-minded countries",
+      "summary": "Canada and the European Union are forming a new strategic alliance designed to strengthen ties between democratic nations and reduce economic dependence on the United States. The partnership includes Canada's commitment of €500 million toward the EU's €90 billion Ukraine defense loan, signaling coordinated pressure on Russia.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/business/article-ottawa-inspired-by-nafta-as-it-pursues-a-new-canada-eu-alliance-joly/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Germany",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4949,
+      "mentions": 6,
+      "diversity": 2
+    },
+    {
+      "rank": 10,
+      "headline": "Trump and Milei under pressure to explain role in Flavio Bolsonaro’s dramatic escape to US",
+      "summary": "Flavio Bolsonaro, the son of former Brazilian president Jair Bolsonaro, has fled to the United States and claims he left due to political persecution in Brazil. Trump and Argentine president Milei face questions about whether they facilitated his departure, while Brazil and Argentina dispute whether any official discussions took place regarding his escape.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3372806/trump-and-milei-under-pressure-explain-role-flavio-bolsonaros-dramatic-escape-us"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4797,
+      "mentions": 9,
+      "diversity": 5
+    }
+  ]
+}
