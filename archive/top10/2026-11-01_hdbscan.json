@@ -1,0 +1,343 @@
+{
+  "published_at": "2026-11-01T16:45:01.030568+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Attempted murder probe after petrol bomb thrown at French riot police",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Attempted murder probe after petrol bomb thrown at French riot police"
+        },
+        {
+          "headline": "More than 290 arrested in France as some weekend protests turn violent"
+        },
+        {
+          "headline": "Shops looted as German cost-of-living protests turn violent"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3976,
+      "mentions": 12,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/trump-s-midterm-fall-is-the-fault-of-one-person-i-could-say-the-stupidest-things-and-you-d-clap-20261101-p61abw.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6834,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Binance restarts withdrawals after $6.3bn heist",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6619,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638097/israeli-strikes-kill-eight-people-in-gaza-medics-say"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6367,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Former NSW Liberal leads overhaul of One Nation candidate selection process",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/philippine-muslim-region-elects-chief-minister-in-historic-vote"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Japan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.5614,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Ukraine: Russian attacks leave tens of thousands without power",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery/article71653925.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638096/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5575,
+      "mentions": 11,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "‘There’s a lot of hate’: rightwing racism stirs south Asian mobilization in Texas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/01/texas-south-asian-racism"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3372874/us-midterms-near-trump-administration-ramps-rhetoric-bigoted-racist-memes"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/who-are-the-indian-origin-candidates-in-us-midterm-elections/article71644803.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4651,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/01/us/alaska-ranked-choice-voting-peltola.html"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.46,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/current-crisis-could-help-pm-tusk-in-2027-polls-but-it-may-also-backfire-both-against-him-and-president-nawrocki-polish-expert-krzysztof-marcin-zalewski/article71649669.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "North Africa",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4542,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Iran and US explore diplomacy amid rising threats of war",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372891/us-iran-talks-uae-braced-worst-hoping-diplomacy"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4467,
+      "mentions": 6,
+      "diversity": 3
+    }
+  ]
+}

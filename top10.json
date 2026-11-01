@@ -1,361 +1,350 @@
 {
-  "published_at": "2026-10-31T15:43:27.456280+00:00",
+  "published_at": "2026-11-01T16:44:11.371715+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Burnham 'open' to calls for slavery apology but not reparations",
-      "summary": "UK Prime Minister Andy Burnham signals willingness to offer a formal apology for Britain's historical role in the slave trade. He simultaneously rules out providing financial reparations to affected communities or nations.",
+      "headline": "Shops looted as German cost-of-living protests turn violent",
+      "summary": "Protests across Germany over rising living costs have escalated into property destruction and looting, reflecting broader economic frustrations spreading through European youth movements. France is simultaneously investigating a petrol bomb attack on riot police during similar demonstrations, indicating that civil unrest tied to inflation and cost pressures now spans multiple countries.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3372842/uk-pm-burnham-open-slavery-apology-not-reparations"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
         }
       ],
-      "source_count": 9,
+      "source_count": 18,
       "regions": [
         "Australia",
+        "Brazil",
         "Canada",
+        "Europe",
+        "Germany",
         "Hong Kong",
         "India",
-        "Middle East",
-        "Pakistan",
+        "Indonesia",
+        "North Africa",
+        "South America",
         "Southeast Asia",
         "Thailand",
-        "UK"
+        "UK",
+        "US",
+        "West Africa"
       ],
-      "score": 0.7851,
-      "mentions": 10,
-      "diversity": 7
+      "score": 0.72,
+      "mentions": 27,
+      "diversity": 9
     },
     {
       "rank": 2,
-      "headline": "Protests outside Poland’s constitutional court: What’s the crisis about?",
-      "summary": "Poland faces a constitutional crisis after its government suspended the Constitutional Tribunal's chief judge, prompting large protests outside the court and leading authorities to deploy riot police to maintain order. The dispute centers on competing claims about judicial authority and government power, with demonstrators opposing what they view as an attack on judicial independence.",
+      "headline": "Iran and US explore diplomacy amid rising threats of war",
+      "summary": "Diplomatic representatives from Iran and the United States are engaged in talks, primarily conducted through intermediaries in Doha, as both sides navigate heightened military tensions and public threats of escalation. The negotiations reflect uncertainty about whether dialogue can prevent conflict, with regional allies preparing contingency plans while officials from both nations signal willingness to pursue a political settlement.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372891/us-iran-talks-uae-braced-worst-hoping-diplomacy"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5177,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Photos: Thousands join India’s opposition rally against election chief",
+      "summary": "India's opposition parties gathered tens of thousands of supporters in Delhi to demand the resignation of the election chief, citing concerns over voter roll revisions they view as irregular. The unified demonstration reflects growing tensions between Modi's government and opposition factions over electoral integrity ahead of upcoming elections.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+          "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4735,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Binance restarts withdrawals after $6.3bn heist",
+      "summary": "Binance has resumed customer withdrawals following a $6.3 billion theft that the FBI attributes to North Korean hackers. The exchange's restoration of withdrawal access allows users to recover funds after the platform froze transactions in response to what appears to be the largest cryptocurrency heist on record.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 8,
       "regions": [
         "Germany",
         "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.7292,
-      "mentions": 10,
-      "diversity": 5
-    },
-    {
-      "rank": 3,
-      "headline": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-      "summary": "Iran's leadership has declared it will respond to any attack without geographical or strategic constraints, signaling a readiness to expand beyond its borders if provoked. International mediators continue diplomatic efforts to de-escalate tensions even as both Iran and its adversaries prepare for potential military confrontation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Global",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.7117,
-      "mentions": 11,
-      "diversity": 7
-    },
-    {
-      "rank": 4,
-      "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "summary": "North Korean state-linked hacking groups are considered the leading suspects in a major breach of Binance, the world's largest cryptocurrency exchange, based on the technical sophistication and patterns investigators have identified. Cryptocurrency theft has become a significant funding mechanism for North Korea's isolated economy and nuclear weapons program, making such large-scale hacks particularly attractive targets for the country's cyber operations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Global",
-        "India",
-        "Indonesia",
         "Japan",
-        "South Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.7046,
-      "mentions": 13,
-      "diversity": 7
-    },
-    {
-      "rank": 5,
-      "headline": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-      "summary": "The US has canceled the traditional G20 family photograph after several Western nations, including Australia and the UK, refused to appear alongside Russia's foreign minister at the gathering in Atlanta. The move reflects deepening divisions within the group, with European diplomats actively avoiding Russian representatives while the US pursues separate bilateral discussions to manage tensions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3372805/g20-talks-expose-deep-rift-russia-stays-defiant-while-rubio-pursues-sideline-diplomacy"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Australia",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.6733,
-      "mentions": 13,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The US authorizes a $2.1 billion sale of 500 Patriot air-defense missiles to Ukraine, expanding its arsenal against Russian aerial attacks. Ukrainian President Zelenskyy acknowledges the approval while cautioning that the weapons may not arrive for several years due to manufacturing and delivery timelines.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2637907/us-approves-21-billion-patriot-missile-sale-to-ukraine"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Europe",
-        "North Africa",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5917,
-      "mentions": 11,
-      "diversity": 5
-    },
-    {
-      "rank": 7,
-      "headline": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "summary": "Residents of Oleshky, a Russian-occupied city in southern Ukraine where food shortages forced some people to forage for weeds, have begun evacuating to Ukrainian-controlled territory via Belarus. The evacuation reflects deteriorating humanitarian conditions in occupied areas and suggests a shift in movement patterns across the region's conflict lines.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 13,
-      "regions": [
-        "Central Asia & Eastern Europe",
-        "Germany",
-        "Hong Kong",
         "Middle East",
-        "North Africa",
-        "Russia",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5777,
-      "mentions": 16,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-      "summary": "Demonstrations are taking place across Germany and France on Halloween, with authorities concerned that masks could obstruct identification during potential disorder. A government minister has publicly cautioned against wearing masks during the protests, as officials prepare for possible confrontations between demonstrators and police.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article71649225.ece"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2637908/france-braces-for-fresh-unrest-government-vows-tough-response"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Canada",
-        "India",
-        "Pakistan",
         "Southeast Asia",
         "Thailand",
         "UK"
       ],
-      "score": 0.5597,
+      "score": 0.4357,
       "mentions": 9,
       "diversity": 4
     },
     {
+      "rank": 5,
+      "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "summary": "Israeli airstrikes across Gaza on this date kill at least eight Palestinians, including a child, according to hospital officials in the territory. The strikes occur amid ongoing conflict between Israel and Palestinian armed groups, with casualties consistently reported by medical facilities monitoring the violence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638097/israeli-strikes-kill-eight-people-in-gaza-medics-say"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3781,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+      "summary": "King Charles III will address the legacy of slavery during his visit to Antigua and Barbuda, while the country's prime minister signals openness to a formal UK apology for Britain's historic role in the slave trade. The UK government has indicated that any apology would not extend to financial reparations, establishing a boundary around what acknowledgment might entail.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Ukraine: Russian attacks leave tens of thousands without power",
+      "summary": "Russian drone and missile strikes have damaged power infrastructure across Ukraine, affecting tens of thousands of civilians in multiple regions including Rivne. Ukraine's forces have struck back with attacks on Russian industrial facilities, including what Kyiv describes as a major refinery near Moscow.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery/article71653925.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638096/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.3464,
+      "mentions": 13,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "summary": "G20 foreign ministers concluded talks in Atlanta without reaching agreement on major issues, reflecting deep divisions among the group's members. Secretary Rubio pushed for consensus while defending Russia's continued participation, though the U.S. and Canada identified potential momentum toward a limited Black Sea ceasefire among some nations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-g20-talks-wrap-up-with-no-consensus-on-critical-issues-after-tensions/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Hong Kong",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.2907,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
       "rank": 9,
-      "headline": "Canada and EU announce new alliance open to like-minded countries",
-      "summary": "Canada and the European Union are forming a new strategic alliance designed to strengthen ties between democratic nations and reduce economic dependence on the United States. The partnership includes Canada's commitment of €500 million toward the EU's €90 billion Ukraine defense loan, signaling coordinated pressure on Russia.",
+      "headline": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "summary": "Prime Minister Tusk is moving forward with reforms to Poland's constitutional court despite public opposition and escalating tensions with President Nawrocki. The dispute centers on how the court's authority should be structured and carries implications for Poland's political landscape heading toward the 2027 elections.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+          "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/current-crisis-could-help-pm-tusk-in-2027-polls-but-it-may-also-backfire-both-against-him-and-president-nawrocki-polish-expert-krzysztof-marcin-zalewski/article71649669.ece"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/business/article-ottawa-inspired-by-nafta-as-it-pursues-a-new-canada-eu-alliance-joly/"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/poland-s-pm-vows-support-for-tribunal-amid-court-crisis-20261101-p61adh.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "regions": [
-        "Canada",
-        "Germany",
+        "Australia",
+        "India",
+        "North Africa",
         "UK",
         "Ukraine"
       ],
-      "score": 0.4949,
-      "mentions": 6,
-      "diversity": 2
+      "score": 0.2371,
+      "mentions": 5,
+      "diversity": 4
     },
     {
       "rank": 10,
-      "headline": "Trump and Milei under pressure to explain role in Flavio Bolsonaro’s dramatic escape to US",
-      "summary": "Flavio Bolsonaro, the son of former Brazilian president Jair Bolsonaro, has fled to the United States and claims he left due to political persecution in Brazil. Trump and Argentine president Milei face questions about whether they facilitated his departure, while Brazil and Argentina dispute whether any official discussions took place regarding his escape.",
+      "headline": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
+      "summary": "Bulgarian voters choose between two candidates in a presidential runoff following a closely contested first round that reflected deep national divisions. The election occurs amid ongoing geopolitical tension from the Ukraine war, which has shaped debate over Bulgaria's foreign policy alignment and NATO commitments.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3372806/trump-and-milei-under-pressure-explain-role-flavio-bolsonaros-dramatic-escape-us"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece"
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/bulgaria-votes-in-presidential-runoff-after-tight-first-round-6510741"
         },
         {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "regions": [
-        "Europe",
-        "Hong Kong",
-        "India",
-        "South America",
+        "Germany",
         "Southeast Asia",
-        "Thailand"
+        "Thailand",
+        "Ukraine"
       ],
-      "score": 0.4797,
-      "mentions": 9,
-      "diversity": 5
+      "score": 0.2074,
+      "mentions": 5,
+      "diversity": 2
     }
   ]
 }
