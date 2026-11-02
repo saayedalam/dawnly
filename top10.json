@@ -1,350 +1,372 @@
 {
-  "published_at": "2026-11-01T16:44:11.371715+00:00",
+  "published_at": "2026-11-02T20:11:02.680287+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Shops looted as German cost-of-living protests turn violent",
-      "summary": "Protests across Germany over rising living costs have escalated into property destruction and looting, reflecting broader economic frustrations spreading through European youth movements. France is simultaneously investigating a petrol bomb attack on riot police during similar demonstrations, indicating that civil unrest tied to inflation and cost pressures now spans multiple countries.",
+      "headline": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "summary": "A Russian air strike on an aid distribution centre in Kyiv kills 24 people, according to Ukrainian officials. The attack targets civilian infrastructure as fighting continues across multiple regions of Ukraine.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine"
         }
       ],
-      "source_count": 18,
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8086,
+      "mentions": 39,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "summary": "A 20-year-old copilot was among nine people killed when a Learjet crashed in Florida, making her one of the youngest aviation professionals to die in the incident. Investigators are examining audio recordings and flight data from the aircraft's final moments to determine what caused the collision.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
       "regions": [
         "Australia",
         "Brazil",
         "Canada",
         "Europe",
         "Germany",
-        "Hong Kong",
         "India",
         "Indonesia",
-        "North Africa",
-        "South America",
+        "Pakistan",
         "Southeast Asia",
-        "Thailand",
         "UK",
-        "US",
-        "West Africa"
+        "US"
       ],
-      "score": 0.72,
-      "mentions": 27,
-      "diversity": 9
+      "score": 0.6336,
+      "mentions": 17,
+      "diversity": 6
     },
     {
-      "rank": 2,
-      "headline": "Iran and US explore diplomacy amid rising threats of war",
-      "summary": "Diplomatic representatives from Iran and the United States are engaged in talks, primarily conducted through intermediaries in Doha, as both sides navigate heightened military tensions and public threats of escalation. The negotiations reflect uncertainty about whether dialogue can prevent conflict, with regional allies preparing contingency plans while officials from both nations signal willingness to pursue a political settlement.",
+      "rank": 3,
+      "headline": "A simple guide to the midterms",
+      "summary": "US midterm elections allow voters to elect representatives to Congress and other offices roughly halfway through a presidential term, determining which party controls legislative power for the next two years. These elections typically shift congressional representation based on public sentiment about the sitting president's performance and the country's direction.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss"
         },
         {
           "name": "Financial Times",
-          "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1"
+          "link": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "Middle East",
+        "New Zealand",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6291,
+      "mentions": 18,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+      "summary": "Iran proposes reopening the Strait of Hormuz within two days if the United States meets its conditions, signaling a potential pathway toward de-escalation amid rising tensions. The offer comes as Iran's foreign minister indicates active diplomatic engagement through intermediary nations, while both sides issue competing warnings about the consequences of further conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3372891/us-iran-talks-uae-braced-worst-hoping-diplomacy"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372947/iran-warns-new-war-us-could-last-longer-trump-threatens-hammer"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-ready-to-reopen-hormuz-in-two-days-if-us-agrees-to-demands/article71657916.ece"
         }
       ],
-      "source_count": 10,
+      "source_count": 9,
       "regions": [
+        "Africa",
         "Canada",
-        "Central Asia & Eastern Europe",
         "Europe",
         "Hong Kong",
         "India",
         "Middle East",
         "Pakistan",
         "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5177,
-      "mentions": 17,
-      "diversity": 6
-    },
-    {
-      "rank": 3,
-      "headline": "Photos: Thousands join India’s opposition rally against election chief",
-      "summary": "India's opposition parties gathered tens of thousands of supporters in Delhi to demand the resignation of the election chief, citing concerns over voter roll revisions they view as irregular. The unified demonstration reflects growing tensions between Modi's government and opposition factions over electoral integrity ahead of upcoming elections.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "Thailand",
-        "UK",
         "US"
       ],
-      "score": 0.4735,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 4,
-      "headline": "Binance restarts withdrawals after $6.3bn heist",
-      "summary": "Binance has resumed customer withdrawals following a $6.3 billion theft that the FBI attributes to North Korean hackers. The exchange's restoration of withdrawal access allows users to recover funds after the platform froze transactions in response to what appears to be the largest cryptocurrency heist on record.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "Japan",
-        "Middle East",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.4357,
-      "mentions": 9,
-      "diversity": 4
+      "score": 0.6251,
+      "mentions": 13,
+      "diversity": 7
     },
     {
       "rank": 5,
-      "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Israeli airstrikes across Gaza on this date kill at least eight Palestinians, including a child, according to hospital officials in the territory. The strikes occur amid ongoing conflict between Israel and Palestinian armed groups, with casualties consistently reported by medical facilities monitoring the violence.",
+      "headline": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "Cybercriminals have targeted refrigeration systems across supermarkets in seven European countries, causing widespread food spoilage and forcing stores to discard inventory. The incident raises questions about the security vulnerabilities in networked appliances that control critical infrastructure within retail operations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
         },
         {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2638097/israeli-strikes-kill-eight-people-in-gaza-medics-say"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 5,
+      "source_count": 10,
       "regions": [
-        "Middle East",
-        "Pakistan",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.3781,
-      "mentions": 6,
+      "score": 0.564,
+      "mentions": 14,
       "diversity": 4
     },
     {
       "rank": 6,
-      "headline": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-      "summary": "King Charles III will address the legacy of slavery during his visit to Antigua and Barbuda, while the country's prime minister signals openness to a formal UK apology for Britain's historic role in the slave trade. The UK government has indicated that any apology would not extend to financial reparations, establishing a boundary around what acknowledgment might entail.",
+      "headline": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
+      "summary": "Democrat Haley Stevens endorses Republican Mike Rogers in Michigan's Senate race, prompting criticism from party members who view the move as a betrayal of the party nominee Abdul El-Sayed. El-Sayed's campaign reports record fundraising in response, suggesting the endorsement has energized his base.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/02/us-midterms-democrat-haley-stevens-backs-republican-mike-rogers-in-michigan-senate-race"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5351,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+      "summary": "Trump has petitioned the Supreme Court to invalidate approximately 20,000 California ballots before the midterm elections, citing unspecified disputes over their validity. The request seeks an emergency intervention in state election procedures just before voting concludes.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5156,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+      "summary": "Lindsay Clancy returns to court as prosecutors consider pursuing a retrial in her case following a mistrial on charges related to the deaths of her three children. Her defense team is urging the judge to dismiss the charges entirely, setting up a decision that will determine whether the case proceeds to a new trial.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates"
-        }
-      ],
-      "source_count": 3,
-      "regions": [
-        "Middle East",
-        "UK"
-      ],
-      "score": 0.35,
-      "mentions": 3,
-      "diversity": 2
-    },
-    {
-      "rank": 7,
-      "headline": "Ukraine: Russian attacks leave tens of thousands without power",
-      "summary": "Russian drone and missile strikes have damaged power infrastructure across Ukraine, affecting tens of thousands of civilians in multiple regions including Rivne. Ukraine's forces have struck back with attacks on Russian industrial facilities, including what Kyiv describes as a major refinery near Moscow.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery/article71653925.ece"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2638096/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Central Asia & Eastern Europe",
-        "Germany",
-        "India",
-        "Pakistan",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.3464,
-      "mentions": 13,
-      "diversity": 3
-    },
-    {
-      "rank": 8,
-      "headline": "Secretary Rubio has a tough time getting officials at G20 on the same page",
-      "summary": "G20 foreign ministers concluded talks in Atlanta without reaching agreement on major issues, reflecting deep divisions among the group's members. Secretary Rubio pushed for consensus while defending Russia's continued participation, though the U.S. and Canada identified potential momentum toward a limited Black Sea ceasefire among some nations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues"
-        },
-        {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-g20-talks-wrap-up-with-no-consensus-on-critical-issues-after-tensions/"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Hong Kong",
-        "Southeast Asia",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.2907,
-      "mentions": 7,
-      "diversity": 4
-    },
-    {
-      "rank": 9,
-      "headline": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-      "summary": "Prime Minister Tusk is moving forward with reforms to Poland's constitutional court despite public opposition and escalating tensions with President Nawrocki. The dispute centers on how the court's authority should be structured and carries implications for Poland's political landscape heading toward the 2027 elections.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/current-crisis-could-help-pm-tusk-in-2027-polls-but-it-may-also-backfire-both-against-him-and-president-nawrocki-polish-expert-krzysztof-marcin-zalewski/article71649669.ece"
+          "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss"
         },
         {
           "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/europe/poland-s-pm-vows-support-for-tribunal-amid-court-crisis-20261101-p61adh.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "link": "https://www.smh.com.au/world/accused-child-killer-lindsay-clancy-back-in-us-court-20261103-p61ark.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
       "source_count": 5,
       "regions": [
         "Australia",
-        "India",
-        "North Africa",
-        "UK",
-        "Ukraine"
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.2371,
+      "score": 0.4997,
       "mentions": 5,
-      "diversity": 4
+      "diversity": 5
     },
     {
-      "rank": 10,
-      "headline": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
-      "summary": "Bulgarian voters choose between two candidates in a presidential runoff following a closely contested first round that reflected deep national divisions. The election occurs amid ongoing geopolitical tension from the Ukraine war, which has shaped debate over Bulgaria's foreign policy alignment and NATO commitments.",
+      "rank": 9,
+      "headline": "French pupils resume school blockades as country braces for more protests",
+      "summary": "French students have resumed blockading schools as the country prepares for continued demonstrations following a break period. The renewed protests appear smaller in scale than earlier actions, suggesting either reduced participation or a shift in protest tactics as students return to campus.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
         },
         {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/bulgaria-votes-in-presidential-runoff-after-tight-first-round-6510741"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round"
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638242/french-school-protests-resume-on-smaller-scale-as-students-return-from-break"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "regions": [
-        "Germany",
+        "Canada",
+        "Hong Kong",
+        "Pakistan",
         "Southeast Asia",
         "Thailand",
-        "Ukraine"
+        "UK"
       ],
-      "score": 0.2074,
-      "mentions": 5,
-      "diversity": 2
+      "score": 0.4633,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "China steps up Middle East diplomacy with Iran and Oman meetings",
+      "summary": "China's foreign minister is conducting high-level meetings with Iran and Oman to promote dialogue as a path toward regional stability in the Middle East. These diplomatic efforts underscore China's positioning as a mediator in the region at a time of heightened tensions involving multiple powers.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3373010/talks-are-only-way-out-china-tells-iran-us-threat-hangs-over-middle-east"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.4406,
+      "mentions": 7,
+      "diversity": 5
     }
   ]
 }

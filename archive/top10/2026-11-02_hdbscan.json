@@ -1,0 +1,369 @@
+{
+  "published_at": "2026-11-02T20:12:06.259156+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "After Israel’s election: What’s next?",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "After Israel’s election: What’s next?"
+        },
+        {
+          "headline": "How Israel is at the heart of Haley Stevens’s extraordinary reversal"
+        },
+        {
+          "headline": "Israel’s intent is to prevent Palestinians from existing as a group: Justice Muralidhar"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/opinion/op-ed/an-anti-climactic-outcome-in-the-knesset-elections/article71658190.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Australia",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.5656,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "China steps up Middle East diplomacy with Iran and Oman meetings",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "China steps up Middle East diplomacy with Iran and Oman meetings"
+        },
+        {
+          "headline": "Real Madrid matches still banned in China despite Mbappe apology"
+        },
+        {
+          "headline": "How Xi Jinping and Communist Party elders shaped key plenum document addressing wrongdoing"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3373010/talks-are-only-way-out-china-tells-iran-us-threat-hangs-over-middle-east"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4516,
+      "mentions": 17,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8559,
+      "mentions": 19,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Shop freezers in seven European countries hit by cyber-attack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7015,
+      "mentions": 14,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-ready-to-reopen-hormuz-in-two-days-if-us-agrees-to-demands/article71657916.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6713,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/02/us-midterms-democrat-haley-stevens-backs-republican-mike-rogers-in-michigan-senate-race"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6669,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6415,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/accused-child-killer-lindsay-clancy-back-in-us-court-20261103-p61ark.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.606,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "French pupils resume school blockades as country braces for more protests",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638242/french-school-protests-resume-on-smaller-scale-as-students-return-from-break"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Indonesia",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.571,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/stay-calm-ukraine-says-public-air-raid-alert-app-sent-false-alerts-after-being-hacked-20261102-p61amq.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Germany",
+        "North Africa",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5079,
+      "mentions": 6,
+      "diversity": 4
+    }
+  ]
+}
