@@ -1,0 +1,372 @@
+{
+  "published_at": "2026-11-03T17:44:32.182950+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US strikes Iranian island ahead of midterm elections",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US strikes Iranian island ahead of midterm elections"
+        },
+        {
+          "headline": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War"
+        },
+        {
+          "headline": "Iran and U.S. still far from deal to end war, official says, as Qatar pushes mediation"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Global",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7278,
+      "mentions": 24,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "Kremlin confirms Ukraine-U.S. talks in Abu Dhabi on November 10-11",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Kremlin confirms Ukraine-U.S. talks in Abu Dhabi on November 10-11"
+        },
+        {
+          "headline": "Ukraine's Zelenskiy visits Germany for show of support ahead of peace talks"
+        },
+        {
+          "headline": "Ukraine probes clashes at military recruitment dorm"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/kremlin-confirms-ukraine-us-talks-in-abu-dhabi-on-november-10-11/article71660788.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ukraine-russia-war-peace-talks-abu-dhabi/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "India",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4086,
+      "mentions": 17,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7767,
+      "mentions": 32,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/business/binances-recovery-from-the-biggest-crypto-hack-in-history-explained/article71659637.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Brazil",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Japan",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.658,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Trump says US will stop giving Israel aid after year-end",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6352,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Bomb threats target seven flights across Europe",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6137,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5982,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "How sporting events are being impacted by Middle East conflict",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5753,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Spanish footballer dies after collision with goalkeeper during match",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5455,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3373175/israel-arab-lawmakers-key-unseating-netanyahu-amid-divided-opposition"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.5253,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}

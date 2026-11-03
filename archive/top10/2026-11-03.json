@@ -1,0 +1,365 @@
+{
+  "published_at": "2026-11-03T17:43:27.772153+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "How the US midterm results could unfold - as millions of Americans head to the polls",
+      "summary": "Millions of Americans vote in midterm elections that will determine control of Congress and serve as a referendum on the current administration's performance. Key races in the Senate and House could reshape the political landscape and influence the direction of policy over the next two years.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting"
+        }
+      ],
+      "source_count": 24,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "New Zealand",
+        "North Africa",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7525,
+      "mentions": 53,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "summary": "Russian strikes on civilian infrastructure in Dnipro have killed dozens of people, including attacks on a humanitarian aid centre, hospice, and hospital that left dozens more injured or missing. Ukrainian President Zelenskyy is pursuing diplomatic channels through Abu Dhabi talks, seeking a path toward direct negotiations with Putin.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6556,
+      "mentions": 55,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "US strikes Iranian island ahead of midterm elections",
+      "summary": "The United States has conducted military strikes on Iran's Qeshm Island, which U.S. officials characterize as a defensive action rather than an escalation. The strikes occur as diplomatic channels remain open, with Qatar expressing continued hope for negotiations between the two countries.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5881,
+      "mentions": 23,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Bomb threats target seven flights across Europe",
+      "summary": "Seven flights across European airspace receive bomb threats, prompting immediate diversions and emergency protocols at multiple airports. Authorities investigate each threat while confirming they are unfounded, though the coordinated nature of the incidents suggests they may be hoaxes rather than credible dangers.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5294,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "summary": "Hackers have targeted refrigeration systems used by UK meat suppliers and European supermarkets, disrupting cold storage that keeps perishable products safe. The attack has prompted retailers across the region to identify and patch security vulnerabilities in their freezer infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.527,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Trump says US will stop giving Israel aid after year-end",
+      "summary": "Donald Trump has announced that the United States will terminate its military aid package to Israel by year-end, citing that the country no longer requires financial support. Israel's finance ministry was reportedly caught off guard by the announcement, suggesting the decision was made without prior coordination with Israeli officials.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.524,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "summary": "King Charles describes Britain's role in the slave trade as a \"shameful chapter\" while addressing Commonwealth leaders, acknowledging the historical harm without offering a formal apology. The statement reflects his stated commitment to addressing slavery's legacy with directness, though stops short of the reparations or explicit apologies some nations and advocates have sought.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/europe/fills-my-heart-with-horror-king-charles-expresses-personal-sorrow-over-slavery-20261104-p61b4v.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4476,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+      "summary": "Israeli opposition parties are coalescing around former military chief Gadi Eisenkot as a potential alternative to Prime Minister Netanyahu, with support from diverse factions including Arab lawmakers and Naftali Bennett's group. The political realignment reflects deep fractures within Israel's governing coalition and among opposition blocs, leaving Netanyahu's continued leadership uncertain as negotiations advance toward forming a new government.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3373175/israel-arab-lawmakers-key-unseating-netanyahu-amid-divided-opposition"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.4297,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Spanish footballer dies after collision with goalkeeper during match",
+      "summary": "A 30-year-old Spanish footballer, Jesús De Miguel, suffered cardiac arrest and died following a collision with a goalkeeper during a match in Tenerife. Spanish police have opened a manslaughter inquiry to determine whether the on-pitch clash directly caused his death.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373177/spanish-police-open-manslaughter-inquiry-after-footballer-dies-pitch-clash"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "UK"
+      ],
+      "score": 0.4221,
+      "mentions": 4,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Saudi Pro League postpones matches after Asian Cup rescheduling",
+      "summary": "The Saudi Pro League has postponed its matches following the rescheduling of the Asian Cup, which was moved from January to December due to security concerns related to regional conflict. The fixture changes affect the domestic league's schedule as it adjusts to accommodate the continent's premier football tournament.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-03/asian-cup-postponed-due-to-unrest-in-saudi-arabia/107342724"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Middle East"
+      ],
+      "score": 0.4221,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
