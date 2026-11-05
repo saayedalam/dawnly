@@ -1,0 +1,407 @@
+{
+  "published_at": "2026-11-05T18:02:43.721597+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US elections 2026 live: Democrats flip four more House seats as Republicans look for blame in brutal midterms losses",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US elections 2026 live: Democrats flip four more House seats as Republicans look for blame in brutal midterms losses"
+        },
+        {
+          "headline": "The next US presidential race has begun"
+        },
+        {
+          "headline": "Democrats vow to rein in Donald Trump as he shows off White House ballroom"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "New Zealand",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7649,
+      "mentions": 26,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "U.S. VP Vance says Iran war was the reason Republicans lost midterms",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "U.S. VP Vance says Iran war was the reason Republicans lost midterms"
+        },
+        {
+          "headline": "Iran says 5 tankers catch fire after striking naval mines in Strait of Hormuz"
+        },
+        {
+          "headline": "Iran signals satisfaction, skepticism after US midterm vote"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-vp-vance-says-iran-war-was-the-reason-republicans-lost-midterms/article71667003.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/israels-un-ambassador-rejects-vances-claim-iran-war-was-behind-midterm-losses"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/vance-believes-america-s-future-is-maga-and-the-future-of-maga-is-him-20261105-p61bmr.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5592,
+      "mentions": 23,
+      "diversity": 16
+    },
+    {
+      "rank": 3,
+      "headline": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Joint List says it will back Eisenkot to form Israel’s next government"
+        },
+        {
+          "headline": "Israeli Prime Minister Netanyahu's position weakens as ultra-Orthodox party withholds support"
+        },
+        {
+          "headline": "The midterms were a thumping rebuke of the US-Israel relationship"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-as-religious-party-drops-netanyahu/article71669957.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-led-joint-list-says-it-will-back-eisenkot-form-israels-next"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Global",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4318,
+      "mentions": 16,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "How Trump’s weakened grip on Congress complicates talks with China",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "How Trump’s weakened grip on Congress complicates talks with China"
+        },
+        {
+          "headline": "China ready to expand US agricultural imports if Board of Trade tariff cuts take effect"
+        },
+        {
+          "headline": "China’s fifth plenum resolution"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3373340/how-trumps-weakened-grip-congress-complicates-talks-china"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/what-the-us-midterms-mean-for-ties-with-china/article71668454.ece"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/11/the-us-midterm-elections-views-from-china/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Asia-Pacific",
+        "Hong Kong",
+        "India",
+        "Japan"
+      ],
+      "score": 0.2601,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Watch: Met Police release Brand interview footage",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.925,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7383,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.7267,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7217,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7121,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 10,
+      "headline": "Nasdaq heading for worst day in 18 months as Wall Street sustains widespread losses",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Global",
+        "Japan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6017,
+      "mentions": 10,
+      "diversity": 5
+    }
+  ]
+}

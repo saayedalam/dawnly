@@ -1,86 +1,48 @@
 {
-  "published_at": "2026-11-04T17:56:55.121561+00:00",
+  "published_at": "2026-11-05T18:01:33.748411+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Ukraine navigates military conflict amid European integration push",
-      "summary": "Ukraine has released bodycam footage documenting a Russian double-tap bombing attack, a tactic where a second strike targets first responders arriving at the initial strike site. The incident appears connected to attacks across multiple Ukrainian locations that have killed dozens, including strikes on a school and an aid distribution site in recent days.",
+      "headline": "Political realignment reshapes US landscape ahead",
+      "summary": "JD Vance publishes a critical analysis of the 2024 election results that attributes Republican losses partly to unpopular foreign interventions, positioning himself as an alternative voice within the party ahead of potential 2028 ambitions. His approach signals a broader Republican reckoning over foreign policy strategy and voter priorities as the party evaluates what drove electoral setbacks.",
       "is_grouped": true,
       "angle_count": 3,
       "angles": [
         {
-          "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "summary": "Ukraine has released bodycam footage documenting a Russian double-tap bombing attack, a tactic where a second strike targets first responders arriving at the initial strike site. The incident appears connected to attacks across multiple Ukrainian locations that have killed dozens, including strikes on a school and an aid distribution site in recent days."
+          "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "summary": "JD Vance publishes a critical analysis of the 2024 election results that attributes Republican losses partly to unpopular foreign interventions, positioning himself as an alternative voice within the party ahead of potential 2028 ambitions. His approach signals a broader Republican reckoning over foreign policy strategy and voter priorities as the party evaluates what drove electoral setbacks."
         },
         {
-          "headline": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-          "summary": "Ukrainian President Zelensky has awarded Melania Trump the Order of Princess Olha, Ukraine's highest civilian honor, recognizing her advocacy for Ukrainian causes. The award comes as Ukraine announces a ceasefire agreement in Oleshky, a southern city that has faced intense conflict throughout the war."
+          "headline": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+          "summary": "Tech billionaires who invested heavily in Republican midterm candidates saw their spending fail to shift electoral outcomes as Democrats performed better than expected. Their political influence now faces scrutiny, raising questions about the effectiveness of billionaire-backed campaigns and their future strategy in shaping U.S. politics."
         },
         {
-          "headline": "Ukraine needs to accelerate reforms to meet its EU accession goal, bloc’s executive says",
-          "summary": "The European Commission has called on Ukraine to speed up its reform efforts to achieve EU membership, as the accession process requires substantial institutional and legal changes across multiple policy areas. Ukraine faces mounting pressure to keep pace with rival candidates like Moldova, which has gained ground in negotiations despite facing sustained Russian interference campaigns."
+          "headline": "The next US presidential race has begun",
+          "summary": "Democrats begin positioning candidates for the 2028 presidential election following their success in recent midterm contests. The race unfolds without an incumbent running, creating an unusually open field of potential contenders within the party."
         }
       ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections"
         }
       ],
-      "source_count": 11,
+      "source_count": 29,
       "regions": [
         "Africa",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "India",
-        "Middle East",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5432,
-      "mentions": 31,
-      "diversity": 9
-    },
-    {
-      "rank": 2,
-      "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "summary": "Republicans attributed their midterm election losses to former President Trump's influence on candidate selection and campaign strategy. The party's poor performance in traditionally conservative districts has prompted internal debate over Trump's continued role in shaping Republican politics heading into future elections.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war"
-        }
-      ],
-      "source_count": 36,
-      "regions": [
-        "Africa",
+        "Asia-Pacific",
         "Australia",
-        "Brazil",
         "Canada",
         "Central Asia & Eastern Europe",
-        "Europe",
         "Germany",
         "Global",
         "Hong Kong",
@@ -92,297 +54,335 @@
         "New Zealand",
         "North Africa",
         "Pakistan",
-        "Russia",
         "South Africa",
         "South America",
         "Southeast Asia",
         "Thailand",
         "UK",
         "US",
-        "Ukraine",
-        "West Africa"
+        "Ukraine"
       ],
-      "score": 0.7594,
-      "mentions": 156,
-      "diversity": 10
+      "score": 0.7556,
+      "mentions": 85,
+      "diversity": 23
     },
     {
-      "rank": 3,
-      "headline": "Israel's president begins consultations with parties after election deadlock",
-      "summary": "Israel's president has begun meeting with political parties to explore government formation options following an election that produced no clear majority for any single bloc. The consultations will determine which party leader receives a mandate to form a coalition government, a process that could take weeks as parties negotiate potential alliances.",
+      "rank": 2,
+      "headline": "Watch: Met Police release Brand interview footage",
+      "summary": "The Metropolitan Police have released interview footage from their investigation into Russell Brand, who faces multiple rape and sexual assault allegations. The release of this material follows court proceedings and represents part of the ongoing legal process examining the accusations against the public figure.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud"
+          "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault"
         }
       ],
       "source_count": 12,
       "regions": [
+        "Australia",
         "Canada",
-        "Europe",
+        "Germany",
         "Hong Kong",
         "India",
         "Middle East",
-        "Pakistan",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.5797,
-      "mentions": 21,
-      "diversity": 6
+      "score": 0.718,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "summary": "Joshua Wong receives a 10-year prison sentence under Hong Kong's national security law, which authorities apply to cases involving foreign contact and advocacy for democratic change. The conviction reflects ongoing tensions between Hong Kong's legal framework, enacted after 2019 pro-democracy protests, and international concerns about judicial independence and political expression.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5637,
+      "mentions": 11,
+      "diversity": 5
     },
     {
       "rank": 4,
-      "headline": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
-      "summary": "Abdul El-Sayed, a Democrat and Muslim, won Michigan's U.S. Senate seat in an election that saw broad Democratic gains across the state. His victory is part of a broader expansion of Muslim representation in Congress, with at least seven Muslims elected nationally in the midterm elections.",
+      "headline": "Photos: Thousands rally in France over rising costs and economic struggles",
+      "summary": "French workers and citizens demonstrate across multiple cities to protest inflation, stagnant wages, and the rising cost of living. The rallies reflect broader economic discontent in France, with some gatherings drawing hundreds of thousands of participants and resulting in confrontations with police.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss"
+          "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 11,
       "regions": [
-        "Australia",
+        "Africa",
+        "Brazil",
         "Canada",
         "Europe",
+        "Germany",
         "India",
-        "Indonesia",
         "Middle East",
-        "Pakistan",
         "South Africa",
         "Southeast Asia",
-        "US"
+        "Thailand",
+        "UK"
       ],
-      "score": 0.4876,
+      "score": 0.5516,
       "mentions": 14,
       "diversity": 7
     },
     {
       "rank": 5,
-      "headline": "Spanish Transport Minister resigns over train crash disasters",
-      "summary": "Spain's Transport Minister has resigned following multiple train disasters that have eroded public trust in the country's rail infrastructure. The resignation prompts a cabinet reshuffle as authorities address systemic safety concerns within the transportation system.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/spains-transport-minister-offers-resignation-after-deadly-train-crash/article71663710.ece"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "India",
-        "Middle East",
-        "South America",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.4572,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "ANC faces anger over poor services as South Africans vote in local elections",
-      "summary": "South Africans are voting in local elections where the ANC faces public frustration over inadequate electricity supply, water systems, and waste management in municipalities across the country. The result could force the ruling party into coalition agreements rather than governing alone, marking a significant shift in South African politics.",
+      "headline": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "summary": "At least 22 commercial flights across Europe have been diverted following simultaneous bomb threats, prompting emergency responses from multiple aviation authorities. Security officials are investigating whether the coordinated nature of the threats represents a deliberate disruption campaign targeting air travel infrastructure.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/south-africa-votes-as-anc-faces-further-losses-and-coalition-rule-looms/article71667127.ece"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Africa",
-        "Germany",
-        "India",
-        "South Africa",
-        "UK"
-      ],
-      "score": 0.4306,
-      "mentions": 14,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "US markets rise as Democrats sweep midterm elections",
-      "summary": "U.S. stock markets gain ground following the Democratic Party's gains in midterm elections, which result in the party retaining or expanding its congressional representation. Investors often respond positively to reduced political uncertainty and shifts in power that affect regulatory and fiscal policy direction.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Global",
-        "Japan",
-        "Middle East",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.4285,
-      "mentions": 8,
-      "diversity": 6
-    },
-    {
-      "rank": 8,
-      "headline": "Palestine Action activists used similar tactics to the suffragettes, court told",
-      "summary": "Palestine Action, a protest group challenging a UK government ban, has drawn a parallel to historical suffragette tactics during a Supreme Court hearing about the legality of the prohibition. The case addresses whether the ban on the organization's activities restricts protest rights, as activists were arrested outside the court during the proceedings.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2638655/uk-ban-on-palestine-action-is-challenged-at-top-court-some-protesters-arrested"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.4209,
-      "mentions": 7,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Indonesia deploys troops to Jakarta after wiretapping allegations",
-      "summary": "Indonesian President Prabowo has dismissed his chief of staff and deployed troops to Jakarta following allegations that the official illegally wiretapped the president and other government figures. The incident has strained Prabowo's political alliance with his predecessor Widodo, whose administration is now under scrutiny for the surveillance operation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/politics/article/3373235/indonesias-prabowo-sacks-chief-staff-wiretap-scandal-tests-alliance-widodo"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/indonesia-arrests-ex-police-chief-over-alleged-illegal-wiretapping-of-president-officials/article71664234.ece"
+          "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "regions": [
         "Australia",
+        "Canada",
         "Germany",
         "Hong Kong",
         "India",
-        "Indonesia",
-        "Japan",
         "Pakistan",
-        "Thailand"
+        "Southeast Asia",
+        "Thailand",
+        "UK"
       ],
-      "score": 0.4056,
-      "mentions": 9,
-      "diversity": 5
+      "score": 0.5494,
+      "mentions": 11,
+      "diversity": 6
     },
     {
-      "rank": 10,
-      "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "summary": "Hackers have gained unauthorized access to French blood storage systems, disrupting operations at facilities that manage critical blood supplies for medical use. The incident occurs as part of a broader cyberattack affecting European infrastructure, including supermarket networks, though the identity and motivations of those responsible remain unclear.",
+      "rank": 6,
+      "headline": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+      "summary": "Cristiano Ronaldo has announced his retirement from international football after leading Portugal for nearly two decades and becoming the sport's all-time leading goal scorer in international play. His departure marks the end of an era for Portuguese football, during which he guided the national team to multiple major tournament finals and helped establish the country as a consistent European power.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss"
         },
         {
-          "name": "The Globe and Mail",
-          "link": "https://www.theglobeandmail.com/world/article-french-blood-banks-cyberattack-european-supermarkets/"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.5199,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Team-mates carry coffin at funeral of Tenerife striker Jesus de Miguel",
+      "summary": "Teammates of Tenerife striker Jesús de Miguel carried his coffin at his funeral following his death from injuries sustained in an on-pitch collision during a match in Spain. The incident has prompted reflection within the football community, with the goalkeeper involved releasing a statement about the tragedy.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-05/jesus-owono-makes-first-statement-after-jesus-de-miguel-death/107348264"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5098,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Paraguay President Pena resigns in wake of bank collapse",
+      "summary": "Paraguay's President Santiago Peña resigns following the collapse of Ueno Bank, a major financial institution whose failure destabilized the country's banking sector. The resignation removes him before an expected impeachment proceeding, leaving Paraguay's government in political upheaval during an economic crisis.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3373458/paraguays-president-pena-resigns-under-mounting-pressure-bank-collapse"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.4405,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "summary": "The Arab-led Joint List has announced support for Gadi Eisenkot, a former Israeli military chief, to form the country's next government. This backing comes as a religious party withdraws its support from Benjamin Netanyahu, shifting the parliamentary balance toward an alternative coalition.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-as-religious-party-drops-netanyahu/article71669957.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-led-joint-list-says-it-will-back-eisenkot-form-israels-next"
         }
       ],
       "source_count": 4,
       "regions": [
-        "Canada",
-        "Southeast Asia",
-        "UK"
+        "India",
+        "Middle East",
+        "Thailand"
       ],
-      "score": 0.3984,
-      "mentions": 4,
+      "score": 0.3648,
+      "mentions": 5,
       "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+      "summary": "Melania Trump hosts Ukrainian and Russian officials at the White House to discuss peace efforts, emphasizing humanitarian concerns over continued conflict. The event marks an unusual diplomatic role for the First Lady, who has stepped into discussions around a potential ceasefire agreement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3373459/melania-trump-hosts-ukraine-russia-officials-calls-more-enduring-truce"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.349,
+      "mentions": 9,
+      "diversity": 4
     }
   ]
 }

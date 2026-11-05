@@ -1,0 +1,388 @@
+{
+  "published_at": "2026-11-05T18:01:33.748411+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Political realignment reshapes US landscape ahead",
+      "summary": "JD Vance publishes a critical analysis of the 2024 election results that attributes Republican losses partly to unpopular foreign interventions, positioning himself as an alternative voice within the party ahead of potential 2028 ambitions. His approach signals a broader Republican reckoning over foreign policy strategy and voter priorities as the party evaluates what drove electoral setbacks.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "summary": "JD Vance publishes a critical analysis of the 2024 election results that attributes Republican losses partly to unpopular foreign interventions, positioning himself as an alternative voice within the party ahead of potential 2028 ambitions. His approach signals a broader Republican reckoning over foreign policy strategy and voter priorities as the party evaluates what drove electoral setbacks."
+        },
+        {
+          "headline": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+          "summary": "Tech billionaires who invested heavily in Republican midterm candidates saw their spending fail to shift electoral outcomes as Democrats performed better than expected. Their political influence now faces scrutiny, raising questions about the effectiveness of billionaire-backed campaigns and their future strategy in shaping U.S. politics."
+        },
+        {
+          "headline": "The next US presidential race has begun",
+          "summary": "Democrats begin positioning candidates for the 2028 presidential election following their success in recent midterm contests. The race unfolds without an incumbent running, creating an unusually open field of potential contenders within the party."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections"
+        }
+      ],
+      "source_count": 29,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Mexico",
+        "Middle East",
+        "New Zealand",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7556,
+      "mentions": 85,
+      "diversity": 23
+    },
+    {
+      "rank": 2,
+      "headline": "Watch: Met Police release Brand interview footage",
+      "summary": "The Metropolitan Police have released interview footage from their investigation into Russell Brand, who faces multiple rape and sexual assault allegations. The release of this material follows court proceedings and represents part of the ongoing legal process examining the accusations against the public figure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.718,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "summary": "Joshua Wong receives a 10-year prison sentence under Hong Kong's national security law, which authorities apply to cases involving foreign contact and advocacy for democratic change. The conviction reflects ongoing tensions between Hong Kong's legal framework, enacted after 2019 pro-democracy protests, and international concerns about judicial independence and political expression.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.5637,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Photos: Thousands rally in France over rising costs and economic struggles",
+      "summary": "French workers and citizens demonstrate across multiple cities to protest inflation, stagnant wages, and the rising cost of living. The rallies reflect broader economic discontent in France, with some gatherings drawing hundreds of thousands of participants and resulting in confrontations with police.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Brazil",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5516,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "summary": "At least 22 commercial flights across Europe have been diverted following simultaneous bomb threats, prompting emergency responses from multiple aviation authorities. Security officials are investigating whether the coordinated nature of the threats represents a deliberate disruption campaign targeting air travel infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5494,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+      "summary": "Cristiano Ronaldo has announced his retirement from international football after leading Portugal for nearly two decades and becoming the sport's all-time leading goal scorer in international play. His departure marks the end of an era for Portuguese football, during which he guided the national team to multiple major tournament finals and helped establish the country as a consistent European power.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.5199,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Team-mates carry coffin at funeral of Tenerife striker Jesus de Miguel",
+      "summary": "Teammates of Tenerife striker Jesús de Miguel carried his coffin at his funeral following his death from injuries sustained in an on-pitch collision during a match in Spain. The incident has prompted reflection within the football community, with the goalkeeper involved releasing a statement about the tragedy.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-05/jesus-owono-makes-first-statement-after-jesus-de-miguel-death/107348264"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5098,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Paraguay President Pena resigns in wake of bank collapse",
+      "summary": "Paraguay's President Santiago Peña resigns following the collapse of Ueno Bank, a major financial institution whose failure destabilized the country's banking sector. The resignation removes him before an expected impeachment proceeding, leaving Paraguay's government in political upheaval during an economic crisis.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3373458/paraguays-president-pena-resigns-under-mounting-pressure-bank-collapse"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.4405,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "summary": "The Arab-led Joint List has announced support for Gadi Eisenkot, a former Israeli military chief, to form the country's next government. This backing comes as a religious party withdraws its support from Benjamin Netanyahu, shifting the parliamentary balance toward an alternative coalition.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-as-religious-party-drops-netanyahu/article71669957.ece"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-led-joint-list-says-it-will-back-eisenkot-form-israels-next"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.3648,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+      "summary": "Melania Trump hosts Ukrainian and Russian officials at the White House to discuss peace efforts, emphasizing humanitarian concerns over continued conflict. The event marks an unusual diplomatic role for the First Lady, who has stepped into discussions around a potential ceasefire agreement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3373459/melania-trump-hosts-ukraine-russia-officials-calls-more-enduring-truce"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Southeast Asia",
+        "Thailand",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.349,
+      "mentions": 9,
+      "diversity": 4
+    }
+  ]
+}
