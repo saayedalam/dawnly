@@ -1,0 +1,363 @@
+{
+  "published_at": "2026-11-06T17:19:52.305186+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "New wave of bomb threats hit European airlines",
+      "summary": "Multiple airlines across Europe receive bomb threats within a short timeframe, forcing flight diversions and evacuations while authorities investigate whether the incidents form a coordinated campaign. The threats extend beyond aviation to include broadcasters and air traffic control facilities, creating widespread disruption across the continent's transportation and communications infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8121,
+      "mentions": 31,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+      "summary": "Paraguay's Congress resumes impeachment proceedings against President Santiago Peña amid a deepening banking crisis that has frozen millions of citizens' savings. Peña's resignation follows mounting pressure from the financial collapse, though the formal impeachment process continues despite his departure from office.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7065,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Kenyan court sentences starvation cult leader to 200 years",
+      "summary": "Paul Mackenzie, leader of a doomsday cult in Kenya, receives a 200-year prison sentence for orchestrating the starvation deaths of hundreds of followers, predominantly children. The conviction follows investigations into the sect's practices of fasting and isolation, which resulted in one of Kenya's most significant criminal cases involving mass casualties.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6861,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "AI stocks climb after trillions wiped from market values",
+      "summary": "Global stock markets have declined sharply amid concerns that artificial intelligence investments may not deliver promised returns, prompting investors to reassess technology sector valuations. AI-focused companies have nevertheless gained ground during this broader sell-off, suggesting some investors view the pullback as an opportunity to acquire shares at lower prices.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6063,
+      "mentions": 20,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary": "A federal judge has temporarily halted construction of a large arch project that received approval from a federal agency, ordering a 14-day delay on work beginning. The ruling allows time for legal challenges to proceed before building activities commence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5956,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
+      "summary": "The Metropolitan Police commissioner indicates that additional allegations against convicted sex offender Russell Brand may emerge as investigations continue. Brand's case has prompted calls for systemic change in how the entertainment industry addresses misconduct, with officials viewing the conviction as a catalyst for broader cultural reckoning.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-police-expect-more-cases-against-celebrity-sex-convict-russell-brand/article71675800.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Europe",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5855,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "summary": "Tesla is reducing Cybertruck production as sales fall short of expectations, with Elon Musk shifting the company's focus toward robotics and autonomous vehicle development. The decision marks a significant pivot for a vehicle that consumed years of development but failed to achieve commercial momentum in the market.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5396,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Protesters break into Microsoft AI data centre site in Amsterdam",
+      "summary": "Protesters entered a Microsoft artificial intelligence data center construction site in Amsterdam, highlighting growing resistance in Europe to the energy demands and environmental concerns associated with large-scale AI infrastructure. The breach reflects broader activist opposition to tech companies' expansion of computational facilities in densely populated regions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5356,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+      "summary": "I need to clarify: the headlines describe two different people. The first headline refers to Meghan's half-brother, while the other headlines describe her father, Thomas Markle. I'll summarize based on what appears to be the primary story (Thomas Markle's arrest), as it has multiple corroborating sources:\n\nThomas Markle, father of the Duchess of Sussex, faces arrest and charges related to possession of child sexual abuse material. The case involves federal law enforcement investigation into material depicting child exploitation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5284,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 10,
+      "headline": "After cancer surgery, Pope Leo embarks on Latin America trip",
+      "summary": "Pope Leo travels to Latin America weeks after undergoing lung surgery, marking his return to public engagement following the procedure. The 12-day tour begins in Uruguay and represents a significant homecoming for the pontiff to a region central to his pastoral history.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2638955/pope-leo-starts-south-america-homecoming-tour-a-month-after-lung-surgery"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Pakistan",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4584,
+      "mentions": 8,
+      "diversity": 6
+    }
+  ]
+}
