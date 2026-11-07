@@ -1,0 +1,383 @@
+{
+  "published_at": "2026-11-07T16:16:41.034556+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Mediation efforts seek to de-escalate US-Iran nuclear tensions",
+      "summary": "Qatar is proposing a plan that would allow the Strait of Hormuz to reopen in exchange for enhanced international nuclear inspections of Iranian facilities. The proposal emerges amid escalating tensions over the waterway, where recent incidents involving tankers and competing military restrictions have disrupted global shipping routes.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+          "summary": "Qatar is proposing a plan that would allow the Strait of Hormuz to reopen in exchange for enhanced international nuclear inspections of Iranian facilities. The proposal emerges amid escalating tensions over the waterway, where recent incidents involving tankers and competing military restrictions have disrupted global shipping routes."
+        },
+        {
+          "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+          "summary": "The United States has conducted fresh targeted strikes on Iranian military positions on Qeshm Island and near the Strait of Hormuz, marking a continued escalation in recent days. International mediators are simultaneously working to de-escalate tensions while Iran considers diplomatic proposals in response to the strikes."
+        },
+        {
+          "headline": "Iran’s nuclear programme: US offers US$20 million reward for information",
+          "summary": "The United States is offering a $20 million reward for information about Iran's nuclear program, with the possibility of relocation for those who provide credible intelligence. The incentive comes from the US Central Command as tensions persist over Iran's nuclear activities and their regional implications."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639099/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.5235,
+      "mentions": 24,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+      "summary": "Trump has selected Stephen Miller, a longtime immigration hardliner and senior adviser, as his new chief of staff. Miller's appointment signals Trump's intention to pursue aggressive policy changes and consolidate control around figures aligned with his most contentious positions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7667,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "No clear winner after tight New Zealand general election",
+      "summary": "New Zealand's general election produces no outright majority, leaving the outcome dependent on negotiations between parties to form a coalition government. The result creates a period of political uncertainty as party leaders begin discussions that could take weeks to determine the next prime minister and governing arrangement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7293,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "summary": "Paraguay's President Santiago Peña faces house arrest following his impeachment over a banking crisis that has locked roughly 60% of the population out of their accounts. The financial collapse has triggered both an immediate political crisis and widespread economic disruption across the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7132,
+      "mentions": 14,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "Russia conducted drone and missile strikes on Ukraine's energy infrastructure, wounding nine people and causing widespread blackouts and water shortages in Kyiv as winter temperatures drop. The attacks occur shortly before planned trilateral talks, suggesting a pattern of military pressure timed to diplomatic engagement.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6444,
+      "mentions": 23,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "At least five people killed in shooting in Poland’s Krakow",
+      "summary": "A gunman opened fire in a public area of Krakow on Tuesday, killing at least five people and injuring more than a dozen others. Polish police responded to the incident in one of the country's major tourist destinations and city centers.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5458,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "summary": "Pope Leo embarks on a 12-day visit across Uruguay, Argentina, and another South American nation weeks after undergoing lung cancer surgery. The tour signals his continued engagement with the Catholic Church's global priorities, including calls for regional dialogue and reconciliation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "South America",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5352,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "US asks China to uphold Busan trade deal commitments",
+      "summary": "The United States is pressing China to fulfill its obligations under the Busan trade agreement, signaling concerns that commitments may not be met as scheduled. The timing reflects broader uncertainty about US-China trade relations as the American political landscape shifts.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Asia-Pacific",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5314,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "summary": "Airstrikes in Yemen have killed dozens of civilians in separate incidents near the capital Sanaa and in southwestern market areas, according to Houthi accounts. The mounting civilian casualties underscore the humanitarian toll of Yemen's conflict, where years of war have left millions facing food insecurity and limited access to basic services.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/airstrike-kills-22-people-near-yemens-capital-houthi-official-says/article71678473.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5252,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Gaza displacement camps collapse under rainwater",
+      "summary": "Heavy rains are flooding displacement camps across Gaza, damaging tents sheltering tens of thousands of people and causing structural collapses in buildings already weakened by prior bombardment. The deteriorating conditions compound existing hardship for displaced Palestinians seeking shelter in the territory.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639100/two-palestinians-wounded-as-rain-causes-collapse-of-wall-in-israeli-damaged-building-in-gaza"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-minister-health-warns-outbreak-disease-storm-battered-gaza"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.5132,
+      "mentions": 12,
+      "diversity": 4
+    }
+  ]
+}

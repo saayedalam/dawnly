@@ -1,0 +1,383 @@
+{
+  "published_at": "2026-11-07T16:17:35.168761+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran’s nuclear programme: US offers US$20 million reward for information",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "Iran’s nuclear programme: US offers US$20 million reward for information"
+        },
+        {
+          "headline": "US carries out another round of ‘minor’ strikes on Iran, Trump says"
+        },
+        {
+          "headline": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.4759,
+      "mentions": 23,
+      "diversity": 13
+    },
+    {
+      "rank": 2,
+      "headline": "China’s e-bikes boom as fuel prices rise",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "China’s e-bikes boom as fuel prices rise"
+        },
+        {
+          "headline": "US: Giant pandas from China make public debut at Atlanta zoo"
+        },
+        {
+          "headline": "US asks China to uphold Busan trade deal commitments"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/just-like-cars-chinese-motorcycles-out-to-conquer-europe"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3309,
+      "mentions": 11,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8431,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "No clear winner after tight New Zealand general election",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.8011,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7955,
+      "mentions": 16,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "Gaza displacement camps collapse under rainwater",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639100/two-palestinians-wounded-as-rain-causes-collapse-of-wall-in-israeli-damaged-building-in-gaza"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-minister-health-warns-outbreak-disease-storm-battered-gaza"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.6387,
+      "mentions": 16,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6269,
+      "mentions": 21,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/china-opinion/article/3373279/us-and-china-must-join-hands-measure-rising-ai-tide"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Global",
+        "Hong Kong",
+        "Japan",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6258,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 9,
+      "headline": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Hong Kong",
+        "South America",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.6079,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 10,
+      "headline": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/airstrike-kills-22-people-near-yemens-capital-houthi-official-says/article71678473.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5957,
+      "mentions": 9,
+      "diversity": 4
+    }
+  ]
+}
