@@ -1,0 +1,363 @@
+{
+  "published_at": "2026-11-08T16:37:41.657837+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+      "summary": "Israel's president has tasked Gadi Eisenkot, leader of the opposition Yashar party, with forming the country's next government following recent political developments. Eisenkot faces the challenge of building a coalition among fragmented opposition parties that hold competing interests and policy positions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8318,
+      "mentions": 20,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "summary": "A gunman opened fire in Kraków's main market square, killing six people including a British national and wounding several others. Polish authorities have launched a terrorism investigation as the country enters a period of national mourning over the attack.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8042,
+      "mentions": 26,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Could UFC boss Dana White be next White House press secretary?",
+      "summary": "President Trump has offered Dana White, the UFC's long-time president, the position of White House press secretary. White has not yet publicly confirmed whether he will accept the role.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6691,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+      "summary": "The United States is establishing a task force aimed at intercepting Iranian weapons shipments across land, sea, and air routes, targeting both direct Iranian transport and supply lines to regional allies. This escalation follows incidents in the Strait of Hormuz involving tanker fires and alleged blockade breaches, reflecting intensified efforts to constrain Iran's military capabilities and regional influence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5416,
+      "mentions": 17,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "summary": "A train collision in Egypt's Giza province, south of Cairo, has killed four people and injured 88 others. The crash derailed multiple carriages, with footage documenting the extent of the damage at the scene.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/africa/article/3373713/train-collision-egypt-kills-4-injures-88"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5256,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "summary": "Russian military strikes across Ukraine have damaged power infrastructure, leaving hundreds of thousands of people without electricity as winter conditions persist. The attacks appear coordinated with diplomatic pressure, as Ukraine's government suggests Russia is intensifying strikes to strengthen its negotiating position in ongoing talks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-says-russia-ramps-up-strikes-to-pressure-kyiv-at-talks/article71679254.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.5043,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "summary": "New Zealand's 2026 election produces no decisive winner, leaving the country without a clear majority and forcing major parties into complex coalition negotiations. The final composition of parliament remains uncertain as officials count votes over the coming weeks, with both a centre-left and centre-right bloc holding roughly equal support.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-zealanders-wont-know-for-weeks-who-won-election-as-neither-side-secures-clear-victory/article71680680.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/new-zealand-s-knife-edge-election-puts-coalition-talks-in-focus"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "India",
+        "Japan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.449,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "At least 21 dead as small boat sinks off Senegal",
+      "summary": "A small boat capsized off the coast of Senegal, resulting in at least 21 deaths. The incident highlights the continued risks migrants face while attempting to cross maritime routes, often in overcrowded and unseaworthy vessels.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4457,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Houthi attack damages Aramco building in Riyadh’s financial district",
+      "summary": "A Houthi missile attack on Saudi Arabia's capital has damaged an Aramco building in Riyadh's financial district, marking a strike on the kingdom's economic center. The Iranian-aligned group claims to have simultaneously targeted the airport and oil infrastructure, demonstrating an ability to reach protected facilities deep within Saudi territory.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/riyadh-financial-district-targeted-in-missile-attack-aramco-tower-damaged-witnesses/article71680790.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639264/loud-booms-heard-in-saudi-capital-riyadh-after-early-warning-alert-issued"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4338,
+      "mentions": 15,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "South Africa’s ANC suffers setback in local elections",
+      "summary": "South Africa's African National Congress receives its weakest electoral performance in local elections, losing control of several major metropolitan areas. The result forces the party into coalition negotiations to maintain governance in key cities across the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.3695,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}

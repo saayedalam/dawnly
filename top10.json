@@ -1,164 +1,29 @@
 {
-  "published_at": "2026-11-07T16:16:41.034556+00:00",
+  "published_at": "2026-11-08T16:37:41.657837+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Mediation efforts seek to de-escalate US-Iran nuclear tensions",
-      "summary": "Qatar is proposing a plan that would allow the Strait of Hormuz to reopen in exchange for enhanced international nuclear inspections of Iranian facilities. The proposal emerges amid escalating tensions over the waterway, where recent incidents involving tankers and competing military restrictions have disrupted global shipping routes.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-          "summary": "Qatar is proposing a plan that would allow the Strait of Hormuz to reopen in exchange for enhanced international nuclear inspections of Iranian facilities. The proposal emerges amid escalating tensions over the waterway, where recent incidents involving tankers and competing military restrictions have disrupted global shipping routes."
-        },
-        {
-          "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-          "summary": "The United States has conducted fresh targeted strikes on Iranian military positions on Qeshm Island and near the Strait of Hormuz, marking a continued escalation in recent days. International mediators are simultaneously working to de-escalate tensions while Iran considers diplomatic proposals in response to the strikes."
-        },
-        {
-          "headline": "Iran’s nuclear programme: US offers US$20 million reward for information",
-          "summary": "The United States is offering a $20 million reward for information about Iran's nuclear program, with the possibility of relocation for those who provide credible intelligence. The incentive comes from the US Central Command as tensions persist over Iran's nuclear activities and their regional implications."
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2639099/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "West Africa"
-      ],
-      "score": 0.5235,
-      "mentions": 24,
-      "diversity": 11
-    },
-    {
-      "rank": 2,
-      "headline": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-      "summary": "Trump has selected Stephen Miller, a longtime immigration hardliner and senior adviser, as his new chief of staff. Miller's appointment signals Trump's intention to pursue aggressive policy changes and consolidate control around figures aligned with his most contentious positions.",
+      "headline": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+      "summary": "Israel's president has tasked Gadi Eisenkot, leader of the opposition Yashar party, with forming the country's next government following recent political developments. Eisenkot faces the challenge of building a coalition among fragmented opposition parties that hold competing interests and policy positions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+          "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government"
         }
       ],
-      "source_count": 16,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.7667,
-      "mentions": 21,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "No clear winner after tight New Zealand general election",
-      "summary": "New Zealand's general election produces no outright majority, leaving the outcome dependent on negotiations between parties to form a coalition government. The result creates a period of political uncertainty as party leaders begin discussions that could take weeks to determine the next prime minister and governing arrangement.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.7293,
-      "mentions": 16,
-      "diversity": 7
-    },
-    {
-      "rank": 4,
-      "headline": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-      "summary": "Paraguay's President Santiago Peña faces house arrest following his impeachment over a banking crisis that has locked roughly 60% of the population out of their accounts. The financial collapse has triggered both an immediate political crisis and widespread economic disruption across the country.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest"
-        }
-      ],
-      "source_count": 11,
+      "source_count": 13,
       "regions": [
         "Africa",
         "Australia",
@@ -167,216 +32,331 @@
         "Germany",
         "Hong Kong",
         "India",
-        "South America",
+        "Middle East",
         "Southeast Asia",
-        "UK"
+        "Thailand",
+        "UK",
+        "US"
       ],
-      "score": 0.7132,
-      "mentions": 14,
+      "score": 0.8318,
+      "mentions": 20,
       "diversity": 8
     },
     {
+      "rank": 2,
+      "headline": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "summary": "A gunman opened fire in Kraków's main market square, killing six people including a British national and wounding several others. Polish authorities have launched a terrorism investigation as the country enters a period of national mourning over the attack.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8042,
+      "mentions": 26,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Could UFC boss Dana White be next White House press secretary?",
+      "summary": "President Trump has offered Dana White, the UFC's long-time president, the position of White House press secretary. White has not yet publicly confirmed whether he will accept the role.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6691,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+      "summary": "The United States is establishing a task force aimed at intercepting Iranian weapons shipments across land, sea, and air routes, targeting both direct Iranian transport and supply lines to regional allies. This escalation follows incidents in the Strait of Hormuz involving tanker fires and alleged blockade breaches, reflecting intensified efforts to constrain Iran's military capabilities and regional influence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5416,
+      "mentions": 17,
+      "diversity": 4
+    },
+    {
       "rank": 5,
-      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "Russia conducted drone and missile strikes on Ukraine's energy infrastructure, wounding nine people and causing widespread blackouts and water shortages in Kyiv as winter temperatures drop. The attacks occur shortly before planned trilateral talks, suggesting a pattern of military pressure timed to diplomatic engagement.",
+      "headline": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "summary": "A train collision in Egypt's Giza province, south of Cairo, has killed four people and injured 88 others. The crash derailed multiple carriages, with footage documenting the extent of the damage at the scene.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Germany",
-        "Middle East",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.6444,
-      "mentions": 23,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "At least five people killed in shooting in Poland’s Krakow",
-      "summary": "A gunman opened fire in a public area of Krakow on Tuesday, killing at least five people and injuring more than a dozen others. Polish police responded to the incident in one of the country's major tourist destinations and city centers.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Australia",
-        "Germany",
-        "Middle East",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5458,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-      "summary": "Pope Leo embarks on a 12-day visit across Uruguay, Argentina, and another South American nation weeks after undergoing lung cancer surgery. The tour signals his continued engagement with the Catholic Church's global priorities, including calls for regional dialogue and reconciliation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery"
+          "link": "https://www.scmp.com/news/world/africa/article/3373713/train-collision-egypt-kills-4-injures-88"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece"
         }
       ],
       "source_count": 7,
       "regions": [
         "Africa",
-        "Germany",
+        "Canada",
+        "Europe",
         "Hong Kong",
-        "South America",
+        "India",
         "Southeast Asia",
-        "US"
+        "UK"
       ],
-      "score": 0.5352,
+      "score": 0.5256,
       "mentions": 8,
       "diversity": 6
     },
     {
-      "rank": 8,
-      "headline": "US asks China to uphold Busan trade deal commitments",
-      "summary": "The United States is pressing China to fulfill its obligations under the Busan trade agreement, signaling concerns that commitments may not be met as scheduled. The timing reflects broader uncertainty about US-China trade relations as the American political landscape shifts.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Asia-Pacific",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5314,
-      "mentions": 14,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "summary": "Airstrikes in Yemen have killed dozens of civilians in separate incidents near the capital Sanaa and in southwestern market areas, according to Houthi accounts. The mounting civilian casualties underscore the humanitarian toll of Yemen's conflict, where years of war have left millions facing food insecurity and limited access to basic services.",
+      "rank": 6,
+      "headline": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "summary": "Russian military strikes across Ukraine have damaged power infrastructure, leaving hundreds of thousands of people without electricity as winter conditions persist. The attacks appear coordinated with diplomatic pressure, as Ukraine's government suggests Russia is intensifying strikes to strengthen its negotiating position in ongoing talks.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/airstrike-kills-22-people-near-yemens-capital-houthi-official-says/article71678473.ece"
+          "link": "https://www.thehindu.com/news/international/ukraine-says-russia-ramps-up-strikes-to-pressure-kyiv-at-talks/article71679254.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.5043,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "summary": "New Zealand's 2026 election produces no decisive winner, leaving the country without a clear majority and forcing major parties into complex coalition negotiations. The final composition of parliament remains uncertain as officials count votes over the coming weeks, with both a centre-left and centre-right bloc holding roughly equal support.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-zealanders-wont-know-for-weeks-who-won-election-as-neither-side-secures-clear-victory/article71680680.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/new-zealand-s-knife-edge-election-puts-coalition-talks-in-focus"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Canada",
-        "Germany",
+        "Australia",
         "India",
-        "Middle East"
+        "Japan",
+        "Thailand",
+        "UK"
       ],
-      "score": 0.5252,
-      "mentions": 8,
-      "diversity": 4
+      "score": 0.449,
+      "mentions": 6,
+      "diversity": 5
     },
     {
-      "rank": 10,
-      "headline": "Gaza displacement camps collapse under rainwater",
-      "summary": "Heavy rains are flooding displacement camps across Gaza, damaging tents sheltering tens of thousands of people and causing structural collapses in buildings already weakened by prior bombardment. The deteriorating conditions compound existing hardship for displaced Palestinians seeking shelter in the territory.",
+      "rank": 8,
+      "headline": "At least 21 dead as small boat sinks off Senegal",
+      "summary": "A small boat capsized off the coast of Senegal, resulting in at least 21 deaths. The incident highlights the continued risks migrants face while attempting to cross maritime routes, often in overcrowded and unseaworthy vessels.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss"
         },
         {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2639100/two-palestinians-wounded-as-rain-causes-collapse-of-wall-in-israeli-damaged-building-in-gaza"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-minister-health-warns-outbreak-disease-storm-battered-gaza"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece"
         }
       ],
       "source_count": 6,
       "regions": [
-        "Africa",
+        "Europe",
+        "Germany",
+        "India",
         "Middle East",
         "Pakistan",
         "Southeast Asia"
       ],
-      "score": 0.5132,
-      "mentions": 12,
+      "score": 0.4457,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Houthi attack damages Aramco building in Riyadh’s financial district",
+      "summary": "A Houthi missile attack on Saudi Arabia's capital has damaged an Aramco building in Riyadh's financial district, marking a strike on the kingdom's economic center. The Iranian-aligned group claims to have simultaneously targeted the airport and oil infrastructure, demonstrating an ability to reach protected facilities deep within Saudi territory.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/riyadh-financial-district-targeted-in-missile-attack-aramco-tower-damaged-witnesses/article71680790.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639264/loud-booms-heard-in-saudi-capital-riyadh-after-early-warning-alert-issued"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.4338,
+      "mentions": 15,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "South Africa’s ANC suffers setback in local elections",
+      "summary": "South Africa's African National Congress receives its weakest electoral performance in local elections, losing control of several major metropolitan areas. The result forces the party into coalition negotiations to maintain governance in key cities across the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia"
+      ],
+      "score": 0.3695,
+      "mentions": 5,
       "diversity": 4
     }
   ]
