@@ -1,0 +1,383 @@
+{
+  "published_at": "2026-11-09T20:37:39.009663+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "summary": "Nvidia's stock price falls following reports that CEO Jensen Huang was targeted by a foreign intelligence operation, prompting the company to launch an internal investigation into the matter. The situation raises questions about potential security vulnerabilities at one of the world's most influential artificial intelligence companies during a period of heightened US-China tensions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8147,
+      "mentions": 45,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+      "summary": "Russell Brand receives a 10-and-a-half-year prison sentence following convictions for rape and sexual assault involving multiple women. The case brings to legal resolution allegations that emerged publicly in 2023 against the comedian and actor, with his ex-partner Jemima Goldsmith among those who detailed accounts of abuse.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6983,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 3,
+      "headline": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "The suspect in the Krakow mass shooting has died in a hospital following the attack that killed six people in the Polish city's public square. Polish prosecutors have not yet determined whether ideological motivations played a role in the incident.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6562,
+      "mentions": 14,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "France accuses Iran of supermarket fridge hacking",
+      "summary": "French authorities claim Iranian hackers compromised refrigeration systems at supermarkets, disrupting food storage and sales operations across the country. The accusation reflects escalating cyber tensions between France and Iran, with such infrastructure attacks representing a shift toward targeting civilian commercial systems rather than traditional government networks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6255,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
+      "summary": "Russian military operations target infrastructure across Ukraine with the apparent strategic goal of dividing the country, according to President Zelenskyy's assessment of recent strikes. Ukraine has responded with attacks on Russian energy facilities, including refineries and power stations, while diplomatic discussions involving U.S. officials are set to address potential paths toward negotiation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-hits-power-stations-in-ukraine-vessel-in-black-sea/article71681628.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "India",
+        "North Africa",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5967,
+      "mentions": 32,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "summary": "Qatar's Prime Minister meets with Trump to discuss potential pathways for resolving tensions with Iran, reflecting Trump's stated interest in de-escalation rather than military confrontation. Trump has signaled openness to diplomatic engagement while indicating he may also seek input from China and Russia on the matter, though analysts see no immediate breakthrough in these early exploratory talks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3373831/can-xi-jinping-and-vladimir-putin-give-donald-trump-iran-exit-he-needs"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-says-resumption-of-war-with-iran-highly-unlikely/article71683793.ece"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5813,
+      "mentions": 20,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "Republican congressman Thomas Massie has initiated a procedural motion to force a House vote on impeaching Defense Secretary Pete Hegseth, citing concerns about potential military action against Iran. The move tests whether other Republicans will join Massie in pursuing this rare action against a cabinet member from their own party.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5806,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "summary": "Pope Leo XIV criticizes Argentina's President Milei's austerity policies during a visit that draws millions of Argentines, arguing that the government must prioritize protection for vulnerable populations. The pontiff's rebuke highlights tensions between the Church's social doctrine and the administration's economic approach as Argentina navigates severe fiscal pressures.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5757,
+      "mentions": 21,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Turkey pushes for transition at COP31 as coal burns",
+      "summary": "Turkey advocates for accelerating the shift away from fossil fuels at COP31, even as the country continues operating coal power plants that supply a significant portion of its electricity. The conference reflects broader tensions between nations' climate commitments and their current energy infrastructure, with some countries resisting new emissions targets while climate indicators show warming trends intensifying globally.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/article/3373785/cop31-leaders-urge-world-accelerate-fight-against-global-warming"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/2026-to-be-one-of-four-warmest-years-on-record-world-meteorological-organization/article71682272.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "South Africa",
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "score": 0.4948,
+      "mentions": 13,
+      "diversity": 6
+    },
+    {
+      "rank": 10,
+      "headline": "Explosion at Turkish steel plant kills at least 16 people",
+      "summary": "An explosion at a steel plant in Izmir, Turkey kills at least 16 workers, with rescue teams continuing to search the site for survivors and casualties. The blast's cause remains under investigation as authorities work to identify victims and assess damage to the facility.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4851,
+      "mentions": 7,
+      "diversity": 5
+    }
+  ]
+}
