@@ -1,0 +1,391 @@
+{
+  "published_at": "2026-11-10T17:41:16.516828+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US tensions with Iran shift amid diplomatic and military moves",
+      "summary": "Shahid Kaveh is an Iranian cyberunit that France has linked to a campaign targeting connected refrigerators and other household appliances, potentially to gain network access for espionage or disruption purposes. Iran denies involvement in the attacks, characterizing France's accusations as baseless while cybersecurity officials warn that compromised home devices could serve as entry points for broader network infiltration.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
+          "summary": "Shahid Kaveh is an Iranian cyberunit that France has linked to a campaign targeting connected refrigerators and other household appliances, potentially to gain network access for espionage or disruption purposes. Iran denies involvement in the attacks, characterizing France's accusations as baseless while cybersecurity officials warn that compromised home devices could serve as entry points for broader network infiltration."
+        },
+        {
+          "headline": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+          "summary": "Qatar's prime minister visits Washington as the United States signals a shift toward diplomatic engagement with Iran rather than military confrontation. The timing reflects ongoing negotiations where economic measures and dialogue appear to be replacing the threat of direct military action."
+        },
+        {
+          "headline": "More than 12 US military aircraft leave second UK base",
+          "summary": "The U.S. military has relocated more than a dozen aircraft from a second British airbase in response to an assessed threat linked to Iran. The move follows increased regional tensions and represents a precautionary measure to protect assets stationed in the United Kingdom."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5512,
+      "mentions": 35,
+      "diversity": 18
+    },
+    {
+      "rank": 2,
+      "headline": "'It's a farce': Hegseth's defiant response to impeachment effort",
+      "summary": "Pete Hegseth, the Defense Secretary, faces an impeachment effort in the House and characterizes the move as politically motivated rather than substantive. He continues to defend his record while preparing for a House vote on the impeachment resolution.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.749,
+      "mentions": 32,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Russia and Ukraine held their first direct talks in months in Abu Dhabi, with both sides and US mediators describing the discussions as productive and constructive. The negotiations are set to continue, marking a significant diplomatic effort to reach a settlement after nearly three years of conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7054,
+      "mentions": 42,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "summary": "Nvidia CEO Jensen Huang discussed the company's approach to China restrictions and national security concerns in an interview with journalist Faisal Islam, addressing tensions between commercial interests and U.S. export controls on advanced chips. The conversation reflects broader debates about technology competition with China and the role of major semiconductor companies in managing geopolitical constraints.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.6279,
+      "mentions": 34,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "summary": "Anthropic is pursuing a public listing at a valuation around $1.3 trillion, positioning itself as one of the largest IPOs ever despite investor demand potentially supporting higher pricing. The AI safety company's market debut reflects both the sector's explosive growth and investor caution about valuations in an increasingly competitive artificial intelligence landscape.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Global",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5255,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Israel's newly sworn parliament begins negotiations to form a government, with opposition leader Eisenkot attempting to build a coalition that could unseat Prime Minister Netanyahu. The incoming Knesset speaker holds significant procedural power that may influence whether Netanyahu retains his position or faces ouster through legislative means.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-israeli-parliament-to-take-aim-at-netanyahu-as-eisenkot-seeks-government/article71687117.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4314,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+      "summary": "David Walliams, known for creating the sketch comedy show Little Britain and judging Britain's Got Talent, faces sexual misconduct allegations that he has denied. The accusations emerged through media reporting and have drawn attention to his career spanning entertainment and children's literature.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/nov/10/david-walliams-allegations-podcast"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373989/uk-childrens-author-david-walliams-accused-sexual-misconduct"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4101,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+      "summary": "A gunman in Poland had studied mass murderer Anders Breivik, the Norwegian extremist responsible for killing 77 people in 2011, according to Poland's justice minister. Investigators found that the suspect accessed websites focused on Breivik, suggesting ideological alignment with far-right extremism.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/polish-gunman-visited-websites-about-norwegian-mass-killer-breivik-minister-says"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.3929,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "At least 12 people killed in Bulgaria motorway pile-up",
+      "summary": "A multi-vehicle collision on a Bulgarian motorway has killed at least 12 people and injured around 50 others in one of the country's deadliest recent traffic accidents. Authorities are investigating the cause of the pile-up, which involved numerous vehicles and caused significant highway disruption.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639591/eleven-dead-50-injured-in-bulgarian-motorway-pile-up"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.3762,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+      "summary": "India is positioning itself as a mediator between Russia and Ukraine to restore grain exports through the Black Sea, a critical supply route for global food security that Russia blocked after withdrawing from the UN-brokered corridor agreement. Prime Minister Modi's diplomatic outreach to both leaders ahead of planned talks in Abu Dhabi reflects India's effort to broker a solution that could stabilize food prices and ease hunger in developing nations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-new-delhi-ready-to-mediate-black-sea-food-corridors-says-ukraine-s-zelenskyy/live-79906023?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.3727,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}

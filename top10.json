@@ -1,31 +1,176 @@
 {
-  "published_at": "2026-11-09T20:37:39.009663+00:00",
+  "published_at": "2026-11-10T17:41:16.516828+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "Nvidia's stock price falls following reports that CEO Jensen Huang was targeted by a foreign intelligence operation, prompting the company to launch an internal investigation into the matter. The situation raises questions about potential security vulnerabilities at one of the world's most influential artificial intelligence companies during a period of heightened US-China tensions.",
+      "headline": "US tensions with Iran shift amid diplomatic and military moves",
+      "summary": "Shahid Kaveh is an Iranian cyberunit that France has linked to a campaign targeting connected refrigerators and other household appliances, potentially to gain network access for espionage or disruption purposes. Iran denies involvement in the attacks, characterizing France's accusations as baseless while cybersecurity officials warn that compromised home devices could serve as entry points for broader network infiltration.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
+          "summary": "Shahid Kaveh is an Iranian cyberunit that France has linked to a campaign targeting connected refrigerators and other household appliances, potentially to gain network access for espionage or disruption purposes. Iran denies involvement in the attacks, characterizing France's accusations as baseless while cybersecurity officials warn that compromised home devices could serve as entry points for broader network infiltration."
+        },
+        {
+          "headline": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+          "summary": "Qatar's prime minister visits Washington as the United States signals a shift toward diplomatic engagement with Iran rather than military confrontation. The timing reflects ongoing negotiations where economic measures and dialogue appear to be replacing the threat of direct military action."
+        },
+        {
+          "headline": "More than 12 US military aircraft leave second UK base",
+          "summary": "The U.S. military has relocated more than a dozen aircraft from a second British airbase in response to an assessed threat linked to Iran. The move follows increased regional tensions and represents a precautionary measure to protect assets stationed in the United Kingdom."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.5512,
+      "mentions": 35,
+      "diversity": 18
+    },
+    {
+      "rank": 2,
+      "headline": "'It's a farce': Hegseth's defiant response to impeachment effort",
+      "summary": "Pete Hegseth, the Defense Secretary, faces an impeachment effort in the House and characterizes the move as politically motivated rather than substantive. He continues to defend his record while preparing for a House vote on the impeachment resolution.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
         }
       ],
-      "source_count": 20,
+      "source_count": 19,
       "regions": [
         "Australia",
+        "Canada",
+        "Europe",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.749,
+      "mentions": 32,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Russia and Ukraine held their first direct talks in months in Abu Dhabi, with both sides and US mediators describing the discussions as productive and constructive. The negotiations are set to continue, marking a significant diplomatic effort to reach a settlement after nearly three years of conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+        }
+      ],
+      "source_count": 19,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7054,
+      "mentions": 42,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "summary": "Nvidia CEO Jensen Huang discussed the company's approach to China restrictions and national security concerns in an interview with journalist Faisal Islam, addressing tensions between commercial interests and U.S. export controls on advanced chips. The conversation reflects broader debates about technology competition with China and the role of major semiconductor companies in managing geopolitical constraints.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
         "Canada",
         "Europe",
         "Germany",
@@ -34,350 +179,213 @@
         "India",
         "Indonesia",
         "Japan",
-        "Middle East",
-        "North Africa",
+        "Pakistan",
         "South Africa",
-        "Southeast Asia",
-        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.8147,
-      "mentions": 45,
-      "diversity": 9
-    },
-    {
-      "rank": 2,
-      "headline": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "summary": "Russell Brand receives a 10-and-a-half-year prison sentence following convictions for rape and sexual assault involving multiple women. The case brings to legal resolution allegations that emerged publicly in 2023 against the comedian and actor, with his ex-partner Jemima Goldsmith among those who detailed accounts of abuse.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.6983,
-      "mentions": 16,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "Krakow shooting suspect has died in hospital, police say",
-      "summary": "The suspect in the Krakow mass shooting has died in a hospital following the attack that killed six people in the Polish city's public square. Polish prosecutors have not yet determined whether ideological motivations played a role in the incident.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Eastern Europe",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "South Africa",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.6562,
-      "mentions": 14,
-      "diversity": 8
-    },
-    {
-      "rank": 4,
-      "headline": "France accuses Iran of supermarket fridge hacking",
-      "summary": "French authorities claim Iranian hackers compromised refrigeration systems at supermarkets, disrupting food storage and sales operations across the country. The accusation reflects escalating cyber tensions between France and Iran, with such infrastructure attacks representing a shift toward targeting civilian commercial systems rather than traditional government networks.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
-        }
-      ],
-      "source_count": 11,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "South Africa",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.6255,
-      "mentions": 12,
+      "score": 0.6279,
+      "mentions": 34,
       "diversity": 7
     },
     {
       "rank": 5,
-      "headline": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
-      "summary": "Russian military operations target infrastructure across Ukraine with the apparent strategic goal of dividing the country, according to President Zelenskyy's assessment of recent strikes. Ukraine has responded with attacks on Russian energy facilities, including refineries and power stations, while diplomatic discussions involving U.S. officials are set to address potential paths toward negotiation.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/russia-hits-power-stations-in-ukraine-vessel-in-black-sea/article71681628.ece"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "India",
-        "North Africa",
-        "Russia",
-        "South Africa",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5967,
-      "mentions": 32,
-      "diversity": 7
-    },
-    {
-      "rank": 6,
-      "headline": "Qatar PM meets with Trump for talks on ending war on Iran",
-      "summary": "Qatar's Prime Minister meets with Trump to discuss potential pathways for resolving tensions with Iran, reflecting Trump's stated interest in de-escalation rather than military confrontation. Trump has signaled openness to diplomatic engagement while indicating he may also seek input from China and Russia on the matter, though analysts see no immediate breakthrough in these early exploratory talks.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3373831/can-xi-jinping-and-vladimir-putin-give-donald-trump-iran-exit-he-needs"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/trump-says-resumption-of-war-with-iran-highly-unlikely/article71683793.ece"
-        }
-      ],
-      "source_count": 11,
-      "regions": [
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand"
-      ],
-      "score": 0.5813,
-      "mentions": 20,
-      "diversity": 6
-    },
-    {
-      "rank": 7,
-      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "Republican congressman Thomas Massie has initiated a procedural motion to force a House vote on impeaching Defense Secretary Pete Hegseth, citing concerns about potential military action against Iran. The move tests whether other Republicans will join Massie in pursuing this rare action against a cabinet member from their own party.",
+      "headline": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "summary": "Anthropic is pursuing a public listing at a valuation around $1.3 trillion, positioning itself as one of the largest IPOs ever despite investor demand potentially supporting higher pricing. The AI safety company's market debut reflects both the sector's explosive growth and investor caution about valuations in an increasingly competitive artificial intelligence landscape.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
         }
       ],
-      "source_count": 11,
+      "source_count": 9,
       "regions": [
-        "Australia",
         "Canada",
-        "Germany",
         "Global",
-        "Hong Kong",
-        "India",
+        "Japan",
+        "Middle East",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.5806,
-      "mentions": 12,
-      "diversity": 7
-    },
-    {
-      "rank": 8,
-      "headline": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
-      "summary": "Pope Leo XIV criticizes Argentina's President Milei's austerity policies during a visit that draws millions of Argentines, arguing that the government must prioritize protection for vulnerable populations. The pontiff's rebuke highlights tensions between the Church's social doctrine and the administration's economic approach as Argentina navigates severe fiscal pressures.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Germany",
-        "India",
-        "South America",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5757,
-      "mentions": 21,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Turkey pushes for transition at COP31 as coal burns",
-      "summary": "Turkey advocates for accelerating the shift away from fossil fuels at COP31, even as the country continues operating coal power plants that supply a significant portion of its electricity. The conference reflects broader tensions between nations' climate commitments and their current energy infrastructure, with some countries resisting new emissions targets while climate indicators show warming trends intensifying globally.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/article/3373785/cop31-leaders-urge-world-accelerate-fight-against-global-warming"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/2026-to-be-one-of-four-warmest-years-on-record-world-meteorological-organization/article71682272.ece"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "South Africa",
-        "Southeast Asia",
-        "West Africa"
-      ],
-      "score": 0.4948,
-      "mentions": 13,
+      "score": 0.5255,
+      "mentions": 10,
       "diversity": 6
     },
     {
-      "rank": 10,
-      "headline": "Explosion at Turkish steel plant kills at least 16 people",
-      "summary": "An explosion at a steel plant in Izmir, Turkey kills at least 16 workers, with rescue teams continuing to search the site for survivors and casualties. The blast's cause remains under investigation as authorities work to identify victims and assess damage to the facility.",
+      "rank": 6,
+      "headline": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Israel's newly sworn parliament begins negotiations to form a government, with opposition leader Eisenkot attempting to build a coalition that could unseat Prime Minister Netanyahu. The incoming Knesset speaker holds significant procedural power that may influence whether Netanyahu retains his position or faces ouster through legislative means.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-israeli-parliament-to-take-aim-at-netanyahu-as-eisenkot-seeks-government/article71687117.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4314,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+      "summary": "David Walliams, known for creating the sketch comedy show Little Britain and judging Britain's Got Talent, faces sexual misconduct allegations that he has denied. The accusations emerged through media reporting and have drawn attention to his career spanning entertainment and children's literature.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/news/audio/2026/nov/10/david-walliams-allegations-podcast"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3373989/uk-childrens-author-david-walliams-accused-sexual-misconduct"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4101,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+      "summary": "A gunman in Poland had studied mass murderer Anders Breivik, the Norwegian extremist responsible for killing 77 people in 2011, according to Poland's justice minister. Investigators found that the suspect accessed websites focused on Breivik, suggesting ideological alignment with far-right extremism.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/polish-gunman-visited-websites-about-norwegian-mass-killer-breivik-minister-says"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "regions": [
         "Germany",
-        "Hong Kong",
-        "India",
         "Middle East",
         "Southeast Asia"
       ],
-      "score": 0.4851,
-      "mentions": 7,
-      "diversity": 5
+      "score": 0.3929,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "At least 12 people killed in Bulgaria motorway pile-up",
+      "summary": "A multi-vehicle collision on a Bulgarian motorway has killed at least 12 people and injured around 50 others in one of the country's deadliest recent traffic accidents. Authorities are investigating the cause of the pile-up, which involved numerous vehicles and caused significant highway disruption.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639591/eleven-dead-50-injured-in-bulgarian-motorway-pile-up"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Eastern Europe",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.3762,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+      "summary": "India is positioning itself as a mediator between Russia and Ukraine to restore grain exports through the Black Sea, a critical supply route for global food security that Russia blocked after withdrawing from the UN-brokered corridor agreement. Prime Minister Modi's diplomatic outreach to both leaders ahead of planned talks in Abu Dhabi reflects India's effort to broker a solution that could stabilize food prices and ease hunger in developing nations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/india-news-new-delhi-ready-to-mediate-black-sea-food-corridors-says-ukraine-s-zelenskyy/live-79906023?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Ukraine"
+      ],
+      "score": 0.3727,
+      "mentions": 4,
+      "diversity": 3
     }
   ]
 }
