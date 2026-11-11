@@ -1,0 +1,398 @@
+{
+  "published_at": "2026-11-11T17:52:46.430238+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats"
+        },
+        {
+          "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says"
+        },
+        {
+          "headline": "Can China help end ‘neither war nor peace’ Iran deadlock before Xi-Trump summit?"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Central Asia & Eastern Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6852,
+      "mentions": 27,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "US soldier arrested for Russia spying: What we know",
+      "is_grouped": true,
+      "angle_count": 5,
+      "angles": [
+        {
+          "headline": "US soldier arrested for Russia spying: What we know"
+        },
+        {
+          "headline": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough"
+        },
+        {
+          "headline": "Russia’s ambassador to the United States dies, aged 66"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6111,
+      "mentions": 24,
+      "diversity": 14
+    },
+    {
+      "rank": 3,
+      "headline": "The AI agents running start-ups with no employees",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "The AI agents running start-ups with no employees"
+        },
+        {
+          "headline": "U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent"
+        },
+        {
+          "headline": "BYD apologises for wheel-rim error as China cracks down on car quality issues"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3373829/us-or-china-firms-need-ai-they-can-independently-verify-and-trust"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/business/technology/tech-asia/the-ai-pay-gap-a-chip-boom-breeds-jealousy-and-labor-unrest-in-asia"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3179,
+      "mentions": 18,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "Spain sees widespread disruption in first general strike for 14 years",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8452,
+      "mentions": 16,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Acquitted 'China spy' tells BBC: I was fall guy for security services but also naive",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/economy/global-economy/article/3374105/google-nvidia-out-us-lines-apec-ceo-summit-delegation-source"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8147,
+      "mentions": 22,
+      "diversity": 8
+    },
+    {
+      "rank": 6,
+      "headline": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.7159,
+      "mentions": 16,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6506,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-australian-film-cameo-cut-sexual-harassment-allegations-ntwnfb"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/british-actor-david-walliams-grooming-allegations-20261111-p61d3u.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "UK"
+      ],
+      "score": 0.5417,
+      "mentions": 7,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/11/protesters-outside-israels-knesset-oppose-arab-lawmakers-call-for-new-elections"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Germany",
+        "Global",
+        "North Africa",
+        "UK"
+      ],
+      "score": 0.5056,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Kenya discharges last Ebola patient, awaits disease-free status",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/11/kenya-discharges-last-ebola-patient-begins-42-day-countdown-to-being-declared-ebola-free/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4879,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}
