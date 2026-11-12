@@ -1,215 +1,39 @@
 {
-  "published_at": "2026-11-11T17:51:45.669998+00:00",
+  "published_at": "2026-11-12T18:06:07.213855+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Tensions escalate between Russia and Western allies",
-      "summary": "A U.S. Army soldier has been arrested in the United Kingdom on suspicion of espionage activities on behalf of Russia. British counterterrorism police made the arrest, indicating the case involves national security concerns that span both countries.",
+      "headline": "Iran tensions persist amid espionage, diplomatic stalled talks",
+      "summary": "Two men have been convicted in UK court of conducting surveillance operations for Iran targeting journalists based in Britain. The case highlights Tehran's documented efforts to monitor and potentially harm Iranian dissidents and critical media figures operating outside its borders.",
       "is_grouped": true,
       "angle_count": 3,
       "angles": [
         {
-          "headline": "US soldier arrested for Russia spying: What we know",
-          "summary": "A U.S. Army soldier has been arrested in the United Kingdom on suspicion of espionage activities on behalf of Russia. British counterterrorism police made the arrest, indicating the case involves national security concerns that span both countries."
+          "headline": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+          "summary": "Two men have been convicted in UK court of conducting surveillance operations for Iran targeting journalists based in Britain. The case highlights Tehran's documented efforts to monitor and potentially harm Iranian dissidents and critical media figures operating outside its borders."
         },
         {
-          "headline": "Two killed in Ukrainian drone attack on Russia's Smolensk, Leningrad hit by year's largest attack",
-          "summary": "Ukraine conducted a major drone strike against Russia's Leningrad region, marking the largest such attack this year, while a separate Ukrainian drone attack on Smolensk killed two people. The strikes are part of an escalating pattern of cross-border drone operations, with Russia simultaneously conducting attacks on Ukrainian cities including a strike on a market in Odesa that killed three civilians."
+          "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+          "summary": "Trump is reassigning Vice President Vance from Iran negotiations to investigate domestic fraud cases, citing a shift in diplomatic priorities. The move reflects Trump's stated position that the United States does not require a negotiated agreement with Iran at this time."
         },
         {
-          "headline": "Russia’s ambassador to the United States dies, aged 66",
-          "summary": "Anatoly Ivanovich Antonov, Russia's ambassador to the United States, has died at age 66 after a sudden illness. His death removes a key diplomatic figure during a period of heightened US-Russia tensions over Ukraine and other geopolitical issues."
-        }
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Russia",
-        "South Africa",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5047,
-      "mentions": 25,
-      "diversity": 13
-    },
-    {
-      "rank": 2,
-      "headline": "Iran tensions escalate across multiple fronts globally",
-      "summary": "U.S. authorities have charged three individuals with plotting attacks directed by Iran, including reconnaissance of RAF Fairford, a British airbase that hosts American aircraft. The defendants allegedly coordinated with handlers while one was incarcerated in New York, and the plots also targeted Jewish community sites.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "summary": "U.S. authorities have charged three individuals with plotting attacks directed by Iran, including reconnaissance of RAF Fairford, a British airbase that hosts American aircraft. The defendants allegedly coordinated with handlers while one was incarcerated in New York, and the plots also targeted Jewish community sites."
-        },
-        {
-          "headline": "Can China help end ‘neither war nor peace’ Iran deadlock before Xi-Trump summit?",
-          "summary": "China may attempt diplomatic mediation between Iran and the United States ahead of a planned Xi-Trump summit, seeking to reduce regional tensions that have left the countries in a state of military standoff without direct conflict. Iran has signaled openness to ending hostilities while maintaining its position that it will not export nuclear material or resume negotiations unless the U.S. changes its approach."
-        },
-        {
-          "headline": "Iran classes Argentina navy, air force as 'terrorist organizations'",
-          "summary": "Iran's government has officially designated Argentina's navy and air force as terrorist organizations, marking a significant escalation in diplomatic tensions between the two countries. The designation appears to follow Argentina's recent moves to align more closely with the United States and Israel on regional security matters."
+          "headline": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+          "summary": "Iran and the US remain locked in a prolonged standoff characterized by military tensions and economic pressure, with neither side pursuing direct armed conflict or meaningful diplomatic resolution. Iranian officials anticipate the incoming Trump administration may escalate either through military action or expanded sanctions, leaving the relationship suspended between confrontation and negotiation."
         }
       ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Australia",
-        "Brazil",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "South America",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.492,
-      "mentions": 18,
-      "diversity": 13
-    },
-    {
-      "rank": 3,
-      "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Delegations from Russia and Ukraine met to discuss post-war security arrangements but failed to reach agreement on core issues. The talks did produce a prisoner exchange deal, suggesting both sides retain channels for limited cooperation despite the broader diplomatic impasse.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
-        }
-      ],
-      "source_count": 17,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Central Asia & Eastern Europe",
-        "Europe",
-        "Global",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "North Africa",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.7682,
-      "mentions": 37,
-      "diversity": 8
-    },
-    {
-      "rank": 4,
-      "headline": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Spain experiences its first nationwide general strike since 2010, as workers across multiple sectors halt operations to protest economic pressures. The strike centers on demands for wage increases and affordable housing solutions, reflecting growing public frustration with the rising cost of living.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "US"
-      ],
-      "score": 0.7253,
-      "mentions": 15,
-      "diversity": 7
-    },
-    {
-      "rank": 5,
-      "headline": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "Thousands of schools across Italy, Scotland, and Northern Ireland received bomb threat emails on the same day, prompting evacuations and emergency responses in what authorities suspect is a coordinated hoax. The simultaneous nature of the threats across multiple countries suggests an organized campaign rather than isolated incidents.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+          "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
         }
       ],
       "source_count": 12,
@@ -221,195 +45,357 @@
         "Middle East",
         "Pakistan",
         "Southeast Asia",
-        "Thailand",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.6478,
-      "mentions": 13,
-      "diversity": 6
+      "score": 0.5181,
+      "mentions": 16,
+      "diversity": 9
     },
     {
-      "rank": 6,
-      "headline": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
-      "summary": "UN Secretary-General António Guterres warns that climate impacts are accelerating faster than global response efforts at COP31, the annual climate negotiations where world leaders are gathering to discuss emission reductions and climate policy. The conference opens with notable absences and divergent priorities, including countries prioritizing economic interests over fossil fuel phase-outs, signaling ongoing tensions between climate ambition and national concerns.",
+      "rank": 2,
+      "headline": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "summary": "Jensen Huang has resigned as Nvidia's CEO following revelations about personal conduct that raised security concerns for the company. His departure marks a significant shift for the chipmaker that became central to the artificial intelligence boom under his leadership.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/africa/article/3374065/world-leaders-begin-un-climate-talks-amid-concerns-action-global-warming-too-slow"
+          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
         }
       ],
-      "source_count": 10,
+      "source_count": 22,
       "regions": [
-        "Africa",
+        "Australia",
         "Canada",
+        "Europe",
+        "Germany",
+        "Global",
         "Hong Kong",
         "India",
+        "Indonesia",
+        "Japan",
         "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
         "Southeast Asia",
         "Thailand",
         "UK",
+        "US",
         "West Africa"
       ],
-      "score": 0.6335,
-      "mentions": 14,
-      "diversity": 7
+      "score": 0.8241,
+      "mentions": 57,
+      "diversity": 9
     },
     {
-      "rank": 7,
-      "headline": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-      "summary": "U.S. and Chinese intelligence operations are competing for access to advanced semiconductor technology, with a suspected Chinese operative reportedly gaining proximity to Nvidia's chip designs during a period of public diplomatic engagement between the two nations. The incident highlights how technological advantage in artificial intelligence has become a central focus of covert activity, even as official trade and political negotiations continue.",
+      "rank": 3,
+      "headline": "Washington DC shooting leaves one dead and four injured as suspect dies after standoff",
+      "summary": "A shooting in central Washington, DC resulted in one death and four injuries before the suspect died during a subsequent standoff with police. The incident appears to have occurred at or near a gym facility in the district.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/economy/global-economy/article/3374105/google-nvidia-out-us-lines-apec-ceo-summit-delegation-source"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/alice-huang-who-reportedly-had-affair-with-nvidia-ceo-is-chinese-banker-turned-tech-exec/article71688893.ece"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
         }
       ],
       "source_count": 11,
       "regions": [
         "Australia",
         "Canada",
-        "Global",
+        "Europe",
         "Hong Kong",
         "India",
-        "Indonesia",
-        "Japan",
-        "South America",
+        "Middle East",
         "Southeast Asia",
-        "US"
-      ],
-      "score": 0.5999,
-      "mentions": 21,
-      "diversity": 7
-    },
-    {
-      "rank": 8,
-      "headline": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
-      "summary": "The House Republicans blocked an impeachment attempt against Defense Secretary Pete Hegseth, with some Democratic lawmakers criticizing absent colleagues for failing to mount a stronger challenge. Trump publicly backed Hegseth following the failed effort and dismissed concerns about potential military action against Iran.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "India",
-        "Indonesia",
-        "North Africa",
-        "Pakistan",
-        "South Africa",
+        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.5935,
-      "mentions": 16,
+      "score": 0.6501,
+      "mentions": 14,
       "diversity": 7
     },
     {
-      "rank": 9,
-      "headline": "Kenya discharges last Ebola patient, awaits disease-free status",
-      "summary": "Kenya discharges its final Ebola patient, moving toward official disease-free certification after containing a smaller outbreak within its borders. The country's achievement contrasts sharply with the Democratic Republic of Congo, where the same virus continues spreading with over 11,000 cases and thousands of deaths.",
+      "rank": 4,
+      "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+      "summary": "American envoys meet with Vladimir Putin at the Kremlin following separate negotiations held in Abu Dhabi that included Ukrainian representatives. The talks represent a rare direct engagement between U.S. officials and the Russian president as diplomatic channels explore potential pathways in the ongoing conflict.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss"
-        },
-        {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak"
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1"
         }
       ],
-      "source_count": 7,
+      "source_count": 18,
       "regions": [
         "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Europe",
         "Germany",
+        "Global",
+        "Hong Kong",
         "India",
-        "Middle East",
+        "Japan",
+        "Pakistan",
+        "Russia",
         "South Africa",
         "Southeast Asia",
-        "US"
+        "UK",
+        "US",
+        "Ukraine"
       ],
-      "score": 0.5649,
-      "mentions": 8,
-      "diversity": 6
+      "score": 0.6497,
+      "mentions": 31,
+      "diversity": 7
     },
     {
-      "rank": 10,
-      "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Treasury Secretary Scott Bessent has been relocated to a military base due to reported threats originating from Iran. The move reflects heightened security concerns for Trump administration officials amid ongoing geopolitical tensions.",
+      "rank": 5,
+      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "An Israeli airstrike struck Nasser Hospital in Gaza, resulting in six deaths according to the Palestinian health ministry, including a surgeon. The strike adds to a pattern of hospital damage during the ongoing conflict between Israel and Hamas.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats"
+          "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.6226,
+      "mentions": 18,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Spain approves housing reforms after nationwide strike over costs",
+      "summary": "Spain's government has approved housing reforms following a nationwide general strike in which tens of thousands of people demonstrated against rising accommodation costs and stagnant wages. The reforms address a significant affordability crisis that has made homeownership and rental payments increasingly difficult for many Spanish workers.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374046/us-treasury-chief-bessent-moved-military-base-after-iran-threats"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/protesters-clash-with-police-in-spain-after-huge-housing-cost-rallies/article71692238.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march"
         }
       ],
       "source_count": 7,
       "regions": [
+        "Africa",
+        "Australia",
         "Canada",
+        "Europe",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.578,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 7,
+      "headline": "Excavation Was Taking Place Next to Building in Brooklyn That Collapsed",
+      "summary": "An apartment building in Brooklyn collapsed, with excavation work taking place on an adjacent property at the time of the incident. Rescue operations are ongoing, with authorities reporting eight fatalities as workers search through the rubble for additional survivors.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374250/death-toll-new-york-building-collapse-rises-8"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/brooklyn-building-collapse-updates/article71692198.ece"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
         "Hong Kong",
         "India",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.558,
+      "mentions": 14,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "summary": "Scott Colom, a Democrat, wins Mississippi's U.S. Senate seat, becoming the first Black senator from the state since 1997. His election marks a historic shift in a state that had previously elected only two Black senators during the Reconstruction era following the Civil War.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "New Zealand",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.5331,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "summary": "Indonesia's Vice President resigns following mounting questions about whether he meets constitutional eligibility requirements and concerns over the authenticity of his academic credentials. The departure creates an unexpected vacancy that President Prabowo must now fill, reshaping the leadership structure of Southeast Asia's largest economy.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374164/gibran-officially-resigns-indonesias-vice-president-after-degree-scandal"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.4776,
+      "mentions": 20,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+      "summary": "A truck lost control on a highway in Fujairah, United Arab Emirates, triggering a collision involving 23 vehicles that killed 14 people and injured 30 others. The incident represents one of the deadliest traffic accidents in the region in recent years.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639966/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
         "Pakistan",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.5149,
-      "mentions": 8,
-      "diversity": 5
+      "score": 0.4287,
+      "mentions": 4,
+      "diversity": 4
     }
   ]
 }

@@ -1,0 +1,375 @@
+{
+  "published_at": "2026-11-12T18:07:20.198658+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Two men found guilty of spying for Iran over plan to target UK-based journalists"
+        },
+        {
+          "headline": "‘No war, no peace’: Can Iran break the deadlock with the US?"
+        },
+        {
+          "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5615,
+      "mentions": 24,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi"
+        },
+        {
+          "headline": "No compromise with Ukraine, Putin indicates to U.S. envoys during talks"
+        },
+        {
+          "headline": "Putin lets Europe join Ukraine peace talks, as Kyiv says Starshield disrupted again"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-us-envoys-meet-putin-ukraine-peace-talks/"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.3218,
+      "mentions": 15,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+        }
+      ],
+      "source_count": 22,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "West Africa"
+      ],
+      "score": 0.8032,
+      "mentions": 60,
+      "diversity": 9
+    },
+    {
+      "rank": 4,
+      "headline": "Washington DC shooting leaves one dead and four injured as suspect dies after standoff",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6356,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "New Zealand",
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.5373,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639966/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4501,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374164/gibran-officially-resigns-indonesias-vice-president-after-degree-scandal"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Asia-Pacific",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.4423,
+      "mentions": 16,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit/"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.4325,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Greta Thunberg: The planet is being killed",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/venezuela-tells-cop31-it-has-sovereign-right-to-pump-more-oil/article71693316.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.4307,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2639893/israeli-strike-on-southern-gaza-hospital-kills-six-gaza-civil-defence-says"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Pakistan",
+        "UK",
+        "US"
+      ],
+      "score": 0.425,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
