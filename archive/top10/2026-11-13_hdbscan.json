@@ -1,0 +1,363 @@
+{
+  "published_at": "2026-11-13T17:40:15.076930+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russia hit by second car bomb in as many days as peace talks continue",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Russia hit by second car bomb in as many days as peace talks continue"
+        },
+        {
+          "headline": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says"
+        },
+        {
+          "headline": "Kushner says US working towards ‘largest prisoner exchange’ of Russia’s war in Ukraine"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5022,
+      "mentions": 14,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action"
+        },
+        {
+          "headline": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live"
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang resigns amid spy scandal"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-commerce-secretary-lutnick-to-testify-before-congress-on-nvidia-us-media/article71696546.ece"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.4604,
+      "mentions": 20,
+      "diversity": 12
+    },
+    {
+      "rank": 3,
+      "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8559,
+      "mentions": 30,
+      "diversity": 10
+    },
+    {
+      "rank": 4,
+      "headline": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3374373/malaysia-turns-turkey-warship-missiles-after-norways-export-freeze"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5882,
+      "mentions": 12,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Sixth victim confirmed in DC condo-related shooting in US, police say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/us/politics/article/3374284/shooting-close-home-reporters-view-grim-reality-us-capital"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.5213,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/pochettino-wants-end-tenure-us-coach-high-note-6550301"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4647,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/uk-police-investigate-allegations-against-best-selling-childrens-author-walliams"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3937,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 8,
+      "headline": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/uk-charity-regulator-opens-case-centre-whose-event-promoted-illegal-israeli-settlements"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.3937,
+      "mentions": 4,
+      "diversity": 2
+    },
+    {
+      "rank": 9,
+      "headline": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2640097/chris-van-hollen-announces-run-for-us-senate-majority-leader-challenging-schumer"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.3866,
+      "mentions": 6,
+      "diversity": 6
+    },
+    {
+      "rank": 10,
+      "headline": "Turkiye and Qatar sign mutual defence agreement",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2640161/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3558,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}

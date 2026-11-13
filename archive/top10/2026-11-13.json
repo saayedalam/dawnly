@@ -1,0 +1,360 @@
+{
+  "published_at": "2026-11-13T17:39:15.540979+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft's widespread outage affecting Teams, Outlook, and other services stems from a faulty update to security software that cascaded across systems globally, with recovery taking extended time because technicians must carefully restore services across millions of affected devices. Hospitals, courts, police forces, and government offices experience disruptions to critical operations, though Microsoft has indicated that emails and data are not being permanently lost during the restoration process.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7147,
+      "mentions": 29,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "summary": "A sexual misconduct allegation at Nvidia has created friction within the White House, with Treasury Secretary Howard Lutnick facing scrutiny over his response while serving on the company's board. The scandal intersects with broader debates over corporate governance and accountability within the Trump administration's leadership circles.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        }
+      ],
+      "source_count": 24,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7062,
+      "mentions": 66,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "Putin has increased his conditions for a Ukraine peace settlement, signaling hardened positions even as diplomatic discussions continue. Simultaneous violence inside Russia and mounting battlefield casualties on both sides complicate any negotiated resolution.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "India",
+        "Middle East",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6574,
+      "mentions": 56,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "summary": "Iran claims it successfully targeted a US military radar installation in Bahrain during a retaliatory operation, though the US military disputes the claim of significant damage. US Central Command states it intercepted two Iranian drones heading toward Bahrain, suggesting the broader strike may have been largely contained.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4541,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Sixth victim confirmed in DC condo-related shooting in US, police say",
+      "summary": "A shooting at a Washington, DC condominium complex has left one person dead and five others injured, with police confirming the sixth victim after an initial toll of five. The suspect, identified as a resident doctor, appears to have acted over a dispute involving living conditions at the building, which the condo manager learned about during a phone call with the shooter.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/five-shot-in-washington-dc-active-shooter-barricaded-inside-building-20261113-p61dtn.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4452,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "summary": "British police have opened an investigation into David Walliams following reports of serious sexual offences allegedly committed by the children's author and television personality. The Metropolitan Police are examining the allegations as part of a formal inquiry into his conduct.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/uk-police-investigate-allegations-against-best-selling-childrens-author-walliams"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
+      "summary": "Pope Leo XIV returns to Peru and uses the visit to publicly criticize machismo culture while calling for stronger protections for women. His trip draws significant crowds and includes a youth prayer vigil at Lima's National Stadium, reflecting the deep religious engagement in the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-tour-peru-lima/"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.3411,
+      "mentions": 9,
+      "diversity": 7
+    },
+    {
+      "rank": 8,
+      "headline": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "summary": "Mauricio Pochettino has been appointed Manchester United's manager, taking on the role after the club dismissed its previous coach. Pochettino departs his position with the US national team, describing the move as the most difficult decision of his career.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss"
+        },
+        {
+          "name": "Buenos Aires Times",
+          "link": "https://www.batimes.com.ar/news/sports/mauricio-pochettino-leaving-usa-for-man-utd-most-difficult-decision-of-career.phtml"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.3287,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Turkiye and Qatar sign mutual defence agreement",
+      "summary": "Türkiye and Qatar have formalized a mutual defence agreement, expanding their security partnership in a region where both countries maintain significant strategic interests. The pact commits each nation to provide support in the event of external threats, strengthening ties between two influential players in Middle Eastern geopolitics.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2640161/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.2995,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "summary": "A collision between a truck and bus in Assam, India's northeastern state, kills at least 24 people in what appears to be one of the region's deadlier recent road accidents. Poor road conditions, heavy traffic, or driver error often contribute to fatal crashes on India's highways, though the exact cause of this incident remains under investigation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3374386/india-road-crash-between-bus-container-truck-kills-23"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2640152/truck-and-bus-collision-in-indias-assam-kills-at-least-23-people"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Pakistan"
+      ],
+      "score": 0.2708,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}

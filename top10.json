@@ -1,81 +1,74 @@
 {
-  "published_at": "2026-11-12T18:06:07.213855+00:00",
+  "published_at": "2026-11-13T17:39:15.540979+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Iran tensions persist amid espionage, diplomatic stalled talks",
-      "summary": "Two men have been convicted in UK court of conducting surveillance operations for Iran targeting journalists based in Britain. The case highlights Tehran's documented efforts to monitor and potentially harm Iranian dissidents and critical media figures operating outside its borders.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
-          "summary": "Two men have been convicted in UK court of conducting surveillance operations for Iran targeting journalists based in Britain. The case highlights Tehran's documented efforts to monitor and potentially harm Iranian dissidents and critical media figures operating outside its borders."
-        },
-        {
-          "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-          "summary": "Trump is reassigning Vice President Vance from Iran negotiations to investigate domestic fraud cases, citing a shift in diplomatic priorities. The move reflects Trump's stated position that the United States does not require a negotiated agreement with Iran at this time."
-        },
-        {
-          "headline": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-          "summary": "Iran and the US remain locked in a prolonged standoff characterized by military tensions and economic pressure, with neither side pursuing direct armed conflict or meaningful diplomatic resolution. Iranian officials anticipate the incoming Trump administration may escalate either through military action or expanded sanctions, leaving the relationship suspended between confrontation and negotiation."
-        }
-      ],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.5181,
-      "mentions": 16,
-      "diversity": 9
-    },
-    {
-      "rank": 2,
-      "headline": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
-      "summary": "Jensen Huang has resigned as Nvidia's CEO following revelations about personal conduct that raised security concerns for the company. His departure marks a significant shift for the chipmaker that became central to the artificial intelligence boom under his leadership.",
+      "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft's widespread outage affecting Teams, Outlook, and other services stems from a faulty update to security software that cascaded across systems globally, with recovery taking extended time because technicians must carefully restore services across millions of affected devices. Hospitals, courts, police forces, and government offices experience disruptions to critical operations, though Microsoft has indicated that emails and data are not being permanently lost during the restoration process.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+          "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
         }
       ],
-      "source_count": 22,
+      "source_count": 17,
       "regions": [
+        "Africa",
         "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7147,
+      "mentions": 29,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "summary": "A sexual misconduct allegation at Nvidia has created friction within the White House, with Treasury Secretary Howard Lutnick facing scrutiny over his response while serving on the company's board. The scandal intersects with broader debates over corporate governance and accountability within the Trump administration's leadership circles.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        }
+      ],
+      "source_count": 24,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
         "Canada",
         "Europe",
         "Germany",
@@ -85,317 +78,283 @@
         "Indonesia",
         "Japan",
         "Middle East",
-        "North Africa",
         "Pakistan",
         "South Africa",
         "Southeast Asia",
         "Thailand",
         "UK",
-        "US",
-        "West Africa"
+        "US"
       ],
-      "score": 0.8241,
-      "mentions": 57,
-      "diversity": 9
+      "score": 0.7062,
+      "mentions": 66,
+      "diversity": 8
     },
     {
       "rank": 3,
-      "headline": "Washington DC shooting leaves one dead and four injured as suspect dies after standoff",
-      "summary": "A shooting in central Washington, DC resulted in one death and four injuries before the suspect died during a subsequent standoff with police. The incident appears to have occurred at or near a gym facility in the district.",
+      "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "Putin has increased his conditions for a Ukraine peace settlement, signaling hardened positions even as diplomatic discussions continue. Simultaneous violence inside Russia and mounting battlefield casualties on both sides complicate any negotiated resolution.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
+          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
         }
       ],
-      "source_count": 11,
+      "source_count": 16,
       "regions": [
-        "Australia",
+        "Africa",
         "Canada",
         "Europe",
-        "Hong Kong",
+        "Germany",
+        "Global",
         "India",
         "Middle East",
+        "Russia",
+        "South Africa",
         "Southeast Asia",
         "Thailand",
         "UK",
-        "US"
+        "Ukraine"
       ],
-      "score": 0.6501,
-      "mentions": 14,
+      "score": 0.6574,
+      "mentions": 56,
       "diversity": 7
     },
     {
       "rank": 4,
-      "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-      "summary": "American envoys meet with Vladimir Putin at the Kremlin following separate negotiations held in Abu Dhabi that included Ukrainian representatives. The talks represent a rare direct engagement between U.S. officials and the Russian president as diplomatic channels explore potential pathways in the ongoing conflict.",
+      "headline": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "summary": "Iran claims it successfully targeted a US military radar installation in Bahrain during a retaliatory operation, though the US military disputes the claim of significant damage. US Central Command states it intercepted two Iranian drones heading toward Bahrain, suggesting the broader strike may have been largely contained.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece"
         }
       ],
-      "source_count": 18,
+      "source_count": 9,
       "regions": [
         "Africa",
-        "Asia-Pacific",
-        "Canada",
         "Europe",
         "Germany",
-        "Global",
-        "Hong Kong",
         "India",
-        "Japan",
+        "Middle East",
         "Pakistan",
-        "Russia",
-        "South Africa",
         "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
+        "UK"
       ],
-      "score": 0.6497,
-      "mentions": 31,
-      "diversity": 7
-    },
-    {
-      "rank": 5,
-      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "An Israeli airstrike struck Nasser Hospital in Gaza, resulting in six deaths according to the Palestinian health ministry, including a surgeon. The strike adds to a pattern of hospital damage during the ongoing conflict between Israel and Hamas.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Europe",
-        "Germany",
-        "India",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "South Africa",
-        "Thailand",
-        "UK",
-        "US"
-      ],
-      "score": 0.6226,
-      "mentions": 18,
-      "diversity": 6
-    },
-    {
-      "rank": 6,
-      "headline": "Spain approves housing reforms after nationwide strike over costs",
-      "summary": "Spain's government has approved housing reforms following a nationwide general strike in which tens of thousands of people demonstrated against rising accommodation costs and stagnant wages. The reforms address a significant affordability crisis that has made homeownership and rental payments increasingly difficult for many Spanish workers.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/protesters-clash-with-police-in-spain-after-huge-housing-cost-rallies/article71692238.ece"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/video/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Europe",
-        "India",
-        "Middle East",
-        "Southeast Asia"
-      ],
-      "score": 0.578,
-      "mentions": 10,
-      "diversity": 7
-    },
-    {
-      "rank": 7,
-      "headline": "Excavation Was Taking Place Next to Building in Brooklyn That Collapsed",
-      "summary": "An apartment building in Brooklyn collapsed, with excavation work taking place on an adjacent property at the time of the incident. Rescue operations are ongoing, with authorities reporting eight fatalities as workers search through the rubble for additional survivors.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374250/death-toll-new-york-building-collapse-rises-8"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/brooklyn-building-collapse-updates/article71692198.ece"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Europe",
-        "Hong Kong",
-        "India",
-        "Pakistan",
-        "South Africa",
-        "Thailand",
-        "US"
-      ],
-      "score": 0.558,
-      "mentions": 14,
-      "diversity": 7
-    },
-    {
-      "rank": 8,
-      "headline": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-      "summary": "Scott Colom, a Democrat, wins Mississippi's U.S. Senate seat, becoming the first Black senator from the state since 1997. His election marks a historic shift in a state that had previously elected only two Black senators during the Reconstruction era following the Civil War.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
-        }
-      ],
-      "source_count": 11,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Canada",
-        "Europe",
-        "India",
-        "New Zealand",
-        "Pakistan",
-        "UK",
-        "US"
-      ],
-      "score": 0.5331,
-      "mentions": 13,
+      "score": 0.4541,
+      "mentions": 11,
       "diversity": 5
     },
     {
-      "rank": 9,
-      "headline": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-      "summary": "Indonesia's Vice President resigns following mounting questions about whether he meets constitutional eligibility requirements and concerns over the authenticity of his academic credentials. The departure creates an unexpected vacancy that President Prabowo must now fill, reshaping the leadership structure of Southeast Asia's largest economy.",
+      "rank": 5,
+      "headline": "Sixth victim confirmed in DC condo-related shooting in US, police say",
+      "summary": "A shooting at a Washington, DC condominium complex has left one person dead and five others injured, with police confirming the sixth victim after an initial toll of five. The suspect, identified as a resident doctor, appears to have acted over a dispute involving living conditions at the building, which the condo manager learned about during a phone call with the shooter.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374164/gibran-officially-resigns-indonesias-vice-president-after-degree-scandal"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession"
         },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/north-america/five-shot-in-washington-dc-active-shooter-barricaded-inside-building-20261113-p61dtn.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Middle East",
+        "UK"
+      ],
+      "score": 0.4452,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "summary": "British police have opened an investigation into David Walliams following reports of serious sexual offences allegedly committed by the children's author and television personality. The Metropolitan Police are examining the allegations as part of a formal inquiry into his conduct.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/uk-police-investigate-allegations-against-best-selling-childrens-author-walliams"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.35,
+      "mentions": 3,
+      "diversity": 2
+    },
+    {
+      "rank": 7,
+      "headline": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
+      "summary": "Pope Leo XIV returns to Peru and uses the visit to publicly criticize machismo culture while calling for stronger protections for women. His trip draws significant crowds and includes a youth prayer vigil at Lima's National Stadium, reflecting the deep religious engagement in the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
+          "link": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-pope-leo-tour-peru-lima/"
         }
       ],
       "source_count": 8,
       "regions": [
-        "Asia-Pacific",
-        "Hong Kong",
+        "Africa",
+        "Canada",
+        "Europe",
+        "Global",
         "India",
-        "Indonesia",
-        "Japan",
-        "South Africa",
-        "US"
+        "South America",
+        "Southeast Asia"
       ],
-      "score": 0.4776,
-      "mentions": 20,
-      "diversity": 5
+      "score": 0.3411,
+      "mentions": 9,
+      "diversity": 7
     },
     {
-      "rank": 10,
-      "headline": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
-      "summary": "A truck lost control on a highway in Fujairah, United Arab Emirates, triggering a collision involving 23 vehicles that killed 14 people and injured 30 others. The incident represents one of the deadliest traffic accidents in the region in recent years.",
+      "rank": 8,
+      "headline": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "summary": "Mauricio Pochettino has been appointed Manchester United's manager, taking on the role after the club dismissed its previous coach. Pochettino departs his position with the US national team, describing the move as the most difficult decision of his career.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss"
+        },
+        {
+          "name": "Buenos Aires Times",
+          "link": "https://www.batimes.com.ar/news/sports/mauricio-pochettino-leaving-usa-for-man-utd-most-difficult-decision-of-career.phtml"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "South America",
+        "UK"
+      ],
+      "score": 0.3287,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Turkiye and Qatar sign mutual defence agreement",
+      "summary": "Türkiye and Qatar have formalized a mutual defence agreement, expanding their security partnership in a region where both countries maintain significant strategic interests. The pact commits each nation to provide support in the event of external threats, strengthening ties between two influential players in Middle Eastern geopolitics.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss"
         },
         {
           "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2639966/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
+          "link": "https://tribune.com.pk/story/2640161/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement"
         }
       ],
       "source_count": 4,
       "regions": [
         "Middle East",
         "Pakistan",
-        "Southeast Asia",
-        "UK"
+        "Southeast Asia"
       ],
-      "score": 0.4287,
-      "mentions": 4,
-      "diversity": 4
+      "score": 0.2995,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "summary": "A collision between a truck and bus in Assam, India's northeastern state, kills at least 24 people in what appears to be one of the region's deadlier recent road accidents. Poor road conditions, heavy traffic, or driver error often contribute to fatal crashes on India's highways, though the exact cause of this incident remains under investigation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3374386/india-road-crash-between-bus-container-truck-kills-23"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2640152/truck-and-bus-collision-in-indias-assam-kills-at-least-23-people"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Hong Kong",
+        "Middle East",
+        "Pakistan"
+      ],
+      "score": 0.2708,
+      "mentions": 3,
+      "diversity": 3
     }
   ]
 }
