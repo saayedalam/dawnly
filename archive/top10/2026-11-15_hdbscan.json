@@ -1,0 +1,346 @@
+{
+  "published_at": "2026-11-15T16:57:06.320211+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Iran targets US military base in Bahrain with drone attack",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Iran targets US military base in Bahrain with drone attack"
+        },
+        {
+          "headline": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance"
+        },
+        {
+          "headline": "Two tankers on fire after hitting naval mines in the Strait of Hormuz, Iran's IRGC says"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-bahrain-intercepts-iranian-aerial-attacks-as-tehran-claims-strikes-on/"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.3674,
+      "mentions": 12,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.825,
+      "mentions": 21,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.8071,
+      "mentions": 11,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374498/top-hamas-commander-killed-israeli-strike-gaza"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-military-says-it-struck-senior-armed-hamas-commander/article71704070.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5684,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374499/jordan-sentences-3-men-death-over-deadly-church-attack"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5524,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Cape Verde goes to the polls in presidential vote",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Brazil",
+        "Europe",
+        "Germany",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.5247,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Thousands rally in Czech Republic against state media funding changes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5219,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Two planes collide on taxiway at Miami airport one day after national grounding",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/2-injured-as-passenger-cargo-planes-collide-at-us-airport/article71704597.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2640425/ups-cargo-plane-copa-airlines-passenger-jet-collide-at-miami-airport-in-us"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Brazil",
+        "Europe",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4497,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ebola-outbreak-remains-out-of-control-in-congo-six-months-into-response/article71704179.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-ebola-outbreak-congo-disease/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Africa",
+        "Canada",
+        "India",
+        "UK"
+      ],
+      "score": 0.4424,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Record number of migrants arrive in Spain’s Canary Islands",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/economics/article/3374464/malaysian-plan-let-refugees-work-spurs-advocates-call-safeguards"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-migrants-canary-islands-spain-immigration/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4424,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}

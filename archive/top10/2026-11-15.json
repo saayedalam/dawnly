@@ -1,0 +1,352 @@
+{
+  "published_at": "2026-11-15T16:56:14.432590+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+      "summary": "Transportation Secretary Sean Duffy attributes a widespread flight stoppage to longstanding neglect by previous administrations and Congress rather than current management failures. The incident exposes persistent technical and infrastructure weaknesses in the nation's air traffic control system that have accumulated over decades.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8091,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "Iran launches a drone strike against a US military installation in Bahrain, escalating tensions in the Persian Gulf region. The attack appears connected to earlier regional disputes, prompting condemnation from several Arab nations and raising concerns about further military escalation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7922,
+      "mentions": 19,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+      "summary": "An individual suspected of espionage for China has departed from Megaspeed, a company connected to Nvidia's former leadership, as the technology sector faces scrutiny over security vulnerabilities. The incident has prompted congressional discussions about strengthening export controls on advanced AI semiconductors, a critical component in U.S.-China technological competition.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7797,
+      "mentions": 19,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX successfully caught the Super Heavy booster of its Starship rocket in mid-air using mechanical arms on the launch tower, demonstrating a new landing technique designed to enable rapid reusability. This first-ever catch represents a significant milestone in the company's effort to make space travel more efficient and cost-effective by eliminating the need for traditional landing burns and ocean recovery.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7722,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "World leaders head to Asia for back-to-back diplomatic summits",
+      "summary": "World leaders are converging on Asia for a series of overlapping diplomatic summits, with discussions centered on managing US-China relations and addressing regional tensions. The gatherings include potential high-level meetings between major powers, though European leaders show caution while China navigates its position between the United States and Russia.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Indonesia",
+        "Japan",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.675,
+      "mentions": 25,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "summary": "Zelenskyy contends that U.S. restrictions on Starshield satellite technology limit Ukraine's ability to detect and counter Russian attacks on its energy infrastructure. The claim suggests that broader access to advanced reconnaissance systems could help Ukraine better defend against strikes targeting power plants and electrical grids.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/zelenskyy-says-russias-energy-attacks-helped-by-starshield-restrictions/article71704646.ece"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/romania-black-sea-drone-strike-ships-6552996"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5907,
+      "mentions": 15,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Israeli forces conducted an airstrike on a Gaza camp that killed a senior Hamas commander, according to military officials. The strike represents a targeted operation against Hamas leadership during the ongoing conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374498/top-hamas-commander-killed-israeli-strike-gaza"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-military-says-it-struck-senior-armed-hamas-commander/article71704070.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5582,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Thousands rally in Czech Republic against state media funding changes",
+      "summary": "Large crowds gathered across the Czech Republic to oppose a government plan that would restructure how public media receives funding. The protests reflect concerns about editorial independence and potential shifts in how state broadcasters operate under the proposed financial changes.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5143,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary": "A Jordanian court has sentenced three men to death for carrying out a mass shooting at a church that killed multiple worshippers. The attack represents a significant security incident in Jordan, where Christian communities have generally faced less violence than in some neighboring countries in the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374499/jordan-sentences-3-men-death-over-deadly-church-attack"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4919,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Cape Verde goes to the polls in presidential vote",
+      "summary": "Cape Verdean voters select their next president in an election that could result in the country's first female leader since independence nearly 50 years ago. The vote takes place amid broader national conversations about emigration, a significant issue for the archipelago nation.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.4618,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}
