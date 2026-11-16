@@ -1,138 +1,128 @@
 {
-  "published_at": "2026-11-15T16:56:14.432590+00:00",
+  "published_at": "2026-11-16T20:14:39.814109+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-      "summary": "Transportation Secretary Sean Duffy attributes a widespread flight stoppage to longstanding neglect by previous administrations and Congress rather than current management failures. The incident exposes persistent technical and infrastructure weaknesses in the nation's air traffic control system that have accumulated over decades.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Russia faces international pressure on multiple fronts",
+      "summary": "Nations are negotiating at the United Nations to establish limits on autonomous weapons systems that can select and engage targets without human intervention. The talks face resistance from major powers including the United States and Russia, who oppose binding restrictions on these emerging military technologies.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+          "summary": "Nations are negotiating at the United Nations to establish limits on autonomous weapons systems that can select and engage targets without human intervention. The talks face resistance from major powers including the United States and Russia, who oppose binding restrictions on these emerging military technologies."
+        },
+        {
+          "headline": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
+          "summary": "The European Union has added Tatyana Kim, founder of Russia's largest e-commerce platform Wildberries, to its sanctions list as part of broader restrictions targeting Russian oligarchs and business figures. The company has indicated it will continue operating despite the sanctions, which typically freeze assets and restrict business activities for targeted individuals."
+        },
+        {
+          "headline": "Estonia to close Russian border crossings after attempted arson attack",
+          "summary": "Estonia is closing all border crossings with Russia following a foiled arson attack that officials attribute to Russian intelligence operatives. The closure represents a significant escalation in tensions between the NATO member and Russia, though Moscow denies involvement in the incident."
+        }
+      ],
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3374616/un-chief-urges-countries-rein-killer-robots-battlefield"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece"
         }
       ],
       "source_count": 11,
       "regions": [
-        "Australia",
-        "Canada",
+        "Europe",
         "Germany",
         "Hong Kong",
         "India",
-        "Pakistan",
+        "Middle East",
+        "North Africa",
+        "Russia",
         "Southeast Asia",
-        "Thailand",
         "UK",
-        "US"
+        "US",
+        "Ukraine"
       ],
-      "score": 0.8091,
-      "mentions": 17,
-      "diversity": 6
+      "score": 0.3416,
+      "mentions": 16,
+      "diversity": 11
     },
     {
       "rank": 2,
-      "headline": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "Iran launches a drone strike against a US military installation in Bahrain, escalating tensions in the Persian Gulf region. The attack appears connected to earlier regional disputes, prompting condemnation from several Arab nations and raising concerns about further military escalation.",
+      "headline": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
+      "summary": "Several prominent technology figures and political leaders are calling for Jensen Huang's reinstatement as Nvidia's CEO following his recent departure. The push appears connected to concerns about regulatory and trade pressures on the chipmaker, particularly around export restrictions and a separate business controversy involving company leadership.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+          "link": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
         }
       ],
-      "source_count": 9,
+      "source_count": 24,
       "regions": [
+        "Asia-Pacific",
+        "Australia",
         "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
         "India",
+        "Indonesia",
+        "Japan",
         "Middle East",
-        "Pakistan",
+        "Russia",
+        "South Africa",
+        "South America",
         "Southeast Asia",
+        "Thailand",
         "UK",
-        "US"
+        "US",
+        "Ukraine"
       ],
-      "score": 0.7922,
-      "mentions": 19,
-      "diversity": 5
+      "score": 0.7894,
+      "mentions": 89,
+      "diversity": 10
     },
     {
       "rank": 3,
-      "headline": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
-      "summary": "An individual suspected of espionage for China has departed from Megaspeed, a company connected to Nvidia's former leadership, as the technology sector faces scrutiny over security vulnerabilities. The incident has prompted congressional discussions about strengthening export controls on advanced AI semiconductors, a critical component in U.S.-China technological competition.",
+      "headline": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Five European Union countries have established a joint deportation centre in Rwanda where rejected asylum seekers will be processed before removal from Europe. The initiative mirrors similar arrangements other nations have pursued to manage irregular migration while outsourcing processing operations to a third country.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Canada",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "North Africa",
-        "Southeast Asia",
-        "UK",
-        "US"
-      ],
-      "score": 0.7797,
-      "mentions": 19,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX successfully caught the Super Heavy booster of its Starship rocket in mid-air using mechanical arms on the launch tower, demonstrating a new landing technique designed to enable rapid reusability. This first-ever catch represents a significant milestone in the company's effort to make space travel more efficient and cost-effective by eliminating the need for traditional landing burns and ocean recovery.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
         }
       ],
-      "source_count": 8,
+      "source_count": 13,
       "regions": [
         "Australia",
         "Europe",
@@ -140,213 +130,257 @@
         "Hong Kong",
         "India",
         "Middle East",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.7722,
-      "mentions": 10,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "World leaders head to Asia for back-to-back diplomatic summits",
-      "summary": "World leaders are converging on Asia for a series of overlapping diplomatic summits, with discussions centered on managing US-China relations and addressing regional tensions. The gatherings include potential high-level meetings between major powers, though European leaders show caution while China navigates its position between the United States and Russia.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "Indonesia",
-        "Japan",
-        "Pakistan",
+        "South Africa",
         "Southeast Asia",
         "Thailand",
-        "UK"
-      ],
-      "score": 0.675,
-      "mentions": 25,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "summary": "Zelenskyy contends that U.S. restrictions on Starshield satellite technology limit Ukraine's ability to detect and counter Russian attacks on its energy infrastructure. The claim suggests that broader access to advanced reconnaissance systems could help Ukraine better defend against strikes targeting power plants and electrical grids.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/zelenskyy-says-russias-energy-attacks-helped-by-starshield-restrictions/article71704646.ece"
-        },
-        {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/romania-black-sea-drone-strike-ships-6552996"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "India",
-        "Middle East",
-        "Russia",
-        "Southeast Asia",
+        "UK",
         "Ukraine"
       ],
-      "score": 0.5907,
-      "mentions": 15,
-      "diversity": 4
+      "score": 0.5744,
+      "mentions": 14,
+      "diversity": 7
     },
     {
-      "rank": 7,
-      "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Israeli forces conducted an airstrike on a Gaza camp that killed a senior Hamas commander, according to military officials. The strike represents a targeted operation against Hamas leadership during the ongoing conflict.",
+      "rank": 4,
+      "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "summary": "Robert Pattinson takes over the role of James Bond following Daniel Craig's exit from the franchise. The actor, known for playing Batman, now joins cinema's most iconic spy characters across multiple planned films.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3374498/top-hamas-commander-killed-israeli-strike-gaza"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/israeli-military-says-it-struck-senior-armed-hamas-commander/article71704070.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 6,
+      "source_count": 9,
       "regions": [
         "Canada",
+        "Germany",
         "Hong Kong",
-        "India",
-        "Pakistan",
+        "Middle East",
+        "New Zealand",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US",
+        "West Africa"
       ],
-      "score": 0.5582,
-      "mentions": 6,
-      "diversity": 5
+      "score": 0.5419,
+      "mentions": 12,
+      "diversity": 7
     },
     {
-      "rank": 8,
-      "headline": "Thousands rally in Czech Republic against state media funding changes",
-      "summary": "Large crowds gathered across the Czech Republic to oppose a government plan that would restructure how public media receives funding. The protests reflect concerns about editorial independence and potential shifts in how state broadcasters operate under the proposed financial changes.",
+      "rank": 5,
+      "headline": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+      "summary": "British authorities are investigating a statement Russell Brand made from prison, which Downing Street has characterized as inappropriate. The statement has prompted official concern and scrutiny regarding Brand's conduct while incarcerated.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/16/russell-brand-and-the-media-that-made-him?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3374646/russell-brand-investigated-over-appalling-message-jail-downing-street-says"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "regions": [
-        "India",
+        "Australia",
+        "Hong Kong",
         "Middle East",
-        "Southeast Asia",
         "UK"
       ],
-      "score": 0.5143,
+      "score": 0.5027,
       "mentions": 5,
       "diversity": 4
     },
     {
-      "rank": 9,
-      "headline": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "A Jordanian court has sentenced three men to death for carrying out a mass shooting at a church that killed multiple worshippers. The attack represents a significant security incident in Jordan, where Christian communities have generally faced less violence than in some neighboring countries in the region.",
+      "rank": 6,
+      "headline": "Klopp says Infantino worse than Blatter",
+      "summary": "Jurgen Klopp criticizes FIFA president Gianni Infantino as more damaging to the organization than his predecessor Sepp Blatter, as the football world faces a leadership decision. UEFA has backed French football chief Philippe Diallo as a candidate to challenge Infantino in the upcoming FIFA presidential election.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3374499/jordan-sentences-3-men-death-over-deadly-church-attack"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Hong Kong",
-        "India",
-        "Pakistan",
+        "Germany",
+        "Middle East",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "West Africa"
       ],
-      "score": 0.4919,
+      "score": 0.4827,
       "mentions": 6,
       "diversity": 4
     },
     {
-      "rank": 10,
-      "headline": "Cape Verde goes to the polls in presidential vote",
-      "summary": "Cape Verdean voters select their next president in an election that could result in the country's first female leader since independence nearly 50 years ago. The vote takes place amid broader national conversations about emigration, a significant issue for the archipelago nation.",
+      "rank": 7,
+      "headline": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+      "summary": "Saudi Arabia has removed the commander of its coalition forces in Yemen, signaling a shift in military leadership after recent territorial losses to Houthi fighters. The dismissal follows the retreat of government-aligned forces from key positions including the Bab al-Mandeb strait, a critical waterway that the Houthis are now moving to control.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece"
+          "link": "https://www.thehindu.com/news/international/after-yemen-setback-saudi-arabia-replaces-military-commander/article71709122.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4801,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "summary": "Ukraine launched a massive drone attack involving over 1,300 unmanned aircraft, striking the Kerch Bridge that connects Russia to occupied Crimea. Russia describes this as the largest drone assault of the war, though damage assessments remain unclear.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4795,
+      "mentions": 19,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+      "summary": "Former military chief Gadi Eisenkot has launched a political bloc positioned to challenge Netanyahu's governing coalition, drawing support from centrist and center-left parties concerned about the direction of Israeli politics. The opposition characterizes Netanyahu's recent actions and rhetoric as threats to democratic institutions, though Eisenkot's bloc occupies different ideological ground than Netanyahu's right-wing coalition.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup/article71709115.ece"
         },
         {
           "name": "Euronews",
-          "link": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election"
+          "link": "https://www.euronews.com/2026/11/16/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup"
         }
       ],
       "source_count": 5,
       "regions": [
         "Africa",
         "Europe",
-        "Germany",
         "India",
+        "Middle East",
         "Southeast Asia"
       ],
-      "score": 0.4618,
-      "mentions": 5,
-      "diversity": 4
+      "score": 0.4382,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
+      "summary": "The COP31 climate talks in Turkey have released draft text that pushes participating nations toward immediate fossil fuel reduction, though significant disagreements remain between wealthy and developing countries on implementation. The proposal represents an effort to narrow gaps between divergent positions while creating space for voluntary coalitions to advance climate action faster than the full negotiating group might agree.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.432,
+      "mentions": 12,
+      "diversity": 5
     }
   ]
 }
