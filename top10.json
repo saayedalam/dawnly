@@ -1,85 +1,35 @@
 {
-  "published_at": "2026-11-16T20:14:39.814109+00:00",
+  "published_at": "2026-11-17T19:04:44.834744+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Russia faces international pressure on multiple fronts",
-      "summary": "Nations are negotiating at the United Nations to establish limits on autonomous weapons systems that can select and engage targets without human intervention. The talks face resistance from major powers including the United States and Russia, who oppose binding restrictions on these emerging military technologies.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-          "summary": "Nations are negotiating at the United Nations to establish limits on autonomous weapons systems that can select and engage targets without human intervention. The talks face resistance from major powers including the United States and Russia, who oppose binding restrictions on these emerging military technologies."
-        },
-        {
-          "headline": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
-          "summary": "The European Union has added Tatyana Kim, founder of Russia's largest e-commerce platform Wildberries, to its sanctions list as part of broader restrictions targeting Russian oligarchs and business figures. The company has indicated it will continue operating despite the sanctions, which typically freeze assets and restrict business activities for targeted individuals."
-        },
-        {
-          "headline": "Estonia to close Russian border crossings after attempted arson attack",
-          "summary": "Estonia is closing all border crossings with Russia following a foiled arson attack that officials attribute to Russian intelligence operatives. The closure represents a significant escalation in tensions between the NATO member and Russia, though Moscow denies involvement in the incident."
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3374616/un-chief-urges-countries-rein-killer-robots-battlefield"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece"
-        }
-      ],
-      "source_count": 11,
-      "regions": [
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "North Africa",
-        "Russia",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.3416,
-      "mentions": 16,
-      "diversity": 11
-    },
-    {
-      "rank": 2,
-      "headline": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-      "summary": "Several prominent technology figures and political leaders are calling for Jensen Huang's reinstatement as Nvidia's CEO following his recent departure. The push appears connected to concerns about regulatory and trade pressures on the chipmaker, particularly around export restrictions and a separate business controversy involving company leadership.",
+      "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "summary": "Jensen Huang signals openness to resuming the Nvidia CEO role he stepped down from in 2024, indicating the company's leadership structure remains flexible despite current management. His willingness to return underscores the significance of his leadership to Nvidia's strategic direction amid ongoing scrutiny of the chip industry's role in US-China competition.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+          "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
         }
       ],
-      "source_count": 24,
+      "source_count": 28,
       "regions": [
+        "Africa",
         "Asia-Pacific",
         "Australia",
         "Canada",
+        "Central Asia & Eastern Europe",
         "Europe",
         "Germany",
         "Global",
@@ -87,300 +37,331 @@
         "India",
         "Indonesia",
         "Japan",
+        "Mexico",
         "Middle East",
-        "Russia",
+        "North Africa",
+        "Pakistan",
         "South Africa",
-        "South America",
         "Southeast Asia",
         "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7894,
-      "mentions": 89,
-      "diversity": 10
+      "score": 0.7786,
+      "mentions": 86,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "A section of the Kerch Bridge connecting Russia to Crimea sustains significant damage, disrupting a critical supply route for Russian forces in the occupied peninsula. Ukrainian officials claim responsibility for the strike, marking a symbolic blow to infrastructure that has become emblematic of Russian control over the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.7163,
+      "mentions": 35,
+      "diversity": 8
     },
     {
       "rank": 3,
-      "headline": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Five European Union countries have established a joint deportation centre in Rwanda where rejected asylum seekers will be processed before removal from Europe. The initiative mirrors similar arrangements other nations have pursued to manage irregular migration while outsourcing processing operations to a third country.",
+      "headline": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "summary": "Trump says the US is treating reported Iranian plans to attack Washington with serious attention, though officials have not confirmed any credible threat exists. Iran has dismissed the allegations while Trump's administration investigates claims involving a potential radiological device.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+          "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
         }
       ],
-      "source_count": 13,
+      "source_count": 10,
       "regions": [
         "Australia",
+        "Canada",
         "Europe",
         "Germany",
-        "Hong Kong",
-        "India",
         "Middle East",
-        "South Africa",
+        "Pakistan",
         "Southeast Asia",
         "Thailand",
-        "UK",
-        "Ukraine"
+        "UK"
       ],
-      "score": 0.5744,
-      "mentions": 14,
-      "diversity": 7
+      "score": 0.5769,
+      "mentions": 11,
+      "diversity": 6
     },
     {
       "rank": 4,
-      "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
-      "summary": "Robert Pattinson takes over the role of James Bond following Daniel Craig's exit from the franchise. The actor, known for playing Batman, now joins cinema's most iconic spy characters across multiple planned films.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "New Zealand",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "West Africa"
-      ],
-      "score": 0.5419,
-      "mentions": 12,
-      "diversity": 7
-    },
-    {
-      "rank": 5,
-      "headline": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "summary": "British authorities are investigating a statement Russell Brand made from prison, which Downing Street has characterized as inappropriate. The statement has prompted official concern and scrutiny regarding Brand's conduct while incarcerated.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/16/russell-brand-and-the-media-that-made-him?traffic_source=rss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3374646/russell-brand-investigated-over-appalling-message-jail-downing-street-says"
-        }
-      ],
-      "source_count": 4,
-      "regions": [
-        "Australia",
-        "Hong Kong",
-        "Middle East",
-        "UK"
-      ],
-      "score": 0.5027,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 6,
-      "headline": "Klopp says Infantino worse than Blatter",
-      "summary": "Jurgen Klopp criticizes FIFA president Gianni Infantino as more damaging to the organization than his predecessor Sepp Blatter, as the football world faces a leadership decision. UEFA has backed French football chief Philippe Diallo as a candidate to challenge Infantino in the upcoming FIFA presidential election.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Germany",
-        "Middle East",
-        "Southeast Asia",
-        "UK",
-        "West Africa"
-      ],
-      "score": 0.4827,
-      "mentions": 6,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-      "summary": "Saudi Arabia has removed the commander of its coalition forces in Yemen, signaling a shift in military leadership after recent territorial losses to Houthi fighters. The dismissal follows the retreat of government-aligned forces from key positions including the Bab al-Mandeb strait, a critical waterway that the Houthis are now moving to control.",
+      "headline": "US officially loses measles-free status after 26 years in historic setback",
+      "summary": "The United States has lost its measles-free status after 26 years, a designation the country had maintained since 2000 through sustained vaccination efforts. The loss reflects a significant outbreak—the worst since 1991—driven largely by declining vaccination rates among certain populations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/after-yemen-setback-saudi-arabia-replaces-military-commander/article71709122.ece"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4801,
-      "mentions": 9,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "summary": "Ukraine launched a massive drone attack involving over 1,300 unmanned aircraft, striking the Kerch Bridge that connects Russia to occupied Crimea. Russia describes this as the largest drone assault of the war, though damage assessments remain unclear.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Canada",
-        "Europe",
-        "Hong Kong",
-        "India",
-        "Pakistan",
-        "Russia",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.4795,
-      "mentions": 19,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-      "summary": "Former military chief Gadi Eisenkot has launched a political bloc positioned to challenge Netanyahu's governing coalition, drawing support from centrist and center-left parties concerned about the direction of Israeli politics. The opposition characterizes Netanyahu's recent actions and rhetoric as threats to democratic institutions, though Eisenkot's bloc occupies different ideological ground than Netanyahu's right-wing coalition.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup/article71709115.ece"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/11/16/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Africa",
-        "Europe",
-        "India",
-        "Middle East",
-        "Southeast Asia"
-      ],
-      "score": 0.4382,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 10,
-      "headline": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-      "summary": "The COP31 climate talks in Turkey have released draft text that pushes participating nations toward immediate fossil fuel reduction, though significant disagreements remain between wealthy and developing countries on implementation. The proposal represents an effort to narrow gaps between divergent positions while creating space for voluntary coalitions to advance climate action faster than the full negotiating group might agree.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says"
+          "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece"
+          "link": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 8,
       "regions": [
         "Canada",
         "Germany",
-        "India",
-        "Pakistan",
-        "South Africa",
+        "Hong Kong",
+        "Middle East",
         "Southeast Asia",
         "UK",
-        "West Africa"
+        "US",
+        "Ukraine"
       ],
-      "score": 0.432,
-      "mentions": 12,
+      "score": 0.5266,
+      "mentions": 11,
       "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Government backs welfare shake-up to prevent 'lost generation'",
+      "summary": "The government is implementing welfare reforms designed to address youth unemployment and disengagement, focusing on people not in education, employment, or training. The policy aims to reduce long-term joblessness among young adults, though analysts debate whether the savings and employment gains will justify the investment required.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3374796/uk-urged-implement-radical-reforms-tackle-youth-jobs-crisis"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5087,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "UK sanctions firms over Israeli West Bank settlements",
+      "summary": "The UK has imposed sanctions on eight Israeli construction firms operating in West Bank settlements, marking the government's first enforcement action of this kind under Foreign Secretary Ed Miliband. The move reflects Britain's stated commitment to preserving the possibility of a two-state solution by discouraging settlement expansion in Palestinian territories.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.469,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "summary": "Iran has launched drone strikes targeting a U.S. military radar system at Sheikh Isa air base in Bahrain, home to the U.S. Navy's 5th Fleet, as part of escalating tensions in the Persian Gulf region. The strikes follow U.S. military operations against Iranian positions, with both nations conducting attacks across the strategically vital waterway.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374775/iran-fires-drones-us-military-radar-system-bahrain-amid-gulf-tensions"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.4527,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
+      "summary": "The EU and ASEAN are working to expand trade relationships, though companies operating across the region face obstacles beyond formal tariffs, including inconsistent regulations and administrative practices that complicate doing business. These negotiations occur as ASEAN simultaneously pursues parallel economic partnerships with other major powers including South Korea, Australia, and the United States.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3374788/singapore-will-be-asean-chair-whats-its-biggest-challenge"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan"
+      ],
+      "score": 0.3982,
+      "mentions": 23,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+      "summary": "Philippe Diallo, the French Football Federation president, has announced his candidacy against incumbent Gianni Infantino in the upcoming FIFA presidential election and asserts he has backing from football federations across multiple continents beyond Europe. His challenge to Infantino represents a significant attempt to broaden the leadership race beyond the sitting president, who has dominated FIFA governance since 2016.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/17/frances-philippe-diallo-enters-race-for-fifa-president/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Middle East"
+      ],
+      "score": 0.3929,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "summary": "Five European Union countries plan to establish migration processing centers in Rwanda where asylum seekers arriving in Europe would be transferred for processing and potential deportation. Human rights organizations and UN officials have raised concerns that the arrangement may violate international law regarding refugee protection and the responsibility of countries to assess asylum claims on their own territory.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/17/hrw-rwanda-migration-hub-plan-risks-violating-international-law/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/un-rights-chief-concerned-by-eu-countries-rwanda-migrant-hub-plans"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "North Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.308,
+      "mentions": 6,
+      "diversity": 4
     }
   ]
 }
