@@ -1,0 +1,376 @@
+{
+  "published_at": "2026-11-18T18:48:41.221153+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "'Coalition of the Willing' meets in Berlin: Europe remains committed to Ukraine",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "'Coalition of the Willing' meets in Berlin: Europe remains committed to Ukraine"
+        },
+        {
+          "headline": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge"
+        },
+        {
+          "headline": "Ukraine: Kyiv targets Krasnodar refineries after felling Kerch bridge"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3374925/eu-proposes-new-us49-billion-ukraine-loan-2027"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/explainer-what-is-the-eus-new-eu45-billion-ukraine-loan-plan"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.3908,
+      "mentions": 22,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+        }
+      ],
+      "source_count": 27,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Mexico",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8566,
+      "mentions": 50,
+      "diversity": 10
+    },
+    {
+      "rank": 3,
+      "headline": "What's behind the recent flurry of global tech outages?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/opinion/ground-stop-airplanes-sean-duffy.html"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.675,
+      "mentions": 18,
+      "diversity": 8
+    },
+    {
+      "rank": 4,
+      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6664,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Europe",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5717,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Gamers react as New Zealand first to see Grand Theft Auto 6",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cmg4652xzexvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Indonesia",
+        "Japan",
+        "New Zealand",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.5442,
+      "mentions": 14,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374954/israels-parliament-moves-roll-back-netanyahus-divisive-legacy"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.5377,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Japan",
+        "US"
+      ],
+      "score": 0.5345,
+      "mentions": 8,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Israeli forces launch new military operation in central Gaza",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5144,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/politics/article/3374868/iran-us-trade-threats-over-dirty-bombs-and-first-strikes-new-war-wave-looms"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Middle East"
+      ],
+      "score": 0.4306,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}

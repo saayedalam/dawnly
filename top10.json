@@ -1,35 +1,34 @@
 {
-  "published_at": "2026-11-17T19:04:44.834744+00:00",
+  "published_at": "2026-11-18T18:47:57.592088+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Jensen Huang signals openness to resuming the Nvidia CEO role he stepped down from in 2024, indicating the company's leadership structure remains flexible despite current management. His willingness to return underscores the significance of his leadership to Nvidia's strategic direction amid ongoing scrutiny of the chip industry's role in US-China competition.",
+      "headline": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "summary": "Trump meets simultaneously with Xi and Putin at an international summit, marking an unusual diplomatic configuration that benefits Russia by elevating its role alongside China and the United States. The gathering allows Putin to participate in high-level talks despite geopolitical tensions, effectively positioning Russia as a central player in global affairs rather than a sidelined party.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+          "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
         }
       ],
-      "source_count": 28,
+      "source_count": 27,
       "regions": [
         "Africa",
         "Asia-Pacific",
         "Australia",
         "Canada",
-        "Central Asia & Eastern Europe",
         "Europe",
         "Germany",
         "Global",
@@ -41,327 +40,331 @@
         "Middle East",
         "North Africa",
         "Pakistan",
-        "South Africa",
+        "Russia",
+        "South America",
         "Southeast Asia",
         "Thailand",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.7786,
-      "mentions": 86,
-      "diversity": 9
+      "score": 0.83,
+      "mentions": 81,
+      "diversity": 10
     },
     {
       "rank": 2,
-      "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "A section of the Kerch Bridge connecting Russia to Crimea sustains significant damage, disrupting a critical supply route for Russian forces in the occupied peninsula. Ukrainian officials claim responsibility for the strike, marking a symbolic blow to infrastructure that has become emblematic of Russian control over the region.",
+      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary": "House Democrats have nominated Hakeem Jeffries for Speaker, a position that would make him the first Black lawmaker to hold the role if confirmed by the full chamber. Jeffries, the current House Democratic leader, faces the challenge of uniting a party with competing priorities as Republicans hold the majority.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
-        }
-      ],
-      "source_count": 17,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Russia",
-        "South Africa",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.7163,
-      "mentions": 35,
-      "diversity": 8
-    },
-    {
-      "rank": 3,
-      "headline": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "summary": "Trump says the US is treating reported Iranian plans to attack Washington with serious attention, though officials have not confirmed any credible threat exists. Iran has dismissed the allegations while Trump's administration investigates claims involving a potential radiological device.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+          "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
         }
       ],
       "source_count": 10,
       "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6279,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Ukrainian forces are using abandoned Soviet-era gas pipelines as underground routes to move troops and supplies while avoiding Russian aerial surveillance and attacks. The pipeline network, stretching across contested territory, has become a strategic asset in Ukraine's asymmetric approach to defending areas where conventional movement above ground has become increasingly dangerous.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.5938,
+      "mentions": 31,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "What's behind the recent flurry of global tech outages?",
+      "summary": "Recent global technology outages stem partly from hasty software updates deployed to address vulnerabilities, with AI tools accelerating the pace of bug-fixing efforts across systems. U.S. officials have found no evidence linking the incidents to coordinated attacks, though lawmakers are pressing for stronger safeguards against future vulnerabilities exposed during rapid remediation cycles.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 12,
+      "regions": [
         "Australia",
         "Canada",
+        "Europe",
+        "Global",
+        "India",
+        "South Africa",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.583,
+      "mentions": 14,
+      "diversity": 8
+    },
+    {
+      "rank": 5,
+      "headline": "Israeli forces launch new military operation in central Gaza",
+      "summary": "Israeli military forces have launched a ground operation in central Gaza, marking a resumption of active combat operations in the region. The incursion has resulted in casualties and represents a significant development during what was understood to be an agreed ceasefire period.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
         "Europe",
         "Germany",
         "Middle East",
         "Pakistan",
         "Southeast Asia",
-        "Thailand",
-        "UK"
+        "US"
       ],
-      "score": 0.5769,
-      "mentions": 11,
-      "diversity": 6
-    },
-    {
-      "rank": 4,
-      "headline": "US officially loses measles-free status after 26 years in historic setback",
-      "summary": "The United States has lost its measles-free status after 26 years, a designation the country had maintained since 2000 through sustained vaccination efforts. The loss reflects a significant outbreak—the worst since 1991—driven largely by declining vaccination rates among certain populations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine"
-      ],
-      "score": 0.5266,
-      "mentions": 11,
+      "score": 0.5347,
+      "mentions": 9,
       "diversity": 5
     },
     {
-      "rank": 5,
-      "headline": "Government backs welfare shake-up to prevent 'lost generation'",
-      "summary": "The government is implementing welfare reforms designed to address youth unemployment and disengagement, focusing on people not in education, employment, or training. The policy aims to reduce long-term joblessness among young adults, though analysts debate whether the savings and employment gains will justify the investment required.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3374796/uk-urged-implement-radical-reforms-tackle-youth-jobs-crisis"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Hong Kong",
-        "India",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.5087,
-      "mentions": 13,
-      "diversity": 4
-    },
-    {
       "rank": 6,
-      "headline": "UK sanctions firms over Israeli West Bank settlements",
-      "summary": "The UK has imposed sanctions on eight Israeli construction firms operating in West Bank settlements, marking the government's first enforcement action of this kind under Foreign Secretary Ed Miliband. The move reflects Britain's stated commitment to preserving the possibility of a two-state solution by discouraging settlement expansion in Palestinian territories.",
+      "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Kuwait's air defenses intercepted an Iranian drone attack on a U.S. air base within its territory, marking Iran's first offensive action in the region in two months. The strike follows a U.S. military operation against Iran's Qeshm Island and appears part of a broader Iranian response that also targeted Bahrain.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece"
         }
       ],
-      "source_count": 5,
+      "source_count": 9,
       "regions": [
+        "Canada",
+        "Europe",
         "India",
         "Middle East",
-        "Southeast Asia",
+        "Pakistan",
+        "South Africa",
+        "Thailand",
         "UK"
       ],
-      "score": 0.469,
-      "mentions": 5,
-      "diversity": 4
+      "score": 0.5155,
+      "mentions": 10,
+      "diversity": 6
     },
     {
       "rank": 7,
-      "headline": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "summary": "Iran has launched drone strikes targeting a U.S. military radar system at Sheikh Isa air base in Bahrain, home to the U.S. Navy's 5th Fleet, as part of escalating tensions in the Persian Gulf region. The strikes follow U.S. military operations against Iranian positions, with both nations conducting attacks across the strategically vital waterway.",
+      "headline": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+      "summary": "Democrat Mary Peltola wins Alaska's U.S. Senate seat, giving Democrats a 56-44 majority in the chamber and strengthening their position for the next Congress. Nvidia's board decides against reinstating Jensen Huang as chief executive officer, maintaining the recent leadership change at the chip manufacturer.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+          "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3374775/iran-fires-drones-us-military-radar-system-bahrain-amid-gulf-tensions"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html"
         }
       ],
       "source_count": 7,
       "regions": [
         "Canada",
         "Europe",
-        "Hong Kong",
+        "Germany",
         "India",
-        "Middle East",
-        "Southeast Asia",
+        "Japan",
         "US"
       ],
-      "score": 0.4527,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 8,
-      "headline": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
-      "summary": "The EU and ASEAN are working to expand trade relationships, though companies operating across the region face obstacles beyond formal tariffs, including inconsistent regulations and administrative practices that complicate doing business. These negotiations occur as ASEAN simultaneously pursues parallel economic partnerships with other major powers including South Korea, Australia, and the United States.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/week-asia/politics/article/3374788/singapore-will-be-asean-chair-whats-its-biggest-challenge"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Japan"
-      ],
-      "score": 0.3982,
-      "mentions": 23,
+      "score": 0.4847,
+      "mentions": 8,
       "diversity": 4
     },
     {
-      "rank": 9,
-      "headline": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
-      "summary": "Philippe Diallo, the French Football Federation president, has announced his candidacy against incumbent Gianni Infantino in the upcoming FIFA presidential election and asserts he has backing from football federations across multiple continents beyond Europe. His challenge to Infantino represents a significant attempt to broaden the leadership race beyond the sitting president, who has dominated FIFA governance since 2016.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/11/17/frances-philippe-diallo-enters-race-for-fifa-president/"
-        }
-      ],
-      "source_count": 3,
-      "regions": [
-        "Africa",
-        "Germany",
-        "Middle East"
-      ],
-      "score": 0.3929,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-      "summary": "Five European Union countries plan to establish migration processing centers in Rwanda where asylum seekers arriving in Europe would be transferred for processing and potential deportation. Human rights organizations and UN officials have raised concerns that the arrangement may violate international law regarding refugee protection and the responsibility of countries to assess asylum claims on their own territory.",
+      "rank": 8,
+      "headline": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "summary": "The International Court of Justice is preparing to rule on genocide allegations against Myanmar involving the Rohingya, a ruling that could carry significant consequences for the judge overseeing the case. Some observers worry the United States may impose sanctions on the judge if the verdict displeases American interests or allies, raising questions about judicial independence in international law.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+          "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
         },
         {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/11/17/hrw-rwanda-migration-hub-plan-risks-violating-international-law/"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/11/the-rohingya-are-not-a-legal-test-case-we-are-a-people-waiting-for-justice/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "Germany",
+        "Global",
+        "South Africa",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3806,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+      "summary": "Israel's parliament has elected a new speaker backed by opposition parties and figures opposed to Prime Minister Netanyahu, signaling a shift in parliamentary leadership. The election reflects ongoing tensions within Israeli politics following Netanyahu's tenure and suggests the governing coalition now includes members willing to distance themselves from his influence.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374954/israels-parliament-moves-roll-back-netanyahus-divisive-legacy"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.3806,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+      "summary": "The Trump administration's Board of Peace has not deployed the $18 billion in pledged funds for Gaza reconstruction, citing continued hostilities and lack of progress toward a sustainable ceasefire. Both Israeli and Hamas leadership face criticism from the board for obstructing peace efforts and preventing the conditions necessary to implement the aid program.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece"
         },
         {
           "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/un-rights-chief-concerned-by-eu-countries-rwanda-migrant-hub-plans"
+          "link": "https://www.straitstimes.com/world/middle-east/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "regions": [
-        "Africa",
-        "North Africa",
-        "Southeast Asia",
-        "UK",
-        "Ukraine"
+        "India",
+        "Middle East",
+        "Southeast Asia"
       ],
-      "score": 0.308,
-      "mentions": 6,
-      "diversity": 4
+      "score": 0.3616,
+      "mentions": 3,
+      "diversity": 3
     }
   ]
 }
