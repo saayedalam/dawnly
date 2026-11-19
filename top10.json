@@ -1,29 +1,29 @@
 {
-  "published_at": "2026-11-18T18:47:57.592088+00:00",
+  "published_at": "2026-11-19T18:59:39.795114+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "summary": "Trump meets simultaneously with Xi and Putin at an international summit, marking an unusual diplomatic configuration that benefits Russia by elevating its role alongside China and the United States. The gathering allows Putin to participate in high-level talks despite geopolitical tensions, effectively positioning Russia as a central player in global affairs rather than a sidelined party.",
+      "headline": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+      "summary": "Trump, Xi, and Putin convened in a rare trilateral meeting to discuss global stability, with each leader seeking alignment on issues ranging from trade to security concerns. The summit revealed competing interests, as China positioned itself as a peacemaker while observers debated whether the gathering represented genuine cooperation or strategic positioning by the three powers.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+          "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
         }
       ],
-      "source_count": 27,
+      "source_count": 28,
       "regions": [
         "Africa",
         "Asia-Pacific",
@@ -36,11 +36,10 @@
         "India",
         "Indonesia",
         "Japan",
-        "Mexico",
         "Middle East",
-        "North Africa",
         "Pakistan",
         "Russia",
+        "South Africa",
         "South America",
         "Southeast Asia",
         "Thailand",
@@ -48,323 +47,317 @@
         "US",
         "Ukraine"
       ],
-      "score": 0.83,
-      "mentions": 81,
+      "score": 0.7542,
+      "mentions": 131,
       "diversity": 10
     },
     {
       "rank": 2,
-      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "summary": "House Democrats have nominated Hakeem Jeffries for Speaker, a position that would make him the first Black lawmaker to hold the role if confirmed by the full chamber. Jeffries, the current House Democratic leader, faces the challenge of uniting a party with competing priorities as Republicans hold the majority.",
+      "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "summary": "The International Court of Justice has determined that Myanmar's military committed genocide against the Rohingya minority, validating claims that systematic violence between 2016 and 2017 constituted intentional efforts to destroy the group. The ruling establishes legal accountability for mass killings and displacement that drove over 700,000 Rohingya from Myanmar into refugee camps, though enforcement remains uncertain as Myanmar's government has denied the charges.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
+          "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
         }
       ],
-      "source_count": 10,
+      "source_count": 17,
       "regions": [
+        "Africa",
+        "Asia-Pacific",
         "Canada",
+        "Europe",
         "Germany",
         "Hong Kong",
         "India",
+        "Japan",
         "Middle East",
-        "Southeast Asia",
+        "North Africa",
+        "Pakistan",
+        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.6279,
-      "mentions": 10,
-      "diversity": 6
+      "score": 0.624,
+      "mentions": 34,
+      "diversity": 7
     },
     {
       "rank": 3,
-      "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Ukrainian forces are using abandoned Soviet-era gas pipelines as underground routes to move troops and supplies while avoiding Russian aerial surveillance and attacks. The pipeline network, stretching across contested territory, has become a strategic asset in Ukraine's asymmetric approach to defending areas where conventional movement above ground has become increasingly dangerous.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Russia",
-        "Southeast Asia",
-        "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.5938,
-      "mentions": 31,
-      "diversity": 5
-    },
-    {
-      "rank": 4,
-      "headline": "What's behind the recent flurry of global tech outages?",
-      "summary": "Recent global technology outages stem partly from hasty software updates deployed to address vulnerabilities, with AI tools accelerating the pace of bug-fixing efforts across systems. U.S. officials have found no evidence linking the incidents to coordinated attacks, though lawmakers are pressing for stronger safeguards against future vulnerabilities exposed during rapid remediation cycles.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 12,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Global",
-        "India",
-        "South Africa",
-        "South America",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.583,
-      "mentions": 14,
-      "diversity": 8
-    },
-    {
-      "rank": 5,
-      "headline": "Israeli forces launch new military operation in central Gaza",
-      "summary": "Israeli military forces have launched a ground operation in central Gaza, marking a resumption of active combat operations in the region. The incursion has resulted in casualties and represents a significant development during what was understood to be an agreed ceasefire period.",
+      "headline": "Anthropic starts trading in the US after blockbuster IPO",
+      "summary": "Anthropic begins trading publicly on US exchanges following a highly successful initial public offering that valued the AI safety-focused company at a significant premium. The debut reflects strong investor demand for artificial intelligence companies, though questions persist about whether the market's enthusiasm for AI ventures aligns with the sector's actual profitability and long-term viability.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html"
+          "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
         }
       ],
-      "source_count": 7,
-      "regions": [
-        "Europe",
-        "Germany",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "US"
-      ],
-      "score": 0.5347,
-      "mentions": 9,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "summary": "Kuwait's air defenses intercepted an Iranian drone attack on a U.S. air base within its territory, marking Iran's first offensive action in the region in two months. The strike follows a U.S. military operation against Iran's Qeshm Island and appears part of a broader Iranian response that also targeted Bahrain.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece"
-        }
-      ],
-      "source_count": 9,
-      "regions": [
-        "Canada",
-        "Europe",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "South Africa",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.5155,
-      "mentions": 10,
-      "diversity": 6
-    },
-    {
-      "rank": 7,
-      "headline": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-      "summary": "Democrat Mary Peltola wins Alaska's U.S. Senate seat, giving Democrats a 56-44 majority in the chamber and strengthening their position for the next Congress. Nvidia's board decides against reinstating Jensen Huang as chief executive officer, maintaining the recent leadership change at the chip manufacturer.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Canada",
-        "Europe",
-        "Germany",
-        "India",
-        "Japan",
-        "US"
-      ],
-      "score": 0.4847,
-      "mentions": 8,
-      "diversity": 4
-    },
-    {
-      "rank": 8,
-      "headline": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-      "summary": "The International Court of Justice is preparing to rule on genocide allegations against Myanmar involving the Rohingya, a ruling that could carry significant consequences for the judge overseeing the case. Some observers worry the United States may impose sanctions on the judge if the verdict displeases American interests or allies, raising questions about judicial independence in international law.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Diplomat",
-          "link": "https://thediplomat.com/2026/11/the-rohingya-are-not-a-legal-test-case-we-are-a-people-waiting-for-justice/"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Asia-Pacific",
-        "Germany",
-        "Global",
-        "South Africa",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.3806,
-      "mentions": 6,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-      "summary": "Israel's parliament has elected a new speaker backed by opposition parties and figures opposed to Prime Minister Netanyahu, signaling a shift in parliamentary leadership. The election reflects ongoing tensions within Israeli politics following Netanyahu's tenure and suggests the governing coalition now includes members willing to distance themselves from his influence.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3374954/israels-parliament-moves-roll-back-netanyahus-divisive-legacy"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece"
-        }
-      ],
-      "source_count": 6,
+      "source_count": 13,
       "regions": [
         "Africa",
         "Canada",
-        "Hong Kong",
+        "Europe",
+        "Germany",
+        "Global",
         "India",
-        "South Africa",
-        "UK"
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
       ],
-      "score": 0.3806,
-      "mentions": 6,
-      "diversity": 5
+      "score": 0.5544,
+      "mentions": 19,
+      "diversity": 9
     },
     {
-      "rank": 10,
-      "headline": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-      "summary": "The Trump administration's Board of Peace has not deployed the $18 billion in pledged funds for Gaza reconstruction, citing continued hostilities and lack of progress toward a sustainable ceasefire. Both Israeli and Hamas leadership face criticism from the board for obstructing peace efforts and preventing the conditions necessary to implement the aid program.",
+      "rank": 4,
+      "headline": "Men guilty of abusing woman drugged and advertised for sex by husband",
+      "summary": "A woman in the UK was drugged and raped by multiple men after her husband advertised her online without her knowledge or consent. Four men have been found guilty of sexual assault in the case, which has prompted calls for stronger legal protections around consent.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375127/4-uk-men-guilty-sex-crimes-against-drugged-woman-case-echoes-pelicot"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4226,
+      "mentions": 6,
+      "diversity": 3
+    },
+    {
+      "rank": 5,
+      "headline": "Danish MPs approve Greenland security pact with US",
+      "summary": "Denmark's parliament has approved a trilateral security agreement involving the United States and Greenland, establishing a framework for defense cooperation in the Arctic region. The pact reflects growing strategic interest in Greenland's geopolitical position as climate change opens new shipping routes and resource access in the Arctic.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375094/danish-lawmakers-approve-us-greenland-security-deal"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4209,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "South Korean court orders retrial for ex-PM Han over martial law attempt",
+      "summary": "South Korea's top court has overturned the conviction of former Prime Minister Han Kwan-soo and ordered a retrial in connection with his role in a 2024 martial law declaration. The decision reverses his jail sentence and sends the case back for judicial review on the charges related to the failed martial law attempt.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3375086/south-korea-court-orders-retrial-ex-pm-han-2024-martial-law-case"
         }
       ],
       "source_count": 3,
       "regions": [
-        "India",
-        "Middle East",
-        "Southeast Asia"
+        "Germany",
+        "Hong Kong",
+        "Middle East"
       ],
-      "score": 0.3616,
+      "score": 0.4167,
       "mentions": 3,
       "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+      "summary": "House Democrats have nominated Hakeem Jeffries for speaker, positioning him to become the first Black lawmaker to hold the role if elected. Jeffries has urged party members to focus their energy on opposing Republicans rather than engaging in internal conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/19/democrat-hakeem-jeffries-on-track-to-become-first-black-us-house-speaker/"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.4167,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+      "summary": "Muhammad Yunus's residence was destroyed by fire during escalating violence in Bangladesh, where supporters of exiled former Prime Minister Sheikh Hasina are protesting against the interim government led by Yunus. The arson reflects deepening political tensions as Hasina's party mobilizes against Yunus's leadership and threatens her potential return to the country.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3375123/violence-rises-bangladesh-ex-pm-hasinas-supporters-escalate-protests"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.3673,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
+      "summary": "Houthi forces struck the headquarters of Saudi Arabia's Public Investment Fund, located in Riyadh's tallest building, marking a significant attack on a key symbol of the kingdom's economic power. Saudi air defenses reported intercepting ballistic missiles during the attack, though the extent of damage to the structure remains unclear.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375108/houthis-hit-riyadhs-tallest-skyscraper-strike-saudi-wealth-fund-hq"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/riyadhs-tallest-building-damaged-as-saudi-reports-new-houthi-attacks/article71721448.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3616,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+      "summary": "Somalia has expelled the UAE ambassador and recalled its own envoy to Abu Dhabi, citing violations of its sovereignty and territorial integrity. The expulsion reflects escalating tensions between the two countries over what Somalia views as unauthorized military or political interference in its affairs.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2641216/somalia-orders-uae-ambassador-to-leave-citing-invasion"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somalia-expels-emirati-envoy-recalls-own-ambassador-over-open-invasion"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3509,
+      "mentions": 6,
+      "diversity": 4
     }
   ]
 }

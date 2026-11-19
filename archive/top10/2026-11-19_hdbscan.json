@@ -1,0 +1,335 @@
+{
+  "published_at": "2026-11-19T19:00:45.785675+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
+        }
+      ],
+      "source_count": 16,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.875,
+      "mentions": 25,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Danish MPs approve Greenland security pact with US",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375094/danish-lawmakers-approve-us-greenland-security-deal"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5344,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 3,
+      "headline": "Men guilty of abusing woman drugged and advertised for sex by husband",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375127/4-uk-men-guilty-sex-crimes-against-drugged-woman-case-echoes-pelicot"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5319,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 4,
+      "headline": "No mention of fossil fuels in latest COP31 draft deal",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2641209/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "West Africa"
+      ],
+      "score": 0.5119,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Anthropic starts trading in the US after blockbuster IPO",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Global",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.497,
+      "mentions": 7,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3375123/violence-rises-bangladesh-ex-pm-hasinas-supporters-escalate-protests"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "South Africa",
+        "UK"
+      ],
+      "score": 0.4943,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375108/houthis-hit-riyadhs-tallest-skyscraper-strike-saudi-wealth-fund-hq"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/riyadhs-tallest-building-damaged-as-saudi-reports-new-houthi-attacks/article71721448.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4899,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2641216/somalia-orders-uae-ambassador-to-leave-citing-invasion"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somalia-expels-emirati-envoy-recalls-own-ambassador-over-open-invasion"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4744,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375126/nasas-voyager-1-phones-home-awe-inspiring-1-light-day-away"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/canada/science/article-nasa-voyager-1-one-light-day-away-from-earth/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4593,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "South Korean court orders retrial for ex-PM Han over martial law attempt",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3375086/south-korea-court-orders-retrial-ex-pm-han-2024-martial-law-case"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East"
+      ],
+      "score": 0.45,
+      "mentions": 3,
+      "diversity": 3
+    }
+  ]
+}
