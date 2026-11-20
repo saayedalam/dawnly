@@ -1,29 +1,29 @@
 {
-  "published_at": "2026-11-19T18:59:39.795114+00:00",
+  "published_at": "2026-11-20T18:29:57.527516+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
-      "summary": "Trump, Xi, and Putin convened in a rare trilateral meeting to discuss global stability, with each leader seeking alignment on issues ranging from trade to security concerns. The summit revealed competing interests, as China positioned itself as a peacemaker while observers debated whether the gathering represented genuine cooperation or strategic positioning by the three powers.",
+      "headline": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+      "summary": "A Russian missile struck Polish territory during a period when NATO allies were conducting military exercises near Ukraine's borders. Poland's government has characterized the incident as a provocation, though it remains unclear whether the strike was deliberate targeting or a stray projectile from Russia's ongoing campaign against Ukrainian positions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 28,
+      "source_count": 23,
       "regions": [
         "Africa",
         "Asia-Pacific",
@@ -37,326 +37,333 @@
         "Indonesia",
         "Japan",
         "Middle East",
+        "North Africa",
         "Pakistan",
         "Russia",
-        "South Africa",
         "South America",
         "Southeast Asia",
         "Thailand",
         "UK",
-        "US",
         "Ukraine"
       ],
-      "score": 0.7542,
-      "mentions": 131,
+      "score": 0.8138,
+      "mentions": 87,
       "diversity": 10
     },
     {
       "rank": 2,
-      "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary": "The International Court of Justice has determined that Myanmar's military committed genocide against the Rohingya minority, validating claims that systematic violence between 2016 and 2017 constituted intentional efforts to destroy the group. The ruling establishes legal accountability for mass killings and displacement that drove over 700,000 Rohingya from Myanmar into refugee camps, though enforcement remains uncertain as Myanmar's government has denied the charges.",
+      "headline": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
+      "summary": "The International Court of Justice ruled that Myanmar must take measures to prevent genocide against the Rohingya population, a decision that Myanmar and China have rejected as unfair. Rohingya refugees in Bangladesh view the ruling as validation of their suffering while emphasizing that legal recognition does not address their immediate need to return home and rebuild their lives.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
-        }
-      ],
-      "source_count": 17,
-      "regions": [
-        "Africa",
-        "Asia-Pacific",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "Middle East",
-        "North Africa",
-        "Pakistan",
-        "Thailand",
-        "UK",
-        "US"
-      ],
-      "score": 0.624,
-      "mentions": 34,
-      "diversity": 7
-    },
-    {
-      "rank": 3,
-      "headline": "Anthropic starts trading in the US after blockbuster IPO",
-      "summary": "Anthropic begins trading publicly on US exchanges following a highly successful initial public offering that valued the AI safety-focused company at a significant premium. The debut reflects strong investor demand for artificial intelligence companies, though questions persist about whether the market's enthusiasm for AI ventures aligns with the sector's actual profitability and long-term viability.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss"
+          "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+          "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "regions": [
         "Africa",
+        "Asia-Pacific",
+        "Australia",
         "Canada",
-        "Europe",
         "Germany",
         "Global",
         "India",
         "Indonesia",
         "Japan",
         "Middle East",
-        "South America",
         "Southeast Asia",
-        "UK",
-        "US"
+        "Thailand",
+        "UK"
       ],
-      "score": 0.5544,
-      "mentions": 19,
+      "score": 0.6517,
+      "mentions": 18,
       "diversity": 9
     },
     {
-      "rank": 4,
-      "headline": "Men guilty of abusing woman drugged and advertised for sex by husband",
-      "summary": "A woman in the UK was drugged and raped by multiple men after her husband advertised her online without her knowledge or consent. Four men have been found guilty of sexual assault in the case, which has prompted calls for stronger legal protections around consent.",
+      "rank": 3,
+      "headline": "Burnham gets his first taste of EU dealmaking and seems hungry for more",
+      "summary": "The UK and EU have agreed to a reset deal aimed at rebuilding their relationship following years of post-Brexit friction, with new Prime Minister Burnham signaling enthusiasm for closer cooperation. The agreement marks a significant shift in UK-EU ties after a decade of contentious relations stemming from the 2016 referendum.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband"
+          "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6456,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "At COP31, conflict over climate science slows action on global warming",
+      "summary": "Disagreements over the scientific basis of climate policy are preventing negotiators at COP31 from reaching consensus on emissions reductions and climate finance mechanisms. Nations remain divided on how to structure a just transition away from fossil fuels, pushing talks into overtime as developing countries push for greater financial commitments from wealthy emitters.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375127/4-uk-men-guilty-sex-crimes-against-drugged-woman-case-echoes-pelicot"
+          "link": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.571,
+      "mentions": 15,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Anthropic's shares decline on their second trading day following a strong initial public offering, as investors take profits after the opening surge. The pullback reflects broader weakness across technology and artificial intelligence stocks in current market conditions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.565,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Cost of living protests sweep across Europe",
+      "summary": "Demonstrations across Europe respond to rising costs of living, with workers and students protesting inadequate wages, deteriorating public services, and economic pressures. The protests reflect widespread frustration with economic conditions that stretch household budgets and reduce access to essential services across multiple countries.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5153,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "US Senate passes bill to speed up energy project approvals",
+      "summary": "The U.S. Senate passes legislation that shortens the timeline for federal approval of energy infrastructure projects and data centers, aiming to accelerate development across renewable and conventional energy sectors. The bill draws opposition from some Democrats and environmental groups concerned about potential impacts on regulatory review and environmental protections.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-senate-approves-bill-to-speed-up-permitting-reviews-democrats-and-environmental-groups-oppose/article71723266.ece"
         }
       ],
       "source_count": 4,
       "regions": [
-        "Hong Kong",
+        "India",
+        "Middle East",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.4226,
-      "mentions": 6,
-      "diversity": 3
-    },
-    {
-      "rank": 5,
-      "headline": "Danish MPs approve Greenland security pact with US",
-      "summary": "Denmark's parliament has approved a trilateral security agreement involving the United States and Greenland, establishing a framework for defense cooperation in the Arctic region. The pact reflects growing strategic interest in Greenland's geopolitical position as climate change opens new shipping routes and resource access in the Arctic.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375094/danish-lawmakers-approve-us-greenland-security-deal"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4209,
-      "mentions": 6,
+      "score": 0.4137,
+      "mentions": 4,
       "diversity": 4
     },
     {
-      "rank": 6,
-      "headline": "South Korean court orders retrial for ex-PM Han over martial law attempt",
-      "summary": "South Korea's top court has overturned the conviction of former Prime Minister Han Kwan-soo and ordered a retrial in connection with his role in a 2024 martial law declaration. The decision reverses his jail sentence and sends the case back for judicial review on the charges related to the failed martial law attempt.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/east-asia/article/3375086/south-korea-court-orders-retrial-ex-pm-han-2024-martial-law-case"
-        }
-      ],
-      "source_count": 3,
-      "regions": [
-        "Germany",
-        "Hong Kong",
-        "Middle East"
-      ],
-      "score": 0.4167,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-      "summary": "House Democrats have nominated Hakeem Jeffries for speaker, positioning him to become the first Black lawmaker to hold the role if elected. Jeffries has urged party members to focus their energy on opposing Republicans rather than engaging in internal conflict.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic"
-        },
-        {
-          "name": "Africanews",
-          "link": "http://www.africanews.com/2026/11/19/democrat-hakeem-jeffries-on-track-to-become-first-black-us-house-speaker/"
-        }
-      ],
-      "source_count": 3,
-      "regions": [
-        "Africa",
-        "UK",
-        "US"
-      ],
-      "score": 0.4167,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
       "rank": 8,
-      "headline": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
-      "summary": "Muhammad Yunus's residence was destroyed by fire during escalating violence in Bangladesh, where supporters of exiled former Prime Minister Sheikh Hasina are protesting against the interim government led by Yunus. The arson reflects deepening political tensions as Hasina's party mobilizes against Yunus's leadership and threatens her potential return to the country.",
+      "headline": "Daniel Thomas jailed for 15 months for slashing dinghy",
+      "summary": "Daniel Thomas, founder of an anti-migrant activist group, receives a 15-month prison sentence for slashing a small boat carrying migrants in the English Channel. The incident represents a legal consequence for direct action aimed at preventing migrant crossings, a tactic distinct from political advocacy or protest.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/asia/south-asia/article/3375123/violence-rises-bangladesh-ex-pm-hasinas-supporters-escalate-protests"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/founder-of-uk-anti-migrant-group-jailed-for-slashing-small-boat-in-channel"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "regions": [
-        "Hong Kong",
-        "India",
         "Middle East",
-        "South Africa",
-        "UK"
-      ],
-      "score": 0.3673,
-      "mentions": 5,
-      "diversity": 5
-    },
-    {
-      "rank": 9,
-      "headline": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
-      "summary": "Houthi forces struck the headquarters of Saudi Arabia's Public Investment Fund, located in Riyadh's tallest building, marking a significant attack on a key symbol of the kingdom's economic power. Saudi air defenses reported intercepting ballistic missiles during the attack, though the extent of damage to the structure remains unclear.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3375108/houthis-hit-riyadhs-tallest-skyscraper-strike-saudi-wealth-fund-hq"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/riyadhs-tallest-building-damaged-as-saudi-reports-new-houthi-attacks/article71721448.ece"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Pakistan",
         "Southeast Asia",
         "UK"
       ],
-      "score": 0.3616,
-      "mentions": 10,
-      "diversity": 5
+      "score": 0.3875,
+      "mentions": 3,
+      "diversity": 3
     },
     {
-      "rank": 10,
-      "headline": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
-      "summary": "Somalia has expelled the UAE ambassador and recalled its own envoy to Abu Dhabi, citing violations of its sovereignty and territorial integrity. The expulsion reflects escalating tensions between the two countries over what Somalia views as unauthorized military or political interference in its affairs.",
+      "rank": 9,
+      "headline": "Saudi coalition and Houthis exchange threats to bomb key ports",
+      "summary": "The Saudi-led coalition and Houthi forces are escalating threats and attacks targeting ports and infrastructure in Yemen and Saudi Arabia. Both sides claim to have intercepted or conducted strikes, with the Houthis retaliating against coalition operations while civilians face casualties from the intensifying conflict.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-targeted-yemens-hodeida-other-attacks-ongoing/article71725697.ece"
         },
         {
           "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2641216/somalia-orders-uae-ambassador-to-leave-citing-invasion"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somalia-expels-emirati-envoy-recalls-own-ambassador-over-open-invasion"
+          "link": "https://tribune.com.pk/story/2641336/saudi-led-coalition-says-it-intercepted-houthi-missile-targeting-southern-region"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Africa",
+        "India",
         "Middle East",
         "Pakistan",
         "Southeast Asia"
       ],
-      "score": 0.3509,
-      "mentions": 6,
+      "score": 0.3742,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "California investigates Nvidia over whether chip exports ended up in China",
+      "summary": "California's attorney general is investigating whether Nvidia circumvented U.S. export restrictions designed to prevent advanced chips from reaching China, potentially through intermediaries or unauthorized channels. The probe coincides with separate allegations involving the company's former CEO and questions about supply chain security in relation to Chinese military-linked entities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/asian-american-women-feel-impact-of-nvidia-ceo-affair-scandal-spy-accusations/article71723422.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.3484,
+      "mentions": 7,
       "diversity": 4
     }
   ]

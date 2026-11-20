@@ -1,0 +1,370 @@
+{
+  "published_at": "2026-11-20T18:29:57.527516+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+      "summary": "A Russian missile struck Polish territory during a period when NATO allies were conducting military exercises near Ukraine's borders. Poland's government has characterized the incident as a provocation, though it remains unclear whether the strike was deliberate targeting or a stray projectile from Russia's ongoing campaign against Ukrainian positions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 23,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8138,
+      "mentions": 87,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
+      "summary": "The International Court of Justice ruled that Myanmar must take measures to prevent genocide against the Rohingya population, a decision that Myanmar and China have rejected as unfair. Rohingya refugees in Bangladesh view the ruling as validation of their suffering while emphasizing that legal recognition does not address their immediate need to return home and rebuild their lives.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Germany",
+        "Global",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6517,
+      "mentions": 18,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "Burnham gets his first taste of EU dealmaking and seems hungry for more",
+      "summary": "The UK and EU have agreed to a reset deal aimed at rebuilding their relationship following years of post-Brexit friction, with new Prime Minister Burnham signaling enthusiasm for closer cooperation. The agreement marks a significant shift in UK-EU ties after a decade of contentious relations stemming from the 2016 referendum.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.6456,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "At COP31, conflict over climate science slows action on global warming",
+      "summary": "Disagreements over the scientific basis of climate policy are preventing negotiators at COP31 from reaching consensus on emissions reductions and climate finance mechanisms. Nations remain divided on how to structure a just transition away from fossil fuels, pushing talks into overtime as developing countries push for greater financial commitments from wealthy emitters.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.571,
+      "mentions": 15,
+      "diversity": 7
+    },
+    {
+      "rank": 5,
+      "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Anthropic's shares decline on their second trading day following a strong initial public offering, as investors take profits after the opening surge. The pullback reflects broader weakness across technology and artificial intelligence stocks in current market conditions.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Europe",
+        "India",
+        "Japan",
+        "Middle East",
+        "South Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.565,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Cost of living protests sweep across Europe",
+      "summary": "Demonstrations across Europe respond to rising costs of living, with workers and students protesting inadequate wages, deteriorating public services, and economic pressures. The protests reflect widespread frustration with economic conditions that stretch household budgets and reduce access to essential services across multiple countries.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5153,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "US Senate passes bill to speed up energy project approvals",
+      "summary": "The U.S. Senate passes legislation that shortens the timeline for federal approval of energy infrastructure projects and data centers, aiming to accelerate development across renewable and conventional energy sectors. The bill draws opposition from some Democrats and environmental groups concerned about potential impacts on regulatory review and environmental protections.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-senate-approves-bill-to-speed-up-permitting-reviews-democrats-and-environmental-groups-oppose/article71723266.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4137,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Daniel Thomas jailed for 15 months for slashing dinghy",
+      "summary": "Daniel Thomas, founder of an anti-migrant activist group, receives a 15-month prison sentence for slashing a small boat carrying migrants in the English Channel. The incident represents a legal consequence for direct action aimed at preventing migrant crossings, a tactic distinct from political advocacy or protest.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/founder-of-uk-anti-migrant-group-jailed-for-slashing-small-boat-in-channel"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3875,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Saudi coalition and Houthis exchange threats to bomb key ports",
+      "summary": "The Saudi-led coalition and Houthi forces are escalating threats and attacks targeting ports and infrastructure in Yemen and Saudi Arabia. Both sides claim to have intercepted or conducted strikes, with the Houthis retaliating against coalition operations while civilians face casualties from the intensifying conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-targeted-yemens-hodeida-other-attacks-ongoing/article71725697.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2641336/saudi-led-coalition-says-it-intercepted-houthi-missile-targeting-southern-region"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.3742,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "California investigates Nvidia over whether chip exports ended up in China",
+      "summary": "California's attorney general is investigating whether Nvidia circumvented U.S. export restrictions designed to prevent advanced chips from reaching China, potentially through intermediaries or unauthorized channels. The probe coincides with separate allegations involving the company's former CEO and questions about supply chain security in relation to Chinese military-linked entities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/asian-american-women-feel-impact-of-nvidia-ceo-affair-scandal-spy-accusations/article71723422.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Central Asia & Eastern Europe",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.3484,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
