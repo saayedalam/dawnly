@@ -1,0 +1,347 @@
+{
+  "published_at": "2026-11-21T17:19:12.758515+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push"
+        },
+        {
+          "headline": "China commits to low-carbon electrification and help for others to improve"
+        },
+        {
+          "headline": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/photos/through-the-lens-from-asean-in-manila-to-apec-in-shenzhen"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "UK"
+      ],
+      "score": 0.4402,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 2,
+      "headline": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2641527/as-trump-basks-in-summit-pomp-chinas-xi-strengthens-his-hand"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Southeast Asia",
+        "US",
+        "Ukraine"
+      ],
+      "score": 0.8445,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.7825,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "International UN talks on controlling use of autonomous weapons collapse",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.781,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Indonesia",
+        "South America",
+        "UK"
+      ],
+      "score": 0.7456,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 6,
+      "headline": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Mexico",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.7363,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Australia",
+        "Japan",
+        "North Africa",
+        "UK",
+        "US"
+      ],
+      "score": 0.7123,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-uk-eu-summit-brexit-trade-travel/"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Global",
+        "Indonesia",
+        "South America",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.6856,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6843,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Russian crew evacuating ship hit by drones off coast of Finland",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Thailand",
+        "Ukraine"
+      ],
+      "score": 0.6842,
+      "mentions": 9,
+      "diversity": 4
+    }
+  ]
+}

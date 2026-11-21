@@ -1,370 +1,350 @@
 {
-  "published_at": "2026-11-20T18:29:57.527516+00:00",
+  "published_at": "2026-11-21T17:18:41.551109+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-      "summary": "A Russian missile struck Polish territory during a period when NATO allies were conducting military exercises near Ukraine's borders. Poland's government has characterized the incident as a provocation, though it remains unclear whether the strike was deliberate targeting or a stray projectile from Russia's ongoing campaign against Ukrainian positions.",
+      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukrainian President Zelensky characterizes strikes on the Crimean Bridge as justified retaliation during talks with UK Health Secretary Streeting in Kyiv. The meeting reflects ongoing Western diplomatic engagement with Ukraine as the conflict continues to affect civilian infrastructure across the region.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges"
         }
       ],
-      "source_count": 23,
+      "source_count": 16,
       "regions": [
-        "Africa",
-        "Asia-Pacific",
-        "Australia",
-        "Canada",
         "Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
-        "Indonesia",
         "Japan",
         "Middle East",
-        "North Africa",
         "Pakistan",
         "Russia",
-        "South America",
         "Southeast Asia",
         "Thailand",
-        "UK",
-        "Ukraine"
-      ],
-      "score": 0.8138,
-      "mentions": 87,
-      "diversity": 10
-    },
-    {
-      "rank": 2,
-      "headline": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-      "summary": "The International Court of Justice ruled that Myanmar must take measures to prevent genocide against the Rohingya population, a decision that Myanmar and China have rejected as unfair. Rohingya refugees in Bangladesh view the ruling as validation of their suffering while emphasizing that legal recognition does not address their immediate need to return home and rebuild their lives.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Africa",
-        "Asia-Pacific",
-        "Australia",
-        "Canada",
-        "Germany",
-        "Global",
-        "India",
-        "Indonesia",
-        "Japan",
-        "Middle East",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.6517,
-      "mentions": 18,
-      "diversity": 9
-    },
-    {
-      "rank": 3,
-      "headline": "Burnham gets his first taste of EU dealmaking and seems hungry for more",
-      "summary": "The UK and EU have agreed to a reset deal aimed at rebuilding their relationship following years of post-Brexit friction, with new Prime Minister Burnham signaling enthusiasm for closer cooperation. The agreement marks a significant shift in UK-EU ties after a decade of contentious relations stemming from the 2016 referendum.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss"
-        },
-        {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
-        }
-      ],
-      "source_count": 14,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia",
         "UK",
         "US",
         "Ukraine"
       ],
-      "score": 0.6456,
-      "mentions": 21,
-      "diversity": 7
+      "score": 0.8746,
+      "mentions": 49,
+      "diversity": 6
     },
     {
-      "rank": 4,
-      "headline": "At COP31, conflict over climate science slows action on global warming",
-      "summary": "Disagreements over the scientific basis of climate policy are preventing negotiators at COP31 from reaching consensus on emissions reductions and climate finance mechanisms. Nations remain divided on how to structure a just transition away from fossil fuels, pushing talks into overtime as developing countries push for greater financial commitments from wealthy emitters.",
+      "rank": 2,
+      "headline": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+      "summary": "An Anthropic researcher claims to have used Claude, an AI assistant, to prove the Riemann hypothesis, a 160-year-old mathematical conjecture that has resisted solution by the world's top mathematicians. The claim requires peer review and verification by the mathematics community before acceptance, as proving such a foundational problem would reshape number theory and mathematics broadly.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Africa",
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Middle East",
-        "Southeast Asia"
-      ],
-      "score": 0.571,
-      "mentions": 15,
-      "diversity": 7
-    },
-    {
-      "rank": 5,
-      "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Anthropic's shares decline on their second trading day following a strong initial public offering, as investors take profits after the opening surge. The pullback reflects broader weakness across technology and artificial intelligence stocks in current market conditions.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
         },
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+          "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
         }
       ],
-      "source_count": 10,
+      "source_count": 7,
       "regions": [
-        "Africa",
-        "Europe",
+        "Canada",
+        "Germany",
         "India",
-        "Japan",
         "Middle East",
-        "South Africa",
+        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.565,
-      "mentions": 17,
+      "score": 0.6812,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "International UN talks on controlling use of autonomous weapons collapse",
+      "summary": "Nations at the United Nations failed to reach a legally binding agreement on regulating autonomous weapons systems, with disagreements over enforcement mechanisms and definitions preventing consensus. Delegates agreed to continue negotiations with a target deadline of 2028, though Russia's resistance reportedly delayed more immediate commitments on weapons controls.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.6512,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "summary": "Trump has proposed imposing substantial penalties on American technology companies that construct datacenters outside the United States, framing the policy as a way to keep computing infrastructure and jobs domestic. The threat represents an effort to influence where major tech firms invest in the expensive infrastructure required for artificial intelligence and cloud services.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Indonesia",
+        "South America",
+        "UK"
+      ],
+      "score": 0.5862,
+      "mentions": 8,
       "diversity": 6
     },
     {
-      "rank": 6,
-      "headline": "Cost of living protests sweep across Europe",
-      "summary": "Demonstrations across Europe respond to rising costs of living, with workers and students protesting inadequate wages, deteriorating public services, and economic pressures. The protests reflect widespread frustration with economic conditions that stretch household budgets and reduce access to essential services across multiple countries.",
+      "rank": 5,
+      "headline": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "summary": "Catherine, Princess of Wales, shares her personal experience with cancer diagnosis and treatment in a BBC documentary, reflecting on how the illness has transformed her perspective on life. The film explores her emotional journey while emphasizing themes of resilience and the importance of human connection during difficult times.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss"
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html"
         }
       ],
-      "source_count": 9,
+      "source_count": 5,
       "regions": [
-        "Africa",
-        "Canada",
-        "Europe",
-        "Germany",
-        "India",
-        "Middle East",
+        "Australia",
         "Southeast Asia",
-        "UK"
+        "UK",
+        "US"
       ],
-      "score": 0.5153,
-      "mentions": 10,
-      "diversity": 6
+      "score": 0.5502,
+      "mentions": 7,
+      "diversity": 4
     },
     {
-      "rank": 7,
-      "headline": "US Senate passes bill to speed up energy project approvals",
-      "summary": "The U.S. Senate passes legislation that shortens the timeline for federal approval of energy infrastructure projects and data centers, aiming to accelerate development across renewable and conventional energy sectors. The bill draws opposition from some Democrats and environmental groups concerned about potential impacts on regulatory review and environmental protections.",
+      "rank": 6,
+      "headline": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "summary": "Ismael Zambada Cervantes, known as El Chapo Isidro, was captured in a military raid after years of evading arrest as one of Mexico's most wanted drug traffickers and a leader within the Sinaloa Cartel's fractured organization. His arrest removes a major figure from cartel operations at a time when Mexico's drug trafficking landscape remains volatile and fragmented.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss"
         },
         {
-          "name": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Hong Kong",
+        "Mexico",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.526,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "New EU budget proposal aims at tax gobal tech giants",
+      "summary": "The European Union has proposed a new digital tax on global technology companies as part of its budget framework for 2028-2034, seeking to generate additional revenue for EU finances. The proposal has drawn mixed reactions from member states, with France criticizing the latest draft as insufficient while discussions continue over balancing budget cuts with new revenue sources.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/us-senate-approves-bill-to-speed-up-permitting-reviews-democrats-and-environmental-groups-oppose/article71723266.ece"
+          "link": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "regions": [
+        "Germany",
+        "Hong Kong",
         "India",
-        "Middle East",
         "Southeast Asia",
-        "UK"
+        "Ukraine"
       ],
-      "score": 0.4137,
-      "mentions": 4,
+      "score": 0.4655,
+      "mentions": 6,
       "diversity": 4
     },
     {
       "rank": 8,
-      "headline": "Daniel Thomas jailed for 15 months for slashing dinghy",
-      "summary": "Daniel Thomas, founder of an anti-migrant activist group, receives a 15-month prison sentence for slashing a small boat carrying migrants in the English Channel. The incident represents a legal consequence for direct action aimed at preventing migrant crossings, a tactic distinct from political advocacy or protest.",
+      "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Negotiators at COP31 have extended talks beyond their scheduled end date as nations remain divided over commitments to phase out fossil fuels. The impasse reflects persistent disagreements between major emitters, oil-producing countries, and climate-vulnerable nations over how to structure climate action going forward.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/founder-of-uk-anti-migrant-group-jailed-for-slashing-small-boat-in-channel"
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
         }
       ],
-      "source_count": 3,
+      "source_count": 8,
       "regions": [
-        "Middle East",
+        "Canada",
+        "Europe",
+        "Germany",
         "Southeast Asia",
-        "UK"
+        "Thailand",
+        "UK",
+        "West Africa"
       ],
-      "score": 0.3875,
-      "mentions": 3,
-      "diversity": 3
+      "score": 0.4642,
+      "mentions": 10,
+      "diversity": 4
     },
     {
       "rank": 9,
-      "headline": "Saudi coalition and Houthis exchange threats to bomb key ports",
-      "summary": "The Saudi-led coalition and Houthi forces are escalating threats and attacks targeting ports and infrastructure in Yemen and Saudi Arabia. Both sides claim to have intercepted or conducted strikes, with the Houthis retaliating against coalition operations while civilians face casualties from the intensifying conflict.",
+      "headline": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "A jury has convicted a man of arson for starting the Palisades fire, one of California's most destructive wildfires in recent years. The conviction follows a retrial and establishes legal accountability for a fire that caused multiple deaths and displaced thousands of residents across Los Angeles.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-targeted-yemens-hodeida-other-attacks-ongoing/article71725697.ece"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2641336/saudi-led-coalition-says-it-intercepted-houthi-missile-targeting-southern-region"
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-us-jury-finds-man-guilty-of-starting-deadly-palisades-fire/"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "regions": [
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia"
+        "Canada",
+        "Germany",
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.3742,
-      "mentions": 8,
+      "score": 0.4377,
+      "mentions": 4,
       "diversity": 3
     },
     {
       "rank": 10,
-      "headline": "California investigates Nvidia over whether chip exports ended up in China",
-      "summary": "California's attorney general is investigating whether Nvidia circumvented U.S. export restrictions designed to prevent advanced chips from reaching China, potentially through intermediaries or unauthorized channels. The probe coincides with separate allegations involving the company's former CEO and questions about supply chain security in relation to Chinese military-linked entities.",
+      "headline": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+      "summary": "An Indian national has been sentenced to 19 years in prison for orchestrating a plot to assassinate a Sikh separatist leader in New York. The case reflects ongoing tensions between India's government and Sikh independence movements, with the conspiracy allegedly directed at a prominent figure in the diaspora community.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/asian-american-women-feel-impact-of-nvidia-ceo-affair-scandal-spy-accusations/article71723422.ece"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "regions": [
-        "Central Asia & Eastern Europe",
-        "India",
-        "Southeast Asia",
-        "UK",
-        "US"
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "UK"
       ],
-      "score": 0.3484,
-      "mentions": 7,
-      "diversity": 4
+      "score": 0.4377,
+      "mentions": 4,
+      "diversity": 3
     }
   ]
 }
