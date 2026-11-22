@@ -1,0 +1,355 @@
+{
+  "published_at": "2026-11-22T17:45:10.268719+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "summary": "Delegates at COP31 ended negotiations without reaching agreement on financing for climate-vulnerable nations or commitments to reduce fossil fuel dependence. The breakdown reflects deep disagreement among countries on how to fund climate adaptation and transition away from coal, oil, and gas.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "New Zealand",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7475,
+      "mentions": 25,
+      "diversity": 8
+    },
+    {
+      "rank": 2,
+      "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "An explosion damaged a Russian vessel docked at Libya's Benghazi naval base, with Libyan officials attributing the incident to a drone strike. The attack occurs amid ongoing regional tensions and follows a pattern of maritime incidents affecting Russian-linked shipping in contested waters.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+        }
+      ],
+      "source_count": 14,
+      "regions": [
+        "Africa",
+        "Canada",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.7444,
+      "mentions": 27,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "summary": "Mexican special forces arrested Ismael \"El Chapo\" Isidro Meza Flores, a major drug trafficker who controlled a faction of the Sinaloa Cartel, following a confrontation in northern Mexico. The operation resulted in eleven deaths as armed groups clashed during the raid and its aftermath.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Europe",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.6569,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "summary": "Israeli settlers have launched coordinated attacks across multiple Palestinian villages in the occupied West Bank, burning vehicles and damaging property. Israeli political figures, including those in opposition to Prime Minister Netanyahu, are publicly characterizing these actions as terrorism and calling for accountability.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "North Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5941,
+      "mentions": 14,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+      "summary": "A boat carrying passengers to a funeral in Nigeria capsizes, killing at least 24 people in what appears to be one of several recent maritime accidents in the region. The incident underscores ongoing safety concerns around water transport in Nigeria, where overcrowding and inadequate vessel maintenance contribute to periodic disasters.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2641678/death-toll-from-nigeria-boat-accident-rises-to-24"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4958,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "summary": "Former Prime Minister Theresa May has criticized Andy Burnham's proposals to reshape Britain's relationship with the European Union, arguing that the country should accept Brexit as settled and focus on other priorities. Burnham, who leads the Labour Party, has suggested reopening negotiations with Brussels on trade and regulatory alignment, a position that May and other former premiers view as backward-looking.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ex-uk-pm-theresa-may-tells-successor-to-move-on-from-brexit/article71732109.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "India",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4814,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "US: ICE arrests 2 at Seattle airport in 'chilling' scenes — governor",
+      "summary": "Immigration enforcement officers arrested two people at Seattle-Tacoma International Airport during boarding, prompting the Washington governor to criticize the agency's tactics and conduct. The arrests disrupted passengers and flights, raising questions about immigration enforcement procedures at civilian transportation hubs.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-governor/a-80012480?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375353/horrific-ice-arrests-seattle-airport-jet-bridge-rattles-passengers-fuels-outrage"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/article71730599.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Southeast Asia"
+      ],
+      "score": 0.4243,
+      "mentions": 6,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+      "summary": "A fire swept through a confectionery factory in Indonesia, killing at least three people with dozens more unaccounted for in the aftermath. Search and rescue operations continue as authorities work to locate the missing workers and determine the fire's cause.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3375375/indonesia-searches-50-recovers-7-body-bags-after-factory-fire"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.4196,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "South Korea's education minister resigns following widespread use of artificial intelligence to cheat on university entrance exams, a critical assessment that undermines the nation's highly competitive education system. The scandal exposes gaps in exam security protocols designed to maintain the integrity of tests that determine academic and career trajectories for hundreds of thousands of students annually.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3375362/south-koreas-education-minister-quits-amid-backlash-over-anti-cheating-exam-checks"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Pakistan",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.3905,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+      "summary": "A British endurance swimmer completed a crossing of the Strait of Hormuz to draw attention to the environmental damage caused by regional military conflicts and shipping activity. The swim serves as a physical demonstration of how geopolitical tensions in one of the world's most strategically important waterways affect marine ecosystems and wildlife.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/middle-east/an-endurance-athlete-swam-the-strait-of-hormuz-to-highlight-iran-war-s-impact-on-wildlife-20261122-p61g7k.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/british-man-swims-in-strait-of-hormuz-to-highlight-environmental-damage"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.3551,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}
