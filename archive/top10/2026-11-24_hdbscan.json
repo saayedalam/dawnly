@@ -1,0 +1,383 @@
+{
+  "published_at": "2026-11-24T20:38:28.834716+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Pakistani astronaut to join Chinese space mission",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Pakistani astronaut to join Chinese space mission"
+        },
+        {
+          "headline": "EU imposes import quotas for hybrid vehicles from China"
+        },
+        {
+          "headline": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/11/first-pakistani-astronaut-is-about-to-head-to-space-on-a-chinese-spacecraft/"
+        }
+      ],
+      "source_count": 11,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Japan",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.4599,
+      "mentions": 14,
+      "diversity": 10
+    },
+    {
+      "rank": 2,
+      "headline": "Bombed factories, billion-dollar opportunity: Why German companies are staying in Ukraine",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "Bombed factories, billion-dollar opportunity: Why German companies are staying in Ukraine"
+        },
+        {
+          "headline": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage"
+        },
+        {
+          "headline": "Ukraine needs $160 billion in external support in 2027, Zelensky says"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/bombed-factories-billion-dollar-opportunity-why-german-companies-are-staying-in-ukraine/a-80030201?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/narrow-majority-of-germans-oppose-military-aid-to-ukraine-in-survey"
+        },
+        {
+          "name": "Kyiv Post",
+          "link": "https://www.kyivpost.com/post/91073"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Global",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.3671,
+      "mentions": 16,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants"
+        },
+        {
+          "headline": "At least 490,000 Russian soldiers killed in Ukraine, Rosstat data leak reveals"
+        },
+        {
+          "headline": "South Korea tells island residents to take shelter as Russian warplanes near its airspace"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation"
+        },
+        {
+          "name": "The Moscow Times",
+          "link": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.25,
+      "mentions": 10,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+        }
+      ],
+      "source_count": 20,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Canada",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.825,
+      "mentions": 43,
+      "diversity": 9
+    },
+    {
+      "rank": 5,
+      "headline": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375660/uk-police-arrest-2-men-after-break-prince-williams-norfolk-home"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6166,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 6,
+      "headline": "Colombia at a Crossroads: Searching for peace amid conflict",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/colombia-car-bomb-attack-injures-at-least-23/a-80033956?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/car-bomb-destroys-buildings-in-villavicencio-says-colombian-president-de-la-espriella/article71737324.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "South America"
+      ],
+      "score": 0.5239,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375579/late-popes-diary-recounts-seeing-devil-gates-hell"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South America",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.4914,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 8,
+      "headline": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.4786,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/land-mine-deaths-reach-five-year-high-watchdog-says/a-80033092?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375629/myanmar-syria-top-list-global-landmine-casualties-hit-5-year-high-7000"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Thailand"
+      ],
+      "score": 0.4566,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Senior Hamas security official killed in Israeli drone strikes",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375657/hamas-security-chief-killed-israeli-air-strike-gaza-city"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4446,
+      "mentions": 5,
+      "diversity": 5
+    }
+  ]
+}

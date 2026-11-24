@@ -1,362 +1,360 @@
 {
-  "published_at": "2026-11-23T22:02:08.598804+00:00",
+  "published_at": "2026-11-24T20:37:32.300176+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Faisal Islam: Why Jensen Huang proved too big to fire",
-      "summary": "Jensen Huang has been reinstated as Nvidia's CEO following his earlier removal amid allegations related to China espionage concerns. Huang's return reflects his central importance to the company's operations and market position, suggesting that Nvidia's leadership determined his departure created greater risks than his retention.",
+      "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "summary": "Concerns persist about artificial intelligence's economic and social impacts despite the sector's rapid growth and investor enthusiasm. Tech leaders and policymakers remain divided on whether current regulatory approaches adequately address risks ranging from labor displacement to energy consumption.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
         }
       ],
-      "source_count": 18,
+      "source_count": 20,
       "regions": [
         "Africa",
-        "Asia-Pacific",
         "Australia",
         "Canada",
+        "Europe",
         "Germany",
         "Global",
+        "Hong Kong",
         "India",
         "Japan",
         "Middle East",
         "North Africa",
+        "Pakistan",
         "South Africa",
-        "South America",
         "Southeast Asia",
         "UK",
         "US"
       ],
-      "score": 0.6969,
-      "mentions": 39,
-      "diversity": 10
+      "score": 0.7812,
+      "mentions": 45,
+      "diversity": 9
     },
     {
       "rank": 2,
-      "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine has conducted strikes against Russian military assets in Libya and the Baltic region, extending its attacks beyond the traditional conflict zone. The incidents signal Ukraine's ability to project force across distant waters and reflect escalating tensions that reach beyond Ukraine's borders.",
+      "headline": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+      "summary": "Western businesses that support Ukraine face increasing risks from Russian sabotage operations, prompting security officials to urge immediate defensive action. The threat reflects Russia's escalating tactics beyond the battlefield, targeting supply chains and infrastructure tied to Ukrainian aid and weapons production.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss"
         },
         {
           "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+          "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
         }
       ],
-      "source_count": 21,
+      "source_count": 13,
       "regions": [
-        "Africa",
         "Australia",
-        "Canada",
         "Europe",
-        "Germany",
-        "Global",
         "India",
         "Middle East",
-        "North Africa",
         "Pakistan",
         "Russia",
-        "South Africa",
         "Southeast Asia",
-        "Thailand",
         "UK",
         "US",
-        "Ukraine"
+        "Ukraine",
+        "West Africa"
       ],
-      "score": 0.675,
-      "mentions": 60,
-      "diversity": 8
+      "score": 0.681,
+      "mentions": 37,
+      "diversity": 7
     },
     {
       "rank": 3,
-      "headline": "What collapse of COP31 talks reveals about an increasingly divided world",
-      "summary": "Nations failed to reach a climate agreement at COP31 after disagreeing over whether the final text should include language committing to phasing out fossil fuels, with the European Union and allies refusing to accept a deal without this provision. The breakdown reflects deeper fractures in global climate negotiations, as wealthy and developing nations remain at odds over the pace and burden of emissions reductions.",
+      "headline": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "summary": "Police arrested two people following a break-in at Anmer Hall, the Norfolk residence of the Prince and Princess of Wales. The incident highlights ongoing security concerns at royal properties, though no details have been released about what was taken or the circumstances of the intruders' entry.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375660/uk-police-arrest-2-men-after-break-prince-williams-norfolk-home"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.5275,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'",
+      "summary": "Newly published excerpts from Pope Francis's personal diary describe spiritual experiences in which he encountered what he perceived as demonic forces and visions of hell. The revelations, included in a book by Argentine Cardinal Víctor Manuel Fernández, offer rare insight into the pontiff's inner spiritual struggles and prayer life.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375579/late-popes-diary-recounts-seeing-devil-gates-hell"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South America",
+        "Thailand",
+        "US"
+      ],
+      "score": 0.4455,
+      "mentions": 8,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Saudi condemns ‘terrorist attack’ after Riyadh skyscraper hit twice in a week",
+      "summary": "A financial district tower in Riyadh sustained damage from attacks twice within seven days, with Saudi authorities attributing the strikes to Houthi militants. The incident reflects escalating exchanges between Saudi Arabia and Yemen's Houthi movement, which accuse each other of targeting civilian infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375667/saudi-condemns-terrorist-attack-after-riyadh-skyscraper-hit-twice-week"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/yemen-officials-say-strike-on-buses-trucks-kills-26/article71739839.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642022/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4333,
+      "mentions": 13,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
+      "summary": "Senegal regains the 2025 Africa Cup of Nations title after the Court of Arbitration for Sport upholds their appeal against an earlier decision. Morocco, who had been declared winners following the initial ruling, signals its intention to continue challenging the outcome.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cop-deadlock-prompts-calls-for-a-reset-of-climate-diplomacy/a-80020494?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 14,
+      "source_count": 8,
       "regions": [
         "Africa",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.4268,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Pakistani astronaut to join Chinese space mission",
+      "summary": "Pakistan's first astronaut will fly to the Chinese space station aboard the Shenzhou-24 spacecraft, marking China's first crewed mission to include a foreign national. This collaboration reflects deepening space cooperation between Beijing and Islamabad and expands the international presence on China's orbital station.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece"
+        },
+        {
+          "name": "The Diplomat",
+          "link": "https://thediplomat.com/2026/11/first-pakistani-astronaut-is-about-to-head-to-space-on-a-chinese-spacecraft/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
         "Asia-Pacific",
         "Canada",
         "Germany",
         "Hong Kong",
         "India",
-        "Middle East",
-        "Pakistan",
-        "South Africa",
-        "South America",
-        "Southeast Asia",
-        "Thailand",
-        "UK"
-      ],
-      "score": 0.5943,
-      "mentions": 17,
-      "diversity": 8
-    },
-    {
-      "rank": 4,
-      "headline": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
-      "summary": "Don Toliver has postponed two upcoming arena dates following an evacuation at his Manchester concert, where an unknown substance was released into the crowd. The incident forced thousands of attendees to leave the venue, with reports suggesting the substance may have been tear gas.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375481/thousands-evacuated-uk-concert-after-unknown-substance-released"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Australia",
-        "Canada",
-        "Hong Kong",
-        "Middle East",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4823,
-      "mentions": 7,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-      "summary": "India announces $1.6 billion in flood relief funds for Nepal during Prime Minister Balendra Shah's visit to New Delhi, addressing damage from recent glacial flooding in the region. The aid package signals India's commitment to supporting its neighbor's recovery while the two countries work to strengthen bilateral relations.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Europe",
-        "Germany",
-        "India",
-        "Japan",
-        "Middle East",
         "Thailand"
       ],
-      "score": 0.4268,
+      "score": 0.4255,
       "mentions": 6,
       "diversity": 5
     },
     {
-      "rank": 6,
-      "headline": "Turkish police hunting for lioness stalking Istanbul",
-      "summary": "Turkish police are searching for a lioness that has been spotted on the outskirts of Istanbul, prompting authorities to increase patrols in affected neighborhoods. The animal's origin remains unclear, though officials are working to locate and contain it safely.",
+      "rank": 8,
+      "headline": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+      "summary": "Landmine casualties worldwide reached approximately 7,000 people in the most recent year tracked, marking the highest toll in five years. Myanmar and Syria account for a substantial portion of these casualties, reflecting ongoing conflict and the widespread presence of mines in those regions.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/land-mine-deaths-reach-five-year-high-watchdog-says/a-80033092?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375518/turkish-authorities-search-lioness-spotted-istanbuls-outskirts"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375629/myanmar-syria-top-list-global-landmine-casualties-hit-5-year-high-7000"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "regions": [
-        "Europe",
         "Germany",
         "Hong Kong",
-        "Middle East",
-        "Southeast Asia"
+        "Middle East"
       ],
-      "score": 0.3913,
-      "mentions": 5,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
-      "summary": "Denmark's highest court has upheld legislation that allows authorities to demolish residences in designated neighborhoods and relocate residents based on immigration and crime statistics. The ruling reinforces the government's approach to managing areas with high concentrations of non-Western immigrants, which the government classifies as \"ghettos.\"",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/denmarks-top-court-backs-ghetto-law-evictions-in-boost-to-countrys-hard-line-on-immigration"
-        }
-      ],
-      "source_count": 3,
-      "regions": [
-        "Germany",
-        "Middle East",
-        "Southeast Asia"
-      ],
-      "score": 0.3875,
-      "mentions": 3,
-      "diversity": 3
-    },
-    {
-      "rank": 8,
-      "headline": "Police investigating bomb threats against schools in Germany and Denmark",
-      "summary": "Police in Germany and Denmark are investigating a series of bomb threats targeting schools across both countries. The threats prompt authorities to increase security measures and examine whether the incidents are connected.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/schools-across-germany-denmark-receive-bomb-threats"
-        }
-      ],
-      "source_count": 3,
-      "regions": [
-        "Germany",
-        "Middle East",
-        "Southeast Asia"
-      ],
-      "score": 0.3875,
+      "score": 0.425,
       "mentions": 3,
       "diversity": 3
     },
     {
       "rank": 9,
-      "headline": "Tajikistan moves to leave ICC amid US push against court",
-      "summary": "Tajikistan has initiated withdrawal from the International Criminal Court, joining three other nations in recent departures following diplomatic pressure from the United States. The move reflects broader tensions over the ICC's independence and the US opposition to the court's investigations and reach.",
+      "headline": "Senior Hamas security official killed in Israeli drone strikes",
+      "summary": "Israeli drone strikes in Gaza City kill a senior Hamas security official along with six others in the area. The operation represents a continued pattern of targeted strikes against Hamas leadership and security personnel.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375657/hamas-security-chief-killed-israeli-air-strike-gaza-city"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/tajikistan-becomes-fourth-country-to-withdraw-from-international-criminal-court/article71735286.ece"
-        }
-      ],
-      "source_count": 4,
-      "regions": [
-        "Germany",
-        "India",
-        "Middle East",
-        "Pakistan"
-      ],
-      "score": 0.3628,
-      "mentions": 4,
-      "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Iranian authorities have carried out a flogging of singer Parastoo Ahmadi for performing without a hijab at a concert. The punishment reflects Iran's enforcement of strict dress codes and religious guidelines in public performances.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/11/23/iran-carries-out-flogging-of-singer-who-performed-without-hijab"
+          "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece"
         }
       ],
       "source_count": 5,
       "regions": [
         "Europe",
+        "Hong Kong",
+        "India",
         "Middle East",
-        "Southeast Asia",
+        "Southeast Asia"
+      ],
+      "score": 0.4129,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 10,
+      "headline": "China probes Shanghai party chief Chen Jining over corruption",
+      "summary": "Chen Jining, the Shanghai Communist Party chief and a member of China's Politburo, faces a corruption investigation that marks a significant political shift in one of the country's most economically important cities. The probe reflects Xi Jinping's ongoing efforts to consolidate power through anti-corruption campaigns targeting senior officials.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3375640/shanghai-party-chief-faces-corruption-probe"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
         "UK"
       ],
-      "score": 0.3538,
+      "score": 0.3754,
       "mentions": 5,
-      "diversity": 3
+      "diversity": 4
     }
   ]
 }
