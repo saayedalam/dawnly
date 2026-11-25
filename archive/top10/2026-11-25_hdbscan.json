@@ -1,0 +1,346 @@
+{
+  "published_at": "2026-11-25T19:58:54.889496+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "US announces new tariff proposals on EU, China, and other trade partners",
+      "is_grouped": true,
+      "angle_count": 4,
+      "angles": [
+        {
+          "headline": "US announces new tariff proposals on EU, China, and other trade partners"
+        },
+        {
+          "headline": "Why has China sent the first Pakistani astronaut to space?"
+        },
+        {
+          "headline": "EU plans €50 billion sovereign tech equity fund to boost quantum technology"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 17,
+      "regions": [
+        "Africa",
+        "Asia-Pacific",
+        "Australia",
+        "Europe",
+        "Germany",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.95,
+      "mentions": 34,
+      "diversity": 14
+    },
+    {
+      "rank": 2,
+      "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.7836,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Switzerland forced to close office in North Korea over sanctions feud",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/week-asia/people/article/3375751/us-warns-kim-ju-aes-luxury-ski-gear-may-breach-un-sanctions-north-korea"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.6693,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-police-charge-two-men-over-a-break-in-at-prince-william-and-princess-catherines-country-home/article71742079.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/men-charged-over-royal-home-break-in-20261126-p61hdf.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "North Africa",
+        "UK"
+      ],
+      "score": 0.5424,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.5116,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/international-relations/solomon-islands-chooses-australia-as-primary-security-partner"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Asia-Pacific",
+        "Australia",
+        "Germany",
+        "India",
+        "Indonesia",
+        "Japan"
+      ],
+      "score": 0.5113,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-moving-military-planes-hangars-amid-drone-threat-reports"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/britain-moving-military-aircraft-to-hangars-at-night-over-possible-drone-threats-media-reports-say"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4888,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "At least 30 killed in Egypt vehicle fire, health ministry says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/africa/dozens-of-people-killed-in-egypt-highway-blaze-after-vehicle-overturns-20261126-p61hdo.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4866,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375712/migrant-who-became-symbol-trump-crackdown-leaves-us-voluntarily"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-kilmar-abrego-garcia-immigration-trump-el-salvador/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4866,
+      "mentions": 4,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "Spain: Canary Islands witness 1-day migration record",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Africanews",
+          "link": "http://www.africanews.com/2026/11/25/canary-islands-record-nearly-2000-migrant-arrivals-in-a-single-day/"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/migrant-arrivals-in-spains-canary-islands-break-single-day-record"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Africa",
+        "Germany",
+        "Southeast Asia"
+      ],
+      "score": 0.4771,
+      "mentions": 4,
+      "diversity": 3
+    }
+  ]
+}

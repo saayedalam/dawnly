@@ -1,0 +1,364 @@
+{
+  "published_at": "2026-11-25T19:57:50.506535+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Competing powers reshape global trade and technology landscape",
+      "summary": "The Trump administration has proposed new tariffs on the European Union, China, and roughly a dozen other trading partners, citing unfair trade practices as justification. The announcement has prompted market volatility in US stocks and international concern about potential retaliation and broader economic disruption.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US announces new tariff proposals on EU, China, and other trade partners",
+          "summary": "The Trump administration has proposed new tariffs on the European Union, China, and roughly a dozen other trading partners, citing unfair trade practices as justification. The announcement has prompted market volatility in US stocks and international concern about potential retaliation and broader economic disruption."
+        },
+        {
+          "headline": "Why has China sent the first Pakistani astronaut to space?",
+          "summary": "China has launched Pakistani astronaut Muhammad Ali Sadiq to its space station as part of a bilateral space cooperation agreement that strengthens ties between the two nations. The mission represents Pakistan's first crewed spaceflight and marks China's growing practice of inviting international partners to its orbital station."
+        },
+        {
+          "headline": "EU plans €50 billion sovereign tech equity fund to boost quantum technology",
+          "summary": "The European Union is establishing a €50 billion sovereign equity fund to invest directly in companies developing quantum computing and other strategic technologies, aiming to reduce Europe's technological dependence. The initiative prioritizes European and allied firms while restricting participation from Chinese companies, reflecting the bloc's shift toward building homegrown technological capacity in areas where it currently lags behind global competitors."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 15,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "US"
+      ],
+      "score": 0.8722,
+      "mentions": 28,
+      "diversity": 12
+    },
+    {
+      "rank": 2,
+      "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "summary": "Jensen Huang's perceived indispensability at Nvidia contrasts sharply with the broader principle that no individual worker should be irreplaceable in any organization. The tech leader's centrality to the company's operations and strategy raises questions about succession planning and risk concentration within one of the world's most valuable corporations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Asia-Pacific",
+        "Australia",
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "New Zealand",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7965,
+      "mentions": 22,
+      "diversity": 9
+    },
+    {
+      "rank": 3,
+      "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
+      "summary": "The US Army carried out a controlled detonation of nearly five tonnes of lead azide, a toxic and unstable explosive compound, at a facility in Iowa. The demolition addressed a longstanding safety and environmental concern, though the operation raised questions about air quality and potential health impacts in the surrounding area.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.7282,
+      "mentions": 11,
+      "diversity": 5
+    },
+    {
+      "rank": 4,
+      "headline": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+      "summary": "Military strikes targeting Hodeidah port risk disrupting humanitarian aid flows into Yemen, where millions depend on imports for food and medicine. The escalation reflects intensifying regional conflict as Houthi forces conduct cross-border attacks on Saudi infrastructure while facing increased bombardment from government-aligned forces.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/article71741023.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South Africa"
+      ],
+      "score": 0.604,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Switzerland forced to close office in North Korea over sanctions feud",
+      "summary": "North Korea has expelled Switzerland's top diplomat and ordered the closure of Switzerland's newly established office in Pyongyang in retaliation for Swiss sanctions related to a facility accused of indoctrinating Ukrainian children. Switzerland's diplomatic presence, which served humanitarian and consular functions, becomes the latest casualty in North Korea's response to international pressure over its alleged role in Ukraine-related activities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5813,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Ukraine says it struck two oil refineries in Russia's Samara region",
+      "summary": "Ukraine has conducted drone strikes on oil refineries in Russia's Samara region, targeting energy infrastructure that supplies fuel for military operations. The attacks form part of an escalating pattern in which both nations strike each other's energy facilities, with Russia simultaneously conducting strikes on Ukrainian power and gas infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russian-government-official-warns-of-ukrainian-drone-attacks-on-utility-infrastructure-this-winter"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5736,
+      "mentions": 21,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
+      "summary": "Two men face charges after a break-in at a royal country residence where cufflinks and a clock were targeted for theft. The incident occurred at a property linked to Prince William and Princess Catherine, adding to a series of security concerns at royal locations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-police-charge-two-men-over-a-break-in-at-prince-william-and-princess-catherines-country-home/article71742079.ece"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/men-charged-over-royal-home-break-in-20261126-p61hdf.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Australia",
+        "Canada",
+        "India",
+        "North Africa",
+        "UK"
+      ],
+      "score": 0.5228,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
+      "summary": "The Court of Arbitration for Sport has reinstated Senegal as African Cup of Nations champions, overturning an earlier decision that had favored Morocco. Senegal denies Morocco's claim that it engaged in improper contact with the court during the dispute.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss"
+        },
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
+        },
+        {
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.4934,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+      "summary": "The UK military is relocating aircraft to hangars during nighttime hours as a precautionary measure against potential drone strikes. The move reflects heightened concerns about unmanned aerial threats, possibly linked to Russian capabilities, amid ongoing security assessments.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-moving-military-planes-hangars-amid-drone-threat-reports"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/britain-moving-military-aircraft-to-hangars-at-night-over-possible-drone-threats-media-reports-say"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4727,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "At least 30 killed in Egypt vehicle fire, health ministry says",
+      "summary": "A fuel truck overturned on a highway in Cairo, triggering a massive fire that killed at least 30 people. The blaze spread rapidly through the area, with Egypt's health ministry confirming the death toll.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/africa/dozens-of-people-killed-in-egypt-highway-blaze-after-vehicle-overturns-20261126-p61hdo.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Australia",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.471,
+      "mentions": 4,
+      "diversity": 4
+    }
+  ]
+}

@@ -1,359 +1,363 @@
 {
-  "published_at": "2026-11-24T20:37:32.300176+00:00",
+  "published_at": "2026-11-25T19:57:50.506535+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "summary": "Concerns persist about artificial intelligence's economic and social impacts despite the sector's rapid growth and investor enthusiasm. Tech leaders and policymakers remain divided on whether current regulatory approaches adequately address risks ranging from labor displacement to energy consumption.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
+      "headline": "Competing powers reshape global trade and technology landscape",
+      "summary": "The Trump administration has proposed new tariffs on the European Union, China, and roughly a dozen other trading partners, citing unfair trade practices as justification. The announcement has prompted market volatility in US stocks and international concern about potential retaliation and broader economic disruption.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "US announces new tariff proposals on EU, China, and other trade partners",
+          "summary": "The Trump administration has proposed new tariffs on the European Union, China, and roughly a dozen other trading partners, citing unfair trade practices as justification. The announcement has prompted market volatility in US stocks and international concern about potential retaliation and broader economic disruption."
+        },
+        {
+          "headline": "Why has China sent the first Pakistani astronaut to space?",
+          "summary": "China has launched Pakistani astronaut Muhammad Ali Sadiq to its space station as part of a bilateral space cooperation agreement that strengthens ties between the two nations. The mission represents Pakistan's first crewed spaceflight and marks China's growing practice of inviting international partners to its orbital station."
+        },
+        {
+          "headline": "EU plans €50 billion sovereign tech equity fund to boost quantum technology",
+          "summary": "The European Union is establishing a €50 billion sovereign equity fund to invest directly in companies developing quantum computing and other strategic technologies, aiming to reduce Europe's technological dependence. The initiative prioritizes European and allied firms while restricting participation from Chinese companies, reflecting the bloc's shift toward building homegrown technological capacity in areas where it currently lags behind global competitors."
+        }
+      ],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
-      "source_count": 20,
+      "source_count": 15,
       "regions": [
         "Africa",
         "Australia",
-        "Canada",
         "Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
         "Japan",
         "Middle East",
-        "North Africa",
-        "Pakistan",
-        "South Africa",
         "Southeast Asia",
+        "Thailand",
         "UK",
         "US"
       ],
-      "score": 0.7812,
-      "mentions": 45,
-      "diversity": 9
+      "score": 0.8722,
+      "mentions": 28,
+      "diversity": 12
     },
     {
       "rank": 2,
-      "headline": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-      "summary": "Western businesses that support Ukraine face increasing risks from Russian sabotage operations, prompting security officials to urge immediate defensive action. The threat reflects Russia's escalating tactics beyond the battlefield, targeting supply chains and infrastructure tied to Ukrainian aid and weapons production.",
+      "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "summary": "Jensen Huang's perceived indispensability at Nvidia contrasts sharply with the broader principle that no individual worker should be irreplaceable in any organization. The tech leader's centrality to the company's operations and strategy raises questions about succession planning and risk concentration within one of the world's most valuable corporations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says"
         }
       ],
       "source_count": 13,
       "regions": [
+        "Asia-Pacific",
         "Australia",
-        "Europe",
+        "Canada",
+        "Global",
+        "Hong Kong",
         "India",
-        "Middle East",
-        "Pakistan",
-        "Russia",
+        "Japan",
+        "New Zealand",
+        "North Africa",
+        "South Africa",
         "Southeast Asia",
-        "UK",
-        "US",
-        "Ukraine",
-        "West Africa"
+        "UK"
       ],
-      "score": 0.681,
-      "mentions": 37,
-      "diversity": 7
+      "score": 0.7965,
+      "mentions": 22,
+      "diversity": 9
     },
     {
       "rank": 3,
-      "headline": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-      "summary": "Police arrested two people following a break-in at Anmer Hall, the Norfolk residence of the Prince and Princess of Wales. The incident highlights ongoing security concerns at royal properties, though no details have been released about what was taken or the circumstances of the intruders' entry.",
+      "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
+      "summary": "The US Army carried out a controlled detonation of nearly five tonnes of lead azide, a toxic and unstable explosive compound, at a facility in Iowa. The demolition addressed a longstanding safety and environmental concern, though the operation raised questions about air quality and potential health impacts in the surrounding area.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375660/uk-police-arrest-2-men-after-break-prince-williams-norfolk-home"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-xml-mrss"
         }
       ],
       "source_count": 8,
       "regions": [
-        "Australia",
         "Canada",
+        "Europe",
+        "Germany",
         "Hong Kong",
         "Middle East",
         "Southeast Asia",
-        "Thailand",
-        "UK"
+        "US"
       ],
-      "score": 0.5275,
-      "mentions": 8,
-      "diversity": 6
+      "score": 0.7282,
+      "mentions": 11,
+      "diversity": 5
     },
     {
       "rank": 4,
-      "headline": "Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'",
-      "summary": "Newly published excerpts from Pope Francis's personal diary describe spiritual experiences in which he encountered what he perceived as demonic forces and visions of hell. The revelations, included in a book by Argentine Cardinal Víctor Manuel Fernández, offer rare insight into the pontiff's inner spiritual struggles and prayer life.",
+      "headline": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+      "summary": "Military strikes targeting Hodeidah port risk disrupting humanitarian aid flows into Yemen, where millions depend on imports for food and medicine. The escalation reflects intensifying regional conflict as Houthi forces conduct cross-border attacks on Saudi infrastructure while facing increased bombardment from government-aligned forces.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
+        },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375579/late-popes-diary-recounts-seeing-devil-gates-hell"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Canada",
-        "Germany",
-        "Hong Kong",
-        "India",
-        "Pakistan",
-        "South America",
-        "Thailand",
-        "US"
-      ],
-      "score": 0.4455,
-      "mentions": 8,
-      "diversity": 6
-    },
-    {
-      "rank": 5,
-      "headline": "Saudi condemns ‘terrorist attack’ after Riyadh skyscraper hit twice in a week",
-      "summary": "A financial district tower in Riyadh sustained damage from attacks twice within seven days, with Saudi authorities attributing the strikes to Houthi militants. The incident reflects escalating exchanges between Saudi Arabia and Yemen's Houthi movement, which accuse each other of targeting civilian infrastructure.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3375667/saudi-condemns-terrorist-attack-after-riyadh-skyscraper-hit-twice-week"
+          "link": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/yemen-officials-say-strike-on-buses-trucks-kills-26/article71739839.ece"
-        },
-        {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2642022/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia"
+          "link": "https://www.thehindu.com/news/international/yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/article71741023.ece"
         }
       ],
       "source_count": 6,
       "regions": [
-        "Hong Kong",
+        "Germany",
         "India",
         "Middle East",
         "Pakistan",
-        "Southeast Asia"
+        "South Africa"
       ],
-      "score": 0.4333,
-      "mentions": 13,
+      "score": 0.604,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Switzerland forced to close office in North Korea over sanctions feud",
+      "summary": "North Korea has expelled Switzerland's top diplomat and ordered the closure of Switzerland's newly established office in Pyongyang in retaliation for Swiss sanctions related to a facility accused of indoctrinating Ukrainian children. Switzerland's diplomatic presence, which served humanitarian and consular functions, becomes the latest casualty in North Korea's response to international pressure over its alleged role in Ukraine-related activities.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5813,
+      "mentions": 7,
       "diversity": 4
     },
     {
       "rank": 6,
-      "headline": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
-      "summary": "Senegal regains the 2025 Africa Cup of Nations title after the Court of Arbitration for Sport upholds their appeal against an earlier decision. Morocco, who had been declared winners following the initial ruling, signals its intention to continue challenging the outcome.",
+      "headline": "Ukraine says it struck two oil refineries in Russia's Samara region",
+      "summary": "Ukraine has conducted drone strikes on oil refineries in Russia's Samara region, targeting energy infrastructure that supplies fuel for military operations. The attacks form part of an escalating pattern in which both nations strike each other's energy facilities, with Russia simultaneously conducting strikes on Ukrainian power and gas infrastructure.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/russian-government-official-warns-of-ukrainian-drone-attacks-on-utility-infrastructure-this-winter"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5736,
+      "mentions": 21,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
+      "summary": "Two men face charges after a break-in at a royal country residence where cufflinks and a clock were targeted for theft. The incident occurred at a property linked to Prince William and Princess Catherine, adding to a series of security concerns at royal locations.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Germany",
-        "Middle East",
-        "South Africa",
-        "Southeast Asia",
-        "UK",
-        "West Africa"
-      ],
-      "score": 0.4268,
-      "mentions": 9,
-      "diversity": 4
-    },
-    {
-      "rank": 7,
-      "headline": "Pakistani astronaut to join Chinese space mission",
-      "summary": "Pakistan's first astronaut will fly to the Chinese space station aboard the Shenzhou-24 spacecraft, marking China's first crewed mission to include a foreign national. This collaboration reflects deepening space cooperation between Beijing and Islamabad and expands the international presence on China's orbital station.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece"
+          "link": "https://www.thehindu.com/news/international/uk-police-charge-two-men-over-a-break-in-at-prince-william-and-princess-catherines-country-home/article71742079.ece"
         },
         {
-          "name": "The Diplomat",
-          "link": "https://thediplomat.com/2026/11/first-pakistani-astronaut-is-about-to-head-to-space-on-a-chinese-spacecraft/"
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/men-charged-over-royal-home-break-in-20261126-p61hdf.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "regions": [
-        "Asia-Pacific",
+        "Australia",
         "Canada",
-        "Germany",
-        "Hong Kong",
         "India",
-        "Thailand"
+        "North Africa",
+        "UK"
       ],
-      "score": 0.4255,
-      "mentions": 6,
+      "score": 0.5228,
+      "mentions": 7,
       "diversity": 5
     },
     {
       "rank": 8,
-      "headline": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-      "summary": "Landmine casualties worldwide reached approximately 7,000 people in the most recent year tracked, marking the highest toll in five years. Myanmar and Syria account for a substantial portion of these casualties, reflecting ongoing conflict and the widespread presence of mines in those regions.",
+      "headline": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
+      "summary": "The Court of Arbitration for Sport has reinstated Senegal as African Cup of Nations champions, overturning an earlier decision that had favored Morocco. Senegal denies Morocco's claim that it engaged in improper contact with the court during the dispute.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/land-mine-deaths-reach-five-year-high-watchdog-says/a-80033092?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3375629/myanmar-syria-top-list-global-landmine-casualties-hit-5-year-high-7000"
+          "name": "ABC News Australia",
+          "link": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "regions": [
-        "Germany",
-        "Hong Kong",
-        "Middle East"
+        "Africa",
+        "Australia",
+        "Middle East",
+        "South Africa",
+        "US"
       ],
-      "score": 0.425,
-      "mentions": 3,
-      "diversity": 3
+      "score": 0.4934,
+      "mentions": 5,
+      "diversity": 4
     },
     {
       "rank": 9,
-      "headline": "Senior Hamas security official killed in Israeli drone strikes",
-      "summary": "Israeli drone strikes in Gaza City kill a senior Hamas security official along with six others in the area. The operation represents a continued pattern of targeted strikes against Hamas leadership and security personnel.",
+      "headline": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+      "summary": "The UK military is relocating aircraft to hangars during nighttime hours as a precautionary measure against potential drone strikes. The move reflects heightened concerns about unmanned aerial threats, possibly linked to Russian capabilities, amid ongoing security assessments.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
         },
         {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3375657/hamas-security-chief-killed-israeli-air-strike-gaza-city"
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-moving-military-planes-hangars-amid-drone-threat-reports"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece"
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/britain-moving-military-aircraft-to-hangars-at-night-over-possible-drone-threats-media-reports-say"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "regions": [
-        "Europe",
-        "Hong Kong",
-        "India",
         "Middle East",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Ukraine"
       ],
-      "score": 0.4129,
+      "score": 0.4727,
       "mentions": 5,
-      "diversity": 5
+      "diversity": 3
     },
     {
       "rank": 10,
-      "headline": "China probes Shanghai party chief Chen Jining over corruption",
-      "summary": "Chen Jining, the Shanghai Communist Party chief and a member of China's Politburo, faces a corruption investigation that marks a significant political shift in one of the country's most economically important cities. The probe reflects Xi Jinping's ongoing efforts to consolidate power through anti-corruption campaigns targeting senior officials.",
+      "headline": "At least 30 killed in Egypt vehicle fire, health ministry says",
+      "summary": "A fuel truck overturned on a highway in Cairo, triggering a massive fire that killed at least 30 people. The blaze spread rapidly through the area, with Egypt's health ministry confirming the death toll.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1"
+          "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/china/politics/article/3375640/shanghai-party-chief-faces-corruption-probe"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/africa/dozens-of-people-killed-in-egypt-highway-blaze-after-vehicle-overturns-20261126-p61hdo.html?ref=rss&utm_medium=rss&utm_source=rss_world"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "regions": [
+        "Australia",
         "Hong Kong",
-        "India",
-        "Japan",
         "Middle East",
-        "UK"
+        "Southeast Asia"
       ],
-      "score": 0.3754,
-      "mentions": 5,
+      "score": 0.471,
+      "mentions": 4,
       "diversity": 4
     }
   ]
