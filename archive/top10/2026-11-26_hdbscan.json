@@ -1,0 +1,330 @@
+{
+  "published_at": "2026-11-26T19:33:05.295845+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "What will Trump’s latest tariffs mean for the world?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642490/five-takeaways-from-trumps-new-tariffs"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "Global",
+        "Indonesia",
+        "Japan",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.7667,
+      "mentions": 17,
+      "diversity": 6
+    },
+    {
+      "rank": 2,
+      "headline": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/26/wreckage-and-burnt-vehicles-as-fuel-tanker-fire-kills-31-on-cairo-highway"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/multiple-people-killed-in-egypt-petrol-fire-20261126-p61hdz.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "India",
+        "North Africa",
+        "South Africa",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.7341,
+      "mentions": 15,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6528,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "Middle East",
+        "UK",
+        "US"
+      ],
+      "score": 0.5331,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/uk-train-stabber-found-guilty-20261127-p61hqp.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/man-convicted-of-uk-train-knife-rampage"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Australia",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5085,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Spanish economist to become new European Central Bank chief",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375963/spains-pablo-hernandez-de-cos-succeed-lagarde-european-central-bank-chief"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.496,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Tai Po fire: remembering the victims",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3375926/tai-po-fire-remembering-victims"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/fires/hong-kong-fire-survivors-and-families-mark-anniversary-as-questions-linger"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/26/hong-kong-mourns-victims-of-deadly-wang-fuk-court-fire-one-year-on"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Hong Kong",
+        "Japan",
+        "Thailand"
+      ],
+      "score": 0.4929,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "UK"
+      ],
+      "score": 0.4806,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean and Baltic seas",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/kremlin-accuses-ukraine-of-trying-to-widen-conflict-zone-to-mediterranean-and-baltic-seas/article71747857.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/ukraine-claims-strike-that-damaged-russian-oil-refinery"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4404,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/article71745171.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/26/images-show-kim-jong-un-inspecting-north-korean-nuclear-facilities"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Europe",
+        "India",
+        "South Africa",
+        "US"
+      ],
+      "score": 0.4281,
+      "mentions": 5,
+      "diversity": 4
+    }
+  ]
+}

@@ -1,364 +1,374 @@
 {
-  "published_at": "2026-11-25T19:57:50.506535+00:00",
+  "published_at": "2026-11-26T19:32:01.430188+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Competing powers reshape global trade and technology landscape",
-      "summary": "The Trump administration has proposed new tariffs on the European Union, China, and roughly a dozen other trading partners, citing unfair trade practices as justification. The announcement has prompted market volatility in US stocks and international concern about potential retaliation and broader economic disruption.",
+      "headline": "Illegal mining operation traps 13 workers in Indonesia",
+      "summary": "The United States has announced 25% tariffs on India as part of a broader round of duties targeting 14 countries, with China facing the most aggressive measures in what appears to be a strategy to reshape trade relationships. Economists assess that the tariffs create uncertainty for global supply chains and trade partners, though some argue the immediate economic threat remains limited for nations like India that maintain negotiating leverage.",
       "is_grouped": true,
       "angle_count": 3,
       "angles": [
         {
-          "headline": "US announces new tariff proposals on EU, China, and other trade partners",
-          "summary": "The Trump administration has proposed new tariffs on the European Union, China, and roughly a dozen other trading partners, citing unfair trade practices as justification. The announcement has prompted market volatility in US stocks and international concern about potential retaliation and broader economic disruption."
+          "headline": "What will Trump’s latest tariffs mean for the world?",
+          "summary": "The United States has announced 25% tariffs on India as part of a broader round of duties targeting 14 countries, with China facing the most aggressive measures in what appears to be a strategy to reshape trade relationships. Economists assess that the tariffs create uncertainty for global supply chains and trade partners, though some argue the immediate economic threat remains limited for nations like India that maintain negotiating leverage."
         },
         {
-          "headline": "Why has China sent the first Pakistani astronaut to space?",
-          "summary": "China has launched Pakistani astronaut Muhammad Ali Sadiq to its space station as part of a bilateral space cooperation agreement that strengthens ties between the two nations. The mission represents Pakistan's first crewed spaceflight and marks China's growing practice of inviting international partners to its orbital station."
+          "headline": "Malaysian police close in on mastermind in air force drug-smuggling case",
+          "summary": "Malaysian police pursue a senior figure suspected of orchestrating a drug-smuggling operation that exploited air force facilities and personnel for transportation. The investigation reveals systematic use of military infrastructure to move illicit drugs, raising questions about security vulnerabilities within the armed forces."
         },
         {
-          "headline": "EU plans €50 billion sovereign tech equity fund to boost quantum technology",
-          "summary": "The European Union is establishing a €50 billion sovereign equity fund to invest directly in companies developing quantum computing and other strategic technologies, aiming to reduce Europe's technological dependence. The initiative prioritizes European and allied firms while restricting participation from Chinese companies, reflecting the bloc's shift toward building homegrown technological capacity in areas where it currently lags behind global competitors."
+          "headline": "Indonesia: rescuers race to find 13 miners trapped in flooded illegal gold mine",
+          "summary": "Rescuers in West Java search for miners trapped in an illegal gold mine that flooded, with at least eight confirmed dead and others still missing. Heavy water and difficult conditions are hampering efforts to reach those trapped underground, raising concerns about survival prospects for the remaining miners."
         }
       ],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
         },
         {
           "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-xml-mrss"
+          "link": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
         }
       ],
-      "source_count": 15,
+      "source_count": 14,
       "regions": [
-        "Africa",
         "Australia",
+        "Canada",
         "Europe",
         "Germany",
+        "Global",
         "Hong Kong",
         "India",
+        "Indonesia",
         "Japan",
         "Middle East",
+        "Pakistan",
         "Southeast Asia",
-        "Thailand",
-        "UK",
         "US"
       ],
-      "score": 0.8722,
-      "mentions": 28,
-      "diversity": 12
+      "score": 0.7727,
+      "mentions": 45,
+      "diversity": 13
     },
     {
       "rank": 2,
-      "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-      "summary": "Jensen Huang's perceived indispensability at Nvidia contrasts sharply with the broader principle that no individual worker should be irreplaceable in any organization. The tech leader's centrality to the company's operations and strategy raises questions about succession planning and risk concentration within one of the world's most valuable corporations.",
+      "headline": "European Union debates Ukraine funding amid Russian escalation rhetoric",
+      "summary": "EU member states are negotiating a long-term budget framework while simultaneously debating increased financial support for Ukraine's defense. Italy has raised concerns about Ukraine's military operations near Libya, where strikes on Russian vessels risk destabilizing the region and affecting Italian interests.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+          "summary": "EU member states are negotiating a long-term budget framework while simultaneously debating increased financial support for Ukraine's defense. Italy has raised concerns about Ukraine's military operations near Libya, where strikes on Russian vessels risk destabilizing the region and affecting Italian interests."
+        },
+        {
+          "headline": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean and Baltic seas",
+          "summary": "The Kremlin claims Ukraine is attempting to expand military operations beyond current frontlines into the Mediterranean and Baltic regions, a charge that reflects escalating rhetoric as both sides accuse each other of widening the conflict's scope. Russia continues intensive strikes on Ukrainian targets including infrastructure while Ukraine reports damaging Russian oil refineries, demonstrating the conflict's expansion into economic and strategic assets."
+        },
+        {
+          "headline": "War in Ukraine: Russia ignores claims on troop casualty figures",
+          "summary": "Russia continues to dispute casualty assessments while Ukraine and Russia conduct their first exchange of war dead following the resumption of peace negotiations. The exchange involves the return of 250 bodies to Ukraine, reflecting an ongoing effort to account for the tens of thousands killed since the invasion began in 2022."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/meloni-expresses-deepest-sorrow-deaths-italian-nationals-kuwait"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5193,
+      "mentions": 24,
+      "diversity": 8
+    },
+    {
+      "rank": 3,
+      "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "summary": "Two Italian nationals died in Kuwait after debris from intercepted Iranian drones struck their location during an attack on the country. The incident marks a rare instance of foreign nationals being killed in cross-border drone operations in the region.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-xml-mrss"
         },
         {
           "name": "Financial Times",
-          "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says"
+          "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
         }
       ],
-      "source_count": 13,
+      "source_count": 8,
       "regions": [
-        "Asia-Pacific",
+        "Europe",
+        "Germany",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.6087,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people",
+      "summary": "A fuel tanker crash on a highway near Cairo has sparked a massive fire that kills at least 31 people, with the blaze engulfing nearby vehicles and causing significant destruction across the roadway. The incident disrupts traffic in the region and raises questions about highway safety and fuel transport protocols in Egypt.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/26/wreckage-and-burnt-vehicles-as-fuel-tanker-fire-kills-31-on-cairo-highway"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "link": "https://www.smh.com.au/world/multiple-people-killed-in-egypt-petrol-fire-20261126-p61hdz.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
         "Australia",
+        "Europe",
+        "India",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.5637,
+      "mentions": 13,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
+      "summary": "China's removal of Shanghai's party chief reflects the government's ongoing anti-corruption campaign but does not threaten the nation's technology development goals, which remain a core policy priority. The country continues advancing domestic semiconductor capabilities through companies like Huawei even as political leadership transitions occur at the provincial level.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/sci-tech/technology/jensen-huang-needs-a-new-playbook-for-his-second-innings-at-nvidia/article71745086.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/fall-of-shanghai-party-chief-clouds-china-s-leadership-reset-in-2027"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
         "Canada",
         "Global",
         "Hong Kong",
         "India",
         "Japan",
-        "New Zealand",
-        "North Africa",
-        "South Africa",
-        "Southeast Asia",
-        "UK"
+        "South Africa"
       ],
-      "score": 0.7965,
-      "mentions": 22,
-      "diversity": 9
-    },
-    {
-      "rank": 3,
-      "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
-      "summary": "The US Army carried out a controlled detonation of nearly five tonnes of lead azide, a toxic and unstable explosive compound, at a facility in Iowa. The demolition addressed a longstanding safety and environmental concern, though the operation raised questions about air quality and potential health impacts in the surrounding area.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss"
-        },
-        {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-xml-mrss"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Canada",
-        "Europe",
-        "Germany",
-        "Hong Kong",
-        "Middle East",
-        "Southeast Asia",
-        "US"
-      ],
-      "score": 0.7282,
-      "mentions": 11,
+      "score": 0.5511,
+      "mentions": 16,
       "diversity": 5
     },
     {
-      "rank": 4,
-      "headline": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-      "summary": "Military strikes targeting Hodeidah port risk disrupting humanitarian aid flows into Yemen, where millions depend on imports for food and medicine. The escalation reflects intensifying regional conflict as Houthi forces conduct cross-border attacks on Saudi infrastructure while facing increased bombardment from government-aligned forces.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/article71741023.ece"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Germany",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "South Africa"
-      ],
-      "score": 0.604,
-      "mentions": 10,
-      "diversity": 4
-    },
-    {
-      "rank": 5,
-      "headline": "Switzerland forced to close office in North Korea over sanctions feud",
-      "summary": "North Korea has expelled Switzerland's top diplomat and ordered the closure of Switzerland's newly established office in Pyongyang in retaliation for Swiss sanctions related to a facility accused of indoctrinating Ukrainian children. Switzerland's diplomatic presence, which served humanitarian and consular functions, becomes the latest casualty in North Korea's response to international pressure over its alleged role in Ukraine-related activities.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece"
-        }
-      ],
-      "source_count": 7,
-      "regions": [
-        "Europe",
-        "Germany",
-        "India",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "Thailand"
-      ],
-      "score": 0.5813,
-      "mentions": 7,
-      "diversity": 4
-    },
-    {
       "rank": 6,
-      "headline": "Ukraine says it struck two oil refineries in Russia's Samara region",
-      "summary": "Ukraine has conducted drone strikes on oil refineries in Russia's Samara region, targeting energy infrastructure that supplies fuel for military operations. The attacks form part of an escalating pattern in which both nations strike each other's energy facilities, with Russia simultaneously conducting strikes on Ukrainian power and gas infrastructure.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/russian-government-official-warns-of-ukrainian-drone-attacks-on-utility-infrastructure-this-winter"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Europe",
-        "India",
-        "Russia",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.5736,
-      "mentions": 21,
-      "diversity": 3
-    },
-    {
-      "rank": 7,
-      "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
-      "summary": "Two men face charges after a break-in at a royal country residence where cufflinks and a clock were targeted for theft. The incident occurred at a property linked to Prince William and Princess Catherine, adding to a series of security concerns at royal locations.",
+      "headline": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "summary": "A French court has ruled that actor Gérard Depardieu will face trial on rape charges stemming from an alleged 2018 incident involving an actress. The decision came after prosecutors determined sufficient evidence existed to proceed, rejecting Depardieu's appeal to dismiss the case.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/uk-police-charge-two-men-over-a-break-in-at-prince-william-and-princess-catherines-country-home/article71742079.ece"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss"
         },
         {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/men-charged-over-royal-home-break-in-20261126-p61hdf.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Australia",
         "Canada",
-        "India",
-        "North Africa",
-        "UK"
+        "Hong Kong",
+        "Middle East",
+        "UK",
+        "US"
       ],
-      "score": 0.5228,
-      "mentions": 7,
-      "diversity": 5
+      "score": 0.5119,
+      "mentions": 5,
+      "diversity": 4
     },
     {
-      "rank": 8,
-      "headline": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-      "summary": "The Court of Arbitration for Sport has reinstated Senegal as African Cup of Nations champions, overturning an earlier decision that had favored Morocco. Senegal denies Morocco's claim that it engaged in improper contact with the court during the dispute.",
+      "rank": 7,
+      "headline": "Tai Po fire: remembering the victims",
+      "summary": "Hong Kong marks the first anniversary of a deadly fire at Wang Fuk Court in Tai Po that killed 168 people, with survivors and families gathering to remember those lost. Authorities continue working on a buyout plan for 13 remaining flats in the building while questions about fire safety and prevention remain unresolved.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3375926/tai-po-fire-remembering-victims"
         },
         {
-          "name": "NPR News",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco"
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/economy/fires/hong-kong-fire-survivors-and-families-mark-anniversary-as-questions-linger"
         },
         {
-          "name": "ABC News Australia",
-          "link": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820"
+          "name": "Euronews",
+          "link": "https://www.euronews.com/video/2026/11/26/hong-kong-mourns-victims-of-deadly-wang-fuk-court-fire-one-year-on"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Africa",
-        "Australia",
-        "Middle East",
-        "South Africa",
-        "US"
+        "Europe",
+        "Hong Kong",
+        "Japan",
+        "Thailand"
       ],
-      "score": 0.4934,
-      "mentions": 5,
+      "score": 0.4666,
+      "mentions": 10,
+      "diversity": 3
+    },
+    {
+      "rank": 8,
+      "headline": "Trump says he urged Putin to 'pull back' military aggression in Europe",
+      "summary": "Trump states he has urged Putin to reduce Russian military aggression across Europe, though no independent verification of such a conversation or its content exists. The statement reflects Trump's stated interest in engaging with Russia on geopolitical tensions, particularly regarding Ukraine and NATO-allied nations.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642515/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/world/trump-putin-russia-ukraine-military-aggression-europe-6585761"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "North Africa",
+        "Pakistan",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.4547,
+      "mentions": 9,
       "diversity": 4
     },
     {
       "rank": 9,
-      "headline": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-      "summary": "The UK military is relocating aircraft to hangars during nighttime hours as a precautionary measure against potential drone strikes. The move reflects heightened concerns about unmanned aerial threats, possibly linked to Russian capabilities, amid ongoing security assessments.",
+      "headline": "Spanish economist to become new European Central Bank chief",
+      "summary": "Pablo Hernández de Cos, Spain's central banker, has been selected to lead the European Central Bank and will succeed Christine Lagarde when her term ends. His appointment represents a shift in the institution's leadership and brings experience from managing monetary policy within the eurozone's second-largest economy.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
         },
         {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-moving-military-planes-hangars-amid-drone-threat-reports"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/europe/britain-moving-military-aircraft-to-hangars-at-night-over-possible-drone-threats-media-reports-say"
-        }
-      ],
-      "source_count": 4,
-      "regions": [
-        "Middle East",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.4727,
-      "mentions": 5,
-      "diversity": 3
-    },
-    {
-      "rank": 10,
-      "headline": "At least 30 killed in Egypt vehicle fire, health ministry says",
-      "summary": "A fuel truck overturned on a highway in Cairo, triggering a massive fire that killed at least 30 people. The blaze spread rapidly through the area, with Egypt's health ministry confirming the death toll.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1"
         },
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/africa/dozens-of-people-killed-in-egypt-highway-blaze-after-vehicle-overturns-20261126-p61hdo.html?ref=rss&utm_medium=rss&utm_source=rss_world"
+          "link": "https://www.scmp.com/news/world/europe/article/3375963/spains-pablo-hernandez-de-cos-succeed-lagarde-european-central-bank-chief"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "regions": [
-        "Australia",
+        "Europe",
         "Hong Kong",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4524,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+      "summary": "Iraq's federal government in Baghdad is moving to take control of oil sales and border crossings currently managed by the autonomous Kurdish region, centralizing revenue streams that have long funded Kurdish self-governance. The dispute reflects broader tensions over autonomy and resource distribution between the central government and Kurdistan, with Kurdish residents protesting what they view as an encroachment on their regional authority.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/middle-east/iraqi-kurds-protest-against-baghdad-leaders-moves-to-assert-central-control"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Germany",
         "Middle East",
         "Southeast Asia"
       ],
-      "score": 0.471,
-      "mentions": 4,
-      "diversity": 4
+      "score": 0.45,
+      "mentions": 3,
+      "diversity": 3
     }
   ]
 }
