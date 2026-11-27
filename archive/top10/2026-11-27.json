@@ -1,0 +1,357 @@
+{
+  "published_at": "2026-11-27T19:28:20.676357+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Western unity fractures amid Ukraine tensions and Russian pressure",
+      "summary": "Ukrainian President Zelensky has expressed concern about the apparent rapport between Donald Trump and Vladimir Putin, questioning the nature of their relationship during a BBC interview. Trump has stated he urged Putin to withdraw military forces from across Europe, though Zelensky views their friendly dynamic as potentially problematic for Ukraine's position.",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "summary": "Ukrainian President Zelensky has expressed concern about the apparent rapport between Donald Trump and Vladimir Putin, questioning the nature of their relationship during a BBC interview. Trump has stated he urged Putin to withdraw military forces from across Europe, though Zelensky views their friendly dynamic as potentially problematic for Ukraine's position."
+        },
+        {
+          "headline": "NATO jets scrambled after drone enters Latvian airspace",
+          "summary": "NATO fighter jets launched an emergency response after an unidentified drone crossed into Latvia's airspace, likely originating from Russian operations in nearby Ukraine. The incident reflects escalating tensions along NATO's eastern border, where unmanned aircraft increasingly venture into alliance territory during broader Russian military campaigns in the region."
+        },
+        {
+          "headline": "Divisions deepen between EU member states after tense budget summit",
+          "summary": "EU member states remain at odds over how to fund Ukraine support and the bloc's budget, with disagreements centering on spending priorities and fiscal commitments. France and Germany are pushing for a resolution by year-end, though divisions persist over whether funding should come from the regular budget or emergency mechanisms."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3376046/zelensky-says-trump-calling-putin-my-friend-being-buddies-hitler-wwii"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece"
+        }
+      ],
+      "source_count": 13,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "Russia",
+        "South Africa",
+        "Southeast Asia",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.8,
+      "mentions": 32,
+      "diversity": 11
+    },
+    {
+      "rank": 2,
+      "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "A major storm forced organizers to reschedule a Thanksgiving parade, leaving marching bands to quickly find funding for the last-minute changes to their participation plans. Bands are rallying resources and community support to manage the unexpected costs of adjusting their travel and logistics for the new date.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7873,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "summary": "Spanish voters under 30 face acute housing affordability challenges that have become a central campaign issue as the country heads to polls on Sunday. The election outcome will significantly shape housing policy and broader European geopolitics, with competing visions from the left-wing incumbent government, center-right opposition, and rising far-right movements.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/what-will-change-israel-algeria-and-morocco-if-spains-right-wing-wins"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7009,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Hackers breach US Air Force Cloud One platform, putting military data at risk",
+      "summary": "Attackers have gained unauthorized access to Cloud One, the U.S. Air Force's primary cloud computing platform, exposing sensitive military information to potential compromise. The breach affects a critical infrastructure system that handles classified and operational data across the service, prompting urgent investigation into the scope of the intrusion and what information was accessed.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3376087/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-risk"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-hackers-breach-us-air-force-cloud-one-computing-platform/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.6774,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "summary": "Costa Rica has denied entry to UN special rapporteur Francesca Albanese, who investigates Palestinian rights, citing alleged links to terrorist acts. Israeli officials have expressed support for the decision, while UN leadership and human rights organizations have raised concerns about the ban's implications for independent monitoring of the Israeli-Palestinian conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts/article71749582.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642642/un-special-rapporteur-albanese-condemns-costa-ricas-decision-to-deny-her-entry"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5339,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "summary": "Quebec's law prohibiting public employees from wearing religious symbols—including hijabs, turbans, and crosses—survives constitutional challenge, with Canada's Supreme Court finding it justified despite limiting religious freedom. The ruling affirms that provinces can pursue secular governance objectives, though it reflects deep disagreement about balancing individual rights against collective values in a diverse society.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/canadas-top-court-rules-on-quebec-secularism-law-in-landmark-case/article71749545.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.519,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 7,
+      "headline": "Iran denies role in drone attack that killed Italians in Kuwait",
+      "summary": "A drone attack in Kuwait killed two Italian nationals, an incident that authorities are investigating amid regional tensions. Iran has issued a denial of involvement, while Kuwait has escalated diplomatic pressure by summoning Iran's ambassador to address what it describes as a pattern of ongoing attacks.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.519,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
+      "summary": "Trump is defending his decision to allow Nvidia CEO Jensen Huang to return to a leadership role despite concerns from some Republicans about national security implications for the chipmaker. Huang's return comes as China accelerates its own semiconductor development, raising questions about how the appointment affects U.S. technology competition and export controls.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/president-donald-trump-insists-nvidia-ceo-not-a-security-threat/article71749200.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East"
+      ],
+      "score": 0.474,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 9,
+      "headline": "Man Utd trigger Fernandes' one-year contract extension",
+      "summary": "Manchester United has activated a clause in Bruno Fernandes' contract that automatically extends his deal by one year through 2028. The move secures their captain's future at the club despite uncertainty over his availability for an upcoming match against Brentford.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-trigger-bruno-fernandes-contract-extension-to-2028?traffic_source=rss"
+        },
+        {
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/man-united-extend-fernandes-deal-one-year-captain-doubtful-brentford-6588136"
+        }
+      ],
+      "source_count": 3,
+      "regions": [
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.47,
+      "mentions": 3,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "New Zealand PM Luxon loses majority, centrists now kingmakers",
+      "summary": "New Zealand's ruling coalition has fallen short of a parliamentary majority in the final election count, leaving centrist parties in a position to determine which government forms next. Prime Minister Christopher Luxon must now negotiate with these kingmaker parties to secure enough support to continue governing or potentially cede power.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-zealand-pm-luxon-loses-majority-centrists-now-kingmakers/article71749215.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/new-zealand-ruling-coalition-misses-majority-as-election-results-announced"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Japan",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.459,
+      "mentions": 5,
+      "diversity": 5
+    }
+  ]
+}

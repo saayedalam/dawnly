@@ -1,374 +1,357 @@
 {
-  "published_at": "2026-11-26T19:32:01.430188+00:00",
+  "published_at": "2026-11-27T19:28:20.676357+00:00",
   "story_count": 10,
   "stories": [
     {
       "rank": 1,
-      "headline": "Illegal mining operation traps 13 workers in Indonesia",
-      "summary": "The United States has announced 25% tariffs on India as part of a broader round of duties targeting 14 countries, with China facing the most aggressive measures in what appears to be a strategy to reshape trade relationships. Economists assess that the tariffs create uncertainty for global supply chains and trade partners, though some argue the immediate economic threat remains limited for nations like India that maintain negotiating leverage.",
+      "headline": "Western unity fractures amid Ukraine tensions and Russian pressure",
+      "summary": "Ukrainian President Zelensky has expressed concern about the apparent rapport between Donald Trump and Vladimir Putin, questioning the nature of their relationship during a BBC interview. Trump has stated he urged Putin to withdraw military forces from across Europe, though Zelensky views their friendly dynamic as potentially problematic for Ukraine's position.",
       "is_grouped": true,
       "angle_count": 3,
       "angles": [
         {
-          "headline": "What will Trump’s latest tariffs mean for the world?",
-          "summary": "The United States has announced 25% tariffs on India as part of a broader round of duties targeting 14 countries, with China facing the most aggressive measures in what appears to be a strategy to reshape trade relationships. Economists assess that the tariffs create uncertainty for global supply chains and trade partners, though some argue the immediate economic threat remains limited for nations like India that maintain negotiating leverage."
+          "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "summary": "Ukrainian President Zelensky has expressed concern about the apparent rapport between Donald Trump and Vladimir Putin, questioning the nature of their relationship during a BBC interview. Trump has stated he urged Putin to withdraw military forces from across Europe, though Zelensky views their friendly dynamic as potentially problematic for Ukraine's position."
         },
         {
-          "headline": "Malaysian police close in on mastermind in air force drug-smuggling case",
-          "summary": "Malaysian police pursue a senior figure suspected of orchestrating a drug-smuggling operation that exploited air force facilities and personnel for transportation. The investigation reveals systematic use of military infrastructure to move illicit drugs, raising questions about security vulnerabilities within the armed forces."
+          "headline": "NATO jets scrambled after drone enters Latvian airspace",
+          "summary": "NATO fighter jets launched an emergency response after an unidentified drone crossed into Latvia's airspace, likely originating from Russian operations in nearby Ukraine. The incident reflects escalating tensions along NATO's eastern border, where unmanned aircraft increasingly venture into alliance territory during broader Russian military campaigns in the region."
         },
         {
-          "headline": "Indonesia: rescuers race to find 13 miners trapped in flooded illegal gold mine",
-          "summary": "Rescuers in West Java search for miners trapped in an illegal gold mine that flooded, with at least eight confirmed dead and others still missing. Heavy water and difficult conditions are hampering efforts to reach those trapped underground, raising concerns about survival prospects for the remaining miners."
+          "headline": "Divisions deepen between EU member states after tense budget summit",
+          "summary": "EU member states remain at odds over how to fund Ukraine support and the bloc's budget, with disagreements centering on spending priorities and fiscal commitments. France and Germany are pushing for a resolution by year-end, though divisions persist over whether funding should come from the regular budget or emergency mechanisms."
         }
       ],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3376046/zelensky-says-trump-calling-putin-my-friend-being-buddies-hitler-wwii"
         },
         {
-          "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece"
         }
       ],
-      "source_count": 14,
+      "source_count": 13,
       "regions": [
-        "Australia",
         "Canada",
         "Europe",
         "Germany",
-        "Global",
         "Hong Kong",
         "India",
-        "Indonesia",
-        "Japan",
-        "Middle East",
         "Pakistan",
+        "Russia",
+        "South Africa",
         "Southeast Asia",
-        "US"
+        "UK",
+        "Ukraine"
       ],
-      "score": 0.7727,
-      "mentions": 45,
-      "diversity": 13
+      "score": 0.8,
+      "mentions": 32,
+      "diversity": 11
     },
     {
       "rank": 2,
-      "headline": "European Union debates Ukraine funding amid Russian escalation rhetoric",
-      "summary": "EU member states are negotiating a long-term budget framework while simultaneously debating increased financial support for Ukraine's defense. Italy has raised concerns about Ukraine's military operations near Libya, where strikes on Russian vessels risk destabilizing the region and affecting Italian interests.",
-      "is_grouped": true,
-      "angle_count": 3,
-      "angles": [
-        {
-          "headline": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
-          "summary": "EU member states are negotiating a long-term budget framework while simultaneously debating increased financial support for Ukraine's defense. Italy has raised concerns about Ukraine's military operations near Libya, where strikes on Russian vessels risk destabilizing the region and affecting Italian interests."
-        },
-        {
-          "headline": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean and Baltic seas",
-          "summary": "The Kremlin claims Ukraine is attempting to expand military operations beyond current frontlines into the Mediterranean and Baltic regions, a charge that reflects escalating rhetoric as both sides accuse each other of widening the conflict's scope. Russia continues intensive strikes on Ukrainian targets including infrastructure while Ukraine reports damaging Russian oil refineries, demonstrating the conflict's expansion into economic and strategic assets."
-        },
-        {
-          "headline": "War in Ukraine: Russia ignores claims on troop casualty figures",
-          "summary": "Russia continues to dispute casualty assessments while Ukraine and Russia conduct their first exchange of war dead following the resumption of peace negotiations. The exchange involves the return of 250 bodies to Ukraine, reflecting an ongoing effort to account for the tens of thousands killed since the invasion began in 2022."
-        }
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Middle East Eye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/meloni-expresses-deepest-sorrow-deaths-italian-nationals-kuwait"
-        }
-      ],
-      "source_count": 10,
-      "regions": [
-        "Africa",
-        "Europe",
-        "Germany",
-        "India",
-        "Middle East",
-        "Russia",
-        "Southeast Asia",
-        "Ukraine"
-      ],
-      "score": 0.5193,
-      "mentions": 24,
-      "diversity": 8
-    },
-    {
-      "rank": 3,
-      "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "summary": "Two Italian nationals died in Kuwait after debris from intercepted Iranian drones struck their location during an attack on the country. The incident marks a rare instance of foreign nationals being killed in cross-border drone operations in the region.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
-        }
-      ],
-      "source_count": 8,
-      "regions": [
-        "Europe",
-        "Germany",
-        "Middle East",
-        "Pakistan",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.6087,
-      "mentions": 11,
-      "diversity": 4
-    },
-    {
-      "rank": 4,
-      "headline": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people",
-      "summary": "A fuel tanker crash on a highway near Cairo has sparked a massive fire that kills at least 31 people, with the blaze engulfing nearby vehicles and causing significant destruction across the roadway. The incident disrupts traffic in the region and raises questions about highway safety and fuel transport protocols in Egypt.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece"
-        },
-        {
-          "name": "Euronews",
-          "link": "https://www.euronews.com/video/2026/11/26/wreckage-and-burnt-vehicles-as-fuel-tanker-fire-kills-31-on-cairo-highway"
-        },
-        {
-          "name": "Sydney Morning Herald",
-          "link": "https://www.smh.com.au/world/multiple-people-killed-in-egypt-petrol-fire-20261126-p61hdz.html?ref=rss&utm_medium=rss&utm_source=rss_world"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Africa",
-        "Australia",
-        "Europe",
-        "India",
-        "South Africa",
-        "Thailand"
-      ],
-      "score": 0.5637,
-      "mentions": 13,
-      "diversity": 5
-    },
-    {
-      "rank": 5,
-      "headline": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
-      "summary": "China's removal of Shanghai's party chief reflects the government's ongoing anti-corruption campaign but does not threaten the nation's technology development goals, which remain a core policy priority. The country continues advancing domestic semiconductor capabilities through companies like Huawei even as political leadership transitions occur at the provincial level.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
-        },
-        {
-          "name": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/technology/jensen-huang-needs-a-new-playbook-for-his-second-innings-at-nvidia/article71745086.ece"
-        },
-        {
-          "name": "Nikkei Asia",
-          "link": "https://asia.nikkei.com/politics/fall-of-shanghai-party-chief-clouds-china-s-leadership-reset-in-2027"
-        }
-      ],
-      "source_count": 6,
-      "regions": [
-        "Canada",
-        "Global",
-        "Hong Kong",
-        "India",
-        "Japan",
-        "South Africa"
-      ],
-      "score": 0.5511,
-      "mentions": 16,
-      "diversity": 5
-    },
-    {
-      "rank": 6,
-      "headline": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "summary": "A French court has ruled that actor Gérard Depardieu will face trial on rape charges stemming from an alleged 2018 incident involving an actress. The decision came after prosecutors determined sufficient evidence existed to proceed, rejecting Depardieu's appeal to dismiss the case.",
+      "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "A major storm forced organizers to reschedule a Thanksgiving parade, leaving marching bands to quickly find funding for the last-minute changes to their participation plans. Bands are rallying resources and community support to manage the unexpected costs of adjusting their travel and logistics for the new date.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
+          "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.7873,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "summary": "Spanish voters under 30 face acute housing affordability challenges that have become a central campaign issue as the country heads to polls on Sunday. The election outcome will significantly shape housing policy and broader European geopolitics, with competing visions from the left-wing incumbent government, center-right opposition, and rising far-right movements.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/what-will-change-israel-algeria-and-morocco-if-spains-right-wing-wins"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.7009,
+      "mentions": 11,
+      "diversity": 4
+    },
+    {
+      "rank": 4,
+      "headline": "Hackers breach US Air Force Cloud One platform, putting military data at risk",
+      "summary": "Attackers have gained unauthorized access to Cloud One, the U.S. Air Force's primary cloud computing platform, exposing sensitive military information to potential compromise. The breach affects a critical infrastructure system that handles classified and operational data across the service, prompting urgent investigation into the scope of the intrusion and what information was accessed.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3376087/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-risk"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-hackers-breach-us-air-force-cloud-one-computing-platform/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.6774,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 5,
+      "headline": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "summary": "Costa Rica has denied entry to UN special rapporteur Francesca Albanese, who investigates Palestinian rights, citing alleged links to terrorist acts. Israeli officials have expressed support for the decision, while UN leadership and human rights organizations have raised concerns about the ban's implications for independent monitoring of the Israeli-Palestinian conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts/article71749582.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642642/un-special-rapporteur-albanese-condemns-costa-ricas-decision-to-deny-her-entry"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5339,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 6,
+      "headline": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "summary": "Quebec's law prohibiting public employees from wearing religious symbols—including hijabs, turbans, and crosses—survives constitutional challenge, with Canada's Supreme Court finding it justified despite limiting religious freedom. The ruling affirms that provinces can pursue secular governance objectives, though it reflects deep disagreement about balancing individual rights against collective values in a diverse society.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/canadas-top-court-rules-on-quebec-secularism-law-in-landmark-case/article71749545.ece"
         }
       ],
       "source_count": 5,
       "regions": [
-        "Canada",
-        "Hong Kong",
+        "India",
         "Middle East",
-        "UK",
+        "Southeast Asia",
         "US"
       ],
-      "score": 0.5119,
+      "score": 0.519,
       "mentions": 5,
       "diversity": 4
     },
     {
       "rank": 7,
-      "headline": "Tai Po fire: remembering the victims",
-      "summary": "Hong Kong marks the first anniversary of a deadly fire at Wang Fuk Court in Tai Po that killed 168 people, with survivors and families gathering to remember those lost. Authorities continue working on a buyout plan for 13 remaining flats in the building while questions about fire safety and prevention remain unresolved.",
+      "headline": "Iran denies role in drone attack that killed Italians in Kuwait",
+      "summary": "A drone attack in Kuwait killed two Italian nationals, an incident that authorities are investigating amid regional tensions. Iran has issued a denial of involvement, while Kuwait has escalated diplomatic pressure by summoning Iran's ambassador to address what it describes as a pattern of ongoing attacks.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
           "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/hong-kong/society/article/3375926/tai-po-fire-remembering-victims"
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait"
         },
         {
-          "name": "Nikkei Asia",
-          "link": "https://asia.nikkei.com/economy/fires/hong-kong-fire-survivors-and-families-mark-anniversary-as-questions-linger"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece"
         },
         {
           "name": "Euronews",
-          "link": "https://www.euronews.com/video/2026/11/26/hong-kong-mourns-victims-of-deadly-wang-fuk-court-fire-one-year-on"
+          "link": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians"
         }
       ],
       "source_count": 5,
       "regions": [
+        "Africa",
         "Europe",
         "Hong Kong",
-        "Japan",
-        "Thailand"
+        "India",
+        "Middle East"
       ],
-      "score": 0.4666,
-      "mentions": 10,
-      "diversity": 3
+      "score": 0.519,
+      "mentions": 5,
+      "diversity": 5
     },
     {
       "rank": 8,
-      "headline": "Trump says he urged Putin to 'pull back' military aggression in Europe",
-      "summary": "Trump states he has urged Putin to reduce Russian military aggression across Europe, though no independent verification of such a conversation or its content exists. The statement reflects Trump's stated interest in engaging with Russia on geopolitical tensions, particularly regarding Ukraine and NATO-allied nations.",
+      "headline": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
+      "summary": "Trump is defending his decision to allow Nvidia CEO Jensen Huang to return to a leadership role despite concerns from some Republicans about national security implications for the chipmaker. Huang's return comes as China accelerates its own semiconductor development, raising questions about how the appointment affects U.S. technology competition and export controls.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-xml-mrss"
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated?traffic_source=rss"
         },
         {
-          "name": "The Express Tribune",
-          "link": "https://tribune.com.pk/story/2642515/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe"
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/president-donald-trump-insists-nvidia-ceo-not-a-security-threat/article71749200.ece"
         },
         {
-          "name": "Channel NewsAsia",
-          "link": "https://www.channelnewsasia.com/world/trump-putin-russia-ukraine-military-aggression-europe-6585761"
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system"
         }
       ],
-      "source_count": 7,
+      "source_count": 4,
       "regions": [
-        "Germany",
-        "North Africa",
-        "Pakistan",
-        "Russia",
-        "Southeast Asia",
-        "Ukraine"
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East"
       ],
-      "score": 0.4547,
-      "mentions": 9,
-      "diversity": 4
+      "score": 0.474,
+      "mentions": 5,
+      "diversity": 3
     },
     {
       "rank": 9,
-      "headline": "Spanish economist to become new European Central Bank chief",
-      "summary": "Pablo Hernández de Cos, Spain's central banker, has been selected to lead the European Central Bank and will succeed Christine Lagarde when her term ends. His appointment represents a shift in the institution's leadership and brings experience from managing monetary policy within the eurozone's second-largest economy.",
+      "headline": "Man Utd trigger Fernandes' one-year contract extension",
+      "summary": "Manchester United has activated a clause in Bruno Fernandes' contract that automatically extends his deal by one year through 2028. The move secures their captain's future at the club despite uncertainty over his availability for an upcoming match against Brentford.",
       "is_grouped": false,
       "angle_count": 1,
       "angles": [],
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss"
         },
-        {
-          "name": "Financial Times",
-          "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1"
-        },
-        {
-          "name": "South China Morning Post",
-          "link": "https://www.scmp.com/news/world/europe/article/3375963/spains-pablo-hernandez-de-cos-succeed-lagarde-european-central-bank-chief"
-        }
-      ],
-      "source_count": 5,
-      "regions": [
-        "Europe",
-        "Hong Kong",
-        "Middle East",
-        "Southeast Asia",
-        "UK"
-      ],
-      "score": 0.4524,
-      "mentions": 7,
-      "diversity": 4
-    },
-    {
-      "rank": 10,
-      "headline": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-      "summary": "Iraq's federal government in Baghdad is moving to take control of oil sales and border crossings currently managed by the autonomous Kurdish region, centralizing revenue streams that have long funded Kurdish self-governance. The dispute reflects broader tensions over autonomy and resource distribution between the central government and Kurdistan, with Kurdish residents protesting what they view as an encroachment on their regional authority.",
-      "is_grouped": false,
-      "angle_count": 1,
-      "angles": [],
-      "sources": [
         {
           "name": "Al Jazeera English",
-          "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-trigger-bruno-fernandes-contract-extension-to-2028?traffic_source=rss"
         },
         {
-          "name": "Deutsche Welle",
-          "link": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-xml-mrss"
-        },
-        {
-          "name": "The Straits Times",
-          "link": "https://www.straitstimes.com/world/middle-east/iraqi-kurds-protest-against-baghdad-leaders-moves-to-assert-central-control"
+          "name": "Channel NewsAsia",
+          "link": "https://www.channelnewsasia.com/sport/man-united-extend-fernandes-deal-one-year-captain-doubtful-brentford-6588136"
         }
       ],
       "source_count": 3,
       "regions": [
-        "Germany",
         "Middle East",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK"
       ],
-      "score": 0.45,
+      "score": 0.47,
       "mentions": 3,
       "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "New Zealand PM Luxon loses majority, centrists now kingmakers",
+      "summary": "New Zealand's ruling coalition has fallen short of a parliamentary majority in the final election count, leaving centrist parties in a position to determine which government forms next. Prime Minister Christopher Luxon must now negotiate with these kingmaker parties to secure enough support to continue governing or potentially cede power.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-zealand-pm-luxon-loses-majority-centrists-now-kingmakers/article71749215.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/new-zealand-ruling-coalition-misses-majority-as-election-results-announced"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Japan",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.459,
+      "mentions": 5,
+      "diversity": 5
     }
   ]
 }

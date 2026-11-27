@@ -1,0 +1,343 @@
+{
+  "published_at": "2026-11-27T19:29:14.721728+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
+      "is_grouped": true,
+      "angle_count": 3,
+      "angles": [
+        {
+          "headline": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe"
+        },
+        {
+          "headline": "Zelensky says Trump calling Putin ‘my friend’ is like being buddies with Hitler in WWII"
+        },
+        {
+          "headline": "Divisions deepen between EU member states after tense budget summit"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3375978/trump-says-he-urged-putin-pull-back-all-military-aggression-europe"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642648/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe-1"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Canada",
+        "Europe",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Pakistan",
+        "South Africa",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.421,
+      "mentions": 12,
+      "diversity": 9
+    },
+    {
+      "rank": 2,
+      "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Europe",
+        "India",
+        "Pakistan",
+        "South America",
+        "Southeast Asia",
+        "UK",
+        "US"
+      ],
+      "score": 0.8042,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "AI and the decryption nightmare",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3376087/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-risk"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Global",
+        "Hong Kong",
+        "India",
+        "South America",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.7875,
+      "mentions": 10,
+      "diversity": 7
+    },
+    {
+      "rank": 4,
+      "headline": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pakistan-set-to-host-talks-with-saudi-arabia-turkey-under-trilateral-defence-pact/article71750047.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "India",
+        "Middle East",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.5785,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/canadas-top-court-rules-on-quebec-secularism-law-in-landmark-case/article71749545.ece"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "South Africa",
+        "Southeast Asia",
+        "US"
+      ],
+      "score": 0.5765,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts/article71749582.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642642/un-special-rapporteur-albanese-condemns-costa-ricas-decision-to-deny-her-entry"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.5651,
+      "mentions": 7,
+      "diversity": 3
+    },
+    {
+      "rank": 7,
+      "headline": "New Zealand PM Luxon loses majority, centrists now kingmakers",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/new-zealand-pm-luxon-loses-majority-centrists-now-kingmakers/article71749215.ece"
+        },
+        {
+          "name": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/politics/new-zealand-ruling-coalition-misses-majority-as-election-results-announced"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "India",
+        "Japan",
+        "South Africa",
+        "Thailand"
+      ],
+      "score": 0.524,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Iran denies role in drone attack that killed Italians in Kuwait",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece"
+        },
+        {
+          "name": "Euronews",
+          "link": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Africa",
+        "Europe",
+        "Hong Kong",
+        "India",
+        "Middle East"
+      ],
+      "score": 0.5235,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376025/hong-kong-police-handle-30-cybersecurity-cases-past-month-including-ai-assisted-hack"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "Southeast Asia",
+        "UK"
+      ],
+      "score": 0.4891,
+      "mentions": 5,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Serbia’s student-led movement nominates chemistry professor for presidency",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Straits Times",
+          "link": "https://www.straitstimes.com/world/europe/serbias-student-movement-yet-to-name-prime-minister-as-deadlines-loom"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Eastern Europe",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.4891,
+      "mentions": 5,
+      "diversity": 3
+    }
+  ]
+}
