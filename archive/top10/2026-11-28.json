@@ -1,0 +1,349 @@
+{
+  "published_at": "2026-11-28T18:05:22.402340+00:00",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Taiwan opposition party wins re-election in Taipei mayoral race",
+      "summary": "Taiwan's opposition Kuomintang (KMT) retains control of Taipei despite facing significant electoral headwinds in local races across the island. The party lost several traditionally held districts including the technology hub of Hsinchu and Yilan county, signaling shifting voter preferences ahead of the 2028 presidential election.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/taiwan-election-dpp-gains-ground-but-loses-taipei-race/a-80083086?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3376154/taiwan-elections-kmt-holds-taipei-new-taipei-loses-taichung-challenges-rise"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.91,
+      "mentions": 21,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "summary": "Myanmar's military conducted airstrikes on a wedding venue and school, resulting in dozens of deaths according to multiple reports. The strikes killed civilians including children, raising questions about the military's targeting practices amid the country's ongoing conflict.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3376152/myanmar-air-strike-wedding-venue-kills-20-including-children-witnesses"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6421,
+      "mentions": 8,
+      "diversity": 5
+    },
+    {
+      "rank": 3,
+      "headline": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "An Israeli military strike has killed two staff members at a Doctors Without Borders medical clinic in Gaza, according to the humanitarian organization. The Israeli army has acknowledged responsibility for the strike, marking a significant incident in the ongoing conflict involving a facility dedicated to civilian medical care.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642801/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.6043,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "An international court has rejected Argentina's attempt to halt oil drilling operations near the Falkland Islands, allowing the United Kingdom to proceed with exploration in the disputed territory. Argentina has indicated it will pursue the matter further despite the legal setback, while the Falklands' own government has welcomed the decision.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/argentina-loses-bid-to-stop-falklands-oil-project-vows-to-continue/a-80086936?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6033,
+      "mentions": 9,
+      "diversity": 4
+    },
+    {
+      "rank": 5,
+      "headline": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "summary": "Spanish voters are deciding between Prime Minister Pedro Sánchez's progressive agenda and the opposition's calls for change, with the election framed around competing visions for the country's direction. The vote will determine whether Sánchez can maintain his governing coalition or whether center-right and far-right parties gain ground.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3376131/spains-pm-sanchez-makes-final-bid-head-conservatives-and-far-right"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "Middle East",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.5919,
+      "mentions": 5,
+      "diversity": 5
+    },
+    {
+      "rank": 6,
+      "headline": "An explosion at a school in eastern Afghanistan kills 10, wounds 110",
+      "summary": "An explosion near a middle school in eastern Afghanistan has killed at least seven students and wounded nearly 100 others, making it among the deadliest recent attacks on an educational institution in the country. No group has claimed responsibility, though the region has experienced ongoing conflict involving Taliban forces and other armed groups.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376136/afghanistan-school-explosion-kills-7-pupils-over-90-injured"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "US"
+      ],
+      "score": 0.5753,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 7,
+      "headline": "Violence erupts at anti-government protests in Albania",
+      "summary": "Thousands of protesters demonstrated against Albania's government in Tirana, with clashes breaking out between police and demonstrators during the rally. The student-led protest reflects broader discontent with current governance, though specific demands and casualty figures remain unclear from available reports.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/albania-clashes-erupt-at-anti-government-protest-in-tirana/a-80086581?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-albania-anti-government-protests-tirana/"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5619,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 8,
+      "headline": "Ukraine reports at least 9 killed, Russia shoots down over 1200 drones",
+      "summary": "Russia conducted widespread aerial attacks across Ukraine that killed at least nine people and struck civilian infrastructure including an enterprise in Nizhyn. Ukrainian forces launched a large drone campaign that resulted in Russia intercepting over 1,200 unmanned aircraft, approaching record interception levels.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376148/ukraine-reports-least-9-killed-russia-shoots-down-over-1200-drones"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/at-least-nine-reported-killed-across-ukraine-while-russia-downs-near-record-number-of-drones/article71755315.ece"
+        },
+        {
+          "name": "The Globe and Mail",
+          "link": "https://www.theglobeandmail.com/world/article-russia-downs-drones-ukraine-deaths-war/"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Canada",
+        "Hong Kong",
+        "India",
+        "Russia",
+        "Southeast Asia",
+        "Ukraine"
+      ],
+      "score": 0.5276,
+      "mentions": 9,
+      "diversity": 5
+    },
+    {
+      "rank": 9,
+      "headline": "Saudi Arabia, Houthis trade attacks on rival capitals",
+      "summary": "The Houthis launch ballistic and cruise missiles toward Saudi Arabia's capital and southern regions, while the Saudi-led coalition reports intercepting and destroying multiple weapons in response. The escalating missile exchanges reflect the ongoing conflict between the Iran-aligned Houthis and the Saudi-led coalition that has shaped regional tensions for years.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642788/saudi-led-coalition-intercepts-houthi-cruise-missile-fired-toward-capital-riyadh"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-ballistic-missile-fired-towards"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4724,
+      "mentions": 7,
+      "diversity": 4
+    },
+    {
+      "rank": 10,
+      "headline": "US disables ship in Gulf of Oman under Iran blockade",
+      "summary": "The United States military disabled a merchant vessel in the Gulf of Oman that was attempting to depart Iranian ports in violation of a U.S. blockade. Iran's Islamic Revolutionary Guard Corps views the blockade as a demonstration of American failure, while the U.S. frames the action as enforcement of its shipping restrictions in the region.",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642786/us-central-command-denies-iranian-commanders-claims-about-seized-tankers-carrier-strike-hormuz-toll"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Pakistan",
+        "Ukraine"
+      ],
+      "score": 0.3519,
+      "mentions": 5,
+      "diversity": 2
+    }
+  ]
+}

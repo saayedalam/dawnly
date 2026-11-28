@@ -1,0 +1,344 @@
+{
+  "published_at": "2026-11-28T18:06:04.022189+00:00",
+  "algorithm": "hdbscan",
+  "story_count": 10,
+  "stories": [
+    {
+      "rank": 1,
+      "headline": "Taiwan opposition party wins re-election in Taipei mayoral race",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/taiwan-election-dpp-gains-ground-but-loses-taipei-race/a-80083086?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/china/politics/article/3376154/taiwan-elections-kmt-holds-taipei-new-taipei-loses-taichung-challenges-rise"
+        }
+      ],
+      "source_count": 10,
+      "regions": [
+        "Australia",
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Japan",
+        "Middle East",
+        "Southeast Asia",
+        "Thailand"
+      ],
+      "score": 0.9344,
+      "mentions": 23,
+      "diversity": 7
+    },
+    {
+      "rank": 2,
+      "headline": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/europe/article/3376131/spains-pm-sanchez-makes-final-bid-head-conservatives-and-far-right"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Germany",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "South America",
+        "Southeast Asia"
+      ],
+      "score": 0.7477,
+      "mentions": 10,
+      "diversity": 6
+    },
+    {
+      "rank": 3,
+      "headline": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3376152/myanmar-air-strike-wedding-venue-kills-20-including-children-witnesses"
+        }
+      ],
+      "source_count": 8,
+      "regions": [
+        "Global",
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6885,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 4,
+      "headline": "Violence erupts at anti-government protests in Albania",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/albania-clashes-erupt-at-anti-government-protest-in-tirana/a-80086581?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/sri-lanka-appoints-parliamentary-panel-to-study-1983-anti-tamil-riots/article71755349.ece"
+        }
+      ],
+      "source_count": 5,
+      "regions": [
+        "Canada",
+        "Germany",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.6491,
+      "mentions": 6,
+      "diversity": 5
+    },
+    {
+      "rank": 5,
+      "headline": "Argentina's bid to stop Falklands oil drilling rejected",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/argentina-loses-bid-to-stop-falklands-oil-project-vows-to-continue/a-80086936?maca=en-rss-en-all-1573-xml-mrss"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Germany",
+        "Middle East",
+        "South America",
+        "Southeast Asia",
+        "Thailand",
+        "UK"
+      ],
+      "score": 0.6394,
+      "mentions": 10,
+      "diversity": 4
+    },
+    {
+      "rank": 6,
+      "headline": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642801/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza"
+        }
+      ],
+      "source_count": 9,
+      "regions": [
+        "Canada",
+        "India",
+        "Middle East",
+        "North Africa",
+        "Pakistan",
+        "Southeast Asia",
+        "Thailand",
+        "UK",
+        "West Africa"
+      ],
+      "score": 0.6111,
+      "mentions": 9,
+      "diversity": 6
+    },
+    {
+      "rank": 7,
+      "headline": "An explosion at a school in eastern Afghanistan kills 10, wounds 110",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "NPR News",
+          "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan"
+        },
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376136/afghanistan-school-explosion-kills-7-pupils-over-90-injured"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Canada",
+        "Germany",
+        "Hong Kong",
+        "India",
+        "North Africa",
+        "Pakistan",
+        "US"
+      ],
+      "score": 0.5912,
+      "mentions": 7,
+      "diversity": 5
+    },
+    {
+      "rank": 8,
+      "headline": "Bootleg alcohol poisonings in Iran see dozens dead and badly injured",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "link": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss"
+        },
+        {
+          "name": "South China Morning Post",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3376123/canada-prosecutors-seek-25-year-prison-term-suicide-poison-seller"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece"
+        }
+      ],
+      "source_count": 4,
+      "regions": [
+        "Hong Kong",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "score": 0.5086,
+      "mentions": 5,
+      "diversity": 4
+    },
+    {
+      "rank": 9,
+      "headline": "US disables ship in Gulf of Oman under Iran blockade",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-xml-mrss"
+        },
+        {
+          "name": "Financial Times",
+          "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1"
+        },
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece"
+        }
+      ],
+      "source_count": 7,
+      "regions": [
+        "Europe",
+        "Germany",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "UK",
+        "Ukraine"
+      ],
+      "score": 0.4942,
+      "mentions": 8,
+      "diversity": 3
+    },
+    {
+      "rank": 10,
+      "headline": "Saudi Arabia, Houthis trade attacks on rival capitals",
+      "is_grouped": false,
+      "angle_count": 1,
+      "angles": [],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece"
+        },
+        {
+          "name": "The Express Tribune",
+          "link": "https://tribune.com.pk/story/2642788/saudi-led-coalition-intercepts-houthi-cruise-missile-fired-toward-capital-riyadh"
+        },
+        {
+          "name": "Middle East Eye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-ballistic-missile-fired-towards"
+        }
+      ],
+      "source_count": 6,
+      "regions": [
+        "Africa",
+        "India",
+        "Middle East",
+        "Pakistan",
+        "Southeast Asia"
+      ],
+      "score": 0.4843,
+      "mentions": 7,
+      "diversity": 4
+    }
+  ]
+}
